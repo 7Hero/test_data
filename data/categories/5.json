@@ -1,0 +1,54 @@
+{
+  "category": {
+    "title": { "ro": "Pașapoarte, vize, călătorii", "ru": null, "en": null },
+    "description": {
+      "ro": "Un set de servicii sau evenimente de viață legate de  obținerea pașaportului și alte acte pentru călătorie, vize, solicitări de azil și sponsorizare",
+      "ru": null,
+      "en": null
+    }
+  },
+  "subcategories": [],
+  "publicServices": [
+    {
+      "id": "3db7435f-b455-495e-9750-3c76f7b84dd4",
+      "code": "014000023",
+      "title": { "ro": "Eliberarea titlului de călătorie", "ru": "", "en": "" },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">Titlul de călătorie este documentul de călătorie provizoriu eliberat pentru o singură călătorie spre Republica Moldova cetăţenilor Republicii Moldova, apatrizilor cu drept de şedere permanentă sau provizorie în Republica Moldova, precum şi cetăţenilor străini cu drept de şedere permanentă sau provizorie în Republica Moldova.</p><p class=\"ql-align-justify\">Titlu de călătorie este valabil pentru o perioadă de <strong>30 de zile</strong> din data eliberării actului.</p><p><strong>Atenție:</strong> <strong><em>Serviciul este prestat în exclusivitate de către misiunile diplomatice și oficiile consulare (MDOC) ale Republicii Moldova peste hotare.</em></strong></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "fe2dac82-b5c3-47ce-88e7-10517ed3b562",
+      "code": "014000010",
+      "title": {
+        "ro": "Paşaport al cetățeanului Republicii Moldova",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\"><span style=\"color: black;\">Paşaportul cetăţeanului Republicii Moldova este actul de identitate </span><span style=\"color: rgb(102, 102, 102);\">din sistemul naţional de paşapoarte al Republicii Moldova</span><span style=\"color: black;\"> care se eliberează cetăţenilor Republicii Moldova, </span><span style=\"color: rgb(102, 102, 102);\">indiferent de vârstă,&nbsp;</span><span style=\"color: black;\">care întrunesc condiţiile </span><span style=\"color: rgb(102, 102, 102);\">legale&nbsp;</span><span style=\"color: black;\"> şi nu se află în una dintre situaţiile de suspendare a dreptului la libera circulaţie în străinătate.</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">Paşaportul se eliberează persoanelor cu vârsta sub 7 ani pe termen de 4 ani, cu vârsta de la 7 până la 16 ani - pe termen de 7 ani, iar celor cu vârsta peste 16 ani - pe termen de 10 ani. </span><span style=\"color: rgb(102, 102, 102);\">Pentru cetăţenii ale căror amprente digitale temporar nu pot fi prelevate</span><span style=\"color: black;\">, paşaportul se eliberează pe un termen de 12 luni.</span></p><p class=\"ql-align-justify\"><strong style=\"color: black;\">Paşaportul se eliberează în următoarele cazuri:</strong></p><ol><li class=\"ql-align-justify\"><span style=\"color: rgb(102, 102, 102);\">eliberarea primului paşaport</span><span style=\"color: black;\">;</span></li><li class=\"ql-align-justify\"><span style=\"color: black;\">schimbarea </span><span style=\"color: rgb(102, 102, 102);\">sau</span><span style=\"color: black;\"> modificarea, rectificarea sau completarea datelor cu caracter personal;</span></li><li class=\"ql-align-justify\"><span style=\"color: black;\">expirarea termenului de valabilitate;</span></li><li class=\"ql-align-justify\"><span style=\"color: black;\">constatarea neconformităţilor, falsurilor în </span><span style=\"color: rgb(102, 102, 102);\">înscrierile&nbsp;</span><span style=\"color: black;\">din documente, furtului de identitate şi identităţii false;</span></li><li class=\"ql-align-justify\"><span style=\"color: rgb(102, 102, 102);\">declararea&nbsp;</span><span style=\"color: black;\">pierderii, furt sau deteriorare;</span></li><li class=\"ql-align-justify\"><span style=\"color: black;\">solicitarea celui de-al doilea paşaport;</span></li><li class=\"ql-align-justify\"><span style=\"color: black;\">dobândirea cetăţeniei Republicii Moldova;</span></li><li class=\"ql-align-justify\"><span style=\"color: rgb(102, 102, 102);\">autorizarea emigrării</span></li></ol><p class=\"ql-align-justify\">Programarea prealabilă pentru solicitarea serviciilor în subdiviziunile teritoriale ale ASP este disponibilă accesând link-ul: <a href=\"https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro\" rel=\"noopener noreferrer\" target=\"_blank\">https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro</a></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "89c0c7e7-4b7a-4eca-8ecf-125da72380d5",
+      "code": "014000036",
+      "title": {
+        "ro": "Viză electronică pentru Republica Moldova",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Viza electronică este autorizația care permite deținătorului acesteia dreptul de a intra pe teritoriul Republicii Moldova, precum și dreptul de a se afla pe acest teritoriu o perioadă determinată, cu respectarea scopului pentru care a fost acordată. Potrivit prevederilor legale, deținerea unei vize nu conferă automat dreptul de intrare pe teritoriul Republicii Moldova. Reprezentanții poliției de frontieră solicită, fiecărui străin, să dovedească îndeplinirea condițiilor de intrare și de ședere în Republica Moldova, în caz contrar, străinului i se poate refuza intrarea în Republica Moldova, chiar dacă el deține o viză valabilă. Solicitările de viză electronică, se depun prin intermediul portalului guvernamental <a href=\"http://www.evisa.gov.md/\" rel=\"noopener noreferrer\" target=\"_blank\">www.evisa.gov.md</a>, doar pentru viză de scurtă ședere – tip C. Acest portal facilitează procesul de obținere a vizelor de scurtă ședere, deoarece permite solicitantului să-și întocmească online dosarul de viză, într-un mod eficient, rapid și sigur. Celelalte tipuri de viză – tranzit aeroportuar (tip A), tranzit (tip B), lună ședere (tip D), se depun la misiunile diplomatice și oficiile consulare ale Republicii Moldova peste hotare.</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    }
+  ]
+}

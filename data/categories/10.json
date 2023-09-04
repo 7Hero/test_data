@@ -1,0 +1,343 @@
+{
+  "category": {
+    "title": { "ro": "Bani, taxe/impozite", "ru": null, "en": null },
+    "description": {
+      "ro": "Un set de servicii sau evenimente de viață legate de  declararea taxelor/impozitelor, datoriile și autoevaluarea",
+      "ru": null,
+      "en": null
+    }
+  },
+  "subcategories": [],
+  "publicServices": [
+    {
+      "id": "d1730cc0-83e0-4524-ab0e-b6e82c32befe",
+      "code": "013000080",
+      "title": {
+        "ro": "Autorizarea centrelor de asistență tehnică pentru mașinile de casă și de control/imprimantele fiscale",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Obținerea Certificatului de înregistrare în calitate de centru de asistență tehnică pentru mașinile de casă și de control/imprimantele fiscale.</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "d64e8c71-b642-42aa-8aba-5cebba415b48",
+      "code": "013000103",
+      "title": {
+        "ro": "Autorizație de utilizator final",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p><span style=\"color: black;\">Beneficiere de scutirea de accize a distilatelor obținute pe bază de vin</span></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "79a10216-3172-4da8-930d-16408b9e53ec",
+      "code": "013000174",
+      "title": {
+        "ro": "Certificat de atestare în calitate de plătitor de TVA în conformitate cu standardele UE",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p><span style=\"color: black;\">Conformare la legislația Uniunii Europene</span></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "6c1ad4cd-9287-4a3b-a254-2e4262939f40",
+      "code": "013000019",
+      "title": {
+        "ro": "Certificat de atribuire a codului fiscal",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Permite contribuabilului depunerea cererii de atribuire a codului fiscal privind înregistrarea companiei/ activității desfășurate, eliberarea Certificatului de atribuire a codului fiscal, Confirmării privind luarea la evidență fiscală/Actului, prin care se confirmă faptul identificării persoanei fizice nerezidente în Registrul fiscal de stat prin numărul de identificare de stat (IDNP).</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "01ad9cf5-3e1c-4de2-a18e-5bb557048646",
+      "code": "013000158",
+      "title": {
+        "ro": "Certificat privind impozitul pe venit achitat de nerezident în Republica Moldova",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "Obținerea certificatului privind impozitul pe venit achitat de nerezident în Republica Moldova",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "48516ebb-6c9d-4a93-a333-8da8b42782ac",
+      "code": "013000064",
+      "title": {
+        "ro": "Certificat privind lipsa sau existența restanțelor față de buget",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Constatarea situației relațiilor contribuabilului cu bugetul public național privind lipsa sau existența restanțelor.</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "5db60b30-00fa-475f-9c5e-cf7b4c0b0252",
+      "code": "013000187",
+      "title": {
+        "ro": "Certificat privind sumele TVA nerestituite pentru mărfurile exportate",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>  <span style=\"color: black;\">Confirmarea ca deținătorul certificatului nu a beneficiat de restituirea TVA aferentă exportului de mărfuri efectuat în baza declarației vamale</span></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "2b76e2fa-576e-4314-8a54-721084845215",
+      "code": "013000116",
+      "title": {
+        "ro": "Comanda seriei și diapazonului de numere pentru documentele primare",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>  <span style=\"color: black;\">Asigurarea contribuabililor cu serie și diapazon de numere pentru imprimarea de sine stătător a documentelor primare cu regim special, cu semnele de protecție stabilite de către contribuabil, conform necesităților și posibilităților proprii.</span></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "80fd60e4-f81d-4ce9-92a5-ac1e66a1825d",
+      "code": "SFS11",
+      "title": {
+        "ro": "Conectarea la serviciile fiscale electronice pentru persoane fizice",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p><span style=\"color: black;\">Simplificarea procesului de raportare fiscală și asigurarea accesului direct la servicii de informare din domeniul fiscal. Centralizarea sistemelor, opțiunilor, modulelor, funcționalităților din mediul online destinate interacțiunii reciproce a contribuabililor cu SFS și prestării serviciilor de către autoritatea publică, în special celor de acordare/modificare/anulare a accesului la serviciile fiscale electronice.</span></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "a025c4b8-f5e3-4db8-acae-708bb20d76c1",
+      "code": "013000161",
+      "title": {
+        "ro": "Conectarea la serviciile fiscale electronice pentru persoane juridice",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">Conectarea la serviciile fiscale electronice pentru persoane juridice</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "882cb589-db0d-435c-bdeb-05049389d096",
+      "code": "013000035",
+      "title": {
+        "ro": "Confirmarea privind reluarea prezentării dărilor de seamă fiscale",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Confirmarea eliberată privind reluarea prezentării dărilor de seamă</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "bb836e17-1bbe-4382-b25e-4111d89891e5",
+      "code": "013000022",
+      "title": {
+        "ro": "Confirmarea privind veniturilor obținute și obligațiile fiscale reținute/achitate din venitul obținut în Republica Moldova de cetățenii Republicii Moldova",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>• dispunerea de informație privind veniturile obținute de cetățenii Republicii Moldova;</p><p>• utilizarea informației după necesități.</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "da953734-3fa4-476a-ae6f-36a82c795bb6",
+      "code": "013000132",
+      "title": {
+        "ro": "Eliberarea certificatului de rezidență",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Atestarea rezidenței în Republica Moldova</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "f173e212-62f3-4dfe-a2dc-666dd2b683b1",
+      "code": "013000190",
+      "title": {
+        "ro": "Eliberarea certificatului privind atestarea impozitului pe venit achitat de nerezident în Republica Moldova",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p><span style=\"background-color: rgb(241, 247, 255); color: rgb(33, 37, 41);\">Atestarea impozitului pe venit achitat de nerezident în Republica Moldova</span></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "f63e8d33-8c30-410b-94d9-00f77e9d2c66",
+      "code": "013000129",
+      "title": {
+        "ro": "Eliberarea/prelungirea patentei de întreprinzător",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Eliberarea/prelungirea patentelor pentru desfășurarea în cadrul legii a activității de întreprinzător; asigurarea achitării taxei pentru patenta de întreprinzător.</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "9e908c67-d315-4093-b12e-f632f53e21b3",
+      "code": "013000200",
+      "title": {
+        "ro": "Formulare tipizate de documente primare cu regim special",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p><span style=\"color: black;\">Asigurarea contribuabililor de către Serviciul Fiscal de Stat cu formulare tipizate de documente primare cu regim special.</span></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "51c01127-919e-4fac-8c68-1fd8f45c95be",
+      "code": "013000093",
+      "title": {
+        "ro": "Înregistrarea activității de prelucrare și/sau fabricare a mărfurilor supuse accizelor",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>  <span style=\"color: black;\">Înregistrarea/anularea statutului de plătitor de acciză;</span></p><p>  </p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "1c3ebe92-8b10-4fdb-b333-fef057a1918b",
+      "code": "013000048",
+      "title": {
+        "ro": "Înregistrarea on-line a contribuabililor",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Luarea la evidență fiscală a contribuabililor</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "0738e059-4c75-4836-8d4b-e40486d90d45",
+      "code": "013000051",
+      "title": {
+        "ro": "Înregistrarea subdiviziunilor/obiectelor impozabile",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p><span style=\"color: black;\">Înregistrarea subdiviziunii și/sau a obiectului impozabil</span></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "67fa8b93-c1b6-4236-a695-dd6286ecd486",
+      "code": "013000077",
+      "title": {
+        "ro": "Înregistrarea și sigilarea echipamentelor de casă și de control",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">  <span style=\"color: black;\">• Înregistrarea echipamentelor de casă și de control (ECC) (mașinilor de casă și de control (MCC)/imprimantelor fiscale (IF)/sistemelor informatice/ dispozitivelor electronice (DE) (terminal de plată în numerar/aparat de schimb valutar/aparat automat pentru vânzări/alte dispozitive) la subdiviziunile Serviciului Fiscal de Stat;</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">• Modificarea în ECC a denumirii noi sau a adresei sediului/unității structurale unde este amplasat ECC;</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">• Radierea din evidență a ECC.</span></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "21fc9e60-f69e-49f1-b15d-5275fd683c05",
+      "code": "015000312",
+      "title": {
+        "ro": "Legitimație de participant la lichidarea consecințelor catastrofei de la C.A.E. Cernobîl",
+        "ru": "Удостоверение участника ликвидации последствий катастрофы Чернобольской АЭС",
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Obținerea legitimației de participant la lichidarea consecinţelor catastrofei de la C.A.E. Cernobîl</p>",
+        "ru": "<p>Получение удостоверения участника ликвидации последствий катастрофы Чернобольской АЭС</p>",
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "42f5f293-4fb7-442c-ae26-d2285b87efca",
+      "code": "SFS12",
+      "title": {
+        "ro": "Soluția fiscală individuală anticipată",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>  <span style=\"color: black;\">Emiterea soluției fiscale individuale</span></p><p>  </p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    }
+  ]
+}

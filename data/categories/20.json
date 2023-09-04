@@ -1,0 +1,238 @@
+{
+  "category": {
+    "title": { "ro": "Emigrare/imigrare", "ru": null, "en": null },
+    "description": {
+      "ro": "Un set de servicii sau evenimente de viață legate de procesele de emigrare și/sau imigrare",
+      "ru": null,
+      "en": null
+    }
+  },
+  "subcategories": [],
+  "publicServices": [
+    {
+      "id": "eb26dc82-b52a-48b6-b730-d8b2ecc1e0ef",
+      "code": "017000013",
+      "title": {
+        "ro": "Acordarea dreptului de aflare",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\"><strong>Drept de aflare</strong> - d<span style=\"color: black;\">rept conferit prin excepție străinului, în condițiile prezentei legi, prin care i se permite aflarea temporară pe teritoriul Republicii Moldova, fără deținerea permisului de ședere, pe un termen cumulativ mai mare de 90 de zile calendaristice, dar care nu depășește un an calendaristic.</span></p><p class=\"ql-align-justify\">Serviciul se prestează la solicitarea persoanelor fizice, are un termen fixat de prestare indiferent de motivul selectat și 6 motive:</p><p class=\"ql-align-justify\">-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>dreptul de aflare temporară al vânzătorilor profesionişti;</strong></p><p class=\"ql-align-justify\">-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>dreptul de aflare temporară al prestatorilor de servicii contractuale;</strong></p><p class=\"ql-align-justify\">-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>dreptul de aflare temporară a profesioniştilor independenţi;</strong></p><p class=\"ql-align-justify\">-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>dreptul de aflare temporară a lucrătorilor sezonieri în munci agricole;</strong></p><p class=\"ql-align-justify\">-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>dreptul de aflare temporară a lucrătorilor frontalieri;</strong></p><p class=\"ql-align-justify\">-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>dreptul de aflare temporară a specialistului în domeniul IT.</strong></p><p><br></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "3bd140a5-0752-42e3-b5f5-bf8df96fa966",
+      "code": "017000084",
+      "title": {
+        "ro": "Acordarea dreptului de repatriere",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\"> </span><strong style=\"color: black;\"><em>Repatriere</em></strong></p><p class=\"ql-align-justify\"><span style=\"color: black;\">&nbsp;</span></p><p class=\"ql-align-justify\"><strong style=\"color: black;\"><em>Confirmare de repatriere</em></strong><span style=\"color: black;\">&nbsp;– act oficial eliberat de Inspectoratul General de Migrație, în condițiile legii, care confirmă dreptul la repatriere.</span></p><p class=\"ql-align-justify\">Confirmarea de repatriere este un act oficial ce servește drept temei pentru eliberarea permisului de ședere permanentă pe teritoriul Republicii Moldova.</p><p><br></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "26d565ef-4e37-4419-b591-50292d48fce6",
+      "code": "017000071",
+      "title": {
+        "ro": "Acordarea dreptului de ședere provizorie/permanentă",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\"><strong style=\"color: black;\"><em>Drept de şedere</em></strong><span style=\"color: black;\">&nbsp;– drept de a-şi stabili reşedinţa sau domiciliul pe teritoriul Republicii Moldova, acordat străinului, în condiţiile prezentei legi, de către autoritatea competentă pentru străini.</span></p><p><strong style=\"color: black;\"><em>Decizie de acordare a dreptului de ședere provizorie sau permanentă</em></strong><em style=\"color: black;\">&nbsp;</em><span style=\"color: black;\">– act oficial emis de autoritatea competentă pentru străini, în condițiile prezentei legi, care confirmă dreptul de ședere provizorie sau permanentă pe teritoriul Republicii Moldova.</span></p><p>Străinul poate solicita acordarea dreptului de şedere provizorie în Republica Moldova în baza unei vize de lungă şedere în scopul pentru care a fost eliberată, cu excepţia cazurilor:</p><p>-\tpentru asociaţii sau acţionarii persoanelor juridice cu investiţii străine înregistrate în Republica Moldova;</p><p>-\tpentru victimele traficului de fiinţe umane;</p><p>-\tpentru victimele violenţei în familie;</p><p>-\tpentru lucrătorii migranți</p><p>Dreptul de şedere provizorie poate fi acordat:</p><p>a) pentru imigrare la muncă;</p><p>b) pentru studii;</p><p>c) pentru reîntregirea familiei;</p><p>d) pentru activităţi umanitare, de voluntariat sau religioase;</p><p>e) pentru tratament medical de lungă durată, balneosanatorial şi de recuperare;</p><p>e1) pentru protecţia victimelor traficului de fiinţe umane;</p><p>e2) pentru protecţia victimei violenţei în familie;</p><p>f) pentru alte scopuri, în care activitatea străinului nu contravine legislaţiei Republicii Moldova sau prezenţa lui pe teritoriul Republicii Moldova este necesară în interes public sau de securitate naţională;</p><p>f1) pentru activităţi în domeniul tehnologiei informaţiei;</p><p>g) investitorilor străini;</p><p>h) persoanelor cu funcţii de conducere;</p><p>i) specialiştilor;</p><p>j) stagiarilor absolvenţi de studii superioare.</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "24b2007f-ce14-4a8d-98df-f74159e8068f",
+      "code": "017000042",
+      "title": {
+        "ro": "Acordarea protecției internaționale",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">  <strong>Protecție internațională</strong> - statut de refugiat sau statut conferit prin protecție umanitară.</p><p class=\"ql-align-justify\">&nbsp;</p><p class=\"ql-align-justify\"><strong>Statutul de refugiat</strong> se recunoaşte, la solicitare, străinului care, în virtutea unei temeri bine întemeiate de a fi persecutat pe motive de rasă, religie, naţionalitate, apartenenţă la un anumit grup social sau opinie politică, se află în afara ţării a cărei cetăţenie o deţine şi care nu poate sau, datorită acestei temeri, nu doreşte să se pună sub protecţia acestei ţări; sau care, nedeţinînd nici o cetăţenie şi găsindu-se în afara ţării în care îşi avea domiciliul legal şi obişnuit, ca urmare a unor astfel de evenimente, nu poate sau, datorită respectivei temeri, nu doreşte să se reîntoarcă.&nbsp;</p><p class=\"ql-align-justify\">&nbsp;</p><p class=\"ql-align-justify\"><strong>Protecţia umanitară</strong> se acordă străinului care nu îndeplineşte condiţiile pentru recunoaşterea statutului de refugiat, dar în a cărui privinţă există motive serioase şi întemeiate de a crede că, în cazul în care ar fi trimis în ţara sa de origine, ar fi supus unui risc real de a suferi vătămările grave şi nu poate sau, ca urmare a acestui risc, nu doreşte să obțină protecţia respectivei ţări.</p><p>  </p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "7031a800-294a-4040-95d0-3c78caad5bcb",
+      "code": "017000152",
+      "title": {
+        "ro": "Acordarea tolerării rămânerii pe teritoriul Republicii Moldova",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>Tolerarea rămânerii pe teritoriul Republicii Moldova reprezintă permisiunea acordată de autoritatea competentă pentru străini de a rămâne pe teritoriul țării străinilor care nu au drept de ședere și care, din motive obiective, nu pot părăsi teritoriul Republicii Moldova. Tolerarea nu se acordă străinilor declarați persoane indezirabile sau împotriva cărora s-a dispus măsura expulzării.&nbsp;</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "cdc3e207-71b7-4193-ab87-613ffadecec9",
+      "code": "017000055",
+      "title": {
+        "ro": "Adeverinţa privind confirmarea statutului străinului pe teritoriul Republicii Moldova ",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<pre class=\"ql-syntax ql-align-justify\" spellcheck=\"false\">\n</pre><p class=\"ql-align-justify\">Adeverința se eliberează pentru necesitatea serviciilor publice: înscrierea copiilor la grădiniță sau la școală, la deschiderea unui cont bancar, la înregistrarea propriei companii etc.</p><p class=\"ql-align-justify\">&nbsp;Adeverința confirmă:</p><p class=\"ql-align-justify\">&nbsp;– atribuirea numărului de identificare de stat <em>(IDNP) </em>din Registru de stat al populației;</p><p class=\"ql-align-justify\">&nbsp;– eliberarea actului de identitate sau lipsa acestuia;</p><p class=\"ql-align-justify\">&nbsp;– înregistrarea la domiciliu/ reşedinţă sau lipsa acestuia;</p><p>–&nbsp;componenţa familiei.</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "37e52ad2-cc0d-4568-b37e-8bcc8ffb221a",
+      "code": "017000026",
+      "title": {
+        "ro": "Autorizarea emigrării cetățeanului Republicii Moldova",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">Autorizaţie de emigrare – menţiune aplicată în paşaportul cetăţeanului Republicii Moldova de către autoritatea competentă ca urmare a autorizării emigrării cetăţeanului Republicii Moldova pentru stabilirea cu domiciliul în străinătate sau ca urmare a constatării faptului stabilirii cetăţeanului Republicii Moldova cu domiciliul în străinătate.</p><p class=\"ql-align-justify\">Cetăţenii Republicii Moldova cu domiciliul şi/sau reşedinţa temporară pe teritoriul Republicii Moldova care vor să-şi stabilească domiciliul în străinătate, precum şi cei care de iure sunt înregistraţi la domiciliu şi/sau la reşedinţa temporară pe teritoriul Republicii Moldova, dar de facto nu domiciliază în Republica Moldova şi cei care de iure şi de facto nu domiciliază pe teritoriul Republicii Moldova şi prezintă dovezi privind stabilirea domiciliului în străinătate depun cererea pentru obţinerea autorizaţiei de emigrare sau, după caz, pentru eliberarea paşaportului cu menţiunea privind autorizaţia de emigrare, în țară, la orice serviciu eliberare a actelor de identitate (SEAI), inclusiv din cadrul centrului multifuncțional al Agenţiei Servicii Publice, iar în străinătate, la misiunile diplomatice sau oficiile consulare (MDOC) ale Republicii Moldova. În lipsa MDOC în statul de reședință al solicitantului, cererea respectivă poate fi depusă la orice MDOC.</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "2ae1553f-8769-4f71-babc-c449da625490",
+      "code": "017000110",
+      "title": {
+        "ro": "Autorizarea emigrării străinilor cu domiciliul permanent în Republica Moldova",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\"><strong style=\"color: rgb(51, 51, 51);\"><em>Autorizarea emigrării&nbsp;</em>–</strong><span style=\"color: rgb(51, 51, 51);\"> permisiune oficială a autorităţilor Republicii Moldova privind plecarea pentru stabilirea cu domiciliul în străinătate.</span></p><p><br></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "dc3daf21-0103-4a38-837a-895e22e0bbd4",
+      "code": "017000068",
+      "title": {
+        "ro": "Aviz pentru reîntregirea familiei",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\"><strong style=\"color: black;\"><em>Aviz pentru reîntregirea familiei</em></strong><span style=\"color: black;\">&nbsp;– act eliberat de autoritatea competentă pentru străini la solicitarea cetățenilor Republicii Moldova domiciliați în Republica Moldova sau a străinilor având drept de şedere în Republica Moldova în condițiile prezentei legi şi care constituie una din condiţiile de obținere a unei vize de lungă şedere în scop de reîntregire a familiei solicitantului de aviz;</span></p><p class=\"ql-align-justify\">Serviciul include 2 motive: cetățean RM cu străin sau străin cu străin. Serviciul se prestează doar la solicitarea persoanelor fizice <span style=\"color: black;\">în termen de 10 zile lucrătoare de la data depunerii cererii </span>indiferent de motivul selectat pentru:</p><p>- soţ ori soţie;</p><p>- partener – străinul necăsătorit care convieţuiește cu cetăţeanul Republicii Moldova necăsătorit și împreună cu care are cel puţin un copil;</p><p>- copiii minori, rezultați din căsătorie ori din afara căsătoriei, precum şi pentru cei adoptaţi de ambii soţi sau numai de unul dintre ei, pentru copiii încredinţaţi ambilor soţi ori numai unuia dintre ei prin decizia unei autorităţi competente din statul de origine, cu condiţia ca aceşti copii să fie în mod efectiv în grija oricăruia dintre soţi;</p><p>- copiii majori ai cetăţeanului Republicii Moldova sau ai soţului ori soţiei acestuia în cazul în care aceştia nu se pot întreţine singuri din motive medicale;&nbsp;</p><p>- părinții aflați la întreținerea cetățeanului Republicii Moldova sau a soțului ori soției acestuia;&nbsp;</p><p class=\"ql-align-justify\">- persoanele asupra cărora este instituită tutela sau curatela.</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "fcee5b78-c6c3-4bfb-92b4-e2bbe0b111e7",
+      "code": "017000097",
+      "title": {
+        "ro": "Certificat de confirmare a statutului de apatrid al solicitantului",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\"><strong>Apatrid</strong> - persoană care nu este considerată cetăţean al nici unui stat, conform legislaţiei acestora.</p><p><strong>Statutul de apatrid</strong> se recunoaşte, persoanei care nu este considerată cetăţean al nici unui stat, conform legislaţiei acestora.</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "52823c8e-d6b4-4b4f-8cbf-11758e6ecd84",
+      "code": "017000149",
+      "title": {
+        "ro": "Document de identitate temporar de solicitant de azil",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p><span style=\"color: rgb(0, 0, 0);\">Document de identitate temporar de solicitant de azil</span></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "e7713ed9-009b-46bd-8290-0258bd8b8c70",
+      "code": "017000039",
+      "title": {
+        "ro": "Invitație pentru cetățenii străini",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">Invitația este un document oficial eliberat la cererea persoanei fizice cu domiciliu permanent sau temporar în Republica Moldova sau demersul persoanei juridice, care constituie una din condițiile de obținere a vizei de intrare în Republica Moldova.</p><p>Este un document de strictă evidență, unic pe întreg teritoriul Republicii Moldova şi este valabilă 90 de zile de la data perfectării, înscrierile fiind lizibile şi fără corectări.</p><p class=\"ql-align-justify\">Solicitările privind eliberarea invitațiilor se prezentă la Ghișeele de documentare a străinilor din cadrul Inspectoratului General pentru Migrație</p><p class=\"ql-align-justify\">Invitația este eliberată în scop de:</p><p class=\"ql-align-justify\">-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Misiune; -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Turism; -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"color: black;\">vizită;</span>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;afaceri;-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;transport; -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;activități sportive;-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;activități independente; -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;prestarea serviciilor contractuale; -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tratament medical de scurtă durată; -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;activități culturale, științifice, umanitare, religioase și sau alte activități ce nu contravin legislației Republicii Moldova – în condițiile justificării prezenței în RM; -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;desfășurare activității de întreprinzător<u>: </u>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;angajare la muncă; -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;studii; -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"color: black;\">reîntregirea familiei; </span>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;activități umanitare sau religioase; -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;activități diplomatice și de serviciu; -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tratament medical de lungă durată; -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"color: black;\">activități în domeniul tehnologiei informației; </span>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"color: black;\">transferul temporar al personalului în cadrul aceleași persoane juridice</span></p><p><span style=\"color: black;\">activități de stagiu.</span></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "3c42183d-c0e4-40e9-b606-9b01a1dce84e",
+      "code": "017000136",
+      "title": {
+        "ro": "Înregistrarea și\\sau radierea din evidență la domiciliu sau la reședința temporară",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\"><strong>Înregistrarea și/sau radierea din evidenţă la domiciliu sau la reşedinţa&nbsp;temporară</strong></p><p class=\"ql-align-justify\"><span style=\"color: black;\">Evidenţa la domiciliu sau la reşedinţă este parte componentă a sistemului unic integru de înregistrare şi actualizare a datelor în cadrul Registrului de stat al populaţiei.</span></p><p class=\"ql-align-justify\">Înregistrarea persoanelor la domiciliu sau&nbsp;reşedinţă are drept scop evidenţa locuitorilor Republicii Moldova şi nu stabileşte drepturile acestora asupra spaţiului locativ.</p><p><span style=\"color: black;\">Evidenţa locuitorilor se ţine prin înregistrarea la domiciliu şi/sau la reşedinţa&nbsp;temporară&nbsp;în&nbsp;locuințele proprietate publică sau proprietate privată, reglementate&nbsp;de Legea nr. 75/2015 cu privire la locuințe, sau în alte încăperi&nbsp;locuibile.</span></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "8400eaf0-e860-4d95-882d-53d17ec6a29f",
+      "code": "017000107",
+      "title": {
+        "ro": "Prelungirea vizelor pentru străini",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">Prelungirea vizei poate avea loc doar în acelaşi scop pentru care a fost acordată. Prelungirea vizelor se face printr-un consemn aplicat în documentul de trecere a frontierei de stat, indiferent de modul de depunere a cererii de viză pentru intrarea pe teritoriul Republicii Moldova.</p><p>Serviciul prelungire viză/sejur este divizat în mai multe categorii: solicitant care pot fi atât persoane fizice, cât și juridice.</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "36cd6de2-6f6d-42b4-9331-010b230da649",
+      "code": "017000123",
+      "title": {
+        "ro": "Recunoașterea statutului de apatrid",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">  <strong>Apatrid</strong> - persoană care nu este considerată cetăţean al nici unui stat, conform legislaţiei acestora.</p><p class=\"ql-align-justify\"><strong>Statutul de apatrid</strong> se recunoaşte, persoanei care nu este considerată cetăţean al nici unui stat, conform legislaţiei acestora.</p><p class=\"ql-align-justify\">  </p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    }
+  ]
+}

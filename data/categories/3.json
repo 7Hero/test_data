@@ -1,0 +1,1241 @@
+{
+  "category": {
+    "title": { "ro": "Alte", "ru": null, "en": null },
+    "description": { "ro": "Alte servicii", "ru": null, "en": null }
+  },
+  "subcategories": [],
+  "publicServices": [
+    {
+      "id": "a126c7ad-88a3-476d-ad3c-4760fb309a9b",
+      "code": "021000638",
+      "title": {
+        "ro": " Contracte privind RGRM(acces activ/pasiv)",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>Conectarea la Registrul Garanțiilor Reale Mobiliare, acordarea accesului activ/pasiv  </p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "ab0afcce-5b3c-4b57-b304-1ad0e33ada4c",
+      "code": "021000625",
+      "title": {
+        "ro": " Eliberare informație/extras din Registrul dosarelor succesorale și testament (RDST)",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>Eliberarea informației privind deschiderea dosarelor succesorale</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "042c3b44-5733-4467-be02-d7845a625fac",
+      "code": "021001150",
+      "title": {
+        "ro": "Acreditarea organismelor de evaluare a conformității",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p><strong>Acreditarea</strong>&nbsp;constituie un mijloc excelent de furnizare a încrederii, care permite autorităților, economiei&nbsp;țării și societății&nbsp;în general&nbsp;de a se baza&nbsp;pe competențele laboratoarelor de încercări, etalonări, analize medicale, verificări metrologice, organismelor de certificare și organismelor de inspecții (organisme de evaluare a conformității), care execută activități de evaluare a conformității, acreditate și supravegheate de Centrul Național de Acreditare (MOLDAC).&nbsp;</p><p><strong>Acreditarea</strong>&nbsp;atestă competența organismelor de evaluare a conformității, care la rândul lor atestă conformitatea produselor, proceselor, serviciilor plasate pe piață.</p><p>MOLDAC acordă&nbsp;servicii de acreditare conform&nbsp;competenței pentru următoarele scheme de acreditare:</p><p>- SM EN ISO/IEC 17025:2018 (laboratoare de încercări și laboratoare de etalonări)</p><p>- SM SR EN ISO 15189:2014&nbsp;(laboratoare medicale)</p><p>- SM EN ISO/CEI&nbsp;17020:2013 (Organisme de Inspecție și Laboratoare de verificări metrologice)</p><p>- SM EN ISO/CEI 17065:2013 (Organisme de certificare produse)</p><p>- SM SR EN ISO/CEI 17021-1:2015, SM EN ISO/ IEC 17021-3:2019, (Organisme&nbsp;&nbsp;de Certificare Sisteme de Management al Calității)</p><p>- SM SR EN ISO/CEI 17021-1:2015, SM ISO/TS 22003:2014, SM EN ISO 22000:2018 (Organisme de Certificare Sisteme de Management al Siguranței Alimentelor)</p><p>- SM SR EN ISO/CEI 17024:2014, (Organism Certificare personal).</p><p><br></p><p><span style=\"color: black;\">Documentele&nbsp;și înregistrările necesare&nbsp;pentru prestarea serviciului de acreditare&nbsp;pot fi găsite pe pagina oficială&nbsp;</span><a href=\"http://acreditare.md/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(0, 114, 187);\">www.acreditare.md</a></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "3c170305-c268-471f-a876-4f42f7068c48",
+      "code": "021000722",
+      "title": {
+        "ro": "Act privind înregistrarea garanției maritime",
+        "ru": "Документ о регистрации морской гарантии",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>- Act care certifică garantarea, conform art. 316 al Codului navigației maritime comerciale ale Republicii Moldova nr. 599/1999, a răspunderii proprietarului navei pentru eventualele daune cauzate de poluare cu petrol și cu produse petroliere.</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "2e366d0d-3a23-4dab-b647-41ec058baeda",
+      "code": "021000748",
+      "title": {
+        "ro": "Act privind înregistrarea/transferul/achitarea gajului navei",
+        "ru": "\nДокумент о регистрации/ передаче/  оплате залога на судно\n",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>&nbsp;- Emiterea certificatului care confirmă&nbsp;înregistrarea/ transferul/ achitarea gajului asupra navei înregistrate în Registrul de Stat al Navelor al Republicii Moldova.</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "79b9ed5b-bab6-47be-8d45-bbfd72022abd",
+      "code": "021000751",
+      "title": {
+        "ro": "Act privind modificarea caracteristicilor principale ale navei",
+        "ru": "Документ об изменении главных характеристик судна",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">- Emiterea certificatului de naționalitate și actului de navigație conținând caracteristici modificate.</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "92dc3fca-0998-477f-85a8-36bdcd66ee5a",
+      "code": "021000764",
+      "title": {
+        "ro": "Act privind transferul dreptului de proprietate asupra navei",
+        "ru": "Документ о передаче права собственности на судно",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>&nbsp;- Eliberarea&nbsp;certificatului de proprietate asupra navei și certificatului&nbsp;de naționalitate conținând înscrieri introduse în Registrul de Stat al Navelor al Republicii Moldova.</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "1feb0e0b-db51-4414-84c5-7ed3a6b145d2",
+      "code": "021000609",
+      "title": {
+        "ro": "Aplicarea apostilei pe actele oficiale eliberate pe numele şi în interesul persoanelor fizice şi\njuridice",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p><span style=\"color: rgb(0, 0, 0);\">Apostilarea este o formă de legalizare a actelor care este necesară cetățenilor&nbsp;care doresc să le prezinte pe teritoriul unui stat străin.</span></p><p><span style=\"color: rgb(0, 0, 0);\">Pentru aplicarea apostilei se prezintă doar actele oficiale întocmite pe teritoriul Republicii Moldova care urmează să producă efecte juridice pe teritoriul unui stat, parte la Convenţie.</span></p><p><span style=\"color: rgb(0, 0, 0);\">Solicitantul - poate fi titularul actului oficial sau persoana care îl deţine şi solicită apostilarea acestuia.</span></p><p><span style=\"color: rgb(0, 0, 0);\">Actele spre apostilare pot fi depuse atât online cât și fizic. Pentru depunerea actelor fizic la ghișeu, solicitantul </span>urmează să se programeze online pe site-ul: <a href=\"https://apostila.gov.md/\" rel=\"noopener noreferrer\" target=\"_blank\">https://apostila.gov.md</a>.</p><p>Serviciul poate fi prestat și în bază de împuternicire eliberată prin MPower.</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "090c0bd9-69e5-486f-baa2-6a7fe5d62b91",
+      "code": "021001147",
+      "title": {
+        "ro": "Atestarea laboratoarelor de încercări",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p><strong>Atestarea  - </strong>confirmarea competenței Laboratorului de încercări de prima parte, la cerințele stabilite la nivel național, conform documentelor. </p><p><strong>Atestarea </strong>se efectuează la solicitarea Laboratoare de Încercări  şi se aplică indiferent de formele de proprietate a organizaţiilor în cadrul cărora acestea funcţionează, cu condiţia ca LÎ să facă parte dintr-o organizaţie înregistrată în calitate de persoană juridică de Camera Înregistrării de Stat.</p><p>Organismul Naţional de Acreditare MOLDAC atestează Laborataore de Încercări de primă parte conform „Cerinţelor generale privind atestarea laboratoarelor de încercări”, cod DG-05, care sunt obligatorii pentru Laboratoarele de Încercări.</p><p><span style=\"color: black;\">Documentele&nbsp;și înregistrările necesare&nbsp;pentru prestarea serviciului de acreditare&nbsp;pot fi găsite pe pagina oficială web&nbsp;</span><a href=\"http://www.acreditare.md/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: blue;\">www.acreditare.md</a><span style=\"color: black;\">&nbsp;.</span></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "368634fb-7ae1-489f-a78b-aa40461138d5",
+      "code": "021000777",
+      "title": {
+        "ro": "Autentificarea actelor de bord (jurnalelor de bord, registrelor navale, jurnalelor unice de inspectare a navelor etc.)\n",
+        "ru": "Заверка документов (судовых журналов, судовых реестров, книг единых осмотров и др.)",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>- Procedură juridică prin care se autentifică jurnalele de bord, jurnalele de mașini, jurnalele de gestionare a deșeurilor și apelor reziduale, jurnalele de operațiuni petroliere pentru navele ce nu sunt tancuri petroliere, jurnalele operațiunilor petroliere pentru tancuri petroliere.&nbsp;</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "5e6e1a5e-b089-4e75-8958-5429ec56174e",
+      "code": "021000395",
+      "title": {
+        "ro": "Autentificarea contractului, cu excepția contractului de înstrăinare a bunurilor imobile și a contractului de gaj",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>Autentificarea contractului, cu excepția contractului de înstrăinare a bunurilor imobile și a contractului de gaj, se realizează de funcționarul consular în conformitate cu legislația în vigoare.</p><p>Pentru a afla mai multe informații despre serviciul consular, contactați misiunea diplomatică sau oficiul consular al Republicii Moldova din ţara în care vă aflați.</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "a180b1a0-7383-484a-8e92-dd0e82f241cd",
+      "code": "021000405",
+      "title": { "ro": "Autentificarea procurii", "ru": "", "en": "" },
+      "description": {
+        "ro": "<p><span style=\"color: black;\">Procura este actul notarial prin care o persoană (mandantul) împuternicește o altă persoană (mandatarul) să îndeplinească în numele său anumite formalități sau să o reprezinte în cadrul anumitor proceduri legale/ judiciare, respectiv să încheie unul sau mai multe acte juridice în numele său.</span></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "d6d6d53e-1081-43da-884f-627dbc6ea166",
+      "code": "021000418",
+      "title": { "ro": "Autentificarea testamentului\n", "ru": "", "en": "" },
+      "description": {
+        "ro": "<p>Testamentul este actul unilateral, personal și revocabil prin care o persoană, numită testator, dispune, în una dintre formele cerute de lege, pentru timpul cînd nu va mai fi în viață.</p><p>Pentru a afla mai multe informaţii despre serviciul consular, contactaţi misiunea diplomatică sau oficiul consular al Republicii Moldova din ţara în care vă aflaţi.</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "b5699612-e629-42ab-a833-2474c7e09317",
+      "code": "021000175",
+      "title": {
+        "ro": "Aviz privind importul ajutoarelor umanitare\t",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">Avizul se elaborează de către Serviciul ajutoare umanitare din cadrul MMPS care are următoarele sarcini principale:</p><p class=\"ql-align-justify\">&nbsp;</p><p class=\"ql-align-justify\">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;coordonarea generală a activităţii de recepţionare, evidenţă şi distribuire a ajutoarelor umanitare acordate Republicii Moldova;</p><p class=\"ql-align-justify\">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;executarea controlului asupra recepţionării şi distribuirii ajutoarelor umanitare acordate Republicii Moldova;</p><p class=\"ql-align-justify\">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;întocmirea și eliberarea, la solicitarea organizațiilor recepționare/distribuitoare de ajutoare umanitare, a&nbsp;avizelor privind calificarea bunurilor donate și permisiunea introducerii acestora în țară;</p><p class=\"ql-align-justify\">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;crearea condiţiilor de depozitare şi păstrare a bunurilor transmise în fondul de rezervă al ajutoarelor umanitare, destinate păturilor defavorizate ale populaţiei;</p><p class=\"ql-align-justify\">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;participarea la activităţile Comisiei interdepartamentale pentru ajutoarele umanitare şi coordonarea activităţii comisiilor teritoriale şi celei specializate pentru ajutoarele umanitare, privind modul de recepţionare şi distribuire a ajutoarelor umanitare;</p><p class=\"ql-align-justify\">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;identificarea, în comun cu instituţiile de stat şi organizaţiile obşteşti a donatorilor noi de ajutoare umanitare şi promovarea relaţiilor de cooperare cu ei;</p><p class=\"ql-align-justify\">·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;prezentarea dării de seamă trimestrială, semestrială şi anuală privind recepţionarea şi distribuirea ajutoarelor umanitare.</p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><br></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "a87fd44a-2e81-4e4a-86a1-ba46e7fc40ad",
+      "code": "009000122",
+      "title": {
+        "ro": "Avizarea loturilor de carte intrate în țară cu titlu de ajutor umanitar",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">Avizarea loturilor de carte se face la cerere, în situaţiile în care acestea urmează a fi obiectul intrării în țară cu titlu de ajutor umanitar, efectuată de către o persoană juridică și/sau fizică. Ministerul Culturii autorizează introducerea în ţară a literaturii (beletristice, cognitive), altor produse editoriale în baza Legii nr.<a href=\"https://www.legis.md/cautare/getResults?doc_id=132813&amp;lang=ro#\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"text-align: left; background-color: rgb(255, 255, 255);\">1491/2002</a> cu privire la ajutoarele umanitare acordate Republicii Moldova în temeiul <strong style=\"text-align: left;\">Art. 22</strong><sup style=\"text-align: left;\"><strong>1</strong></sup> alin. (2).</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "086162fe-1a84-483c-ab27-aa72b1d56eac",
+      "code": "021000780",
+      "title": {
+        "ro": "Brevetarea efectivului de comandă/certificarea personalului navigant",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>&nbsp;-Evaluarea cunoștințelor teoretice și competențelor practice ale solicitantului și eliberarea certificatului de competență.&nbsp;</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "348379de-ea48-4069-beb6-bc52801d3156",
+      "code": "021000421",
+      "title": { "ro": "Certificarea unor fapte", "ru": "", "en": "" },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">Certificarea unor fapte reprezintă un act procedural prin care se certifică unele fapte sau împrejurări pe care le constată personal notarul: faptul că persoana se află în viață; certificarea timpului (datei) prezentării documentului.</p><p class=\"ql-align-justify\">Pentru a afla mai multe informații despre serviciul consular, contactați misiunea diplomatică sau oficiul consular al Republicii Moldova din țara în care vă aflați.</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "385b01a4-9a4d-4b63-a8c1-d4d52145443d",
+      "code": "021000793",
+      "title": {
+        "ro": "Certificat al echipajului minim pentru siguranța navei",
+        "ru": "Свидетельство о минимальном составе экипажа, необходимого для обеспечения безопасности судоходства",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>Documentul eliberat pentru fiecare navă în parte, prin care se stabilește numărul și funcțiile echipajului minim de siguranță a navei.&nbsp;&nbsp;</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "945f6911-774f-414a-b76f-6ca03372f238",
+      "code": "021000036",
+      "title": {
+        "ro": "Certificat de arhivă/extras din documentele Fondului Agenției Naționale a Arhivelor",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\"><strong style=\"color: rgb(50, 50, 50);\">Certificatul de arhivă</strong><span style=\"color: rgb(50, 50, 50);\"> constituie un document cu putere juridică, ce conţine informaţie despre existența în documentele arhivei, a unor date referitoare la situații și drepturi semnalate prin cererile solicitanților.   </span></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(50, 50, 50);\">Extrasul din documentele de arhivă</strong><span style=\"color: rgb(50, 50, 50);\"> constituie reproducerea exactă a unei părţi din textul documentului, ce se referă nemijlocit la problema, evenimentul sau persoana, indicate în solicitate.</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(50, 50, 50);\">Principalele documente care pot fi obținute:</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(50, 50, 50);\">-         certificate de arhivă întocmite în baza registrelor parohiale cu privire la naștere, căsătorie și deces, pentru perioada anilor 1850-1918;</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(50, 50, 50);\">-         extrase de proprietate (până în anul 1944);</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(50, 50, 50);\">-         extrase de vânzare-cumpărare, donaţii, testamente autentificate la instituțiile notariale; </span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(50, 50, 50);\">-         extrase din tabele cu locuitorii împroprietăriţi în baza Reformei Agrare din 1921;</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(50, 50, 50);\">-         extrase de evacuare a cetățenilor din Basarabia (1940, 1941, 1944);</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(50, 50, 50);\">-         certificate cu privire la recensămintele populației din Basarabia din Fondul arhivistic ,,Catagrafii cu locuitorii Guberniei Basarabia, pentru anii 1824-1886”;</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(50, 50, 50);\">-         certificate cu privire la represiunile politice ale populației din Basarabia (</span><span style=\"color: rgb(51, 51, 51); background-color: white;\">deportare, exilare, trimitere la muncă silnică în condiţii de limitare a libertăţii, expulzare din ţară şi lipsire de cetăţenie, expropriere, internare forţată în instituţii de psihiatrie etc.);</span><span style=\"color: rgb(50, 50, 50);\"> </span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(50, 50, 50);\">-         certificate privind drepturile salariale cuvenite necesare pentru calcularea pensiei (stagiu de muncă, ordinele de angajare/concediere, certificat de salariu, reorganizarea instituției etc.).</span></p><p class=\"ql-align-justify\">\t </p><p><br></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "736ba020-85d0-48c9-9d58-f539fde93636",
+      "code": "021000803",
+      "title": {
+        "ro": "Certificat de bună stare de navigabilitate a navei",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>&nbsp;- Examinarea stării tehnice a navei la zi și eliberarea certificatului.</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "2b3cb745-ce7b-47b4-a840-0a08973bc19f",
+      "code": "021000816",
+      "title": { "ro": "Certificat de clasă", "ru": "", "en": "" },
+      "description": {
+        "ro": "<p>-Examinarea tehnică și eliberarea certificatului de clasificare a navei ce atestă rezistența acesteia în raport cu înălțimea valurilor.&nbsp;</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "b8682de2-e22b-4bbf-a49d-bf684ecd69e7",
+      "code": "021000735",
+      "title": {
+        "ro": "Certificat de naţionalitate a navei",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "Obținerea certificatului de naţionalitate a navei",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "e3d4ccb9-b245-4512-b592-e33b2799e991",
+      "code": "021000476",
+      "title": {
+        "ro": "Certificat de omologare (înregistrare) a produsului de uz fitosanitar sau a fertilizantului (cu excepţia celor marcaţi cu menţiunea 'Îngrăşămintele CE')",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "Obținerea certificatului de omologare (înregistrare) a produsului de uz fitosanitar sau a fertilizantului (cu excepţia celor marcaţi cu menţiunea 'Îngrăşămintele CE')",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "e2872e3c-d83c-429a-880a-4678f935e69f",
+      "code": "021000829",
+      "title": {
+        "ro": "Certificat de scutire pentru navele convenționale",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>- Act ce confirmă o scutire de la respectarea unei cerințe speciale formulate în standardul cerut de o convenție OMI.</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "4d42fbcb-24bf-4da6-b3b2-65cbd9c3b3b8",
+      "code": "021000832",
+      "title": { "ro": "Certificat de tonaj", "ru": "", "en": "" },
+      "description": {
+        "ro": "<p>Efectuarea măsurărilor compartimentelor navei și eliberarea certificatului</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "798d5b88-94b2-447f-9bca-7f7a716b3f30",
+      "code": "021000845",
+      "title": {
+        "ro": "Certificat privind existența/lipsa impedimentelor",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>  &nbsp;- Eliberarea documentului care confirmă/ infirmă lipsa creanței de gaj asupra navei.</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "53cd1bfa-264c-49fb-a85c-3c638a65afe0",
+      "code": "021000023",
+      "title": {
+        "ro": "Certificat social-juridic tematic",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "Obținerea certificatului social-juridic tematic",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "893aedc3-4ba3-4254-95f9-94ab6e44463f",
+      "code": "021000463",
+      "title": {
+        "ro": "Certificatul de acreditare al prestatorului de servicii sociale",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "Obținerea certificatului de acreditare al prestatorului de servicii sociale",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "1ad78e9c-b6bc-48c6-9e05-c1315d2d24b4",
+      "code": "021000719",
+      "title": {
+        "ro": "Confirmarea anuală a înregistrării  navelor în Registrul de stat al navelor al Republicii Moldova",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>- Eliberarea certificatelor de pavilion care confirmă înregistrarea navei în Registrul de Stat al Navelor al Republicii Moldova;</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "ab634f2d-4a66-4961-b413-64ce3aae2a97",
+      "code": "021000858",
+      "title": {
+        "ro": "Confirmarea autenticității eliberării brevetelor marinarilor străini,  angajați pe navele care navighează sub pavilionul Republicii Moldova",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>&nbsp;-Verificarea în Registrele internaționale și confirmarea autenticității brevetelor marinarilor străini.</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "2deeed83-52be-4bf8-bc1b-2c0659da3c7b",
+      "code": "021001037",
+      "title": {
+        "ro": "Copie de pe actele care confirmă includerea fondurilor fixe în capitalul social al întreprinderilor create în procesul privatizării",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p><span style=\"color: rgb(33, 33, 33);\">Serviciul constă în eliberarea copiilor certificate de pe actul centralizat de evaluare a patrimoniului întreprinderii şi a actului de estimare a fondurilor fixe, incluse în capitalul social al societăților pe acțiuni la momentul fondării. </span></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "c92658d1-80b2-4150-a8e1-3b8c9c72b73d",
+      "code": "021000861",
+      "title": {
+        "ro": "Document de bord ce atestă starea tehnică a navei de navigație interioară",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p> Examinarea tehnică a navei/ambarcațiunii și eliberarea condițiilor de utilizare</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "090d1af5-ebe8-4894-b341-3006d6b5aa76",
+      "code": "021001053",
+      "title": {
+        "ro": "Duplicat al actului notarial din fondul de arhivă notarială de stat",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Duplicat al actului notarial din fondul de arhivă notarială de stat</p><p class=\"ql-align-justify\">\tLa cererea scrisă motivată a uneia dintre părţile actului notarial, a succesorilor sau reprezentanților de drept ai uneia dintre părțile actului notarial, inclusiv pentru cazuri de pierdere sau deteriorare a originalului actului notarial, se eliberează duplicatul actului notarial, originalul căruia se păstrează în arhiva notarială de stat. În cazul exercitării dreptului de gaj, prezentînd actul ce confirmă transmiterea în posesie a bunului gajat, creditorul gajist are dreptul să solicite duplicatul actului notarial translativ de proprietate asupra bunului gajat.  </p><p class=\"ql-align-justify\">\tDuplicatul actului notarial reproduce întocmai cuprinsul, inclusiv girul notarial cu toate menţiunile actului notarial original. Anexele actului notarial, ce fac parte integrantă a acestuia, se anexează în copie legalizată la duplicatul actului notarial.</p><p class=\"ql-align-justify\">\tÎn duplicat se indică data eliberării duplicatului, iar în locul semnăturilor originale ale părţilor, se menţionează numele şi prenumele fiecărui semnatar şi se aplică girul prevăzut pentru duplicate. Duplicatul astfel eliberat are aceeaşi forţă juridică la fel ca originalul.</p><p class=\"ql-align-justify\">\tÎn cazul pierderii originalului actului notarial, solicitantul va prezenta dovada privind publicarea avizului despre pierderea actului respectiv pe pagina web oficială a Camerei Notariale sau în Monitorul Oficial al Republicii Moldova.</p><p class=\"ql-align-justify\"> La eliberarea duplicatului din cauza deteriorării sau distrugerii parţiale a actului notarial, se reţine în arhivă actul notarial respectiv.</p><p class=\"ql-align-justify\"> Duplicatul testamentului se eliberează, la cererea scrisă a moștenitorului testamentar, legatarului sau executorului testamentar, numai după decesul testatorului, la prezentarea actului ce confirmă deschiderea succesiunii.</p><p><br></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "0dc655a3-9a85-4de6-81d4-fd9e1df42205",
+      "code": "021000434",
+      "title": {
+        "ro": "Duplicat al actului notarial, întocmit de misiunea diplomatică sau de oficiul consular",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>Eliberarea duplicatului actului notarial care a fost întocmit de misiunea diplomatică sau de oficiul consular. Eliberarea duplicatului se realizează la cererea <span style=\"color: rgb(51, 51, 51);\">scrisă motivată a uneia dintre părţile actului notarial, a succesorilor sau reprezentanților de drept ai uneia dintre părțile actului notarial, inclusiv pentru cazuri de pierdere sau deteriorare a originalului actului notarial, notarul eliberează duplicatul actului notarial, originalul căruia se păstrează în arhiva sa. În cazul exercitării dreptului de gaj, prezentând actul ce confirmă transmiterea în posesie a bunului gajat, creditorul gajist are dreptul să solicite duplicatul actului notarial translativ de proprietate asupra bunului gajat, iar notarul este obligat să elibereze duplicatul actului notarial, originalul căruia se păstrează în arhiva sa.</span></p><p>Pentru a afla mai multe informații despre serviciul consular, contactați misiunea diplomatică sau oficiul consular al Republicii Moldova din țara în care vă aflați.</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "28bf9c29-6b9e-4188-a8ec-d3cf77e236e3",
+      "code": "021000094",
+      "title": {
+        "ro": "Efectuarea analizelor de arbitraj şi de control ale metalelor preţioase în orice formă şi în orice stare şi ale articolelor din ele, precum şi ale resturilor şi deşeurilor lor, la cererea organelor de drept, vamale şi a altor autorităţi",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "Efectuarea analizelor de arbitraj şi de control ale metalelor preţioase în orice formă şi în orice stare şi ale articolelor din ele, precum şi ale resturilor şi deşeurilor lor, la cererea organelor de drept, vamale şi a altor autorităţi",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "4683618d-de40-4ba8-9ffd-42d239286208",
+      "code": "016000012",
+      "title": {
+        "ro": "Efectuarea înscrisurilor pe acte",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "Efectuarea înscrisurilor pe acte",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "693f7637-58fa-4e7f-a5c2-903e07afaed1",
+      "code": "021000612",
+      "title": {
+        "ro": "Eliberare informație/extras din Registrul garanțiilor reale mobiliare (RGRM)",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>Eliberarea informației din Registrul Garantiilor Reale Mobiliare RGRM printr-o interpelare semnată depusă prin e-mail sau la sediul Agenției</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "9bd601fe-85ef-43d8-a5b3-9f6ba63abaa4",
+      "code": "021000874",
+      "title": {
+        "ro": "Eliberarea certificatelor, extraselor, demersurilor etc.",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>- Examinarea informației din registrele deținute și eliberarea documentelor de confirmare/infirmare a existenței informației solicitate.</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "851c2498-9979-4066-b552-d30034d48517",
+      "code": "016000025",
+      "title": {
+        "ro": "Eliberarea informaţiei sau documentelor cerute de birourile notariale în favoarea clientului",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "Eliberarea informaţiei sau documentelor cerute de birourile notariale în favoarea clientului",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "bb9569a9-c96c-4d9f-ae81-8641d8f80259",
+      "code": "021000984",
+      "title": {
+        "ro": "Examinarea navei maritime înregistrate în Registrul de stat al navelor al Republicii Moldova privind corespunderea prevederilor convențiilor de către reprezentantul Agenției Navale a Republicii Moldova",
+        "ru": " ",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>&nbsp;- Efectuarea inspecției statului de pavilion privind corespunderea navelor înregistrate provizoriu/ permanent în RSN prevederilor convențiilor internaționale din domeniu de către reprezentantul Agenției Navale a Republicii Moldova</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "2da8e56b-3873-4ceb-a924-d456109b5efb",
+      "code": "021000997",
+      "title": {
+        "ro": "Examinarea navei maritime înregistrate în Registrul de stat al navelor al Republicii Moldova privind corespunderea prevederilor convențiilor, efectuată prin împuternicire",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>&nbsp;&nbsp;- Efectuarea, prin împuternicire, a inspecției statului de pavilion privind corespunderea navelor înregistrate provizoriu/ permanent în RSN prevederilor convențiilor internaționale din domeniu. Poate fi prestat în bază de procură.&nbsp;&nbsp;</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "8f34f29e-f466-4f5d-92d6-f746d8a6f04f",
+      "code": "021000887",
+      "title": {
+        "ro": "Expertiza  podurilor plutitoare",
+        "ru": "Освидетельствование наплавных мостов",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>&nbsp;-Examinarea la bord a stării tehnice a podului plutitor și emiterea certificatului.</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "2957f4f6-7760-44e9-8c95-73c516310f3d",
+      "code": "021000942",
+      "title": {
+        "ro": "Expertiza inițială/repetată la proiectarea navei de navigație interioară",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<h3>- Expertizarea și avizarea inițială/ repetată a proiectului&nbsp;și documentației tehnice a navei.&nbsp;&nbsp;</h3>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "33c27e82-ed48-4848-9282-d290d8bf1729",
+      "code": "021000913",
+      "title": {
+        "ro": "Expertiza la confecționarea materialelor, articolelor și reparația capitală a motoarelor diesel și a echipamentelor de la bordul navelor de navigație interioară",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>-Expertizarea și avizarea documentației tehnice pentru confecționarea materialelor, articolelor și reparația capitală a motoarelor diesel și a echipamentelor de la bordul navelor de navigație interioară.</p><p>Poate fi prestat în bază de procură.</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "ac6f3345-48c0-4f22-8842-da0d4621f8a8",
+      "code": "021000117",
+      "title": {
+        "ro": "Expertizarea amprentelor semnului de marcare de pe articolele din metale preţioase şi pietre preţioase",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "Expertizarea amprentelor semnului de marcare de pe articolele din metale preţioase şi pietre preţioase",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "00cbe47f-80f4-42bc-8805-c130748ef47d",
+      "code": "021000120",
+      "title": {
+        "ro": "Expertizarea metalelor preţioase şi diagnosticarea pietrelor preţioase, evaluarea lor",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "Expertizarea metalelor preţioase şi diagnosticarea pietrelor preţioase, evaluarea lor",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "02a54081-cd3d-4e18-8b6b-2871c434d47b",
+      "code": "021001134",
+      "title": {
+        "ro": "Expertizarea şi certificarea bunurilor culturale mobile",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">Certificarea bunurilor se face la cerere, în situaţii când bunul urmează a fi obiectul exportului temporar sau definitiv, făcând parte din&nbsp;<a href=\"https://mc.gov.md/sites/default/files/anexa_nr3_ordinul_147.doc\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(51, 133, 162); background-color: rgb(255, 255, 255);\">LISTA categoriilor de bunuri culturale ce necesită certificat de export.</a>&nbsp;</p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><strong>Pentru a obţine certificatul e nevoie de avizul de expertiză eliberat de instituţia muzeală abilitată:</strong></p><p class=\"ql-align-justify\">Muzeul Naţional de Artă al Moldovei, tel: (+373) 22 241 369, Elena Grigoraşenco, preşedintele comisiei de expertiză;</p><p class=\"ql-align-justify\">Muzeul Naţional de Istorie a Moldovei, tel: (+373) 22 241 561, Elena Postică, preşedintele comisiei de expertiză;</p><p class=\"ql-align-justify\">Muzeul Naţional de Etnografie şi Istorie Naturală a&nbsp;Moldovei, tel: (+373) 22 245 409, Varvara Buzilă, preşedintele comisiei de expertiză.&nbsp;</p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><u>Documente necesare pentru obținerea avizului de expertiză:</u></p><ul><li class=\"ql-align-justify\">Cerere în formatul stabilit de <strong>Muzeu</strong>;</li><li class=\"ql-align-justify\">Copia actului de călătorie în străinătate a persoanei care urmează să scoată bunul peste hotare;</li><li class=\"ql-align-justify\">Imaginea color a bunului (2 exemplare);&nbsp;</li><li class=\"ql-align-justify\">Expertiza se efectuează doar la prezentarea bunului cultural.&nbsp;</li></ul><p class=\"ql-align-justify\"><strong>Tarif 52 lei/obiect</strong>, durata - după caz</p><p><br></p><p><strong style=\"color: rgb(59, 59, 59);\"><u>Documente necesare pentru obținerea certificatului de export:</u></strong></p><ul><li>Cerere în formatul&nbsp;stabilit de <strong>Ministerul Culturii</strong>;</li><li>Copia actului de călătorie în străinătate a persoanei care urmează să scoată bunul peste hotare;</li><li>Imaginea color a bunului (2 exemplare);</li><li>Avizul de expertiză eliberat de instituţia muzeală abilitată;</li><li>Dovada bancară a achitării taxei de stat.</li></ul><p><br></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "79ce325e-8457-4771-a674-74009ca91620",
+      "code": "021001095",
+      "title": {
+        "ro": "Extras din Registrul patrimoniului public",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Obținerea extrasului din Registrul patrimoniului public</p><p><br></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "a96978e0-ac8f-47e2-b39d-85a23c50415a",
+      "code": "021000162",
+      "title": {
+        "ro": "Fabricarea reactivelor de probare, la comanda agenţilor economici care utilizează în activitatea lor metale preţioase",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>Fabricarea reactivelor de probare, la comanda agenţilor economici care utilizează în activitatea lor metale preţioase</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "30c43587-4012-444e-82e3-d95d016d30b4",
+      "code": "021000081",
+      "title": {
+        "ro": "Formularul privind legislaţia aplicabilă în baza prevederilor acordurilor internaţionale ",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Eliberarea formularului persoanelor privind legislaţia aplicabilă în baza prevederilor acordurilor internaţionale.</p><p>Persoanele asigurate care sunt detașate în organizația care activează pe teritoriul altui stat pentru desfășurarea activității de muncă pe parcursul unei anumite perioade.</p><p>Serviciul poate fi prestat în bază de procură. </p><p>Lista Acordurilor bilaterale la care Republica Moldova este parte, poate fi vizualizată la linkul: <a href=\"https://cnas.gov.md/slidepageview.php?l=ro&amp;idc=519&amp;t=/Relatii-internationale/Acorduri-bilaterale\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">https://cnas.gov.md/slidepageview.php?l=ro&amp;idc=519&amp;t=/Relatii-internationale/Acorduri-bilaterale</a></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "4e492621-1300-4c48-b7d3-a693b83cea7a",
+      "code": "021000065",
+      "title": {
+        "ro": "Formularul privind stagiul de cotizare realizat pe teritoriul Republicii Moldova",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>Formularul privind stagiul de cotizare se eliberează pentru persoanele care au activat legal pe teritoriul unuia dintre statele contractante parte la Acord în domeniul securității sociale, la care Republica Moldova este parte. Formularul confirmă stagiul de cotizare realizat de către persoana asigurată pe teritoriul Republicii Moldova și se prezintă instituţiei competente de pe teritoriul celuilalt stat contractant, pentru totalizarea perioadelor de asigurare.</p><p>Persoana asigurată care a activat legal pe teritoriul unuia dintre statele contractante parte la Acord în domeniul securității sociale, la care Republica Moldova este parte, sau reprezentantul desemnat prin procură.</p><p>Lista Acordurilor bilaterale la care Republica Moldova este parte, poate fi vizualizată la linkul: <a href=\"https://cnas.gov.md/slidepageview.php?l=ro&amp;idc=519&amp;t=/Relatii-internationale/Acorduri-bilaterale\" rel=\"noopener noreferrer\" target=\"_blank\">https://cnas.gov.md/slidepageview.php?l=ro&amp;idc=519&amp;t=/Relatii-internationale/Acorduri-bilaterale</a></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "4013259a-440f-4bb5-a61a-3e6a9ac7c7cb",
+      "code": "019000808",
+      "title": {
+        "ro": "Imprimarea şi eliberarea textului actului juridic din Registrul de stat al actelor juridice al Republicii Moldova",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>Imprimarea şi eliberarea textului actului juridic din Registrul de stat al actelor juridice al Republicii Moldova</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "3a2e458a-2aff-42af-9228-513f49ba42b8",
+      "code": "021000049",
+      "title": {
+        "ro": "Informaţia privind achitarea/neachitarea contribuţiilor de asigurări sociale de stat\n",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>Obținerea informației de către persoanele fizice privind achitarea/neachitarea contribuțiilor de asigurări sociale de stat.</p><p>Persoană fizică cu domiciliul în Republica Moldova.&nbsp;</p><p><span style=\"color: black;\">Pentru a solicita serviciul la CTAS din raza de domiciliu puteți face o programare prealabilă la linkul: </span><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">https://servicii.gov.md/programare</a></p><p><span style=\"color: rgb(0, 0, 0);\">Serviciul poate fi prestat în bază de procură.</span></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "40846cf3-3922-4e5b-b014-f02ef597661c",
+      "code": "021000052",
+      "title": {
+        "ro": "Informația privind starea contului personal de asigurări sociale\n",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>Obţinerea informaţiei privind datele din contul personal al persoanei asigurate prin următoarele modalități:</p><ol><li>informația poate fi generată și semnată de Portalul Guvernamental al Cetățeanului (<a href=\"https://mcabinet.gov.md\" rel=\"noopener noreferrer\" target=\"_blank\">https://mcabinet.gov.md</a>), aceasta fiind semnată electronic în conformitate cu Legea nr.124/2022.</li><li>accesarea şi vizualizarea on-line a informaţiei se realizează prin intermediul SI ,,Acces CPAS” în baza login-ului şi parolei de acces la sistem, atribuite de către Casa Naţională de Asigurări Sociale (CNAS) în baza codului CPAS prin subdiviziunile sale teritoriale (CTAS) sau prin intermediul Serviciului Guvernamental MPass, la deținerea semnăturii electronice/mobile sau a unui buletin de identitate electronic;.</li><li>extrasul din contul personal de asigurări sociale reflectă datele angajatorului, perioada de activitate, fondul de retribuire a muncii şi alte recompense şi contribuţiile de asigurări sociale calculate şi transferate la bugetul asigurărilor sociale de stat, începând cu data de 1 ianuarie 1999. Adiţional, extrasul include raporturile de muncă după 01.01.2018 (angajarea/eliberarea de la serviciu, suspendarea contractului de muncă etc.), activitatea de muncă realizată în perioada de până la 01.01.1999, scanată din carnetul de muncă în baza Hotărârii Guvernului nr. 426/2018, precum şi suma prestaţiilor de asigurări sociale acordate de către CNAS (pensiilor, indemnizaţiilor de maternitate, indemnizaţiilor adresate familiilor cu copii, indemnizaţiilor pentru incapacitate temporară de muncă, ajutorului de şomaj).</li></ol><p><br></p><p class=\"ql-align-justify\"><span style=\"color: black;\">Pentru a solicita serviciul la CTAS din raza de domiciliu puteți face o programare prealabilă la linkul:</span><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: black;\"> </a><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\">https://servicii.gov.md/programare</a></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "5d9e7907-5d6e-4c71-b76c-566889446457",
+      "code": "021000078",
+      "title": {
+        "ro": "Informaţie privind beneficierea/nebeneficierea de prestaţii sociale în sistemul public de asigurări sociale de stat al Republicii Moldova, pentru a fi prezentate peste hotare",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>Obţinerea informaţiei privind beneficierea/nebeneficierea de prestaţii sociale în sistemul public de asigurări sociale de stat al Republicii Moldova de către persoanele fizice și instituțiile competente de pe teritoriul altor state.</p><p>Persoane fizice - asigurate și neasigurate, beneficiari de prestații sociale, tutorele/curatorul acestora, persoana împuternicită prin procură.</p><p>Instituții competente – instituțiile competente de pe teritoriul alor state, desemnate prin acordurile internaționale în domeniul securității sociale/acordurile privind garanțiile drepturilor cetățenilor în domeniul asigurării de pensii.</p><p>Serviciul poate fi prestat în bază de procură.</p><p>Lista Acordurilor bilaterale la care Republica Moldova este parte, poate fi vizualizată la linkul: <a href=\"https://cnas.gov.md/slidepageview.php?l=ro&amp;idc=519&amp;t=/Relatii-internationale/Acorduri-bilaterale\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">https://cnas.gov.md/slidepageview.php?l=ro&amp;idc=519&amp;t=/Relatii-internationale/Acorduri-bilaterale</a></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "954b209e-49ea-4815-8191-9a8d0a3435a2",
+      "code": "021000683",
+      "title": {
+        "ro": "Informație/certificat privind salariul mediu pe economie, nivelul inflației, minimul de existență.",
+        "ru": "",
+        "en": ""
+      },
+      "description": { "ro": null, "ru": "", "en": "" },
+      "eService": true
+    },
+    {
+      "id": "9b73b058-91fa-420b-bf97-df05399f1636",
+      "code": "021000133",
+      "title": {
+        "ro": "Înregistrarea agenţilor economici, care practică activităţi cu metale preţioase şi pietre preţioase, precum şi a caselor de amanet",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "Înregistrarea agenţilor economici, care practică activităţi cu metale preţioase şi pietre preţioase, precum şi a caselor de amanet",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "75511b07-65ce-4b9a-ac4a-aaa4e2f9b507",
+      "code": "021000890",
+      "title": {
+        "ro": "Înregistrarea ambarcațiunilor în Catalogul naval al Republicii Moldova",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>&nbsp;- Atribuirea naționalității navei de tonaj mic&nbsp;&nbsp;prin introducerea datelor despre ambarcațiune în Catalogul Naval al Republicii Moldova</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "1c7bc48c-3e83-4fbd-b59d-95054d4ad251",
+      "code": "021000146",
+      "title": {
+        "ro": "Înregistrarea semnelor nominale personale care se aplică pe articolele confecţionate din metale preţioase şi pietre preţioase",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "Înregistrarea semnelor nominale personale care se aplică pe articolele confecţionate din metale preţioase şi pietre preţioase",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "e1bde683-b5d2-4fa0-9ccf-2318bea39cfd",
+      "code": "021001121",
+      "title": {
+        "ro": "Înregistrarea temporară/permanentă în Registrul de stat al navelor al Republicii Moldova a navelor de navigație internă, exploatate pe căile de navigație internă ale Republicii Moldova și eliberarea certificatelor",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Atribuirea naționalității navei și extinderii asupra ei a jurisdicției statului-pavilion prin introducerea datelor despre navă în Registrul de Stat al Navelor.</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "b48f2f70-cae4-4990-ae35-55651751e995",
+      "code": "021000939",
+      "title": {
+        "ro": "Înregistrarea temporară/permanentă în Registrul de stat al navelor al Republicii Moldova a navelor maritime, de tip râu-mare și a navelor de navigație internă (convenționale/nonconvenționale), exploatate pe căile internaționale de navigație",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>- Atribuirea naționalității navei și extinderii asupra ei a jurisdicției statului-pavilion prin introducerea datelor despre navă în Registrul de Stat al Navelor.</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "e87e06b7-682c-40ae-ac79-e191e54db829",
+      "code": "021000502",
+      "title": {
+        "ro": "Întocmirea actului privind protestele de mare",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>Întocmirea actului privind protestul de mare este un document scris prin care comandantul navei înștiințează funcționarul consular asupra evenimentelor deosebite cu care a fost confruntată nava și marfa aflată la bord, în timpul voiajului de mare sau în timpul staționării în port. Aceasta poate constitui temei pentru a prezenta proprietarului navei pretenții patrimoniale. Funcționarul consular în baza declarației căpitanului și după posibilitate, a depozițiilor a cel puțin doi martori din echipajul navei, alcătuiește un act de protest de mare și îl certifică.<span style=\"color: rgb(51, 51, 51);\">Primirea protestului de mare de la comandanţii de nave străine şi întocmirea actului privind protestul de mare se efectuează de către consulii Republicii Moldova pe principii de mutualitate. </span>Pentru a afla mai multe informații despre serviciul consular, contactați misiunea diplomatică sau oficiul consular al Republicii Moldova din țara în care vă aflați.</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "10d9a814-315e-485b-b42b-ebdd42d146aa",
+      "code": "021000955",
+      "title": {
+        "ro": "Întocmirea documentelor cu privire la plecarea navelor în mare (indiferent de pavilion) și perceperea tarifului naval la chei",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>&nbsp;-Examinarea avizului și documentelor aferente și emiterea permisului de plecare din &nbsp;port.</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "036e11cc-be20-4b32-bc9b-9516a1db98fb",
+      "code": "021000968",
+      "title": {
+        "ro": "Întocmirea documentelor cu privire la sosirea navelor din mare (indiferent de pavilion) și perceperea tarifului naval la chei",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>Examinarea avizului și documentelor aferente și emiterea permisului de intrare în port&nbsp;</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "4581850f-fca3-48f0-8428-097aa254e956",
+      "code": "021001079",
+      "title": {
+        "ro": "Legalizarea autenticităţii semnăturii judecătorului şi a ştampilei instanţei judecătoreşti pe deciziile judiciare",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p><span style=\"background-color: rgb(253, 253, 252); color: rgb(0, 0, 0);\">Legalizarea consulara se aplica actelor care urmeaza sa fie prezentate pe teritoriul unui stat care nu este parte la Conventia de la Haga din 1961 si se aplica stampila pe originalul actului. ARIJ este responsabila de&nbsp;Legalizarea autenticităţii semnăturii judecătorului şi a ştampilei instanţei judecătoreşti pe deciziile judiciare.</span></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "83427cbe-c70f-4091-9c79-9705c5bd4807",
+      "code": "021001082",
+      "title": {
+        "ro": "Legalizarea autenticităţii semnăturii notarului şi a ştampilei acestuia pe actele persoanelor fizice şi juridice",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p><span style=\"background-color: rgb(253, 253, 252); color: rgb(0, 0, 0);\">Legalizarea consulara se aplica actelor care urmeaza sa fie prezentate pe teritoriul unui stat care nu este parte la Conventia de la Haga din 1961 si se aplica stampila pe originalul actului. ARIJ este responsabila de&nbsp;Legalizarea autenticităţii semnăturii notarului şi a ştampilei notarului</span></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "6a40c68c-a7f5-48e8-953e-05287a83e45e",
+      "code": "003001525",
+      "title": {
+        "ro": "Legitimație de expert judiciar, interpret şi/sau traducător",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "Obținerea legitimației de expert judiciar, interpret şi/sau traducător",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "6994b4bd-ced5-4ec6-bd7e-8719cc5fa7f9",
+      "code": "021000489",
+      "title": {
+        "ro": "Notificarea introducerii în vedere omologării a mostrei de produs de uz fitosanitare sau feritilizant",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "Notificarea introducerii în vedere omologării a mostrei de produs de uz fitosanitare sau feritilizant",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "1fad3d39-70e1-443c-999a-a4fc4381c80c",
+      "code": "021001118",
+      "title": {
+        "ro": "Permis de aflare în zona de frontieră pentru persoanele fizice și juridice",
+        "ru": "",
+        "en": ""
+      },
+      "description": { "ro": "", "ru": "", "en": "" },
+      "eService": true
+    },
+    {
+      "id": "c03fa700-e358-42ce-a7a3-8358b3f6d333",
+      "code": "003001541",
+      "title": {
+        "ro": "Permis de dezactivare a armei",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "Obținerea permisului de dezactivare a armei",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "82770af1-1cb6-4c04-bc54-c4d4d989d4b2",
+      "code": "021001008",
+      "title": {
+        "ro": "Pilotarea navei pe căile navigabile interne și în acvatoriul Complexului portuar Giurgiulești",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>- Conducerea navelor ce fac escală în portul maritim&nbsp;de către pilot pe căile de acces în port și în acvatoriul lui.</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "671d5f0e-0ece-4cba-a5a7-aa44043913ef",
+      "code": "021000201",
+      "title": {
+        "ro": "Prezentarea informației din Registrul unic al organismelor de evaluare a conformității recunoscute",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p><span style=\"color: rgb(50, 50, 50);\">Prezentarea informației din Registrul unic al organismelor de evaluare a conformității recunoscute</span></p><p><br></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "4b25e321-462c-4a57-9e7b-2c4928912bc7",
+      "code": "021000696",
+      "title": {
+        "ro": "Prezentarea informațiilor individuale și generalizate din situațiile financiare",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>Prezentarea informațiilor individuale și generalizate din situațiile financiare</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "c84bb45e-373e-4285-9647-1dcbcb7f8eaa",
+      "code": "021000706",
+      "title": {
+        "ro": "Prezentarea la solicitare a datelor generalizate",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>Prezentarea la solicitare a datelor generalizate</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "16829d1b-16ab-46ea-8928-e6afd0fd791f",
+      "code": "021000450",
+      "title": {
+        "ro": "Primirea documentelor la păstrare",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">Persoana care desfășoară activitate notarială primește la păstrare documente, conform unui inventar întocmit în două exemplare, eliberând persoanei care a depus documentele la păstrare certificat și un exemplar al inventarului. Documentele primite la păstrare se restituire la prezentarea certificatului și a inventarului sau în baza unei hotărâri a instanței de judecată. <span style=\"color: black;\">Se va avea în vedere posibilitatea practică și efectivă de a depozita înscrisurile/documentele în condiții de siguranță. Depozitarea trebuie să nu contravină legii și altor dispoziții de ordine publică sau bunelor moravuri. Deponentul declară pe propria răspundere că înscrisurile/documentele au proveniență legală.</span></p><p>  </p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "a4903711-06da-457a-87b7-dcd6c21648ed",
+      "code": "021000159",
+      "title": {
+        "ro": "Probarea şi marcarea tuturor articolelor din metale preţioase fabricate pe teritoriul Republicii Moldova şi/sau introduse în ţară pentru comercializare",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "Probarea şi marcarea tuturor articolelor din metale preţioase fabricate pe teritoriul Republicii Moldova şi/sau introduse în ţară pentru comercializare",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "3a06e060-79c2-47bf-aae7-c1e44e914f11",
+      "code": "021000900",
+      "title": {
+        "ro": "Radierea ambarcațiunii din Catalogul naval al Republicii Moldova",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>- Retragerea dreptului de a naviga sub pavilionul Republicii Moldova și introducerea în Catalogul Naval a înscrisurilor privind radierea navei. Serviciul poate fi prestat și în baza de procură.</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "33394f66-ae9c-4450-8b91-1c8612a20585",
+      "code": "021001011",
+      "title": {
+        "ro": "Radierea temporară/definitivă a navei din Registrul de stat al navelor al Republicii Moldova",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>-Retragerea dreptului de a naviga sub pavilionul RM și introducerea în Registrul de Stat al Navelor a înscrisurilor privind radierea navei și eliberarea certificatului de radiere. Poate fi prestat în bază de procură.</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "beab4912-8153-48d1-b63d-3cbf2e82f2af",
+      "code": "021000214",
+      "title": {
+        "ro": "Recunoașterea (extinderea recunoașterii) organismelor de evaluare a conformității",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>Recunoașterea în vederea notificării este procedura în urma căreia se atestă dreptul organismelor de evaluare a conformității de a efectua proceduri de evaluare a conformității în domeniul reglementat.</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "608fa427-6fcc-415a-bccc-09a7a3312122",
+      "code": "021001024",
+      "title": {
+        "ro": "Schimbarea numelui navei și eliberarea actului respectiv",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>Operarea modificărilor în Registrul de Stat al Navelor al Republicii Moldova în vederea schimbării numelui navei.&nbsp;</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "c42ee1ee-b63c-455b-84c8-56625adbd9e7",
+      "code": "021000447",
+      "title": {
+        "ro": "Solicitarea unui act (act de stare civilă, act notarial, cazier judiciar etc.) sau a unei informații din Republica Moldova. Perfectarea și eliberarea unui alt document sau certificat, efectuarea unei alte acțiuni consulare decât cele menționate în compartimentele precedente, dar care sunt solicitate conform legislației statului străin și nu contravin legislației Republicii Moldova sau acordurilor la care ambele state sunt parte",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p><span style=\"color: black;\">Înscris în limba oficială a statului de reședință eliberat de misiunea diplomatică sau oficiul consular, sub formă de atestat, adeverință sau certificat, care ar urma să fie folosite în fața autorităților locale din statul respectiv. </span></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "33da34cf-e22b-48ed-8832-43c33b376e37",
+      "code": "021000515",
+      "title": {
+        "ro": "Supralegalizarea consulară a unui document eliberat de autoritățile Republicii Moldova și destinat utilizării în străinătate, pentru persoane fizice/persoane juridice",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Supralegalizarea reprezintă procedura care se aplică actelor cu elemente de extraneitate, folosite în relații cu statele cu care Republica Moldova nu are tratate sau convenții de asistență juridică în materie sau nu sunt semnatare ale Convenției de la Haga din 1961 și pentru care nu se aplica Apostila.</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "fcdf2d11-de05-4a1f-94f1-209392cc2352",
+      "code": "021000528",
+      "title": {
+        "ro": "Supralegalizarea consulară a unui document eliberat de autoritățile unui stat străin sau cu participarea acestora, destinat utilizării în Republica Moldova, pentru persoane fizice și persoane juridice",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>Supralegalizarea reprezintă procedura care se aplică actelor cu elemente de extraneitate, folosite în relații cu statele cu care Republica Moldova nu are tratate sau convenții de asistență juridică în materie sau nu sunt semnatare ale Convenției de la Haga din 1961 și pentru care nu se aplica Apostila.</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "63a9b55a-db31-4c0a-bd52-43f1b24df794",
+      "code": "021000492",
+      "title": {
+        "ro": "Traducerea și legalizarea traducerii documentelor și a extraselor din ele",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>Transpunerea certificată a unui text scris dintr-o limbă în alta pe care o posedă notarul. Înscrisurile traduse de traducători autorizați, se legalizează de către notar în măsura în care acestea conțin inscripția de certificare a traducerii cu semnătura și ștampila traducătorului, care este cunoscut notarului.</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    }
+  ]
+}

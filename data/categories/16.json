@@ -1,0 +1,47 @@
+{
+  "category": {
+    "title": {
+      "ro": "Îngrijirea unui copil și parenting",
+      "ru": null,
+      "en": null
+    },
+    "description": {
+      "ro": "Un set de servicii sau evenimente de viață legate de susținerea și îngrijirea copiilor orfani, adopție, beneficii (sociale – alocații, indemnizații, ajutor etc.), îngrijirea unui copil, școlarizare",
+      "ru": null,
+      "en": null
+    }
+  },
+  "subcategories": [],
+  "publicServices": [
+    {
+      "id": "577b331f-368f-4b33-b085-cbe36206361c",
+      "code": "004000017",
+      "title": {
+        "ro": "Certificat/duplicat al certificatului de adopție",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>Certificatul de adopţie</p><p>Duplicatul certificatul de adopţie reprezintă documentul eliberat persoanei fizice în urma confirmării înregistrării actului de adopţie.</p><p>Duplicatul certificatului de adopţie se eliberează pe baza actului de adopţie, în temeiul cererii solicitantului:</p><ul><li>părintelui adoptiv (adoptator);</li><li>titularului actului (persoanei adoptate), cu autorizarea instanţei judecătoreşti privind accesul la informaţiile referitoare la identitatea părinţilor biologici;</li><li>titularului actului, cu acordul în scris al părinţilor adoptivi (adoptatori) sau al autorităţii tutelare teritoriale.</li></ul><p><em>Notă: Începând cu 17.08.2001, data intrării în vigoare a Legii nr. 100-XV din 26 aprilie 2001 privind actele de stare civilă, acte de adopţie nu se întocmesc. Înregistrarea faptului adopţiei are loc în temeiul hotărârii instanţei judecătoreşti privind încuviinţarea adopţiei, prin înscrierea menţiunii respective, după caz, a modificării datelor despre părinţi şi copil în actul de naştere, cu eliberarea unui nou certificat de naştere.</em></p><p>Programarea prealabilă pentru solicitarea serviciilor în subdiviziunile teritoriale ale ASP este disponibilă accesând link-ul: <a href=\"https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro\" rel=\"noopener noreferrer\" target=\"_blank\">https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro</a></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "514b9004-3c95-4f0d-8c58-aaf59b48b7b7",
+      "code": "004000020",
+      "title": {
+        "ro": "Certificat/duplicat al certificatului de paternitate",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>Duplicatul certificatului de stabilire a paternității reprezintă documentul eliberat persoanei fizice în urma confirmării înregistrării actului de stabilire a paternităţii.</p><p>Duplicatul certificatului de stabilire a paternităţii se eliberează pe baza actului de stabilire a paternităţii, în temeiul cererii solicitantului:</p><ul><li>persoanei fizice: cetăţean al Republicii Moldova, apatridului, cetăţeanului străin cu şedere legală pe teritoriul ţării;&nbsp;</li><li>rudelor de gradul I-II (dovada gradului de rudenie se face cu actele de stare civilă sau cu certificatele de stare civilă);</li><li>reprezentantului legal al persoanei limitate în capacitatea de exerciţiu sau cu privire la care a fost instituită măsura de ocrotire judiciară prin hotărârea instanţei judecătoreşti (tutorele sau curatorul);</li><li>reprezentantului împuternicit prin procură autentificată notarial sau prin împuternicirea de reprezentare electronică acordată prin MPower în baza semnăturii electronice, din numele persoanei fizice, cetăţean al Republicii Moldova.</li></ul><p><em>Notă: Începând cu 17.08.2001, data intrării în vigoare a Legii nr. 100-XV din 26 aprilie 2001 privind actele de stare civilă, acte de stabilire a paternității nu se întocmesc. Înregistrarea faptului recunoașterii paternității copilului are loc prin înscrierea persoanei în calitate de tată în actul de naştere, după caz, modificarea numelui copilului cu eliberarea unui nou certificat de naştere.</em></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    }
+  ]
+}

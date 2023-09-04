@@ -1,0 +1,144 @@
+{
+  "category": {
+    "title": { "ro": "Persoanele cu dizabilități", "ru": null, "en": null },
+    "description": {
+      "ro": "Un set de servicii sau evenimente de viață legate de beneficiile de care pot beneficia persoanele cu dizabilități, asistență socială",
+      "ru": null,
+      "en": null
+    }
+  },
+  "subcategories": [],
+  "publicServices": [
+    {
+      "id": "7418e761-e42f-429b-9089-e949d8db1fe2",
+      "code": "007000065",
+      "title": {
+        "ro": " Determinarea gradului de dizabilitate și cauzei dizabilităţii şi perioadei pentru care a fost determinat gradul de dizabilitate.\n",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">Consiliul Naţional pentru Determinarea Dizabilităţii şi Capacităţii de Muncă este instituţie publică, subordonată Ministerului&nbsp;Muncii și Protecţiei Sociale, unica abilitată cu funcţii în domeniul determinării gradului de dizabilitate.</p><p class=\"ql-align-justify\"><br></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "e4ee9674-6d38-4087-9828-7d095cf7af50",
+      "code": "007000036",
+      "title": {
+        "ro": "Ajutor material unic pentru însănătoșire cetățenilor care au avut de suferit de pe urma catastrofei de la C. A. E. Cernobîl\n",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Acordarea ajutorului material unic pentru însănătoșire cetățenilor care au avut de suferit de pe urma catastrofei de la C. A. E. Cernobîl.</p><p>Persoanele participante la lichidarea consecinţelor catastrofei de la Cernobîl, persoanele cu dizabilităţi a căror dizabilitate e în legătură cauzală cu catastrofa de la Cernobîl, precum şi colaboratorii subdiviziunilor de risc deosebit, care au devenit persoane cu dizabilităţi.</p><p class=\"ql-align-justify\"><span style=\"color: black;\">Pentru a solicita serviciul la CTAS din raza de domiciliu puteți face o programare prealabilă la linkul:</span><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: black;\"> </a><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\">https://servicii.gov.md/programare</a></p><p><br></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "287fa2a2-b907-4365-8ce3-cefef6133a42",
+      "code": "007000049",
+      "title": {
+        "ro": "Avizarea prelungirii certificatului de concediu medical în cazul tratamentului de durată",
+        "ru": "",
+        "en": ""
+      },
+      "description": { "ro": "", "ru": "", "en": "" },
+      "eService": false
+    },
+    {
+      "id": "2146f22d-fc01-4657-918b-5dde4f5245f6",
+      "code": "007000023",
+      "title": {
+        "ro": "Compensație unică pentru prejudiciul adus sănătății persoanelor cu dizabilităţi din rândul participanţilor la lichidarea consecinţelor catastrofei de la Cernobîl şi la experienţele nucleare, avariilor cu radiaţie ionizată şi a consecinţelor lor la obiectivele atomice civile sau militare",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Acordarea unui ajutor material persoanelor cu dizabilități din rândul participanților la lichidarea consecințelor catastrofei de la Cernobîl și la experiențele nucleare, avariilor cu radiație ionizată și a consecințelor lor la obiectivele atomice civile sau militare.</p><p>Dreptul la compensația unică pentru prejudiciul adus sănătății îl au persoanele cu dizabilități din rândul participanților la lichidarea consecințelor catastrofei de la Cernobîl și la experiențele nucleare, avariilor cu radiație ionizată și a consecințelor lor la obiectivele atomice civile sau militare.</p><p class=\"ql-align-justify\"><span style=\"color: black;\">Pentru a solicita serviciul la CTAS din raza de domiciliu puteți face o programare prealabilă la linkul:</span><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: black;\"> </a><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\">https://servicii.gov.md/programare</a></p><p><br></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "0dab780a-c014-4f4a-8857-2b5bbde28acd",
+      "code": "007000094",
+      "title": {
+        "ro": "Elaborarea recomandărilor generale privind necesităţile de reabilitare și incluziune socială ale persoanei cu dizabilităţi.",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">Recomandările generale privind necesităţile de reabilitare și incluziune socială ale persoanei cu dizabilităţi se elaborează de Consiliul Naţional pentru Determinarea Dizabilităţii şi Capacităţii de Muncă, instituţie publică, subordonată Ministerului&nbsp;Muncii și Protecţiei Sociale, unica instituție abilitată cu funcţii în domeniul determinării gradului de dizabilitate.</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "7e4bf351-8151-464f-9453-74ff9c8595f7",
+      "code": "007000117",
+      "title": {
+        "ro": "Emiterea Concluziei privind necesitatea deservirii cu transport, conform prevederilor actelor normative.",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">Concluzia este emisă de Consiliul Naţional pentru Determinarea Dizabilităţii şi Capacităţii de Muncă, instituţie publică subordonată Ministerului&nbsp;Muncii și Protecţiei Sociale, unica instituție abilitată cu funcţii în domeniul determinării gradului de dizabilitate.</p><p class=\"ql-align-justify\"><br></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "3a71e327-8a6c-436c-abe7-e1fc35f57e57",
+      "code": "007000010",
+      "title": {
+        "ro": "Indemnizaţie de dizabilitate ca urmare a unui accident de muncă sau a unei boli profesionale",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>Acordarea unui drept bănesc persoanelor asigurate care şi-au pierdut total sau cu cel puţin 35 % capacitatea de muncă, cărora li s-a stabilit pensie de dizabilitate ca urmare a unui accident de muncă sau a unei boli profesionale.</p><p>Dreptul la indemnizaţie îl au asiguraţii care şi-au pierdut total sau cu cel puţin 35% capacitatea de muncă din cauza unui accident de muncă sau a unei boli profesionale, cu condiţia beneficierii de pensie de dizabilitate cauzată de accident de muncă sau a unei boli profesionale conform legislaţiei.</p><p class=\"ql-align-justify\"><span style=\"color: black;\">Pentru a solicita serviciul la CTAS din raza de domiciliu puteți face o programare prealabilă la linkul:</span><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: black;\"> </a><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\">https://servicii.gov.md/programare</a></p><p><br></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "21fc9e60-f69e-49f1-b15d-5275fd683c05",
+      "code": "015000312",
+      "title": {
+        "ro": "Legitimație de participant la lichidarea consecințelor catastrofei de la C.A.E. Cernobîl",
+        "ru": "Удостоверение участника ликвидации последствий катастрофы Чернобольской АЭС",
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Obținerea legitimației de participant la lichidarea consecinţelor catastrofei de la C.A.E. Cernobîl</p>",
+        "ru": "<p>Получение удостоверения участника ликвидации последствий катастрофы Чернобольской АЭС</p>",
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "25e5c1f8-8e40-4665-8954-a1d7dc055443",
+      "code": "007000104",
+      "title": {
+        "ro": "Stabilirea procentului pierderii capacităţii de muncă ca urmare a accidentului de muncă sau bolii profesionale.",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">Stabilirea procentului &nbsp;pierderii capacităţii de muncă ca urmare a accidentului de muncă sau bolii profesionaleseefectuiează de către Consiliul Naţional pentru Determinarea Dizabilităţii şi Capacităţii de Muncă, instituţie publică subordonată Ministerului&nbsp;Muncii și Protecţiei Sociale, unica instituție abilitată cu funcţii în domeniul determinării gradului de dizabilitate.</p><p class=\"ql-align-justify\"><br></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    }
+  ]
+}

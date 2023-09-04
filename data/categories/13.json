@@ -1,0 +1,412 @@
+{
+  "category": {
+    "title": {
+      "ro": "Naștere, deces, căsătorie și servicii de îngrijire",
+      "ru": null,
+      "en": null
+    },
+    "description": {
+      "ro": "Un set de servicii sau evenimente de viață legate de nașterea unui copil, parenting, parteneriatele civile, paternitate, divorț și împuternicirea",
+      "ru": null,
+      "en": null
+    }
+  },
+  "subcategories": [],
+  "publicServices": [
+    {
+      "id": "8d8c8a3d-de46-4df0-9f5c-49a673bbdebf",
+      "code": "002000154",
+      "title": {
+        "ro": "Ajutor de deces persoanelor asigurate",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Acordarea unui sprijin financiar unic în cazul decesului persoanelor asigurate în sistemul public de asigurări sociale.Persoana care prezintă actul de înregistrare a decesului, eliberat de organul abilitat al Republicii Moldova, în caz de deces al persoanelor cu domiciliul sau reşedinţa în Republica Moldova: asiguratului, pensionarului, şomerului cu drept la ajutor de şomaj sau persoanei care nu are statut de asigurat, dar a realizat un stagiu de cotizare de cel puţin 3 ani.&nbsp;</p><p><span style=\"color: black;\">Pentru a solicita serviciul la CTAS din raza de domiciliu puteți face o programare prealabilă la linkul:</span><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: black;\"> </a><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\">https://servicii.gov.md/programare</a>&nbsp;</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "6349531a-4048-4cde-b1df-d178ad1560cd",
+      "code": "002000167",
+      "title": {
+        "ro": "Ajutor de deces persoanelor neasigurate",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Acordarea unui sprijin financiar unic în cazul decesului persoanelor neasigurate în sistemul public de asigurări sociale.Persoana care poate fi, după caz, soţul supravieţuitor, copiii în vârstă de până la 18 ani (inclusiv cei care au fost născuţi morţi) sau, dacă îşi făceau studiile la secţia cu frecvenţă la zi la o instituţie de învăţământ – până la absolvire, însă până la atingerea vârstei de 23 de ani, precum şi copiii cu dizabilităţi, indiferent de vârstă, dacă dizabilitatea a fost constatată până la atingerea vârstelor menţionate, părintele, tutore, curator în conformitate cu legislaţia sau, în lipsa acesteia, persoana care dovedeşte că a suportat cheltuielile ocazionate de deces.</p><p><span style=\"color: black;\">Pentru a solicita serviciul la CTAS din raza de domiciliu puteți face o programare prealabilă la linkul:</span><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: black;\"> </a><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\">https://servicii.gov.md/programare</a></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "5ef13c8a-04ff-4549-b36f-fccecdf88d1f",
+      "code": "002000141",
+      "title": {
+        "ro": "Ajutor material unic anual copiilor care au pierdut întreținătorul (de pe urma catastrofei de la C.A.E Cernobîl)",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Acordarea ajutorului material unic anual copiilor care au pierdut întreținătorul (de pe urma catastrofei de la C.A.E Cernobîl).</p><p>Copiilor cetăţenilor Republicii Moldova, care şi-au pierdut întreţinătorul în urma catastrofei de la C.A.E Cernobîl.</p><p class=\"ql-align-justify\"><span style=\"color: black;\">Pentru a solicita serviciul la CTAS din raza de domiciliu puteți face o programare prealabilă la linkul:</span><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: black;\"> </a><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\">https://servicii.gov.md/programare</a></p><p><br></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "41d5d7c7-99a2-4359-8e2d-2fc8393c5141",
+      "code": "002000248",
+      "title": {
+        "ro": "Certificat ce confirmă decesul militarilor în acţiuni de luptă şi la datorie pe timp de pace",
+        "ru": "Справка о гибели военнослужащих в боевых действиях и при исполнении служебных обязанностей в мирное время",
+        "en": null
+      },
+      "description": {
+        "ro": "Obținerea certificatului ce confirmă decesul militarilor în acţiuni de luptă şi la datorie pe timp de pace",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "577b331f-368f-4b33-b085-cbe36206361c",
+      "code": "004000017",
+      "title": {
+        "ro": "Certificat/duplicat al certificatului de adopție",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>Certificatul de adopţie</p><p>Duplicatul certificatul de adopţie reprezintă documentul eliberat persoanei fizice în urma confirmării înregistrării actului de adopţie.</p><p>Duplicatul certificatului de adopţie se eliberează pe baza actului de adopţie, în temeiul cererii solicitantului:</p><ul><li>părintelui adoptiv (adoptator);</li><li>titularului actului (persoanei adoptate), cu autorizarea instanţei judecătoreşti privind accesul la informaţiile referitoare la identitatea părinţilor biologici;</li><li>titularului actului, cu acordul în scris al părinţilor adoptivi (adoptatori) sau al autorităţii tutelare teritoriale.</li></ul><p><em>Notă: Începând cu 17.08.2001, data intrării în vigoare a Legii nr. 100-XV din 26 aprilie 2001 privind actele de stare civilă, acte de adopţie nu se întocmesc. Înregistrarea faptului adopţiei are loc în temeiul hotărârii instanţei judecătoreşti privind încuviinţarea adopţiei, prin înscrierea menţiunii respective, după caz, a modificării datelor despre părinţi şi copil în actul de naştere, cu eliberarea unui nou certificat de naştere.</em></p><p>Programarea prealabilă pentru solicitarea serviciilor în subdiviziunile teritoriale ale ASP este disponibilă accesând link-ul: <a href=\"https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro\" rel=\"noopener noreferrer\" target=\"_blank\">https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro</a></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "516c3a8a-6a8f-4804-90a2-fcb9c439734b",
+      "code": "002000277",
+      "title": {
+        "ro": "Certificat/duplicat al certificatului de căsătorie",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\"><strong>Certificatul de căsătorie</strong></p><p class=\"ql-align-justify\">Prin certificat de căsătorie se înțelege documentul eliberat persoanei fizice (cetăţean al Republicii Moldova, cetăţean străin, apatrid) în urma înregistrării actului de căsătorie sau modificării acestuia.</p><p class=\"ql-align-justify\">Certificatul de căsătorie se eliberează ca rezultat al operării unor modificări a datelor din actul de căsătorie care se înscriu în conținutul certificatului de căsătorie. Pe formularul certificatului de căsătorie eliberat după modificarea actului de căsătorie nu se aplică inscripția \"Duplicat\". Certificatul de căsătorie eliberat după modificarea actului de căsătorie este însoțit de avizul privind modificarea sau anularea actului de căsătorie.</p><p class=\"ql-align-justify\"><strong>Duplicatul certificatului de căsătorie</strong></p><p class=\"ql-align-justify\">Prin duplicatul certificatului de căsătorie se înțelege certificatul de căsătorie eliberat repetat în temeiul actului de căsătorie (în următoarele cazuri: la deteriorarea certificatului; la pierderea certificatului; la solicitarea certificatului de model nou în legătură cu transcrierea acestuia în grafie latină). Duplicatele certificatelor de căsătorie se eliberează la solicitare şi au aceeaşi valoare juridică ca şi certificatele eliberate la momentul înregistrării actului de căsătorie.</p><p class=\"ql-align-justify\"><strong>Certificatul/duplicatul certificatului de căsătorie se eliberează în temeiul cererii solicitantului:</strong></p><ul><li class=\"ql-align-justify\">persoanei fizice: cetăţean al Republicii Moldova, cetăţean străin, apatrid;</li><li class=\"ql-align-justify\">rudelor de gradul I-II (dovada gradului de rudenie se face cu actele de stare civilă sau cu certificatele de stare civilă);</li><li class=\"ql-align-justify\">reprezentantului legal al persoanei limitate în capacitatea de exerciţiu sau cu privire la care a fost instituită măsura de ocrotire judiciară prin hotărârea instanţei judecătoreşti (tutorele sau curatorul);</li><li class=\"ql-align-justify\">reprezentantului împuternicit prin procură autentificată notarial <span style=\"color: rgb(102, 102, 102);\">sau prin împuternicirea de reprezentare electronică acordată prin MPower în baza semnăturii electronice,</span> din numele persoanei fizice, cetăţean al Republicii Moldova.</li></ul><p class=\"ql-align-justify\">Programarea prealabilă pentru solicitarea serviciilor în subdiviziunile teritoriale ale ASP este disponibilă accesând link-ul: <a href=\"https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro\" rel=\"noopener noreferrer\" target=\"_blank\">https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro</a></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "563ee642-ce5d-492d-b949-db3d31a2597a",
+      "code": "002000280",
+      "title": {
+        "ro": "Certificat/duplicat al certificatului de deces",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\"><strong>Certificatul de deces</strong></p><p class=\"ql-align-justify\">Prin certificat de deces se înțelege documentul eliberat persoanei fizice (cetăţean al Republicii Moldova, cetăţean străin, apatrid) în urma înregistrării actului de deces sau modificării acestuia.</p><p class=\"ql-align-justify\">Certificatul de deces se eliberează ca rezultat al operării unor modificări a datelor din actul de deces care se înscriu în conținutul certificatului de deces. Pe formularul certificatului de deces eliberat după modificarea actului de deces nu se aplică inscripția \"Duplicat\". Certificatul de deces eliberat după modificarea actului de deces este însoțit de avizul privind modificarea sau anularea actului de deces.</p><p class=\"ql-align-justify\"><strong>Duplicatul certificatului de deces</strong></p><p class=\"ql-align-justify\">Prin duplicatul certificatului de deces se înțelege certificatul de deces eliberat repetat în temeiul actului de deces (în următoarele cazuri: la deteriorarea certificatului; la pierderea certificatului; la solicitarea certificatului de model nou în legătură cu transcrierea acestuia în grafie latină). Duplicatele certificatelor de deces se eliberează la solicitare şi au aceeaşi valoare juridică ca şi certificatele eliberate la momentul înregistrării actului de deces.</p><p class=\"ql-align-justify\"><strong>Certificatul/duplicatul certificatului de deces se eliberează în temeiul cererii solicitantului:</strong></p><ul><li class=\"ql-align-justify\">persoanei fizice: cetăţean al Republicii Moldova, cetăţean străin, apatrid;</li><li class=\"ql-align-justify\">rudelor de gradul I-II (dovada gradului de rudenie se face cu actele de stare civilă sau cu certificatele de stare civilă);</li><li class=\"ql-align-justify\">reprezentantului legal al persoanei limitate în capacitatea de exerciţiu sau cu privire la care a fost instituită măsura de ocrotire judiciară prin hotărârea instanţei judecătoreşti (tutorele sau curatorul);</li><li class=\"ql-align-justify\">reprezentantului împuternicit prin procură autentificată notarial <span style=\"color: rgb(102, 102, 102);\">sau prin împuternicirea de reprezentare electronică acordată prin MPower în baza semnăturii electronice,</span> din numele persoanei fizice, cetăţean al Republicii Moldova.</li></ul><p class=\"ql-align-justify\">Programarea prealabilă pentru solicitarea serviciilor în subdiviziunile teritoriale ale ASP este disponibilă accesând link-ul: <a href=\"https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro\" rel=\"noopener noreferrer\" target=\"_blank\">https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro</a></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "514b9004-3c95-4f0d-8c58-aaf59b48b7b7",
+      "code": "004000020",
+      "title": {
+        "ro": "Certificat/duplicat al certificatului de paternitate",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>Duplicatul certificatului de stabilire a paternității reprezintă documentul eliberat persoanei fizice în urma confirmării înregistrării actului de stabilire a paternităţii.</p><p>Duplicatul certificatului de stabilire a paternităţii se eliberează pe baza actului de stabilire a paternităţii, în temeiul cererii solicitantului:</p><ul><li>persoanei fizice: cetăţean al Republicii Moldova, apatridului, cetăţeanului străin cu şedere legală pe teritoriul ţării;&nbsp;</li><li>rudelor de gradul I-II (dovada gradului de rudenie se face cu actele de stare civilă sau cu certificatele de stare civilă);</li><li>reprezentantului legal al persoanei limitate în capacitatea de exerciţiu sau cu privire la care a fost instituită măsura de ocrotire judiciară prin hotărârea instanţei judecătoreşti (tutorele sau curatorul);</li><li>reprezentantului împuternicit prin procură autentificată notarial sau prin împuternicirea de reprezentare electronică acordată prin MPower în baza semnăturii electronice, din numele persoanei fizice, cetăţean al Republicii Moldova.</li></ul><p><em>Notă: Începând cu 17.08.2001, data intrării în vigoare a Legii nr. 100-XV din 26 aprilie 2001 privind actele de stare civilă, acte de stabilire a paternității nu se întocmesc. Înregistrarea faptului recunoașterii paternității copilului are loc prin înscrierea persoanei în calitate de tată în actul de naştere, după caz, modificarea numelui copilului cu eliberarea unui nou certificat de naştere.</em></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "9e8fefcc-4106-48ff-936f-6d6f2668519d",
+      "code": "002000138",
+      "title": {
+        "ro": "Compensaţia unică familiilor ce şi-au pierdut întreţinătorul în urma catastrofei de la C.A.E Cernobîl\n",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>Acordarea unui ajutor material familiilor ce şi-au pierdut întreţinătorul în urma catastrofei de la C.A.E Cernobîl.</p><p>Soţiile (soţii) întreţinătorului decedat.</p><p>Copiii întreţinătorului decedat (inclusiv, copiii întreţinătorului care au depăşit vârsta de 18 ani, dacă îşi continuă studiile în instituţiile de învăţământ la cursurile de zi şi nu au depăşit vârsta de 23 de ani).</p><p class=\"ql-align-justify\"><span style=\"color: black;\">Pentru a solicita serviciul la CTAS din raza de domiciliu puteți face o programare prealabilă la linkul:</span><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: black;\"> </a><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\">https://servicii.gov.md/programare</a></p><p><br></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "b7b8971f-10d5-489a-9b60-caecf7ab5c73",
+      "code": "002000293",
+      "title": { "ro": "Extras de pe actul de căsătorie", "ru": "", "en": "" },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">Prin extrasul de pe actul de căsătorie se înțelege documentul eliberat în temeiul actului de căsătorie, care conţine informaţii din conţinutul acestuia, eliberarea căruia este condiţionată, de regulă, de stingerea unor drepturi şi obligaţii ce rezultă din înscrierile din registrele de stare civilă.</p><p class=\"ql-align-justify\">Extrasele de pe actele de căsătorie reprezintă acte care fac dovada stării civile a persoanei fizice <span style=\"color: rgb(102, 102, 102);\">(cetăţean al Republicii Moldova, cetăţean străin, apatrid)</span>.</p><p class=\"ql-align-justify\"><strong>Extrasele de pe actele de căsătorie se eliberează, la cerere, în următoarele cazuri:</strong></p><ul><li class=\"ql-align-justify\">necesitatea dovedirii unei căsătorii anterioare, după încetarea acesteia prin divorţ sau deces sau în cazul declarării nule a acesteia;</li><li class=\"ql-align-justify\">identificarea neconcordanţei datelor din actul de stare civilă cu datele ce figurează în actele de identitate ale titularului;</li><li class=\"ql-align-justify\">la cererea instanţelor judecătoreşti, a procuraturii, a organelor de urmărire penală, a autorităţii tutelare, precum şi la cererea altor organe de stare civilă.</li></ul><p class=\"ql-align-justify\"><strong>Extrasul de pe actul de căsătorie se eliberează în temeiul cererii:</strong></p><ul><li class=\"ql-align-justify\"><span style=\"color: rgb(102, 102, 102);\">persoanei fizice: cetăţean al Republicii Moldova, cetăţean străin, apatrid;</span></li><li class=\"ql-align-justify\">rudelor de gradul I-II (dovada gradului de rudenie se face cu actele de stare civilă sau cu certificatele de stare civilă);</li><li class=\"ql-align-justify\">reprezentantului legal al persoanei limitate în capacitatea de exerciţiu sau cu privire la care a fost instituită măsura de ocrotire judiciară prin hotărârea instanţei judecătoreşti (tutorele sau curatorul);</li><li class=\"ql-align-justify\">reprezentantului împuternicit prin procură autentificată notarial, <span style=\"color: rgb(102, 102, 102);\">sau prin consemnarea împuternicirilor în baza semnăturii electronice (MPower),</span> din numele persoanei fizice, cetăţean al Republicii Moldova.</li></ul><p class=\"ql-align-justify\">Programarea prealabilă pentru solicitarea serviciilor în subdiviziunile teritoriale ale ASP este disponibilă accesând link-ul: <a href=\"https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro\" rel=\"noopener noreferrer\" target=\"_blank\">https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro</a></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "f4817c4b-6f03-44b8-938f-d3a525266296",
+      "code": "002000303",
+      "title": { "ro": "Extras de pe actul de deces", "ru": "", "en": "" },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">Prin extrasul de pe actul de deces se înțelege documentul eliberat în temeiul actului de deces, care conţine informaţii din conţinutul acestuia, eliberarea căruia este condiţionată, de regulă, de stingerea unor drepturi şi obligaţii ce rezultă din înscrierile din registrele de stare civilă.</p><p class=\"ql-align-justify\">Extrasele de pe actele de deces reprezintă acte care fac dovada stării civile a persoanei fizice <span style=\"color: rgb(102, 102, 102);\">(cetăţean al Republicii Moldova, cetăţean străin, apatrid)</span>.</p><p class=\"ql-align-justify\"><strong>Extrasele de pe actele de deces se eliberează, la cerere, în următoarele cazuri:</strong></p><ul><li class=\"ql-align-justify\">identificarea neconcordanţei datelor din actul de stare civilă cu datele ce figurează în actele de identitate ale titularului;</li><li class=\"ql-align-justify\">la cererea instanţelor judecătoreşti, a procuraturii, a organelor de urmărire penală, a autorităţii tutelare, precum şi la cererea altor organe de stare civilă.</li></ul><p class=\"ql-align-justify\"><strong>Extrasul de pe actul de deces se eliberează în temeiul cererii:</strong></p><ul><li class=\"ql-align-justify\"><span style=\"color: rgb(102, 102, 102);\">persoanei fizice: cetăţean al Republicii Moldova, cetăţean străin, apatrid;</span></li><li class=\"ql-align-justify\">rudelor de gradul I-II (dovada gradului de rudenie se face cu actele de stare civilă sau cu certificatele de stare civilă);</li><li class=\"ql-align-justify\">reprezentantului legal al persoanei limitate în capacitatea de exerciţiu sau cu privire la care a fost instituită măsura de ocrotire judiciară prin hotărârea instanţei judecătoreşti (tutorele sau curatorul);</li><li class=\"ql-align-justify\">reprezentantului împuternicit prin procură autentificată notarial, <span style=\"color: rgb(102, 102, 102);\">sau prin consemnarea împuternicirilor în baza semnăturii electronice (MPower),</span> din numele persoanei fizice, cetăţean al Republicii Moldova.</li></ul><p class=\"ql-align-justify\">Programarea prealabilă pentru solicitarea serviciilor în subdiviziunile teritoriale ale ASP este disponibilă accesând link-ul: <a href=\"https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro\" rel=\"noopener noreferrer\" target=\"_blank\">https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro</a></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "3461059e-84d9-4933-8fbb-6782f99f3c99",
+      "code": "002000329",
+      "title": {
+        "ro": "Extras multilingv de pe actul de deces",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">Extrasul multilingv de pe actul de deces (plurilingv) reprezintă documentul de stare civilă, eliberat în temeiul actului de deces, destinat utilizării în străinătate, care nu necesită supralegalizare/apostilare şi traducere, în statele care formează domeniul teritorial al Convenţiei Comisiei Internaţionale de Stare Civilă nr.16 semnată la Viena la 8 septembrie 1976.</p><p class=\"ql-align-justify\">Domeniul teritorial al Convenţiei Comisiei Internaţionale de Stare Civilă nr. 16 privind eliberarea extraselor multilingve de pe actele de stare civilă din 8 septembrie 1976: Republica Moldova, Luxemburg, Slovenia, Belgia, Olanda, Croaţia, Spania, Portugalia, Macedonia, Franţa, Elveţia, Bosnia şi Herţogovina, Italia, Turcia, Serbia, Polonia, Muntenegru, România, Bulgaria, Lituania, Germania,&nbsp;Estonia.</p><p class=\"ql-align-justify\"><strong>Extrasul multilingv de pe actul de deces se eliberează în temeiul cererii solicitantului:</strong></p><ul><li class=\"ql-align-justify\"><span style=\"color: rgb(102, 102, 102);\">persoanei fizice: cetăţean al Republicii Moldova, cetăţean străin, apatrid</span>;</li><li class=\"ql-align-justify\">rudelor de gradul I-II (dovada gradului de rudenie se face cu actele de stare civilă sau cu certificatele de stare civilă);</li><li class=\"ql-align-justify\">reprezentantului legal al persoanei limitate în capacitatea de exerciţiu sau cu privire la care a fost instituită măsura de ocrotire judiciară prin hotărârea instanţei judecătoreşti (tutorele sau curatorul);</li><li>reprezentantului împuternicit prin procură autentificată notarial din numele persoanei fizice, cetăţean al Republicii Moldova.</li></ul><p>Programarea prealabilă pentru solicitarea serviciilor în subdiviziunile teritoriale ale ASP este disponibilă accesând link-ul: <a href=\"https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro\" rel=\"noopener noreferrer\" target=\"_blank\">https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro</a></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "cfdc5e31-eb5e-4821-8d0a-50e03920c4d1",
+      "code": "002000057",
+      "title": {
+        "ro": "Indemnizaţia unică la naşterea copilului",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Acordarea unui sprijin financiar unic mamei, iar în cazul decesului ei – reprezentantului legal al copilului, la nașterea copilului, pentru fiecare copil născut viu.Indemnizaţia se stabileşte cu condiția că:-copilul a fost înregistrat la subdiviziunea competentă a Agenţiei Servicii Publice;-a fost solicitată în termen de 12 luni de la data nașterii copilului.Depunerea cererii de solicitare: la ghişeu, la CTAS care a stabilit indemnizația de maternitate sau la CTAS din raza de domiciliu sau în mod electronic.</p><p><span style=\"color: black;\">Pentru a solicita serviciul la CTAS din raza de domiciliu puteți face o programare prealabilă la linkul:</span><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: black;\"> </a><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\">https://servicii.gov.md/programare</a></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "121a077d-ee09-403e-b61e-c2e69b4c25b6",
+      "code": "002000125",
+      "title": {
+        "ro": "Indemnizație de deces ca urmare a unui accident de muncă sau a unei boli profesionale",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Acordarea unui drept bănesc unic în sumă fixă, persoanelor aflate la întreţinerea asiguratului corespunzător numărului şi categoriei acestora.</p><p><strong>Copiilor asiguratului care, la momentul decesului acestuia: </strong></p><p>- au vârsta de până la 18 ani sau au împlinit această vârstă, dar fără a depăşi vârsta de 23 de ani, dacă îşi continuă studiile la instituţii de învăţământ secundar, mediu de specialitate şi superior, cursuri de zi;</p><p>- sunt încadraţi într-un grad de dizabilitate, indiferent de vârstă.</p><p><strong>Soţului/soției asiguratului, care la momentul decesului acestuia: </strong></p><p>- este încadrat într-un grad de dizabilitate;</p><p>- a atins vârsta de pensionare.</p><p>Soţului sau unuia din părinţii asiguratului decedat, sau altei persoane care, la momentul decesului asiguratului, nu lucrează şi are în îngrijire copii ai asiguratului sub vârsta de 3 ani.</p><p><span style=\"color: black;\">Pentru a solicita serviciul la CTAS din raza de domiciliu puteți face o programare prealabilă la linkul:</span><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: black;\"> </a><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\">https://servicii.gov.md/programare</a></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "fd3ab726-ab94-4f40-94f0-6d0bf3021493",
+      "code": "002000099",
+      "title": {
+        "ro": "Indemnizație de maternitate femeilor asigurate și soțiilor aflate la întreținerea soților asigurați",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Acordarea unei prestații sociale femeilor asigurate, şomerelor și soţiilor aflate la întreţinerea soţului asigurat, în cazul pierderii temporare a capacității de muncă în legătură cu maternitatea.</p><p>Indemnizaţia de maternitate se acordă femeilor asigurate care se află în concediu de maternitate începând cu a 30 săptămână de sarcină pe o perioadă de 126/140 zile calendaristice.</p><p>În cazul sarcinilor cu 3 sau mai mulţi feţi, indemnizaţia de maternitate se acordă integral la a 24-a săptămână de sarcină, pe o perioadă de 182 zile calendaristice.</p><p>Femeile asigurate au dreptul la indemnizaţie de maternitate indiferent de durata stagiului de cotizare.</p><p>În cazul soţiei aflate la întreţinerea soţului asigurat, soţul trebuie să fie persoană asigurată şi să confirme stagiul de cotizare total de cel puţin 3 ani sau de cel puţin 9 luni realizate în ultimele 24 luni anterioare survenirii riscului asigurat.</p><p>Statutul certificatului de concediu medical poate fi verificat prin: <a href=\"https://servicii.gov.md/medicine\" rel=\"noopener noreferrer\" target=\"_blank\">https://servicii.gov.md/medicine</a></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "ed99c189-500c-44f3-9ff4-25824ee180f4",
+      "code": "002000112",
+      "title": {
+        "ro": "Indemnizaţie lunară de suport pentru creşterea până la vârsta de 3 ani a copiilor gemeni sau a mai multor copii născuţi dintr-o singură sarcină\n",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">Acordarea unui suport financiar familiilor cu copii domiciliate pe teritoriul Republicii Moldova pentru creşterea până la vârsta de 3 ani a copiilor gemeni sau a mai multor copii născuţi dintr-o singură sarcină.</p><p class=\"ql-align-justify\">Persoană asigurată/neasigurată, în familia căreia dintr-o singură sarcină s-au născut cel puţin 2 copii vii, cu condiția că a fost solicitată în termen de 12 luni de la nașterea copiilor. În cazul în care indemnizaţia a fost solicitată mai târziu de termenul indicat, aceasta se stabileşte retroactiv, dar nu mai mult decât pentru 12 luni premergătoare datei adresării, cu condiţia că a fost solicitată în termen de 3 ani, de la data nașterii copiilor.</p><p class=\"ql-align-justify\"><span style=\"color: black;\">Pentru a solicita serviciul la CTAS din raza de domiciliu puteți face o programare prealabilă la linkul:</span><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: black;\"> </a><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\">https://servicii.gov.md/programare</a></p><p class=\"ql-align-justify\"><br></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "3a7ee77f-6ee6-4cbf-a077-62df18e8ffa0",
+      "code": "002000073",
+      "title": {
+        "ro": "Indemnizaţie lunară pentru creşterea copilului, conform opțiunilor (persoanelor asigurate)\n",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Acordarea unei prestații lunare persoanelor asigurate pentru creşterea copilului, conform opțiunilor stabilite de cadrul normativ.</p><p>Persoană asigurată (mama, tata, bunica, bunelul sau o altă rudă, care se ocupă nemijlocit de îngrijirea copilului) care se află în concediu pentru îngrijirea copilului la toate unităţile în care activează şi confirmă stagiul necesar de cotizare total de cel puţin 3 ani sau de cel puţin 9 luni realizate în ultimele 24 luni anterioare datei naşterii copilului.</p><p>Liber-profesioniștii ce practică activitate în sectorul justiției au dreptul la indemnizație lunară pentru creșterea copilului, dacă confirmă stagiul de cotizare total de cel puţin 3 ani sau de cel puţin 9 luni realizate în ultimele 24 luni anterioare datei naşterii copilului, fără condiția aflării în concediul pentru îngrijirea copilului până la împlinirea vârstei de 3 ani.</p><p>Termenul de adresare pentru stabilirea indemnizaţiei lunare pentru creșterea copilului este de 12 luni de la naşterea copilului. În cazul în care indemnizaţia lunară pentru creșterea copilului este solicitată mai târziu de termenul de 12 luni de la naşterea copilului, aceasta se stabileşte retroactiv, dar nu mai mult decât pentru 12 luni premergătoare datei adresării cu condiţia că a fost solicitată în termen de 3 ani, de la data nașterii copilului.</p><p class=\"ql-align-justify\"><span style=\"color: black;\">Pentru a solicita serviciul la CTAS din raza de domiciliu puteți face o programare prealabilă la linkul:</span><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: black;\"> </a><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\">https://servicii.gov.md/programare</a></p><p><br></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "980f5e84-3ead-4ce7-bab3-dd828bdca6e1",
+      "code": "002000251",
+      "title": {
+        "ro": "Indemnizaţie lunară pentru îngrijirea copilului până la împlinirea vârstei de 2 ani",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>Acordarea unui sprijin financiar lunar familiilor cu copii pentru îngrijirea copilului până la împlinirea vârstei de 2 ani.</p><p>Dreptul la acordarea indemnizației lunare pentru îngrijirea copilului îl au copii cu vârsta de până la 2 ani.</p><p>Termenul de adresare pentru stabilirea indemnizaţiei lunare pentru îngrijirea copilului este de 12 luni de la naşterea copilului.</p><p>În cazul în care indemnizaţia lunară pentru îngrijirea copilului este solicitată mai târziu de termenul de 12 luni de la naşterea copilului, aceasta se stabileşte retroactiv, dar nu mai mult decât pentru 12 luni premergătoare datei adresării cu condiţia că a fost solicitată în termen de 2 ani, de la data nașterii copilului.</p><p class=\"ql-align-justify\"><span style=\"color: black;\">Pentru a solicita serviciul la CTAS din raza de domiciliu puteți face o programare prealabilă la linkul:</span><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: black;\"> </a><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\">https://servicii.gov.md/programare</a></p><p><br></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "0be781c5-3afc-4a1b-8079-53badf1b083f",
+      "code": "002000109",
+      "title": {
+        "ro": "Indemnizaţie lunară pentru îngrijirea copilului până la vârsta de 3 ani (pentru persoanele asigurate, acordată în baza prevederilor acordurilor internaționale)",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Acordarea unei prestații lunare persoanelor asigurate pentru creşterea copilului, conform opțiunilor stabilite de cadrul normativ.</p><p>Persoanele care au activat legal pe teritoriul unuia dintre statele contractante parte la acordul în domeniul securității sociale, la care Republica Moldova este parte conform prevederilor legale ale Republicii Moldova beneficiază de indemnizație.</p><p>Persoană asigurată (mama, tata, bunica, bunelul sau o altă rudă, care se ocupă nemijlocit de îngrijirea copilului) se consideră persoana care se află în concediu pentru îngrijirea copilului la toate unităţile în care activează şi confirmă stagiul necesar de cotizare total de cel puţin 3 ani sau de cel puţin 9 luni realizate în ultimele 24 luni anterioare datei naşterii copilului.</p><p>Liber-profesioniștii ce practică activitate în sectorul justiției au dreptul la indemnizație lunară pentru creșterea copilului dacă confirmă stagiul de cotizare total de cel puţin 3 ani sau de cel puţin 9 luni realizate în ultimele 24 luni anterioare datei naşterii copilului, fără condiția aflării în concediul pentru îngrijirea copilului până la împlinirea vârstei de 3 ani.</p><p>Lista Acordurilor bilaterale la care Republica Moldova este parte, poate fi vizualizată la linkul: <a href=\"https://cnas.gov.md/slidepageview.php?l=ro&amp;idc=519&amp;t=/Relatii-internationale/Acorduri-bilaterale\" rel=\"noopener noreferrer\" target=\"_blank\">https://cnas.gov.md/slidepageview.php?l=ro&amp;idc=519&amp;t=/Relatii-internationale/Acorduri-bilaterale</a></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "d4bd9f2b-cc8e-4fea-969b-92dbb4eb39b9",
+      "code": "002000086",
+      "title": { "ro": "Indemnizaţie paternală", "ru": null, "en": null },
+      "description": {
+        "ro": "<p>Drept bănesc acordat pentru îngrijirea copilului nou-născut, tatălui asigurat în sistemul public de asigurări sociale. Tatăl asigurat, angajat în baza contractului individual de muncă sau aflat în raport de serviciu în baza actului administrativ, liber-profesionist ce practică activitate în sectorul justiției.</p><p>I s-a acordat concediu paternal la toate unităţile în care desfăşoară activităţi în primele 12 luni de la data naşterii copilului, în cazul tatălui liber-profesionist ce practică activitate în sectorul justiției, indemnizația paternală se stabilește de la data nașterii copilului pe o perioadă de 14 zile calendaristice fără condiția aflării în concediu paternal.</p><p>Confirmă stagiul necesar de cotizare total de cel puţin 3 ani sau de cel puţin 9 luni realizate în ultimele 24 luni anterioare datei naşterii copilului.</p><p>A solicitat stabilirea indemnizației paternale în termen de 12 luni de la data nașterii copilului.</p><p class=\"ql-align-justify\"><span style=\"color: black;\">Pentru a solicita serviciul la CTAS din raza de domiciliu puteți face o programare prealabilă la linkul:</span><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: black;\"> </a><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\">https://servicii.gov.md/programare</a></p><p><br></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "3cc755c9-d390-4829-80fe-ebe9c1735e76",
+      "code": "001000386",
+      "title": {
+        "ro": "Indemnizație pentru incapacitate temporară de muncă și de maternitate acordată în baza prevederilor acordurilor internaționale în domeniul securității sociale la care Republica Moldova este parte",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Acordarea unui drept bănesc persoanei asigurate și şomerilor iar în caz de indemnizatie de maternitate soţiilor aflate la întreţinerea soţului asigurat în cazul pierderii temporare a capacității de muncă în legătură cu boala/maternitatea.</p><p>Persoanele care au activat legal pe teritoriul unuia dintre statele contractante parte la acordul în domeniul securității sociale, la care Republica Moldova este parte.</p><p>Conform prevederilor legale ale Republicii Moldova beneficiază de indemnizație de maternitate:</p><p>- persoanele asigurate care au un stagiu total de cotizare de cel puţin 3 ani;</p><p>- asiguraţii care au un stagiu total de cotizare de până la 3 ani beneficiază de dreptul la prestaţii de asigurări sociale dacă confirmă un stagiu de cotizare de cel puţin 9 luni în ultimele 24 de luni premergătoare datei producerii riscului asigurat sau datei naşterii copilului în cazul riscului asigurat creşterea copilului;</p><p>- femeile asigurate au dreptul la indemnizaţie de maternitate indiferent de durata stagiului de cotizare;</p><p>- soţia aflată la întreţinerea soţului asigurat beneficiază de dreptul la indemnizaţie de maternitate în cazul în care soţul confirmă un stagiu de cotizare. În cazul înregistrării căsătoriei după producerea riscului asigurat (concediul de maternitate), dreptul la indemnizaţie se stabileşte pentru perioada de la data înregistrării căsătoriei până la data expirării concediului de maternitate;</p><p>- persoanele care au beneficiat sau beneficiază de prestaţii de asigurări sociale pe teritoriul altui stat nu pot beneficia, în condiţiile prezentei legi, de indemnizaţie pentru acelaşi risc asigurat şi pentru aceeaşi perioadă.</p><p>Dreptul la indemnizaţie pentru incapacitate temporară de muncă se confirmă prin certificat de concediu medical, întocmit în modul aprobat de Guvern.</p><p>Lista Acordurilor bilaterale la care Republica Moldova este parte, poate fi vizualizată la linkul: <a href=\"https://cnas.gov.md/slidepageview.php?l=ro&amp;idc=519&amp;t=/Relatii-internationale/Acorduri-bilaterale\" rel=\"noopener noreferrer\" target=\"_blank\">https://cnas.gov.md/slidepageview.php?l=ro&amp;idc=519&amp;t=/Relatii-internationale/Acorduri-bilaterale</a></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "e6a8aecc-6458-4579-a768-fa6c33f6a3d8",
+      "code": "002000219",
+      "title": { "ro": "Înregistrare căsătorie", "ru": "", "en": "" },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">Înregistrarea căsătoriei reprezintă un act personal, care nu poate fi realizat prin împuternicire de către o altă persoană. Numai căsătoria încheiată la organele de stat cu atribuții de înregistrare a actelor de stare civilă generează drepturile și obligațiile de soți prevăzute de lege.</p><p class=\"ql-align-justify\">Prestarea serviciului presupune prezența fizică, în două etape, în fața autorității competente, a persoanelor care doresc să înregistreze căsătoria: </p><ul><li class=\"ql-align-justify\">la prezentarea actelor necesare și achitarea taxei cât și completarea declarației de înregistrare a căsătoriei; </li><li class=\"ql-align-justify\">la prezentarea pentru oficiere și înmânarea certificatului. </li></ul><p class=\"ql-align-justify\">La înregistrarea căsătorie se întocmește actul de căsătorie, care se semnează obligatoriu, de către declaranți și se autentifică de către persoana responsabilă de înregistrarea căsătoriei, aplicându-se sigiliul. În baza actului de căsătorie soților li se eliberează certificatul de căsătorie. Încheierea căsătoriei se face în prezența persoanelor care se căsătoresc, după expirarea unui termen de cel puțin o lună din momentul depunerii de către ele a declarației de căsătorie. Termenul maximal ce se stabilește pentru încheierea căsătoriei nu va depăși două luni de la data depunerii declarației de căsătorie.</p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><strong>*Pentru a afla mai multă informație despre serviciul solicitat, contactați misiunea diplomatică sau oficiul consular al Republicii Moldova din țara în care vă aflați.</strong></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "fea00ac2-c066-44fd-bb29-205bc0a27a84",
+      "code": "002000222",
+      "title": { "ro": "Înregistrare deces", "ru": "", "en": "" },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\"><span style=\"color: black;\">Înregistrarea decesului reprezintă procedura de înregistrare a actului de deces în baza declarației de deces. Aceasta se face verbal în termen de 3 zile de la data producerii decesului. Acest termen cuprinde atât ziua în care s-a produs decesul, cât și în ziua în care se face declarația de deces. În cazul înregistrării decesului în baza certificatului constatator de deces ce a depăşit termenul de un an de la data cînd s-a produs evenimentul, întocmirea actului de deces are loc în limitele procedurii de înregistrare ulterioară a actului de stare civilă.</span></p><p>Au obligația de a face declarația de deces: </p><ul><li>membrii familiei; </li><li>rudele decedatului; </li><li>în lipsa membrilor familiei sau rudelor difunctului, obligația de a declara decesul le revine colocatarilor, vecinilor, administrației imobilului, medicului sau altă persoană din unitatea sanitară unde s-a produs decesul;</li><li>în cazul decedării persoanei în penitenciar sau într-o instituție de protecție social, obligația de a face declarația de deces revine administrației instituției penitenciarului. </li></ul><p>În cazuri speciale: </p><ul><li>dovada, eliberată de poliție sau procuratură când decesul a convenit în urma sinuciderii, unui accident sau altor acțiuni violente, precum și în cazul găsirii unui cadavru, din care să rezulte că una din aceste autorități a fost sesizată despre deces;</li><li>comunicarea administrației penitenciarului în cazul când persoana a decedat în instituțiile penitenciare. </li></ul><p>Actul de deces se întocmește la misiunile diplomatice și oficiile consulare ale Republicii Moldova, în baza actului constatator de deces, doar în cazul în care nu a fost înregistrat faptul decesului de către autoritățile statului de reședință. <strong style=\"color: rgb(59, 59, 59);\"> </strong></p><p><br></p><p><strong style=\"color: rgb(59, 59, 59);\">*Pentru a afla mai multă informație despre serviciul solicitat, contactați misiunea diplomatică sau oficiul consulat al Republicii Moldova din țara în care vă aflați.</strong></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "aa87bf3d-02c8-49ef-a76e-2f298c8fc4fb",
+      "code": "002000235",
+      "title": { "ro": "Înregistrare naștere", "ru": "", "en": "" },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\"><span style=\"color: black;\">Înregistrarea actului de naștere reprezintă procedura de înregistrare a nou-născutului în baza declarației de naștere a părinților, a unuia dintre ei sau a altor persoane împuternicite conform condițiilor și termenului stabilit de legiuitor. Obligația de a declara nașterea copilului o au părinții sau unul dintre ei. În cazul imposibilității prezentării personale a părinților, declarația de naștere se face de către: </span></p><ul><li class=\"ql-align-justify\"><span style=\"color: black;\">rudele părinților; </span></li><li class=\"ql-align-justify\"><span style=\"color: black;\">o persoană împuternicită de părinții copilului; </span></li><li class=\"ql-align-justify\"><span style=\"color: black;\">administrația unității sanitare în care s-a produs nașterea sau în care se află copilul; </span></li><li class=\"ql-align-justify\"><span style=\"color: black;\">autoritatea tutelară. </span></li></ul><p class=\"ql-align-justify\"><span style=\"color: black;\"><span class=\"ql-cursor\">﻿</span>Termenul acordat pentru declararea nașterii și înregistrarea actului de stare civilă este de cel mult 3 luni din ziua nașterii copilului.</span></p><p>  </p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "bf144fb4-43a5-45b2-9b47-925edd8746f0",
+      "code": "002000170",
+      "title": { "ro": "Înregistrarea căsătoriei", "ru": null, "en": null },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\"><span style=\"color: black;\">Înregistrarea căsătoriei reprezintă un act personal, care nu poate fi realizat prin împuternicire de către o altă persoană. Numai căsătoria încheiată la organele de stat cu atribuții de înregistrare a actelor de stare civilă generează drepturile și obligațiile de soți prevăzute de lege.</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">Prestarea serviciului presupune prezența fizică, în două etape, în fața autorității competente, a persoanelor care doresc să înregistreze căsătoria: la depunerea declarației de căsătorie și înregistrarea actului de căsătorie. La înregistrarea căsătoriei se întocmește actul de căsătorie, care se semnează obligatoriu de către declaranți și se autentifică de către persoana responsabilă de înregistrarea căsătoriei, aplicându-se sigiliul. În baza actului de căsătorie soților li se eliberează certificatul de căsătorie. </span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">Competența teritorială la înregistrarea căsătoriei este determinată de domiciliul (probată prin înregistrarea la domiciliul) a unuia dintre declaranți sau părinții acestora.</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">În lipsa înregistrării la domiciliu se ia în considerare înregistrarea la reședință (domiciliul temporar), ultimul loc de domiciliu, locul de aflare. Pentru încheierea căsătoriei este necesar consimțământul reciproc, neviciat, exprimat personal și necondiționat, al bărbatului și femeii care se căsătoresc, precum și atingerea de către ei a vârstei matrimoniale. Persoanele care doresc să se căsătorească sunt obligate să se informeze reciproc despre starea sănătății lor.</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">Vârsta matrimonială minimă este de 18 ani.</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">Pentru motive temeinice, se poate încuviința încheierea căsătoriei cu reducerea vârstei matrimoniale, dar nu mai mult decât cu doi ani. Reducerea vârstei matrimoniale va fi încuviințată de autoritatea administrației publice locale în a cărei rază teritorială își au domiciliul persoanele care doresc să se căsătorească, în baza cererii acestora și acordului părinților minorului.</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">&nbsp;Încheierea căsătoriei se face în prezența persoanelor care se căsătoresc, după expirarea unui termen de cel puțin o lună din momentul depunerii de către ele a declarației de căsătorie.</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">Termenul maximal ce se stabilește pentru încheierea căsătoriei nu va depăși două luni de la data depunerii declarației de căsătorie</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">Dacă există motive temeinice (determinate de imposibilitatea unuia dintre declaranți de a se afla pe teritoriul Republicii Moldova pe perioada termenului legal de înregistrare a căsătoriei), la cererea persoanelor care doresc să se căsătorească, șeful serviciului stare civilă poate reduce termenul indicat la alin.(1), iar în cazuri excepționale (pericol pentru viață, graviditate, nașterea copilului etc.), căsătoria poate fi încheiată chiar în ziua depunerii declarației.</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">La dorința viitorilor soți, căsătoria se oficiază în mod solemn.</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">Cetățenii străini, cu domiciliul în afara teritoriului Republicii Moldova, încheie căsătoria pe teritoriul Republicii Moldova conform legislației Republicii Moldova dacă au dreptul la încheierea căsătoriei în conformitate cu legislația statului ai cărui cetățeni sunt.</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">În acest sens, căsătoria cu un cetățean străin sau între cetățeni străini se încheie numai dacă, pe lângă actele prevăzute la art. 34 din prezenta lege, persoanele care se căsătoresc vor prezenta dovezi, eliberate de autoritățile competente ale statelor ai căror cetățeni sunt, din care să rezulte că sunt îndeplinite condițiile de fond, cerute de legislația Republicii Moldova, pentru încheierea căsătoriei. Poate fi prezentat, după caz:</span></p><ol><li class=\"ql-align-justify\"><span style=\"color: black;\">Certificatul privind starea civilă (conține informația privind starea civilă a unei persoane: celibatar, divorțat sau văduv) sau alt tip de document oficial emis de autorităţile străine prin care se atestă lipsa înregistrării unor căsătorii anterioare neîncetate pe numele unei persoane. </span></li><li class=\"ql-align-justify\"><span style=\"color: black;\">Certificatul de capacitate matrimonială (se emite şi se acceptă în cazul statelor care fac parte din domeniul teritorial al Convenţiei Comisiei Internaţionale de Stare Civilă nr. 20 privind eliberarea certificatului de capacitate matrimonială, semnată la Munich, 5 septembrie 1980: Germania, Belgia, Spania, Grecia, Italia, Luxemburg, Olanda, Portugalia, Elveţia, Turcia, Republica Moldova). Documentul emis în temeiul Convenţiei CIEC nr. 20/1980 nu necesită supralegalizare/apostilare şi nici traducere). În alte state, documentele similare certificatului de capacitate matrimonială poartă denumirea „Certificat de cutumă”, „Permisiune de căsătorie” etc.). </span></li><li class=\"ql-align-justify\"><span style=\"color: black;\">Declarația pe propria răspundere cu privire la starea civilă şi lipsa impedimentelor la căsătorie, în cazurile în care autoritățile competente ale statelor străine nu emit certificate privind starea civilă sau certificate privind capacitatea matrimonială (sau în mare parte acestea sunt țările arabe, care emit un document „Componența/registrul familiei”). În cazul cetățenilor acestor țări se acceptă Declarația pe propria răspundere din care să rezulte faptul că persoana nu este căsătorită și sunt îndeplinite condițiile de fond, cerute de legislația Republicii Moldova, pentru încheierea căsătoriei. </span></li></ol><p class=\"ql-align-justify\"><span style=\"color: black;\">Documentul&nbsp;emis în străinătate necesită supralegalizare sau apostilare (pentru țările care fac parte la Convenția de la Haga din 1961 cu privire la suprimarea cerinței supra legalizării actelor oficiale străine) şi traducere, dacă nu este stabilit altfel prin tratat/convenţie/acord la care Republica Moldova este parte.</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">La încheierea căsătoriei între cetățeni străini sau între aceștia și cetățeni ai Republicii Moldova, dacă cel puțin unul dintre ei nu cunoaște limba în care are loc oficierea căsătoriei, precum și în cazul în care una sau ambele persoane care se căsătoresc sunt surdomute, se va recurge la serviciile interpretului.</span></p><p class=\"ql-align-justify\"><strong style=\"color: black;\">Încheierea căsătoriei cu o persoană condamnată sau arestată</strong></p><p class=\"ql-align-justify\"><span style=\"color: black;\">Încheierea căsătoriei cu o persoană condamnată sau arestată se înfăptuiește către serviciul stare civilă, din raza teritorială a penitenciarului sau al izolatorului de urmărire penală, în localul instituției respective. Data, ora și locul încheierii căsătoriei se coordonează în prealabil cu administrația penitenciarului și cu procurorul care conduce sau, după caz, efectuează urmărirea penală în cauza respectivă.</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">Pentru completarea declarației de căsătorie, persoanei condamnate sau arestate i se pune la dispoziție formularul respectiv. Exactitatea datelor înscrise în declarație se confirmă de către șeful instituției respective, care autentifică și semnătura declarantului.</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">Dacă cel care se căsătorește cu persoana condamnată sau arestată nu se poate prezenta personal pentru a face declarația de căsătorie, acesta poate expedia viitorului soț prin poștă formularul declarației, completat la rubrica \"El\" sau \"Ea\" și autentificat la organul de stare civilă de la locul de trai, iar persoana condamnată sau arestată completează declarația cu datele personale și o transmite la organul de stare civilă în a cărui rază teritorială se află penitenciarul sau izolatorul de urmărire penală.</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">Căsătoria cu o persoană care își ispășește pedeapsa administrativă va fi înregistrată după expirarea termenului sancțiunii aplicate.</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">După încheierea căsătoriei, menţiunea privind starea civilă a persoanei condamnate sau arestate se înscrie în dosarul personal al acesteia, indicându-se numele şi prenumele celuilalt soţ şi data încheierii căsătoriei.</span></p><p class=\"ql-align-justify\"><strong style=\"color: black;\">&nbsp;Încheierea căsătoriei în temeiul unei hotărâri judecătorești</strong></p><p class=\"ql-align-justify\"><span style=\"color: black;\">Înregistrarea căsătoriei în temeiul hotărârii judecătorești vizează situația oficierii căsătoriei la serviciul stare civilă, în modul stabilit, dintre două persoane care s-au aflat în relaţii de căsătorie consensuale în perioada de până la 8 iulie 1944, una dintre care a decedat sau a fost dată dispărută în timpul războiului. În acest caz, căsătoria se consideră valabilă de la data menţionată de persoanele în cauză în declaraţia de căsătorie.</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">Căsătoria se înregistrată în prezența persoanei interesate și numai pe baza unei hotărâri judecătoreşti privind constatarea existenţei relaţiilor consensuale între persoanele interesate.</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">Înregistrarea căsătoriei în temeiul hotărârii judecătorești vizează, totodată, situația întocmirii unui act de căsătorie reconstituit în temeiul unei hotărâri judecătorești cu privire la constatarea înregistrării faptului căsătoriei (emisă în cazul înregistrării anterior a actului respectiv și atestării lipsei în păstrare în fondul arhivistic a actului de stare civilă).</span></p><p class=\"ql-align-justify\"><strong style=\"color: black;\">Înregistrarea căsătoriei se realizează&nbsp;de către următoarele autorități publice competente:</strong></p><ul><li class=\"ql-align-justify\"><span style=\"color: black;\">serviciile stare civilă ale Agenției Servicii Publice;</span></li><li class=\"ql-align-justify\"><span style=\"color: black;\">autoritățile publice locale în localitățile unde nu sunt constituite serviciile stare civilă: primăriile satelor (comunelor) și orașelor;</span></li><li class=\"ql-align-justify\"><span style=\"color: black;\">misiunile diplomatice și/sau oficiile consulare ale Republicii Moldova acreditate în străinătate (MDOC), pentru cazurile domicilierii sau aflării temporare ale cetățenilor Republicii Moldova în străinătate (statul de reşedinţă al solicitantului în străinătate).</span></li></ul><p><strong style=\"color: black;\">Cerințe față de solicitant:</strong></p><ul><li class=\"ql-align-justify\"><span style=\"color: black;\">Vârsta minimă 18 ani.</span></li><li class=\"ql-align-justify\"><span style=\"color: black;\">Cetățean al Republicii Moldova, străinul cu ședere legală în Republica Moldova.</span></li><li class=\"ql-align-justify\"><span style=\"color: black;\">Străinii care intră în Republica Moldova pe segmentul transnistrean al frontierei moldo-ucrainene, necontrolat de autorităţile moldoveneşti, sunt obligați, în termen de 72 de ore din momentul trecerii frontierei de stat, să declare despre aceasta la una dintre </span>subdiviziunile<span style=\"color: black;\"> Biroului migrație şi azil.</span></li><li class=\"ql-align-justify\"><span style=\"color: black;\">Prezența fizică la depunerea declaraţiei de căsătorie şi la înregistrarea actului de căsătorie.</span></li></ul><p class=\"ql-align-justify\">Programarea prealabilă pentru solicitarea serviciilor în subdiviziunile teritoriale ale ASP este disponibilă accesând link-ul: <a href=\"https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro\" rel=\"noopener noreferrer\" target=\"_blank\">https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro</a></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "7496b619-4112-4f9c-8de1-583f3ca1fd62",
+      "code": "002000183",
+      "title": { "ro": "Înregistrarea decesului", "ru": null, "en": null },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\"><span style=\"color: black;\">Înregistrarea decesului reprezintă procedura de înregistrare a actului de deces în baza declarației de deces, în termenul și condițiile stabilite de lege. Declarația de deces se face verbal în termen de 3 zile de la data producerii decesului. Acest termen cuprinde atât ziua în care s-a produs decesul, cât și ziua în care se face declarația de deces.</span></p><p class=\"ql-align-justify\"><em style=\"color: black;\">Atenţie!Conform art. 339 alin. (1) din Codul contravenţional (Încălcarea legislației privind regimul actelor de stare civilă ), Tăinuirea naşterii ori a decesului sau declararea naşterii ori a decesului cu încălcarea condițiilor sau a termenelor prevăzute de legislație se sancționează cu amendă de la 9 la 21 de unități convenționale. Iar înhumarea sau incinerarea cadavrului fără înregistrarea decesului la organul de stare civilă sau la autoritatea abilitată prin lege în acest sens se sancţionează cu amendă de la 9 la 30 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 90 la 180 de unităţi convenţionale aplicată persoanei juridice.</em></p><p class=\"ql-align-justify\"><span style=\"color: black;\">Au obligația de a face declarația de deces:</span></p><ul><li class=\"ql-align-justify\"><span style=\"color: black;\">membrii familiei;</span></li><li class=\"ql-align-justify\"><span style=\"color: black;\">rudele decedatului;</span></li><li class=\"ql-align-justify\"><span style=\"color: black;\">în lipsa persoanelor enumerate mai sus obligația de a declara decesul le revine colocatarilor, vecinilor, administrației imobilului, medicului sau altă persoană din unitatea sanitară unde s-a produs decesul;</span></li><li class=\"ql-align-justify\"><span style=\"color: black;\">în cazul decedării persoanei în penitenciar sau într-o instituție de protecție socială, obligația de a face declarația de deces revine administrației instituției respective.</span></li></ul><p class=\"ql-align-justify\"><span style=\"color: black;\">Certificatul de deces se eliberează membrilor familiei sau în cazul lipsei acestora (fapt probat documentar), rudelor persoanei decedate.</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">În condițiile imposibilității aprecierii calității de persoană îndreptățită la eliberarea certificatului de deces pe numele persoanei decedate (în condițiile neprezentării probelor pertinente), în vederea asigurării exercitării dreptului de a iniţia acţiunea notarială cu privire la deschiderea dosarului succesoral, în conformitate cu dispoziţiile art. 10 din Legea cu privire la organizarea activităţii notariale nr. 69/2016 se statuează dreptul notarului competent de deschiderea procedurii notariale să solicite şi să primească informaţii relevante pentru desfăşurarea activităţii notariale de la autorităţile administraţiei publice centrale sau locale, instituţii, inclusiv financiare, de la alte organizaţii deţinătoare de registre de stat. </span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">În cazul înregistrării decesului în baza certificatului constatator de deces ce a depășit termenul de un an de la data când s-a produs evenimentul, întocmirea actului de deces are loc în procedura administrativă de înregistrare ulterioară a actului de stare civilă (Serviciul „Înregistrarea ulterioară a actului de stare civilă”).</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">În anumite cazuri înregistrarea decesului este efectuată cu respectarea condițiilor fixate pentru reconstituirea actului de stare civilă:</span></p><ul><li class=\"ql-align-justify\"><span style=\"color: black;\">decesului persoanei represate în baza comunicării Serviciului de Informații și Securitate al Republicii Moldova, indiferent de timpul când a avut loc decesul;</span></li></ul><p class=\"ql-align-justify\"><span style=\"color: black;\">Decesul poate fi înregistrat și în temeiul hotărârii instanței de judecată (de către Serviciul stare civilă, din raza teritorială de competenţă a instanţei judecătoreşti emitente), fiind stabilite următoarele scenarii, după cum urmează: </span></p><ul><li class=\"ql-align-justify\"><span style=\"color: black;\">hotărârea judecătorească privind constatarea înregistrării decesului (se întocmeşte un act de deces reconstituit); </span></li><li class=\"ql-align-justify\"><span style=\"color: black;\">hotărârea judecătorească privind constatarea decesului la o anumită dată şi în anumite împrejurări (Se întocmeşte un act de deces în ordine de înregistrare curentă dacă constatarea faptului decesului a avut loc înăuntrul termenului de 1 an de la producerea faptului juridic. Dacă constatarea faptului decesului a avut loc după expirarea unui an de la producerea faptului juridic, sistematizarea actelor de deces are loc în registrele actelor întocmite ulterior; </span></li><li class=\"ql-align-justify\"><span style=\"color: black;\">hotărârea judecătorească privind declararea persoanei decedată (Se întocmeşte un act de deces în ordine de înregistrare curentă dacă data stabilită a decesului persoanei declarate decedată a avut loc înăuntrul termenului de 1 an în raport cu data înregistrării actului de deces. Se întocmeşte un act de deces în ordine de înregistrare ulterioară dacă înregistrarea actului de deces se realizează după expirarea unui an de la data stabilită a decesului persoanei declarate decedată. Dacă data nu e stabilită expres, atunci data decesului este data rămânerii definitivă a hotărârii judecătoreşti.&nbsp;</span></li></ul><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><strong style=\"color: black;\">Actul de deces se întocmește pe baza declarației verbale:</strong></p><p class=\"ql-align-justify\"><span style=\"color: black;\">- la serviciul stare civilă sau primăria localității&nbsp;în a cărui rază teritorială:</span></p><ul><li class=\"ql-align-justify\"><span style=\"color: black;\">s-a produs decesul;</span></li><li class=\"ql-align-justify\"><span style=\"color: black;\">a avut ultimul domiciliu persoana decedată;</span></li><li class=\"ql-align-justify\"><span style=\"color: black;\">a fost găsit cadavrul persoanei decedate;</span></li><li class=\"ql-align-justify\"><span style=\"color: black;\">se află instituția care a eliberat actul constatator al decesului.</span></li></ul><p class=\"ql-align-justify\"><span style=\"color: black;\">- la Misiunile diplomatice și Oficiile consulare ale Republicii Moldova în cazul când decesul s-a produs peste hotarele țării.</span></p><p class=\"ql-align-justify\">Programarea prealabilă pentru solicitarea serviciilor în subdiviziunile teritoriale ale ASP este disponibilă accesând link-ul: <a href=\"https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro\" rel=\"noopener noreferrer\" target=\"_blank\">https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro</a></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "527a4ea4-4bf5-4edb-b6ea-23df665c7573",
+      "code": "002000196",
+      "title": { "ro": "Înregistrarea divorțului", "ru": null, "en": null },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\"><span style=\"color: black;\">Înregistrarea divorțului se realizează în temeiul:</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">a) declaraţiei comune a soţilor privind divorţul;&nbsp;&nbsp;&nbsp;</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">b) declaraţiei unuia dintre soţi privind divorţul şi hotărârea (sentinţa) judecătorească - dacă celălalt soţ este:</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">&nbsp;&nbsp;&nbsp;-&nbsp;supus unei măsuri de ocrotire judiciare sub forma tutelei;</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">&nbsp;&nbsp;&nbsp;- declarat dispărut;</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">&nbsp;&nbsp;&nbsp;- condamnat la privaţiune de libertate pe un termen mai mare de 3 ani;</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">c) hotărârii instanţei judecătoreşti cu privire la desfacerea căsătoriei.</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">d) încheierii notariale de desfacere a căsătoriei prin acordul soților.&nbsp;&nbsp;</span></p><p class=\"ql-align-justify\"><strong style=\"color: black;\">&nbsp;</strong></p><p class=\"ql-align-justify\"><strong style=\"color: black;\">Înregistrarea divorţului pe baza declaraţiei comune a soţilor.</strong></p><p class=\"ql-align-justify\"><span style=\"color: black;\">Înregistrarea divorțului în baza acordului comun al soţilor se realizează în cazurile în care între aceștia nu există neînțelegeri referitoare la partajul proprietății comune în devălmășie, la întreținerea, educația și domiciliul copiilor minori comuni sau la întreținerea unuia dintre soți</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">Înregistrarea divorțului reprezintă un act personal.</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">Prestarea serviciului presupune prezența fizică, cel puțin a unuia dintre soți, în două etape, în fața serviciului stare civilă, a persoanelor interesate: la depunerea declarației de divorț și înregistrarea actului de divorț. La înregistrarea divorțului se întocmește actul de divorț, care se semnează de către declaranți și se autentifică de către persoana responsabilă de înregistrarea divorțului, aplicându-se sigiliul. Pe baza actul de </span>divorţ <span style=\"color: black;\">se eliberează pentru fiecare dintre foștii soți certificatul de divorț. </span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">Dacă unul dintre soţi se află în imposibilitate de a se prezenta personal la organul de stare civilă pentru a depune declaraţia de divorţ, dorinţa acestuia poate fi expusă într-o declaraţie separată. În acest caz, declarația va fi autentificată de notar.</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">Divorţul se înregistrează în prezenţa ambilor sau a unuia dintre soţi, la expirarea termenului de o lună de la data depunerii declaraţiei.</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">Absenţa nemotivată a unuia dintre soți la înregistrarea divorţului nu împiedică desfacerea căsătoriei.</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">&nbsp;</span></p><p class=\"ql-align-justify\"><strong style=\"color: black;\">Înregistrarea divorţului pe baza declaraţiei unuia dintre soţi.</strong></p><p class=\"ql-align-justify\"><span style=\"color: black;\">Înregistrarea divorţului va avea loc în prezenţa solicitantului, la expirarea termenului de o lună de la data depunerii declaraţiei de divorţ, în cazurile prevăzute legal.</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">&nbsp;</span></p><p class=\"ql-align-justify\"><strong style=\"color: black;\">Înregistrarea divorţului în temeiul unei hotărâri judecătorești</strong></p><p class=\"ql-align-justify\"><span style=\"color: black;\">Înregistrarea divorțului se realizează, din oficiu, în temeiul termen de 3 zile de la data primirii copiei de pe hotărârea judecătorească privind desfacerea căsătoriei. Rubricile actului de divorţ se completează, în măsura posibilităţilor, conform hotărârii judecătoreşti şi certificatului de căsătorie remis de către instanţa judecătorească.</span></p><p><span style=\"color: black;\">La adresarea foştilor soţi în vederea primirii certificatului de divorţ, organul de stare civilă va finaliza perfectarea actului respective (prin completarea actului de divorț) și va elibera certificatul de divorţ.</span></p><p>Dacă actul de divorţ a fost întocmit în baza copiei hotărîrii instanţei judecătoreşti privind desfacerea căsătoriei, se permite completarea actului de divorţ la cererea unei persoane împuternicite care prezintă procura, cu indicarea acţiunii concrete (privind desfacerea căsătoriei), prevăzîndu-se şi numele ales de mandant la înregistrarea divorţului, dacă acesta este în drept să revină la numele de pînă la căsătorie.</p><p><br></p><p class=\"ql-align-justify\"><strong style=\"color: black;\">Înregistrarea divorțului se realizează de către următoarele autorități competente:</strong></p><ul><li class=\"ql-align-justify\"><span style=\"color: black;\">serviciile stare civilă ale Agenției Servicii Publice, în baza acordului comun al soţilor, în cazurile în care între aceștia nu există neînțelegeri referitoare la partajul proprietății comune în devălmășie, la întreținerea, educația și domiciliul copiilor minori comuni sau la întreținerea unuia dintre soți;</span></li><li class=\"ql-align-justify\"><span style=\"color: black;\">instanța judecătorească, în cazul lipsei acordului soților pentru înregistrarea divorțului prin acord comun sau în cazul imposibilității unuia dintre soți de a se adresa la organul de stare civilă;</span></li><li class=\"ql-align-justify\"><span style=\"color: black;\">misiunile diplomatice și/sau oficiile consulare ale Republicii Moldova acreditate în străinătate (MDOC), pentru cazurile divorțului prin acord comun și a domicilierii sau aflării temporare ale cetățenilor Republicii Moldova în străinătate (statul de reşedinţă al solicitantului în străinătate);</span></li><li class=\"ql-align-justify\"><span style=\"color: black;\">notar.</span></li></ul><p class=\"ql-align-justify\"><span style=\"color: black;\">Competența teritorială la înregistrarea divorțului la serviciul stare civilă este determinate de raza teritorială unde îşi au domiciliul ambii sau unul dintre soţi ori&nbsp;de organul de stare civilă unde a fost înregistrată căsătoria.</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">Înregistrarea divorţului în temeiul hotărârii judecătoreşti privind desfacerea căsătoriei are loc la organul de stare civilă&nbsp;din raza teritorială a instanţei judecătoreşti respective.</span></p><p class=\"ql-align-justify\">Programarea prealabilă pentru solicitarea serviciilor în subdiviziunile teritoriale ale ASP este disponibilă accesând link-ul: <a href=\"https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro\" rel=\"noopener noreferrer\" target=\"_blank\">https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro</a></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "dc6b873e-24be-40c3-bd1d-5469045dc344",
+      "code": "002000332",
+      "title": {
+        "ro": "Înregistrarea faptului recunoașterii paternității",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p><span style=\"color: black;\">Dacă părinţii copilului nu sunt căsătoriţi, datele despre tată pot fi înscrise în baza declaraţiei comune a părinţilor privind stabilirea paternităţii. Declaraţia comună a mamei şi tatălui copilului privind paternitatea poate fi depusă la organul de stare civilă teritorial şi până la naşterea copilului.În cazurile când mama este decedată, declarată decedată, incapabilă sau dispărută ori când nu i se cunoaşte locul aflării, precum şi în cazul decăderii ei din drepturile părinteşti, paternitatea se stabileşte în baza declaraţiei tatălui şi a acordului scris al autorităţii tutelare sau prin hotărârea instanţei judecătoreşti dacă lipseşte un astfel de acord. Dacă copilul este născut din părinţi necăsătoriţi între ei şi în lipsa declaraţiei comune a părinţilor sau a tatălui copilului, paternitatea poate fi stabilită de către instanţa judecătorească în baza declaraţiei unuia dintre părinţi, a tutorelui (curatorului) copilului sau a copilului însuşi la atingerea majoratului. În cazul naşterii copilului din părinţi necăsătoriţi între ei, dacă lipseşte cererea comună a părinţilor sau hotărârea instanţei judecătoreşti privind stabilirea paternităţii, numele de familie al tatălui se înscrie după numele de familie al mamei, iar prenumele tatălui - la indicaţia mamei sau a persoanei care face declaraţia de naştere. Înscrierea datelor privind tatăl copilului în acest caz nu poate împiedica stabilirea ulterioară a paternităţii.</span></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "d1ac8c88-ace2-4a96-906b-e79e27e470b5",
+      "code": "002000206",
+      "title": { "ro": "Înregistrarea nașterii", "ru": null, "en": null },
+      "description": {
+        "ro": "<p><span style=\"color: black;\">Înregistrarea actului de naștere reprezintă procedura de înregistrare a nou-născutului în baza declarației de naștere a părinților, a unuia dintre ei sau a altor persoane împuternicite conform condițiilor și termenului stabilit de legiuitor.</span></p><p><span style=\"color: black;\">Actul de naștere reprezintă actul de stare civilă întocmit pe un formular tipizat, de model unic pe întreg teritoriul Republicii Moldova, care confirmă faptul nașterii titularului acestuia.</span></p><p><strong style=\"color: black;\">Declarația de naștere.</strong></p><p><span style=\"color: black;\">Obligația de a declara nașterea copilului o au părinții sau unul dintre ei. În cazul imposibilității prezentării personale a părinților, declarația de naștere se face de către: </span></p><ul><li>rudele părinților;</li><li>o persoană împuternicită de părinții copilului;</li><li>administrația unității sanitare în care s-a produs nașterea sau în care se află copilul;</li><li>autoritatea tutelară.</li></ul><p><strong>Temei pentru înregistrarea nașterii servesc:&nbsp;</strong></p><p>a) certificatul medical constatator al nașterii, eliberat de unitatea sanitară în care a avut loc nașterea;</p><p>b) certificatul medical de naştere, eliberat de unitatea sanitară privată, de medicul care a asistat naşterea sau la care s-a adresat mama după naştere (cînd naşterea s-a produs în afara unităţii sanitare) ori de un medic privat care a asistat naşterea;</p><p>c) procesul-verbal şi certificatul prin care se constată sexul şi vârsta copilului – în cazul înregistrării naşterii unui copil găsit.</p><p>În lipsa actelor prevăzute la lit. a)-c), înregistrarea naşterii copilului se face pe baza hotărârii instanţei judecătoreşti privind stabilirea faptului naşterii copilului de către o femeie concretă</p><p><strong style=\"color: black;\">Termenul depunerii declarației de naștere.</strong></p><p><span style=\"color: black;\">Termenul acordat pentru declararea nașterii și înregistrarea actului de stare civilă este de cel mult 3 luni din ziua nașterii copilului.</span></p><p><strong style=\"color: black;\"><em>! Atenție: </em></strong><em style=\"color: black;\"> </em><em>Conform art. 339 alin. (1) din Codul contravențional </em><em style=\"color: black;\">(Încălcarea legislației privind regimul actelor de stare civilă), „Tăinuirea naşterii ori a decesului sau declararea naşterii ori a decesului cu încălcarea condițiilor sau a termenelor prevăzute de legislație se sancționează cu amendă de la 9 la 21 de unități convenționale.”</em></p><p><strong style=\"color: black;\"><em>! Atenție:</em></strong><em style=\"color: black;\"> Conform art.25 din Legea nr. 100/2001 privind actele de stare civilă, „Persoana care a găsit un copil abandonat este obligată să anunțe în termen de 24 de ore poliția și să prezinte copilul cu toate obiectele și înscrisurile aflate asupra lui</em><span style=\"color: black;\">.”</span></p><p><strong style=\"color: black;\">Înscrierea datelor despre părinți.</strong></p><p><span style=\"color: black;\">Datele privind mama se înscriu în actul de naștere în baza certificatului medical constatator de naștere. Conform art. 47 (3) al Codului familiei al Republicii Moldova, copilul născut din părinți căsătoriți ori în timp de 300 de zile din momentul desfacerii căsătoriei, declarării căsătoriei nule sau decesului soțului mamei copilului are ca tată pe soțul (fostul soț) al mamei, dacă nu a fost stabilit contrariul. Datele despre tata se înscriu în acest caz în baza actului de căsătorie.</span></p><p><span style=\"color: black;\">Prezumția de paternitate a soțului (fostului soț) poate fi înlăturată printr-o declarație a soților (foștilor soți) depusă personal la momentul înregistrării actului de naştere. În cazul în care soții (unul din ei) nu se pot prezenta personal, declarația se autentifică notarial și se expediază la organul de stare civilă. Conform art. 47 (5) al Codului familiei al Republicii Moldova, dacă părinții copilului nu sunt căsătoriți, datele despre tată pot fi înscrise în baza declarației privind stabilirea paternității.</span></p><p><span style=\"color: black;\">Declarația comună a mamei și tatălui copilului privind paternitatea poate fi depusă la organul de stare civilă teritorial și până la nașterea copilului.În cazurile în care mama este decedată, declarată decedată, incapabilă sau dispărută ori când nu i se cunoaște locul aflării, precum și în cazul decăderii ei din drepturile părintești, paternitatea se stabilește în baza declarației tatălui și a acordului scris al autorității tutelare sau prin hotărârea instanței judecătorești dacă lipsește un astfel de acord.</span></p><p><span style=\"color: black;\">Dacă copilul este născut din părinți necăsătoriți între ei și în lipsa declarației comune a părinților sau a tatălui copilului, paternitatea poate fi stabilită de către instanța judecătorească în baza declarației unuia dintre părinți, a tutorelui (curatorului) copilului sau a copilului însuși la atingerea majoratului.</span></p><p><span style=\"color: black;\">În cazul nașterii copilului din părinți necăsătoriți între ei, dacă lipsește cererea comună a părinților sau hotărârea instanței judecătorești privind stabilirea paternității, numele de familie al tatălui se înscrie după numele de familie al mamei, iar prenumele tatălui - la indicația mamei sau a persoanei care face declarația de naștere. Înscrierea datelor privind tatăl copilului în acest caz nu poate împiedica stabilirea ulterioară a paternității. La dorința mamei, rubrica privind datele despre tatăl copilului din actul de naștere poate rămâne necompletată.</span></p><p><strong style=\"color: black;\"><em>! Atenție:</em></strong> <em>În cazul înregistrării naşterii în baza certificatului constatator de naştere ce a depășit termenul de un an de la data când s-a produs evenimentul, întocmirea actului de naştere are loc în procedura administrativă de înregistrare ulterioară a actului de stare civilă (Serviciul „Înregistrarea ulterioară a actului de stare civilă”).</em></p><p><strong style=\"color: black;\">Înscrierea numelui de familie și a prenumelui copilului.</strong></p><p><span style=\"color: black;\">Conform art. 54 alin. (2) al Codului familiei al Republicii Moldova, copilul dobândește numele de familie al părinților săi.</span></p><p><span style=\"color: black;\">Dacă părinții poartă nume de familie diferite, copilul va lua numele tatălui sau al mamei, în baza acordului comun al acestora.</span></p><p><span style=\"color: black;\">Prenumele copilului poate fi simplu sau compus din două prenume, potrivit voinței ambilor părinți. Organul de stare civilă poate refuza înscrierea unor prenume care sunt formate din cuvinte indecente ori ridicole.</span></p><p><span style=\"color: black;\">Conform art. 54 alin. (4) al Codului familiei al Republicii Moldova, în caz de litigiu între părinți privind numele și/sau prenumele copilului, decide autoritatea tutelară.</span></p><p>Programarea prealabilă pentru solicitarea serviciilor în subdiviziunile teritoriale ale ASP este disponibilă accesând link-ul: <a href=\"https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro\" rel=\"noopener noreferrer\" target=\"_blank\">https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro</a></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "category": {
+    "title": { "ro": "Angajarea în câmpul muncii", "ru": null, "en": null },
+    "description": {
+      "ro": "Un set de servicii sau evenimente de viață legate de căutarea unui loc de muncă, consiliere pentru persoanele care se află în căutarea unui loc de muncă, instruire vocațională, recalificare, concedii",
+      "ru": null,
+      "en": null
+    }
+  },
+  "subcategories": [],
+  "publicServices": [
+    {
+      "id": "6749c54c-57bb-4a74-b30c-587c07620588",
+      "code": "010000029",
+      "title": {
+        "ro": "Înregistrarea contractelor individuale de muncă ale emigranților",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\"><span style=\"color: rgb(51, 51, 51);\">Agenția Națională înregistrează contractele individuale de muncă, indiferent de modalitatea de angajare în străinătate, în conformitate cu prevederile Legii nr.105/2018 privind promovarea ocupării forței de muncă și asigurarea de șomaj (art. 63</span><sup style=\"color: rgb(51, 51, 51);\">2</sup><span style=\"color: rgb(51, 51, 51);\">&nbsp;(2),(3)). La angajare în câmpul muncii în străinătate, cetățenii Republicii Moldova urmează să se asigure cu privire la:</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(51, 51, 51);\">a) îndeplinirea condițiilor de intrare, ședere și ieșire pe/de pe teritoriul țării de destinație;</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(51, 51, 51);\">b) obținerea unui act ce conferă dreptul de a desfășura activitate de muncă;</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(51, 51, 51);\">c) obținerea unui contract individual de muncă sau a altei forme de reglementare a raporturilor de muncă, conform legislației țării de destinație;</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(51, 51, 51);\">d) obținerea asigurării medicale valabile pe teritoriul țării de destinație;</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(51, 51, 51);\">e) alte prevederi aplicabile lucrătorilor imigranți în țara&nbsp;de destinație.</span></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "0702b236-c059-4352-aeef-4a9c9587f598",
+      "code": "010000016",
+      "title": {
+        "ro": "Înregistrarea oficială în calitate de șomer",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Șomer este considerată persoana aflată în căutarea unui loc de muncă, care întrunește cumulativ următoarele condiţii:</p><ul><li>are vârsta cuprinsă între 16 ani și vârsta stabilită pentru obținerea dreptului la pensie pentru limită de vârstă sau la o altă categorie de pensie, conform legislației în vigoare, cu excepția persoanelor care exercită dreptul la pensie de urmaș și la pensie de dizabilitate, cărora li se recomandă încadrarea în câmpul muncii în baza programului individual de reabilitare şi incluziune socială;</li><li>este aptă pentru prestarea unei munci;</li><li>nu are un loc de muncă;</li><li>nu studiază la o formă de învățământ cu frecvență;</li><li>caută activ un loc de muncă atât în mod individual, cit și prin intermediul subdiviziunii teritoriale și este disponibilă să înceapă activitatea de muncă;</li><li>este înregistrată cu statut de șomer la subdiviziunea teritorială.</li></ul><p><br></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "1f999eca-eb15-4d7d-bedf-b842405b7f97",
+      "code": "010000058",
+      "title": {
+        "ro": "Servicii de ghidare în carieră pentru persoanele aflate în căutarea unui loc de muncă",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p><span style=\"color: rgb(51, 51, 51);\">Are drept scop susținerea&nbsp;persoanelor aflate în căutarea unui loc de muncă în identificarea oportunităților educaționale și profesionale. </span></p><p><strong style=\"color: rgb(51, 51, 51);\">Cine poate beneficia:</strong></p><p><span style=\"color: rgb(51, 51, 51);\">·&nbsp;toate persoanele aflate în căutarea unui loc de muncă. </span></p><p><strong style=\"color: rgb(51, 51, 51);\">Tipuri de activităţi:</strong></p><p><span style=\"color: rgb(51, 51, 51);\">·Informarea cu privire la profesii și specificul pieței muncii urmăreşte sprijinirea persoanei în vederea corelării intereselor profesionale cu solicitările pieței muncii;·&nbsp;Autocunoașterea constă în sprijinirea persoanei în evaluarea și autoevaluarea personalității în vederea corelării abilităților, aptitudinilor, studiilor şi a experienţei cu interesele profesionale;·&nbsp;Consultanța în elaborarea instrumentelor de marketing personal include suport și informare în elaborarea curriculumului vitae, scrisorii de intenție și pentru susținerea unui interviu pentru integrare în cîmpul muncii;·Consultanța pentru decizia de carieră presupune sprijinirea persoanelor aflate în căutarea unui loc de muncă în vederea luării deciziei privind propria carieră.</span></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "e2e9c47f-5018-4712-af6a-620a17d7cc97",
+      "code": "010000045",
+      "title": {
+        "ro": "Servicii de informare privind piața muncii pentru persoanele aflate în căutarea unui loc de muncă",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>Oferim informații asupra situației generale a pieței muncii și a principalelor sale tendințe de dezvoltare.</p><p><strong>Cine poate beneficia:</strong></p><ul><li>persoanele aflate în căutarea unui loc de muncă, inclusiv persoanele înregistrate cu statut de șomer</li></ul><p><strong>Tipuri de informații oferite de subdiviziunile teritoriale:</strong></p><ul><li>cererea și oferta de muncă, înregistrate la Agenția Națională;</li><li>serviciile și măsurile în vederea plasării în cîmpul muncii;</li><li>condițiile de acces la serviciile și măsurile de ocupare a forței de muncă;</li><li>locurile de muncă vacante înregistrate la Agenția Națională și condițiile de ocupare a acestora;</li><li>metodele de căutare a unui loc de muncă;</li><li>situația și tendințele ocupaţionale pe piața muncii.</li></ul><p><br></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    }
+  ]
+}

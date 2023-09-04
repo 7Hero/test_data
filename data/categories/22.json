@@ -1,0 +1,189 @@
+{
+  "category": {
+    "title": { "ro": "Cetățenie și rezidență", "ru": null, "en": null },
+    "description": {
+      "ro": "Un set de servicii sau evenimente de viață legate de cetățenie și rezidență (inclusiv procedura de votare și participarea la activitățile comunitare)",
+      "ru": null,
+      "en": null
+    }
+  },
+  "subcategories": [],
+  "publicServices": [
+    {
+      "id": "fc229d98-0ce6-4d5e-8962-3b0211773d7f",
+      "code": "005000131",
+      "title": {
+        "ro": "Abrogarea Decretului sau a părții din Decretul Președintelui Republicii Moldova privind aprobarea renunțării la cetățenia Republicii Moldova",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">Persoana căreia i s-a aprobat renunţarea la cetăţenia Republicii Moldova, dar care în pofida garanţiei, nu a dobândit cetăţenia unui alt stat, adică a  devenit apatridă poate solicita abrogarea Decretului sau a părții din Decretul privind aprobarea renunţării la cetăţenia Republicii Moldova.</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "e4389e86-c9f6-48c3-8d47-f7cbd6e20c21",
+      "code": "005000128",
+      "title": {
+        "ro": "Adeverința privind acordarea cetățeniei Republicii Moldova în temeiul Decretului Președintelui Republicii Moldova de acordare a cetățeniei Republicii Moldova în interesele republicii",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>Persoanei căreia i s-a acordat cetăţenia Republicii Moldova în temeiul Decretului Preşedintelui Republicii Moldova de acordare a cetăţeniei Republicii Moldova în interesele republicii poate solicita adeverinţa care confirmă acest fapt la depunerea cererii respective.</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "4a0d3ffb-9310-4401-bc5b-8e6c630102a0",
+      "code": "015000273",
+      "title": {
+        "ro": "Adeverință de recrut",
+        "ru": "Приписное свидетельство",
+        "en": null
+      },
+      "description": {
+        "ro": "Obținerea adeverinței de recrut",
+        "ru": "<p><span style=\"color: rgb(77, 81, 86);\">Получение&nbsp;</span><span style=\"color: rgb(95, 99, 104);\">приписного свидетельства</span></p>",
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "a459e10a-c932-4a27-b2d1-bf70570871d8",
+      "code": "005000089",
+      "title": {
+        "ro": "Dobândirea cetățeniei Republicii Moldova prin naturalizare",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Cetăţenia Republicii Moldova poate fi acordată la cerere cetăţeanului străin sau apatridului cu domiciliul legal şi obişnuit pe teritoriul Republicii Moldova, care respectă prevederile Constituţiei, a susţinut testul pentru evaluarea nivelului de cunoaştere a limbii de stat şi are surse legale de venit, cu respectarea uneia dintre următoarele condiţii:</p><ul><li>are domiciliul pe teritoriul Republicii Moldova cel puţin în ultimii 10 ani. Pentru apatrizi, refugiaţi şi beneficiarii de protecţie umanitară şi azil politic, termenul respectiv este de 8 ani;</li><li>are domiciliul pe teritoriul Republicii Moldova timp de 5 ani înaintea împlinirii vârstei de 18 ani;</li><li>este căsătorit cu un cetăţean al Republicii Moldova de cel puţin 3 ani şi a avut domiciliul în mod continuu pe teritoriul Republicii Moldova în ultimii 3 ani;</li><li>are domiciliul pe teritoriul Republicii Moldova în ultimii 3 ani la părinţi sau la copii (inclusiv părinţi adoptivi sau copii adoptaţi) cetăţeni ai Republicii Moldova.</li></ul><p><span style=\"color: rgb(102, 102, 102);\">Termenul de şedere legală şi continuă pe teritoriul Republicii Moldova a străinului se calculează de la data autorizării de către autorităţile Republicii Moldova a şederii acestuia pe teritoriul ţării. Data autorizării şederii se consideră data eliberării de către autorităţile competente a documentului care confirmă dreptul de şedere al străinului pe teritoriul Republicii Moldova. Dovada şederii legale şi continue se face cu documentele oficiale, eliberate de autorităţile competente ale Republicii Moldova, sau în baza informaţiei din Registrul de stat al populaţiei.</span></p><p><strong>Cerințe față de solicitant: </strong>Cetăţeni străini, apatrizi, beneficiari de protecţie internaţională.</p><p>Cererea pentru dobândirea cetăţeniei Republicii Moldova prin naturalizare poate fi depusă personal sau prin mandatar, ultimul dispunând de procură autentificată de notar sau de alte persoane abilitate prin lege cu astfel de funcţie.</p><p>Lista documentelor pentru depunerea cererii poate fi accesată aici: <a href=\"https://www.asp.gov.md/ro/servicii/persoane-fizice/17/173/dn\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.asp.gov.md/ro/servicii/persoane-fizice/17/173/dn</a></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "d33a2f64-bf7e-4b2d-84b3-32ab06e0afd4",
+      "code": "005000092",
+      "title": {
+        "ro": "Dobândirea cetățeniei Republicii Moldova prin recunoaștere (în temeiul prevederilor art. 12, alin. (1(1)) din Legea cetăţeniei Republicii Moldova nr. 1024/2000)",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Persoanele cu vârsta de peste 18 ani, născute pe teritoriul Republicii Moldova, care nu sunt luate în evidenţă de autoritatea competentă ca cetăţeni ai Republicii Moldova şi care nu deţin dovada cetăţeniei sunt recunoscute ca cetăţeni ai Republicii Moldova, iar data dobândirii cetăţeniei se consideră data exprimării consimțământului în scris în acest sens.&nbsp;</p><p>În cazul în care persoana nu este de acord cu data dobândirii cetăţeniei, la solicitarea acesteia, autoritatea competentă determină data dobândirii cetăţeniei în temeiul documentelor care confirmă că persoana respectivă întrunea sau întruneşte condiţiile prevăzute de legislaţia în vigoare sau de cea anterioară în materie de cetăţenie, prin care a fost declarată cetăţean al Republicii Moldova.</p><p><strong>Cerințe față de solicitant: </strong>Cetăţeni străini, persoane cu statut juridic nedeterminat.</p><p>Cererea pentru dobândirea cetăţeniei Republicii Moldova prin recunoaştere poate fi depusă personal sau prin mandatar, ultimul dispunând de procură autentificată de notar sau de alte persoane abilitate prin lege cu astfel de funcţie.</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "e4fa3188-fbd3-4e0b-8009-9d5e41504b9c",
+      "code": "005000115",
+      "title": {
+        "ro": "Dobândirea cetățeniei Republicii Moldova prin recunoaștere (în temeiul prevederilor art. 12, alin. (2) din Legea cetăţeniei Republicii Moldova nr. 1024/2000)",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">Sunt recunoscute ca cetăţeni ai Republicii Moldova persoanele care şi-au exprimat dorinţa de a deveni cetăţeni ai Republicii Moldova şi anume:</p><ul><li class=\"ql-align-justify\">persoanele născute în străinătate care au cel puţin unul dintre părinţi, bunici sau străbunici născut pe teritoriul Republicii Moldova;</li><li class=\"ql-align-justify\">persoanele care până la 28 iunie 1940 au locuit în Basarabia, în Nordul Bucovinei, în ţinutul Herţa şi în R.A.S.S.M., urmaşii lor;</li><li class=\"ql-align-justify\">persoanele deportate sau refugiate de pe teritoriul Republicii Moldova începând cu 28 iunie 1940, precum şi urmaşii lor;</li><li class=\"ql-align-justify\">persoanele care la data de 23 iunie 1990 locuiau legal şi obişnuit pe teritoriul Republicii Moldova şi care continuă să locuiască în prezent.</li></ul><p class=\"ql-align-justify\"><strong>Cerințe față de solicitant: </strong>Cetăţeni străini, apatrizi, beneficiari de protecţie internaţională, solicitanţi ai statutului de apatrid.</p><p class=\"ql-align-justify\">Cererea pentru dobândirea cetăţeniei Republicii Moldova prin recunoaştere poate fi depusă personal sau prin mandatar, ultimul dispunând de procură autentificată de notar sau de alte persoane abilitate prin lege cu astfel de funcţie.</p><p>Lista documentelor pentru depunerea cererii poate fi accesată aici: <a href=\"https://www.asp.gov.md/ro/servicii/persoane-fizice/17/172-dn-2\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.asp.gov.md/ro/servicii/persoane-fizice/17/172-dn-2</a></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "862a447e-c08d-4cb7-a3c5-f6ea4de93ed1",
+      "code": "005000021",
+      "title": {
+        "ro": "Eliberarea adeverinței privind renunțarea la cetățenia Republicii Moldova",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Persoanele care au renunțat la cetățenia Republicii Moldova pot solicita emiterea adeverinței privind renunțarea la cetățenia Republicii Moldova la sediul misiunilor diplomatice și oficiile consulare în străinătate și la sediul Direcției afaceri consulare, MAEIE</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "1a31af08-c632-46d9-bd83-67e0f86a5bc6",
+      "code": "005000034",
+      "title": {
+        "ro": "Examinarea cererii privind redobândirea cetățeniei Republicii Moldova pentru persoanele stabilite cu domiciliu permanent în străinătate, cu eliberarea adeverinței",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>Persoanele care au renunțat la cetățenia Republicii Moldova și au domiciliu legal și obițnuit în străinătate pot redobândi cetățenia moldovenească. În acest sens, vor depune la Ministerul Afacerilor Externe și Integrării Europene, Direcția Afaceri Consulare/Misiunile diplomatice și oficiile consulare ale Republicii Moldova setul de acte necesar.</p><p><strong>Atenție: </strong>Legislația unor state străine interzice dubla cetățenie. MAEIE recomandă cetățenilor care doresc să redobândească cetățenia Republicii Moldova să se adreseze autorităților competente din țara de reședință pentru a afla toată informația despre posibilitatea redobândirii cetățeniei.</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "b0dae2c0-d12e-47f5-bc3d-2e0d92c11593",
+      "code": "005000047",
+      "title": {
+        "ro": "Examinarea cererii privind renunțarea la cetățenia Republicii Moldova și perfectarea setului de documente respectiv, cu eliberarea adeverinței corespunzătoare.",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">Renunțarea la cetățenia Republicii Moldova se depune prin cererea cetățeanului Republicii Moldova care domiciliază legal și obișnuit în străinătate, adresată Președintelui Republicii Moldova și se depune în trei exemplare la misiunile diplomatice și oficiile consulare ale Republicii Moldova. </p><p class=\"ql-align-justify\">Renunțarea la cetățenia Republicii Moldova se aprobă solicitantului, cu condiția prezentării adeverinței privind deținerea sau dobândirea cetățeniei unui alt stat ori garanției dobândirii cetățeniei unui alt stat.</p><p class=\"ql-align-justify\"><strong>Atenție:</strong> Serviciul este prestat în exclusivitate de către misiunile diplomatice și oficiile consulare (MDOC) ale Republicii Moldova peste hotare.</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "1498ec84-7051-4950-927f-d4e14cebab07",
+      "code": "005000018",
+      "title": {
+        "ro": "Înregistrarea la domiciliu și/sau la reședința temporară sau radierea din evidență ",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">Evidenţa locuitorilor se ţine prin înregistrarea la domiciliu şi/sau la reşedinţa temporară în locuinţele proprietate publică sau proprietate privată, sau în alte încăperi locuibile reglementate de legislaţia în vigoare.</p><p class=\"ql-align-justify\">Persoanele nu pot avea concomitent decât un singur domiciliu şi/sau o singură reședința temporară. În cazul în care aceştia deţin mai multe locuinţe, îşi pot stabili domiciliul sau reşedinţa temporară în oricare dintre acestea.</p><p class=\"ql-align-justify\">Înregistrarea persoanei la reşedinţa temporară nu atrage după sine radierea obligatorie din evidenţa de la domiciliu.</p><p class=\"ql-align-justify\">Înregistrarea la domiciliu se efectuează concomitent cu radierea din evidenţa anterioară, fără aplicarea menţiunii de radiere.</p><p class=\"ql-align-justify\">Înregistrarea la domiciliu sau la reşedinţa temporară a copilului care nu a atins vârsta de 14 ani se efectuează la domiciliul sau la reşedinţa temporară a părinţilor, al unuia din părinţi sau a reprezentantului legal, în cazul în care instanţa de judecată nu a stabilit altfel.</p><p class=\"ql-align-justify\">Cererea pentru înregistrarea la domiciliu și/sau la reşedinţa temporară sau radierea din evidență se depune personal sau de reprezentatul împuternicit prin procură autentificată de notar sau de alte persoane abilitate prin lege cu astfel de funcţie ori prin împuternicire de reprezentare în baza semnăturii electronice, consemnată în Registrul împuternicirilor de reprezentare în baza semnăturii electronice, în țară, la orice serviciu eliberare a actelor de identitate (SEAI), iar în străinătate, la misiunile diplomatice sau oficiile consulare (MDOC) ale Republicii Moldova. În lipsa MDOC în statul de reşedinţă al solicitantului, cererea respectivă poate fi depusă la orice MDOC.</p><p class=\"ql-align-justify\">&nbsp;&nbsp;&nbsp;În cazul în care schimbarea domiciliului sau a reşedinţei temporare nu condiţionează schimbarea actului de identitate, se admite depunerea cererii de către alte persoane, şi anume:</p><ul><li class=\"ql-align-justify\">în cazul copilului, inclusiv al celui cu statut de copil rămas fără ocrotire părintească sau de copil rămas fără ocrotire părintească asupra căruia este instituită tutela sau curatela, precum şi în cazul persoanei supuse măsurii de ocrotire judiciară sub forma tutelei în calitate de solicitant acționează reprezentantul legal corespunzător al acestuia (unul dintre părinți, tutorele, curatorul . În noţiunea de copil nu se încadrează minorul care a dobândit capacitatea deplină de exerciţiu până la împlinirea vârstei de 18 ani în condiţiile art.26 alin.(2) şi (3) din Codul civil al Republicii Moldova.</li><li class=\"ql-align-justify\">în cazul copilului separat de părinţi, inclusiv al celuia plasat în serviciul de plasament de tip familial, cu excepția serviciului tutelă/curatelă, sau în serviciul de plasament de tip rezidenţial, cererea se depune de către autoritatea tutelară teritorială în a cărei rază de competență teritorială este locul aflării sau de plasament al copilului pe motivul aflării temporare a părinților/unicului părinte pentru o perioadă mai mare de două luni în altă localitate din țară sau de peste hotare, precum și în cazul copilului cu statut de copil rămas temporar fără ocrotire părintească sau de copil rămas fără ocrotire părintească care nu a fost plasat în serviciul tutelă/curatelă , cererea se depune de către autoritatea tutelară teritorială în evidența căreia se află copilul;</li><li class=\"ql-align-justify\">&nbsp;în cazul copilului cu statut de copil rămas temporar fără ocrotire părintească sau de copil rămas fără ocrotire părintească, asupra căruia nu este instituită ori a fost revocată tutela sau curatela în condiţiile prevederilor legale şi care este plasat în serviciul de plasament de tip familial sau de tip rezidenţial ori în instituţia de asistenţă socială publică, de educaţie, de învăţămînt, de tratament, ori într-o altă instituţie similară, cererea se depune, după caz, de către asistentul parental profesionist ori părintele-educator sau administraţia serviciilor de plasament respective, în baza acordului reprezentantului legal şi a dispoziției în acest sens a autorității tutelare teritoriale, în a cărei rază de competență teritorială este locul de plasament al copilului;</li><li class=\"ql-align-justify\">în cazul elevilor, studenţilor, masteranzilor, doctoranzilor, rezidenţilor şi secundariaţilor clinici cazaţi în cămine, al militarilor care îndeplinesc serviciul militar în termen, precum şi al persoanelor în etate, persoanelor cu dizabilităţi, persoanelor aflate la tratament prin constrângere, internate sau primite spre îngrijire ori în plasament în instituţiile de asistenţă socială, instituţiile medico-sanitare specializate (azil de bătrâni, centre de plasament, centre de reabilitare, centre comunitare multifuncţionale, instituţii psihoneurologice, precum şi alte instituţii similare), persoanelor condamnate la închisoare care îşi ispăşesc pedeapsa în instituţiile penitenciare – pe perioada detenţiei, iar în cazul persoanelor condamnate la detenţiune pe viaţă – permanent, persoanelor social-defavorizate fără domiciliu, plasate temporar în centre sociale, cererea pentru înregistrarea la reşedinţa temporară poate fi depusă prin intermediul reprezentantului serviciului responsabil de evidenţa locatarilor în încăperile locuibile sau prin intermediul unui angajat al instituţiei delegat cu asemenea atribuţii.</li><li class=\"ql-align-justify\">de alte persoane abilitate cu lege cu astfel de funcție se admite depunerea cererii prin împuternicire de reprezentare în baza semnăturii electronice, consemnată în Registrul împuternicirilor de reprezentare în baza semnăturii electronice.</li></ul>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "cd5f916c-7654-4e34-bd03-daacff070860",
+      "code": "005000076",
+      "title": { "ro": "Livretul militar", "ru": "Военный билет", "en": null },
+      "description": {
+        "ro": "Obținerea livretului militar",
+        "ru": "<p>Получение военного билета</p>",
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "6f5915b1-d2cb-427b-9d2d-d699d61e1cc8",
+      "code": "005000102",
+      "title": {
+        "ro": "Redobândirea cetățeniei Republicii Moldova",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">Persoana care a avut anterior cetăţenia Republicii Moldova o poate redobândi la cerere, păstrându-şi , la dorinţă, cetăţenia străină, dacă nu cade sub incidenţa art. 20, lit.a) - d) din Legea cetăţeniei Republicii Moldova nr. 1024/2000.</p><p class=\"ql-align-justify\"><strong>Cerințe față de solicitant: </strong>Cetăţeni străini, apatrizi, beneficiari de protecţie internaţională.</p><p class=\"ql-align-justify\">Cererea pentru redobândirea cetăţeniei Republicii Moldova poate fi depusă personal sau prin mandatar, ultimul dispunând de procură autentificată de notar sau de alte persoane abilitate prin lege cu astfel de funcţie.</p><p class=\"ql-align-justify\">Lista documentelor pentru depunerea cererii poate fi accesată aici: <a href=\"https://www.asp.gov.md/ro/servicii/persoane-fizice/17/174/dn\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.asp.gov.md/ro/servicii/persoane-fizice/17/174/dn</a></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    }
+  ]
+}

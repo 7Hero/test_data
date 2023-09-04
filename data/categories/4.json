@@ -1,0 +1,1212 @@
+{
+  "category": {
+    "title": { "ro": "Proprietate intelectuală", "ru": null, "en": null },
+    "description": {
+      "ro": "Un set de servicii sau evenimente de viață legate de proprietatea intelectuală (persoane fizice și juridice)",
+      "ru": null,
+      "en": null
+    }
+  },
+  "subcategories": [],
+  "publicServices": [
+    {
+      "id": "74c185a4-b197-4059-b7de-27c67e0dc5cd",
+      "code": "019000015",
+      "title": {
+        "ro": "Atestarea mandatarilor autorizaţi sau evaluatorilor în domeniul proprietăţii intelectuale",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">Atestarea solicitanţilor de a obţine certificate de mandatar autorizat se efectuează de către Comisia de atestare şi disciplină a mandatarilor autorizaţi in domenil PI, care se formează din cel puţin 5 persoane şi a cărei componenţă se aprobă prin ordinul directorului general al AGEPI.<span style=\"color: black;\"> Cererea de atestare în calitate de mandatar autorizat se prezintă&nbsp;pe un formular-tip, aprobat de AGEPI.</span></p><p class=\"ql-align-justify\"><span class=\"ql-cursor\">﻿</span>Atestarea evaluatorilor obiectelor de proprietate intelectuală pentru obținerea certificatului de calificare se efectuează de către Comisia de atestare și disciplină a evaluatorilor obiectelor de proprietate intelectuală (în continuare - Comisie), care se instituie prin ordinul directorului general în componență de 5 persoane (președinte, vicepreședinte, doi membri și secretar al Comisiei –specialiști în domeniul proprietății intelectuale și evaluării acesteia), în baza cererii de atestare depuse de solicitant;&nbsp;</p><p class=\"ql-align-justify\"><br></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "73127a81-f80e-4f61-b487-54c28bc80bab",
+      "code": "019000468",
+      "title": {
+        "ro": "Cercetarea documentară pentru o cerere de brevet cu întocmirea și publicarea raportului de documentare",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p><span style=\"color: rgb(51, 51, 51);\">Solicitantul poate cere, cu condiţia plăţii taxei stabilite, efectuarea unei cercetări documentare a stadiului tehnicii, ale cărei rezultate vor face posibilă aprecierea brevetabilităţii invenţiei. Cercetarea documentară pentru o cerere de brevet publicată poate fi cerută de orice persoană interesată, cu condiţia plăţii taxei stabilite. În baza cercetării documentare, AGEPI va întocmi un raport de documentare sau un raport de documentare însoţit de o opinie scrisă privind brevetabilitatea, în modul stabilit de Regulament, pe baza revendicărilor, ţinînd cont de descriere şi, după caz, de desene</span><span style=\"color: black;\"> Cercetarea documentară se efectuează de către examinator, în bazele de date</span>&nbsp;care vor include cel puţin următoarele colecţii de documente de brevet: MD, FR, DE, CH, GB, US, JP, CN, RU, SU, WO, EP, EA, colecţii şi baze de date nonbrevet cu instrumente de informare-documentare în baza cuvintelor-cheie. În raportul de documentare se specifică indicii de clasificare a brevetelor de invenţie, stadiul tehnic identificat, cuvintele-cheie şi alte date utilizate în ecuaţia de căutare. Se indică şi bazele de date, precum şi alte surse utilizate la determinarea stadiului tehnicii. Cercetarea documentară se efectuează în termen de 6 luni.<span style=\"color: rgb(51, 51, 51);\"> În urma documentării efectuate pe baza revendicărilor, descrierii şi desenelor, AGEPI întocmeşte raportul de documentare pe un formular-tip elaborat pe baza formularului respectiv recomandat de OMPI şi care serveşte la examinarea noutăţii şi activităţii inventive a invenţiei.</span> Opinia scrisă care însoţeşte raportul de documentare, conţine o apreciere concisă cu privire la noutatea, activitatea inventivă şi aplicabilitatea industrială a fiecărei revendicări din cererea de brevet, precum şi explicaţii privind relevanţa documentelor citate în raport cu revendicările corespunzătoare.</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "bb08aa30-9259-470e-a6a2-4ef55b36e9b8",
+      "code": "019000044",
+      "title": {
+        "ro": "Cercetarea documentară pentru o cerere de brevet cu raport de documentare întocmit de o autoritate internațională de documentare, întocmirea și publicarea raportului de documentare",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>Pentru determinarea stadiului tehnicii, AGEPI efectuează documentarea privind cererea de brevet pe baza revendicărilor, descrierii şi desenelor şi stabileşte sursele relevante din stadiul tehnicii.Cercetarea documentară se efectuează de către examinator, în bazele de date care vor include cel puţin următoarele colecţii de documente de brevet: MD, FR, DE, CH, GB, US, JP, CN, RU, SU, WO, EP, EA, colecţii şi baze de date nonbrevet cu instrumente de informare-documentare în baza cuvintelor-cheie. În raportul de documentare se specifică indicii de clasificare a brevetelor de invenţie, stadiul tehnic identificat, cuvintele-cheie şi alte date utilizate în ecuaţia de căutare. Se indică şi bazele de date, precum şi alte surse utilizate la determinarea stadiului tehnicii. Cercetarea documentară se efectuează în termen de 6 luni. În urma documentării efectuate pe baza revendicărilor, descrierii şi desenelor, AGEPI întocmeşte raportul de documentare <span style=\"color: rgb(102, 102, 102);\">sau raportul de documentare cu opinie scrisă privind brevetabilitatea</span> pe un formular-tip elaborat pe baza formularului respectiv recomandat de OMPI şi care serveşte la examinarea noutăţii şi activităţii inventive a invenţiei. Opinia scrisă care însoţeşte raportul de documentare, potrivit prevederilor art.18 alin.(2) şi art.50 din Legea nr. 50/2008, conţine o apreciere concisă cu privire la noutatea, activitatea inventivă şi aplicabilitatea industrială a fiecărei revendicări din cererea de brevet, precum şi explicaţii privind relevanţa documentelor citate în raport cu revendicările corespunzătoare.</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "3f5cb131-a78d-436c-a5a9-473daad4f367",
+      "code": "019000057",
+      "title": {
+        "ro": "Depunerea cererii de brevet de invenție de scurtă durată/deschiderea fazei naționale a cererii internaționale, inclusiv examinarea formală și publicarea cererii de brevet de invenție de scurtă durată",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p><span style=\"color: black;\">Se recepționează cererea în 3 exemplare, se verifică dacă toate rubricile sunt completate corect, </span>În cadrul examinării formale a cererii se verifică respectarea cerințelor prescrise în art.32 şi art. 34 din Legea nr. 50/2008 şi în pct.36-47 din Regulamentul&nbsp;nr. 528. În cadrul examinării preliminare se verifică respectarea cerințelor prescrise în art.6,7, 12, 33, 35, 39-42, 86 și 93 din Legea 50/2008 și pct. 32-138 din Regulamentul nr. 528 și în cazul nerespectării cerințelor se notifică solicitantul, apoi răspunsul solicitantului se analizează în vederea respectării cerințelor enunțate mai sus, se verifică corectitudinea achitării taxei în dependență de revendicările independente și sau dependente. Publicarea cererii se efectuează în condițiile art.49 din Legea nr. 50/2008, la această etapă se publică rezumatele în RO, RU și EN în BOPI, în care examinatorul indică domeniul de activitate, esența invenției și rezultatul tehnic, toate acestea trebuie să fie bazate pe descrierea invenției</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "b44c1096-ceb9-4fad-a3e9-1e7c7093b3d7",
+      "code": "019000031",
+      "title": {
+        "ro": "Depunerea cererii de brevet de invenție/deschiderea fazei naționale a cererii internaționale, inclusiv examinarea formală preliminară și publicarea cererii de brevet de invenție",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p><span style=\"color: black;\">Se recepționează cererea în 3 exemplare, se verifică dacă toate rubricile sunt completate corect. </span>În cadrul examinării formale a cererii se verifică respectarea cerințelor prescrise în art. 32 şi art. 34 din Legea nr. 50/2008 şi în pct.36-47 din Regulamentul nr. 528. În cadrul examinării preliminare se verifică respectarea cerințelor prescrise în art. 6,7, 12, 33, 35, 39-42, 86 și 93 din Legea 50/2008 și pct. 32-138 din Regulamentul nr. 528 și în cazul nerespectării cerințelor se notifică solicitantul, apoi răspunsul solicitantului se analizează în vederea respectării cerințelor enunțate mai sus, se verifică corectitudinea achitării taxei în dependență de revendicările independente și/sau dependente. Publicarea cererii se efectuează în condițiile art. 49 din Legea 50/2008, la această etapă se publică rezumatele în RO, RU și EN în BOPI, în care examinatorul indică domeniul de activitate, esența invenției și rezultatul tehnic, toate acestea trebuie să fie bazate pe descrierea invenției.</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "1ac01c9e-491b-4d5b-a19e-e5acbe30e3fe",
+      "code": "019000060",
+      "title": {
+        "ro": "Depunerea cererii divizionare, inclusiv examinarea formală și publicarea cererii",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">\t<span style=\"color: rgb(0, 32, 96);\">Divizarea poate fi solicitată la orice etapă a cererii şi se referă la repartizarea între cererile divizionare a produselor şi/sau serviciilor enumerate în cererea iniţială și divizarea semnelor verbale în cazul în care au fost traduse în două sau mai multe limbi în cadrul aceleiași mărci. Cererea divizionară păstrează data de depozit a cererii iniţiale şi orice dată de prioritate a cererii iniţiale.</span></p><p class=\"ql-align-justify\">\t<span style=\"color: rgb(0, 32, 96);\">Cererea de înregistrare a mărcii de divizionare &nbsp;se completează și se depune la AGEPI în 2 exemplare&nbsp;de către solicitant sau de reprezentantul acestuia. În cadrul acestui serviciu se verifică respectarea condițiilor de formă a cererii de înregistrare a mărcii pentru atribuirea unei date de depozit, inclusiv examinarea celorlalte condiții de depunere a cererii şi publicarea cererii de înregistrare a mărcii.&nbsp;</span></p><p><br></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "c607c329-46b4-4284-a58d-ec802249a658",
+      "code": "019000073",
+      "title": {
+        "ro": "Depunerea si examinarea cererii de limitare a brevetului",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p><span style=\"color: rgb(51, 51, 51);\">Cererea de limitare a brevetului se perfectează pe un formular-tip aprobat de AGEPI.</span></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "87dc575f-e5ce-450e-9ae1-3a67e12379ef",
+      "code": "019000086",
+      "title": {
+        "ro": "Depunerea și examinarea cererii de acordare a certificatului complementar de protecție",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>Cererea de acordare a certificatului complementar de protecţie se depune la AGEPI, pe un formular-tip aprobat de AGEPI, în termen de <u>6 luni</u> de la data la care produsul farmaceutic a obţinut autorizaţie de lansare pe piaţă pe teritoriul Republicii Moldova sau în termen de <u>6 luni</u> de la data eliberării brevetului de bază, în cazul în care autorizaţia de lansare pe piaţă a fost obţinută înainte de eliberarea brevetului de bază. În termen de o lună de la data depunerii cererii de acordare a certificatului, AGEPI efectuează examinarea ei formală, verificând dacă sunt îndeplinite condiţiile prevăzute în pct. 427-428 din Regulamentul nr. 528, apoi se efectuează o examinare pentru a stabili dacă: a) conţinutul documentelor cererii este conform cerinţelor stabilite în art. 70 din <span style=\"color: windowtext;\">Legea nr. 50/2008</span> şi în pct.427-428 din Regulamentul nr. 528, b) sunt îndeplinite cerinţele prevăzute în art. 71 din <span style=\"color: windowtext;\">Legea nr. 50/2008</span>, c) caracteristicile produsului farmaceutic sau fitofarmaceutic sunt acoperite de revendicările brevetului de bază.</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "2aba9cc2-714c-4818-a33b-27e0944806eb",
+      "code": "019000099",
+      "title": {
+        "ro": "Depunerea și examinarea cererii de înregistrare a topografiei circuitului integrat",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>Se depune cererea, redactată pe un formular tip aprobat de AGEPI, prin care se solicită înregistrarea topografiei. Se examinează documentele enumerate la alin.(2) din Legea nr. 655/1999 în scopul stabilirii conformităţii lor cu cerinţele legale, formale privind depozitul naţional reglementar (examinarea formală) – în termen de o lună de la data constituirii depozitului naţional reglementar, apoi cererea se transmite în secţia de examinare pentru a verifica dacă sunt satisfăcute&nbsp;cerinţele prevăzute la art.1 alin.(4)-(7) din Legea nr. 655/1999 - în termen de 2 luni de la data încheierii examinării formale.</p><p>Dacă se constată îndeplinirea tuturor cerinţelor legale, se emite Hotărîrea de înregistrare a topografiei, se efectuează înregistrarea în Registrul Naţional al Topografiilor Circuitelor Integrate şi se notifică solicitantului, În cazul în care se constată lipsuri sau deficienţe ale documentelor prezentate, acestea se comunică în scris solicitantului.&nbsp;</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "fa7158db-d725-4cc7-b64d-d3925781a777",
+      "code": "019000109",
+      "title": {
+        "ro": "Depunerea și examinarea cererii de prelungire a termenului de valabilitate a brevetului de invenție de scurtă durată",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Titularul de brevet poate prezenta la AGEPI o cerere de prelungire a termenului de valabilitate a brevetului de scurtă durată pentru o perioadă de cel mult 4 ani, cu condiţia că titularul va solicita la AGEPI efectuarea cercetării documentare a stadiului tehnicii conform art. 8 şi întocmirea unui raport de documentare însoţit de o opinie privind brevetabilitatea referitoare la invenţia care face obiectul brevetului, dar nu mai devreme de un an şi nu mai tîrziu de 6 luni înainte de expirarea termenului de valabilitate a brevetului de scurtă durată. </p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "57b66ef5-9ef8-4f55-ba10-81b6ec6fd7ba",
+      "code": "019000471",
+      "title": {
+        "ro": "Depunerea și examinarea contestației la avizul provizoriu de respingere a cererii de înregistrare a indicației geografice, denumirii de origine sau specialității tradiționale garantate",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 32, 96);\">Cererea de examinarea a contestației&nbsp;la avizul provizoriu se completează și se depune la AGEPI de către solicitant sau de reprezentantul acestuia. În cadrul acestui serviciu se verifică expunerea&nbsp;punctului de vedere faţă de motivele invocate, anexele/scrisorile de consimțământ, dacă în contestație se face referință la acestea.</span></p><p class=\"ql-align-justify\"><br></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "21188f5f-efce-46b8-84a1-dfe2ce995175",
+      "code": "019000675",
+      "title": {
+        "ro": "Depunerea și examinarea contestației la avizul provizoriu de respingere a cererii de înregistrare a mărcii",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 32, 96);\">Cererea de examinarea a contestației&nbsp;la avizul provizoriu se completează și se depune la AGEPI de către solicitant sau de reprezentantul acestuia. În cadrul acestui serviciu se verifică expunerea&nbsp;punctului de vedere faţă de motivele invocate, anexele scrisorilor de consimțământ, dacă în contestație se face referință la acestea.</span></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "26be21fc-7644-4521-b9b0-c8ce57e4149d",
+      "code": "019000112",
+      "title": {
+        "ro": "Depunerea și examinarea formală a unei cereri de transformare a cererii de brevet european în procedura de validare în cerere de brevet național",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>O cerere de brevet european pentru care a fost achitată taxa de validare și care a fost respinsă, retrasă sau considerată retrasă, poate fi transformată în brevet de invenție de scurtă durată prin depunerea la AGEPI a unei cereri de transformare redactate pe un formular-tip, aprobat de AGEPI, a copiei cererii de brevet european și a traducerii acesteia în limba de stat. După care în termen de 6 luni ea se publică în BOPI. Publicarea menționată&nbsp;conform pct. 453 și 454 din Regulamentul nr. 528 cuprinde publicarea în BOPI a datelor bibliografice referitoare la brevetul european validat și punerea la dispoziția publicului în format electronic a traducerii în limba de stat a fasciculului de brevet european, a revendicărilor sau a revendicărilor modificate, după caz conform art. 44<sup>2</sup> alin. 6 și 7 din Legea nr. 50/2008.&nbsp;</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "a6783da0-cbc0-420a-a9a7-ae2cc4d1b786",
+      "code": "019000578",
+      "title": {
+        "ro": "Depunerea și examinarea respectării condițiilor de depunere a cererii de înregistrare a desenului/modelului industrial",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">\t<span style=\"color: black;\">Cererea de înregistrare a </span>desenului/modelului industrial <span style=\"color: black;\">se completează și se depune la AGEPI în 2 exemplare&nbsp;de către solicitant sau de reprezentantul acestuia. Î</span>n cadrul acestui serviciu se verifică respectarea condițiilor de formă a cererii de înregistrare a desenului/modelului industrial pentru atribuirea unei date de depozit, inclusiv examinarea celorlalte condiții de depunere a cererii.</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "abfd660a-5558-4620-8b9f-c81c128c1c2b",
+      "code": "019000125",
+      "title": {
+        "ro": "Depunerea și examinarea unei cereri privind transformarea cererii",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p><span style=\"color: rgb(51, 51, 51);\">Transformarea cererii de brevet în cerere de brevet de scurtă durată sau vice versa se efectuează prin depunerea de către solicitant a cererii respective de transformare pe un formular-tip aprobat de AGEPI, cu respectarea datei de depozit şi, după caz, a datei de prioritate a cererii iniţiale în conformitate cu art. 54 alin. (3) din Legea nr. 50/2008. În cazul în care cererea nu îndeplineşte condiţiile stabilite, aceasta se notifică solicitantului cu propunerea de a înlătura lipsurile menţionate în termen de 2 luni de la data expedierii notificării. Dacă cererea a fost depusă în termenul stabilit şi îndeplineşte toate condiţiile prescrise solicitantului i se notifică despre transformarea cererii. Cererilor de brevet de invenţie transformate li se va aplica data de depozit şi, după caz, data de prioritate a cererii iniţiale</span></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "cb06e493-0372-43e1-9fde-23f67a745202",
+      "code": "019000714",
+      "title": {
+        "ro": "Depunerea și examinarea unei cereri privind transformarea înregistrării înternaționale în cerere națională (mărci)",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 32, 96);\">Titularul unei înregistrări internaţionale, în care este desemnată Republica Moldova conform Protocolului referitor la Aranjament, poate solicita, conform art.9 quinquies din acest Protocol, transformarea înregistrării internaţionale în cerere de înregistrare a aceleiaşi mărci la AGEPI în cazul cînd înregistrarea internaţională, la solicitarea oficiului ţării de origine a acesteia, este radiată, în tot sau în parte, în ce priveşte produsele şi/sau serviciile enumerate în înregistrarea respectivă. </span></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "be5aa9cb-ad7c-4bb8-a412-d6f70444aea7",
+      "code": "019000484",
+      "title": { "ro": "Depunerea unei opoziții", "ru": "", "en": "" },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">\t<span style=\"color: rgb(0, 32, 96);\">În termen de 3 luni de la data publicării cererii, orice persoană care are un interes legitim este în drept să formuleze o opoziţie la înregistrare. Cererea de înregistrare a opoziției împotriva înregistrării unei mărci se completează și se depune la AGEPI în 2 exemplare&nbsp;de către solicitant sau de reprezentantul acestuia. În cadrul acestui serviciu se verifică respectarea condițiilor de depunere a cererii de opoziție.</span></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "e9f92657-2a59-49c0-b85f-a12db7b5a8d5",
+      "code": "019000688",
+      "title": {
+        "ro": "Depunerea, examinarea respectării condiţiilor de depunere şi publicarea cererii de înregistrare a mărcii",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">\t<span style=\"color: rgb(0, 32, 96);\">Cererea de înregistrare a unei mărci se completează și se depune la AGEPI în 2 exemplare&nbsp;de către solicitant sau de reprezentantul acestuia. În cadrul acestui serviciu se verifică respectarea condițiilor de formă a cererii de înregistrare a mărcii pentru atribuirea unei date de depozit, inclusiv examinarea celorlalte condiții de depunere a cererii şi publicarea cererii de înregistrare a mărcii.&nbsp;</span></p><p class=\"ql-align-justify\"><br></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "5ee00016-4ee3-48a6-8437-e94d5249bff4",
+      "code": "019000497",
+      "title": {
+        "ro": "Depunerea, examinarea respectării condițiilor de depunere și publicarea cererii de înregistrare a unei indicații geografice, a unei denumiri de origine sau a unei specialități tradiționale garantate",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">\t<span style=\"color: rgb(0, 32, 96);\">Cererea de înregistrare a unei indicații geografice, a unei denumiri de origine sau a unei specialități tradiționale garantate se completează și se depune la AGEPI în 2 exemplare&nbsp;de către solicitant sau de reprezentantul acestuia. În cadrul acestui serviciu se verifică respectarea condițiilor de formă a cererii de înregistrare indicații geografice, a unei denumiri de origine sau a unei specialități tradiționale garantate pentru atribuirea unei date de depozit, inclusiv examinarea celorlalte condiții de depunere a cererii şi publicarea cererii de înregistrare a mărcii.&nbsp;</span></p><p class=\"ql-align-justify\"><br></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "522f94b1-5499-4065-a6b1-e74d8858d142",
+      "code": "019000138",
+      "title": {
+        "ro": "Depunerea, examinarea și publicarea cererii de brevet pentru soi de plantă ",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p><span style=\"color: rgb(51, 51, 51);\">Cererea, conform alin.(1) lit.a) art. 33 din Legea nr. 39/2008, se depune în 4 exemplare pe un formular-tip aprobat de AGEPI, care trebuie să fie completat clar şi lizibil, textul trebuie să fie dactilografiat sau imprimat. </span></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "b2cb536f-7125-4620-9451-3d1cc1a361fd",
+      "code": "019000141",
+      "title": {
+        "ro": "Depunerea, examinarea și publicarea propunerii privind denumirea soiului de plantă",
+        "ru": "",
+        "en": ""
+      },
+      "description": { "ro": null, "ru": "", "en": "" },
+      "eService": true
+    },
+    {
+      "id": "e9e2adfb-a1f7-4256-9919-dacb89594205",
+      "code": "019000442",
+      "title": {
+        "ro": "Divizarea cererii sau a înregistrării desenului/modelului industrial",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">Divizarea poate fi solicitată la orice etapă a cererii şi se referă la repartizarea între cererile divizionare a desenelor/modelelor industriale. Cererea divizionară păstrează data de depozit a cererii iniţiale şi orice dată de prioritate a cererii iniţiale.</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "43c52f48-5a4c-4346-a82d-1bd10071e587",
+      "code": "019000701",
+      "title": {
+        "ro": "Divizarea cererii sau a înregistrării mărcii",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">\t<span style=\"color: rgb(0, 32, 96);\">Divizarea poate fi solicitată la orice etapă a cererii şi se referă la repartizarea între cererile divizionare a produselor şi/sau serviciilor enumerate în cererea iniţială și divizarea semnelor verbale în cazul în care au fost traduse în două sau mai multe limbi în cadrul aceleiași mărci. Cererea divizionară păstrează data de depozit a cererii iniţiale şi orice dată de prioritate a cererii iniţiale.</span> </p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 32, 96);\">Examinarea de fond a cererii se efectuează în vederea respectării condiţiilor de protecţie a mărcii (și anume existența motivelor absolute de refuz (prevăzute la art. 7) și motivelor relative (prevăzute la art. 8) precum și examinarea opozițiilor/observațiilor în cazul în care acestea au fost depuse.</span></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "40af2980-fbb8-4fdc-8ec9-16bd8c9a4f57",
+      "code": "019000154",
+      "title": {
+        "ro": "Eliberarea brevetului pentru un soi de plantă, inclusiv tipărirea fasciculului de brevet",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>În cazul în care nu au fost depuse contestaţii împotriva acordării brevetului sau contestaţiile depuse au fost respinse, AGEPI pregăteşte documentul de brevet şi eliberează brevetul persoanei îndreptăţite, cu condiţia plăţii taxelor stabilite, şi publică în BOPI datele despre acesta. Brevetul este eliberat de către AGEPI în temeiul Hotărârii de acordare a brevetului. Data eliberării brevetului este data la care menţiunea de eliberare este publicată în BOPI. Componenţa datelor pentru publicare se stabileşte de AGEPI. Data eliberării brevetului se înscrie în Registrul naţional de brevete. <span style=\"color: rgb(51, 51, 51);\">În BOPI se publică datele privind brevetele eliberate, care includ: 1) numărul brevetului; 2) data depozitului; 3) numele sau denumirea titularului(lor), codul ţării; 4) numele amelioratorului (lor), codul ţării; 5) data acordării brevetului; 6) denumirea comună şi taxonul botanic; 7) denumirea soiului și raportul tehnic.</span></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "9dde22ec-dc4c-419d-9abc-a4a65055cfa4",
+      "code": "019000167",
+      "title": {
+        "ro": "Eliberarea brevetului, inclusiv tipărirea fasciculului de brevet",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\"><span style=\"color: rgb(51, 51, 51);\">Brevetul este eliberat de către AGEPI în temeiul hotărârii de acordare a brevetului, în termen de 1 lună după expirarea termenului de 6 luni de la data publicării hotărârii de acordare a brevetului, conform art. 60 alin. (1) din Legea nr. 50/2008. Brevetul este format din diploma de brevet, semnată de directorul general AGEPI, la care se anexează fasciculul&nbsp;de brevet. Fascicula de brevet de invenţie cuprinde pagina de capăt (pagina de titlu), conținând datele bibliografice și rezumatul, descrierea, revendicările, desenele, după caz, şi raportul de documentare în baza căruia s-a apreciat brevetabilitatea invenţiei revendicate.</span></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "04098480-e23f-455b-a8ab-46051b4c6eb9",
+      "code": "019000170",
+      "title": {
+        "ro": "Eliberarea certificatului complementar de protecţie",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\"><span style=\"color: rgb(51, 51, 51);\">Certificatul complementar de protecţie se eliberează titularului în termen de 2 luni de la data expedierii hotărîrii de acordare a certificatului. În BOPI se publică următoarele date privind certificatul complementar de protecţie:a) numărul certificatului; b) data eliberării certificatului; c) numele sau denumirea şi adresa titularului certificatului; d) numărul şi data brevetului de bază; e) titlul invenţiei; f) numărul şi data autorizaţiei de punere pe piaţă, precum şi produsul farmaceutic sau fitoterapeutic&nbsp;pe care îl identifică; g) data intrării în vigoare a certificatului; h) data expirării valabilităţii certificatului.</span></p><p><br></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "bd174042-0534-4469-a6e1-98fdd0610df7",
+      "code": "019000183",
+      "title": {
+        "ro": "Eliberarea certificatului privind validarea brevetului european",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>În conformitate cu art. 44<sup>2</sup> alin.(9) <span style=\"color: black;\">din Legea nr. 50/2008</span>, AGEPI eliberează titularului, la solicitare şi cu condiţia achitării taxei stabilite, un certificat privind validarea brevetului european în termen de 2 luni de la data publicării traducerii prevăzute în pct. 456 din Regulamentul nr. 528. Certificatul cuprinde diploma de certificat, semnată de directorul general al AGEPI, la care se anexează pagina de titlu, conţinând datele bibliografice şi rezumatul, precum şi traducerea în limba de stat a fasciculului de brevet european, care cuprinde descrierea, revendicările, desenele şi, după caz, raportul de documentare.</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "082afa11-f585-46f1-88e0-ae674decb3fc",
+      "code": "019000196",
+      "title": {
+        "ro": "Eliberarea copiei echivalente a titlului de protecție, a copiei certificate de pe un document din dosarul OPI sau a unei adeverințe, a copiei pe hârtie de pe documentele din dosarul OPI sau din baza de date",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">\t<span style=\"color: rgb(51, 51, 51);\">În cazul în care sînt mai mulţi titulari, brevetul se eliberează titularului desemnat în acordul încheiat între solicitanţi sau, în cazul în care nu a fost prezentat un astfel de acord, brevetul se eliberează primului solicitant înscris în cerere. Cotitularii brevetului şi inventatorii pot solicita copii ale brevetului. Copia brevetului este formată din diploma de brevet, la care se anexează fasciculul&nbsp;de brevet. Fascicula de brevet de invenţie cuprinde pagina de capăt (pagina de titlu) conținînd datele bibliografice și rezumatul&nbsp;, descrierea, revendicările, desenele, după caz, şi raportul de documentare în baza căruia s-a apreciat brevetabilitatea invenţiei revendicate.</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(51, 51, 51);\">Orice persoană are dreptul să ia cunoştinţă de documentele cererii, după publicarea acesteia în BOPI, prin solicitarea copiilor documentelor referitoare la cerere, cu condiţia depunerii unei cereri în acest sens şi achitării taxei corespunzătoare conform Hotărîrii Guvernului nr.774 din 13 august 1997. În cazul în care cererea este retrasă şi nu a fost publicată anterior, materialele cererii pot fi consultate numai cu acordul scris al solicitantului sau la solicitarea instanţei judecătoreşti. Sînt excluse de la inspectare: a) documentele referitoare la proiectele de hotărîri şi avize care nu se comunică părţilor interesate; b) documentele care au servit la elaborarea notificărilor şi hotărîrilor/deciziilor AGEPI, în limitele Legii privind accesul la informaţie nr.982-XIV din 11 mai 2000 (Monitorul Oficial al Republicii Moldova, 2000, nr.88-90, art.664); c) documentele care conţin indicarea inventatorului, în cazul în care acesta a refuzat să fie menţionat în materialele cererii; d) documentele referitoare la modificarea componenţei Comisiei de contestaţii sau care conţin obiecţii privind membrii acesteia.&nbsp;</span></p><p><br></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "4e807f06-97a0-4428-8c45-74ee751ef098",
+      "code": "019000617",
+      "title": {
+        "ro": "Eliberarea duplicatului adeverinței de înscriere/adeverinţei de modificare a titularului de drepturi patrimoniale",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">Titularul unui obiect înregistrat în Registrul de Stat al obiectelor protejate de dreptul de autor şi drepturile conexe, care a pierdut sau deteriorat certificatul de înregistrare a obiectelor dreptului de autor şi drepturilor conexe, depune o cerere prin care solicită eliberarea duplicatului certificatului de înregistrare. În urma examinării cererii AGEPI eliberează duplicatul solicitat. </p><p class=\"ql-align-justify\">Solicitantul sau reprezentantul acestuia depune o cerere de modificare a titularului drepturilor patrimoniale şi setul de documente care atestă transmiterea drepturilor menționate. În cazul îndeplinirii condiţilor, AGEPI înscrie modificările în Registrul de Stat al obiectelor protejate de dreptul de autor şi drepturile conexe şi eliberează adeverinţa titularului de drepturi patrimoniale.</p><p><br></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "e99068df-32c0-4b68-abaf-d308db547db7",
+      "code": "019000620",
+      "title": {
+        "ro": "Eliberarea marcajelor de control pentru exemplare de opere și fonograme",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>\t<span style=\"color: black;\">Persoana înregistrată în Registrul de stat al titularilor marcajelor de control sau reprezentantul acesteia depune cererea de eliberare a marcajelor de control şi actele necesare pentru efectuarea procedurii. În urma examinării acestora AGEPI înscrie datele în Registrul de Evidenţă a eliberării marcajelor de control şi eliberează Adeverinţa de eliberare a marcajelor de control.</span></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "316a1df9-0641-4d70-bed7-32b0bc3e089b",
+      "code": "019000206",
+      "title": {
+        "ro": "Eliberarea titlului de protecție în cazul transmiterii drepturilor",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\"><span style=\"color: rgb(51, 51, 51);\">La solicitare, cererea de brevet şi brevetul pot fi transmise sau pot constitui obiectul unor drepturi reale, conform art. 26 din Legea nr. 50/2008. Transmiterea se poate face prin cesiune sau prin licenţă, exclusivă sau neexclusivă, ori prin succesiune legală sau testamentară. Orice transmitere sau modificare efectuată de solicitant sau de titular referitor la o cerere de brevet sau la un brevet la demersul uneia dintre părţi se înscrie în Registrul naţional de cereri de brevet sau în Registrul naţional de brevete, publicând în BOPI informaţia respectivă. Conform pct. 524 din Regulamentul nr. 528, transmiterea drepturilor privind o cerere de brevet este înscrisă în Registrul naţional de cereri de brevet de invenţie, la cererea părţii interesate, dacă documentele de confirmare a transmiterii au fost prezentate la AGEPI şi a fost achitată taxa stabilită conform Hotărârii Guvernului nr. 774 din 13 august 1997.</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(51, 51, 51);\">La solicitare, conform art. 27 din Legea nr. 39/2008, cererea de brevet şi brevetul pot fi transmise unui sau mai multor succesori în drepturi. Transmiterea unei cereri de brevet sau a unui brevet prin cesiune poate fi efectuată doar unui succesor în drepturi care îndeplineşte condiţiile enunţate la art. 13 şi 87 din Legea nr. 39/2008. Transmiterea drepturilor are efect în faţa AGEPI şi este opozabilă terţilor doar după prezentarea dovezilor documentare prevăzute şi după înscrierea acestora în Registrul naţional de cereri sau în Registrul naţional de brevete.</span></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "016b05c8-fb28-4a26-931a-0d4d4cb27b2d",
+      "code": "019000219",
+      "title": {
+        "ro": "Eliberarea unui document oficial cu privire la obiectele de proprietate industrială, de tipul: duplicat, act de prioritate, extras legalizat din registru etc.",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p><span style=\"color: rgb(51, 51, 51);\">Titularului i se poate elibera, la cerere şi cu plata taxei stabilite conform Hotărârii Guvernului nr.774 din 13 august 1997 un duplicat al brevetului după publicarea în BOPI a menţiunii de pierdere sau distrugere a originalului. Duplicatul este format din diploma de brevet, semnată de directorul general AGEPI, pe care se aplică parafa ”DUPLICAT” la care se anexează fasciculul&nbsp;de brevet. Fascicula de brevet de invenţie cuprinde pagina de capăt (pagina de titlu) conținând datele bibliografice și rezumatul, descrierea, revendicările, desenele, după caz, şi raportul de documentare în baza căruia s-a apreciat brevetabilitatea invenţiei revendicate</span>.</p><p><span style=\"color: rgb(51, 51, 51);\">Depozitul cererii, care are valoarea unui depozit național&nbsp;conferă un drept de prioritate, cu începere de la data acestuia, faţă de orice alt depozit privind aceeaşi invenţie, având o dată de depozit sau de prioritate ulterioară, dacă sunt îndeplinite prevederile art. 33 alin. (8) din Legea nr. 50/2008, oricare ar fi soarta ulterioară a cererii. O cerere ulterioară este considerată ca fiind o primă cerere de la a cărei dată de depozit se calculează termenul de prioritate, dacă se referă la acelaşi obiect ca al primei cereri anterioare, depusă în sau pentru acelaşi stat, cu condiţia ca la data de depozit a cererii ulterioare cererea anterioară să fi fost retrasă, abandonată sau refuzată, fără să fi fost făcută publică şi fără să fi rămas să subziste drepturi asupra ei, precum şi dacă ea nu a constituit baza pe care s-a revendicat deja un drept de prioritate. Cererea anterioară nu poate servi ca bază pentru revendicarea unui drept de prioritate. Examinatorul examinează elementele cererilor anterioare și cele ulterioară. Pentru revendicarea priorităţii solicitantul achită taxa stabilită conform Hotărârii Guvernului nr.774 din 13 august 1997 pentru fiecare prioritate revendicată în termen de 2 luni de la data de depozit a cererii. În caz contrar, prioritatea nu este recunoscută.</span></p><p><span style=\"color: rgb(51, 51, 51);\">În conformitate cu pct. 150 din Regulamentul nr. 528, actul de prioritate trebuie să conţină un certificat de prioritate, eliberat de oficiul de brevete la care a fost depusă cererea iniţială, din care să rezulte data depunerii ei şi o copie, care constituie depozitul național reglementar&nbsp;(descrierea invenţiei, revendicări, desene etc.), certificată de oficiul de brevete la care a fost depusă cererea iniţială.</span></p><p><span style=\"color: rgb(51, 51, 51);\">Registrul naţional de brevete de invenţie şi Registrul naţional de brevete de invenţie de scurtă durată sunt deschise inspectării publice. Datele din Registrul naţional de cereri de brevet de invenţie şi Registrul naţional de cereri de brevet de invenţie de scurtă durată sunt confidenţiale pînă la publicarea cererii. AGEPI poate elibera, la cerere, extrase din registre, cu respectarea prevederilor alin.(2) al art. 95 din Legea nr. 50/2008  şi cu condiţia plăţii taxei stabilite.&nbsp;</span></p><p><span style=\"color: rgb(102, 102, 102);\">Titularului i se poate elibera, la cerere şi cu plata taxei stabilite conform Hotărârii Guvernului nr. 774 din 13 august 1997 un duplicat al brevetului după publicarea în BOPI a menţiunii de pierdere sau distrugere a originalului. Duplicatul este format din diploma de brevet, semnată de directorul general AGEPI, pe care se aplică parafa ”DUPLICAT” la care se anexează fasciculul&nbsp;de brevet. Fascicula de brevet pentru soi de plantă cuprinde </span><span style=\"color: rgb(51, 51, 51);\">descrierea oficială a soiului şi, după caz, fotografiile acestuia.</span></p><p><span style=\"color: rgb(51, 51, 51);\">În conformitate cu pct. 40 din Regulamentul nr. 295, actul de prioritate trebuie să conţină un certificat de prioritate eliberat de oficiul de brevete la care a fost depusă cererea iniţială şi o copie a cererii iniţiale. Din certificatul de prioritate trebuie să rezulte data depunerii cererii iniţiale.</span></p><p><span style=\"color: rgb(51, 51, 51);\"><span class=\"ql-cursor\">﻿</span>Registrul naţional de cereri&nbsp;de brevet pentru soi de plantă şi Registrul naţional de brevete pentru soi de plantă sunt deschise pentru inspectare publică, conform alin. (1) al art. 67 din Legea nr. 39/2008. </span></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "d7c1ebe4-9145-416f-9f71-dae8fb8bf4e5",
+      "code": "019000222",
+      "title": {
+        "ro": "Eliberarea unui nou fascicul de brevet pentru soi de plantă",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">În cazul transmiterii de drepturi, spre exemplu, AGEPI eliberează un nou fascicul de brevet pentru soi de plantă persoanei îndreptăţite, cu condiţia plăţii taxelor stabilite, şi publică în BOPI datele despre acesta. Brevetul este eliberat de către AGEPI în temeiul Hotărârii de acordare a brevetului. Data eliberării brevetului este data la care menţiunea de eliberare este publicată în BOPI. Componenţa datelor pentru publicare se stabileşte de AGEPI. Data eliberării brevetului se înscrie în Registrul naţional de brevete. <span style=\"color: rgb(51, 51, 51);\">În BOPI se publică datele privind brevetele eliberate, care includ: 1) numărul brevetului; 2) data depozitului; 3) numele sau denumirea titularului(lor), codul ţării; 4) numele amelioratorului (lor), codul ţării; 5) data acordării brevetului; 6) denumirea comună şi taxonul botanic; 7) denumirea soiului și raportul tehnic.</span></p><p class=\"ql-align-justify\"><span style=\"color: rgb(102, 102, 102);\">În cazul modificării denumirii soiului, în conformitate cu art. 62 din Legea nr. 39/2008, </span><span style=\"color: rgb(51, 51, 51);\">datele privind modificarea denumirii soiului se publică în BOPI şi se înscriu în Registrul naţional de brevete. AGEPI eliberează, la solicitare şi cu condiţia achitării taxei stabilite, un fascicul de brevet, conținând&nbsp;modificările introduse.</span></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "e9336bb0-1ae3-4d01-80b6-2b280586f8b7",
+      "code": "019000235",
+      "title": {
+        "ro": "Examinarea cererii de brevet de invenție de scurtă durată",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>Examinarea condițiilor<em> </em>de acordare a brevetului de invenție de scurtă durată<strong> </strong>se efectuează în termen de <u>6 luni</u>, după finisarea examinării preliminare și cu condiția achitării taxei de examinare. </p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "26160a1d-a07a-454a-9292-88a3770d17c9",
+      "code": "019000727",
+      "title": {
+        "ro": "Examinarea cererii de introducere a unei modificări",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\"><span style=\"color: black;\">Solicitarea introducerii modificărilor se efectuează prin depunerea unei cereri de introducere a modificărilor, pe un formular-tip, aprobat de AGEPI.</span></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "e301dd7e-aaa5-4b4a-a443-850e7f1caaa0",
+      "code": "019000633",
+      "title": {
+        "ro": "Examinarea cererii de înscriere a unui obiect al dreptului de autor sau al drepturilor conexe ",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p><br></p><p class=\"ql-align-justify\"><span style=\"color: black;\">În urma examinării cererii şi documentelor anexate la cerere, obiectul se înscrie în Registrul de Stat al obiectelor protejate de dreptul de autor şi drepturile conexe şi se eliberează adeverința de înscriere a obiectelor dreptului de autor şi drepturilor conexe.</span></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "22fb5202-b4ba-4c98-b49f-21e0201f0b24",
+      "code": "019000730",
+      "title": {
+        "ro": "Examinarea cererii și înscrierea modificării în contractul înregistrat pentru un obiect al proprietății industriale",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p><span style=\"color: black;\">La solicitarea părţilor contractante, AGEPI înregistrează modificările rezultate din revizuirea clauzelor contractului de licenţă, gaj sau franchising sau din completarea acestuia cu noi clauze, cu condiţia că contractual la care se referă modificarea este înregistrat la AGEPI. Cererea de înregistrare a &nbsp;modificării &nbsp;contractului &nbsp;se prezintă pe un formular-tip, aprobat de AGEPI, completat prin dactilografiere sau imprimare, cu excepţia contractului de gaj, a cărui modificare se efectuează în baza avizului uneia dintre părţile contractante. </span></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "75cea7c0-0e36-4b0e-8bdb-df3ec904b7cf",
+      "code": "019000248",
+      "title": {
+        "ro": "Examinarea de fond a cererii de brevet de invenție, inclusiv cercetarea documentară",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>Examinarea de fond a cererii se efectuează în termen de <u>18 luni</u> de la depunerea cererii de examinare de fond și achitarea taxei de examinare, cu excluderea termenelor pentru corespondenţă şi cu condiţia satisfacerii prevederilor art. 48 din Legea nr. 50/2008. Cererea de examinare poate fi depusă până la expirarea termenului de 30 de luni de la data de depozit a cererii de brevet/data deschiderii fazei naționale. </p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "2089bbc0-8d2c-41a9-aaf4-1f4b9cd309d7",
+      "code": "019000581",
+      "title": {
+        "ro": "Examinarea de fond a cererii de înregistrare a desenului/modelului industrial",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">\t<span style=\"color: black;\">Examinarea de fond a cererii se efectuează în vederea respectării condiţiilor de protecţie a desenului modelului/industrial (și anume existența motivelor de refuz (prevăzute la art. 26 din Legea nr. 161/2007)) precum și examinarea opozițiilor/observațiilor în cazul în care acestea au fost depuse.</span></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "5e8867e2-4c6c-46e9-b84e-d8e897defac6",
+      "code": "019000507",
+      "title": {
+        "ro": "Examinarea de fond a cererii de înregistrare a indicației geografice, a denumirii de origine sau a specialității tradiționale garantate",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">\t<span style=\"color: rgb(0, 32, 96);\">În cadrul examinării de fond a cererii, se examinează dacă nu sânt motive de refuz specificate la art.7 din Legea nr.66-XVI&nbsp;și examinarea opozițiilor în cazul în care acestea au fost.</span></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "1f44ebdb-471e-4549-a632-d8f6cdd49fba",
+      "code": "019000691",
+      "title": {
+        "ro": "Examinarea de fond a cererii de înregistrare a mărcii",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p><span style=\"color: rgb(0, 32, 96);\">Examinarea de fond a cererii se efectuează în vederea respectării condiţiilor de protecţie a mărcii (și anume existența motivelor absolute de refuz (prevăzute la art. 7) și motivelor relative (prevăzute la art. 8) precum și examinarea opozițiilor/observațiilor în cazul în care acestea au fost depuse.</span></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "7946dbf0-586c-4a4b-a7df-5beb5e5a4a25",
+      "code": "019000743",
+      "title": {
+        "ro": "Examinarea și înregistrarea contractului de cesiune, gaj, licență sau franciză pentru un obiect al proprietății industriale",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\"><span style=\"color: black;\">Solicitarea înregistrării unui contract se efectuează prin depunerea unei cereri, care se completează, prin dactilografiere sau imprimare, pe un formular-tip, aprobat de AGEPI, cu excepţia contractului de gaj, a cărui înregistrare se efectuează în baza demersului uneia dintre părţile contractante.</span></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "a9562c4a-8070-48ba-b9c5-1ec752a31511",
+      "code": "019000756",
+      "title": {
+        "ro": "Examinarea și înregistrarea Regulamentului de utilizare a mărcii colective/de certificare și publicarea informației privind aceasta",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">Regulamentul de utilizare a mărcii colective, în conformitate cu articolul 52 din Legea nr.38/2008 privind protecţia mărcilor, se prezintă la AGEPI odată cu depunerea cererii de înregistrare a mărcii sau în termen de două luni de la data de depozit a cererii.</p><p class=\"ql-align-justify\">Regulamentul de utilizare a mărcii colective trebuie să cuprindă următoarele informaţii:</p><p class=\"ql-align-justify\">- numele solicitantului şi adresa sediului său;</p><p class=\"ql-align-justify\">- obiectivul asociaţiei sau obiectivul pentru care a fost creată persoana juridică de drept public;</p><p class=\"ql-align-justify\">- organismele abilitate să reprezinte asociaţia sau persoana juridică menţionată;</p><p class=\"ql-align-justify\">- condiţiile de afiliere la asociaţie;</p><p class=\"ql-align-justify\">- persoanele autorizate să utilizeze marca;</p><p class=\"ql-align-justify\">- dacă este cazul, condiţiile de utilizare a mărcii, inclusiv sancţiunile.</p><p><br></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "4013259a-440f-4bb5-a61a-3e6a9ac7c7cb",
+      "code": "019000808",
+      "title": {
+        "ro": "Imprimarea şi eliberarea textului actului juridic din Registrul de stat al actelor juridice al Republicii Moldova",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>Imprimarea şi eliberarea textului actului juridic din Registrul de stat al actelor juridice al Republicii Moldova</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "eb137dc9-8fe9-4ea9-8a38-00ecf5232824",
+      "code": "019000510",
+      "title": {
+        "ro": "Înregistrarea indicației geografice, denumirii de origine sau specialității tradiționale garantate ",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">\t<span style=\"color: rgb(0, 32, 96);\">În cazul în care, în urma examinării cererii se constată că sunt îndeplinite condiţiile pentru înregistrarea denumirii de origine, indicaţiei geografice sau specialităţii tradiţionale garantate, precum şi în cazul în care nu a fost depusă nici o contestaţie împotriva înregistrării sau contestaţiile depuse au fost respinse, AGEPI decide înregistrarea denumirii de origine, indicaţiei geografice; specialităţii tradiţionale garantate, cu condiţia achitării taxei în cuantumul și în termenul stabilite.&nbsp;</span></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "f996622a-ec6d-444a-915c-59dea5090227",
+      "code": "019000594",
+      "title": {
+        "ro": "Înregistrarea și eliberarea certificatului de înregistrare a desenului/modelului industrial ",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">\tÎn cazul în care, în urma examinării cererii se constată că sunt îndeplinite condiţiile pentru înregistrarea<span style=\"color: black;\"> desenului sau modelului industrial, precum şi în cazul în care nu a fost depusă nici o contestaţie împotriva înregistrării conform art. 49&nbsp;alin. (1) sau contestaţiile depuse au fost respinse, AGEPI&nbsp;introduce datele privind înregistrarea în Registrul naţional de desene şi modele industriale înregistrate şi, în termen de 3 luni de la data înregistrării, va elibera certificat de înregistrare titularului, contra unei taxe, fapt care se publică în BOPI.</span></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "0d21b1b8-71e6-451a-a357-f5365ee06992",
+      "code": "019000565",
+      "title": {
+        "ro": "Înregistrarea și eliberarea certificatului de înregistrare a mărcii",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 32, 96);\">În cazul în care, în urma examinării cererii se constată că sunt îndeplinite condiţiile pentru înregistrarea mărcii, precum şi în cazul în care nu a fost depusă nicio contestaţie împotriva înregistrării sau contestaţiile depuse au fost respinse, AGEPI înregistrează marca, cu condiţia achitării taxei în cuantumul și eliberează certificatul de înregistrare a mărcii în termenul stabilite.&nbsp;</span></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "f997db7c-ec88-4498-8dc6-9a4c74e1cc73",
+      "code": "019000659",
+      "title": {
+        "ro": "Înregistrarea și eliberarea certificatului de înregistrare a titularului marcajelor de control ",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\"><span style=\"color: black;\"> În cadrul acestui serviciu se verifică respectarea condiţiilor pentru înregistrarea solicitantului în Registrul de Stat al titularilor marcajelor de control. AGEPI înscrie solicitantul în Registrul de stat al titularilor marcajelor de control şi eliberează certificatul de înregistrare a titularilor marcajelor de control.</span></p><p class=\"ql-align-justify\"><br></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "44e97987-4e19-42e3-9ca5-d1a5a23a26f6",
+      "code": "019000251",
+      "title": {
+        "ro": "Înregistrarea unei topografii de circuit integrat",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Hotărârea de înregistrare a unei topografii se înscrie în Registrul Naţional al Topografiilor Circuitelor Integrate. Data oficială a înregistrării topografiei este data la care s-a constituit depozitul naţional reglementar al cererii de înregistrare. În Registrul Naţional al Topografiilor Circuitelor Integrate se înscriu toate datele care privesc statutul juridic al topografiei înregistrate, precum şi toate modificările care survin în timpul perioadei de protecţie. Topografiile înscrise în Registrul Naţional al Topografiilor Circuitelor Integrate se numerotează în seria continuă, în care numărul topografiei, în ordine crescătoare, este destinat topografiilor înregistrate în cursul unei perioade care depăşeşte un an. De exemplu: 1, 15 , 45 etc. Certificatul de înregistrare a unei topografii este redactat pe baza hotărârii de înregistrare a topografiei. </p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "8e770eaa-2be8-458b-b2d2-bdc4ba57e94e",
+      "code": "019000646",
+      "title": {
+        "ro": "Înscrierea modificării titularului drepturilor patrimoniale (inclusiv înscrierea modificărilor în registru) în temeiul contractului de cesiune, licenţă, altor acte care confirmă modificarea titularului drepturilor patrimoniale pentru un obiect al drepturilor de autor sau al drepturilor conexe",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">\tSolicitantul sau reprezentantul acestuia depune o cerere de modificare a titularului drepturilor patrimoniale şi setul de documente <span style=\"color: black;\">care atestă transmiterea drepturilor patrimoniale. </span>În cazul prezentării tuturor actelor, AGEPI emite decizia de modificare a titularului drepturilor patrimoniale, înscrie modificările în Registrul de Stat al obiectelor protejate de dreptul de autor şi drepturile conexe şi eliberează adeverinţa de modificare a titularului de drepturi patrimoniale.</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "bd1430a0-3a64-42cf-8fd0-4a00e6f7d1c3",
+      "code": "019000662",
+      "title": {
+        "ro": "Înscrierea și eliberarea adeverinței de înscriere privind un obiect al dreptului de autor sau al drepturilor conexe ",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">\t<span style=\"color: black;\">Solicitantul sau reprezentantul acestuia depune cererea de înscriere a unui obiect al dreptului de autor sau al drepturilor conexe şi actele necesare pentru efectuarea procedurii. În urma examinării acestora şi înscrierii obiectului în Registrul de Stat al obiectelor protejate de dreptul de autor şi drepturile conexe, AGEPI eliberează adeverința de înscriere a obiectelor dreptului de autor şi drepturilor conexe.</span></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "4581850f-fca3-48f0-8428-097aa254e956",
+      "code": "021001079",
+      "title": {
+        "ro": "Legalizarea autenticităţii semnăturii judecătorului şi a ştampilei instanţei judecătoreşti pe deciziile judiciare",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p><span style=\"background-color: rgb(253, 253, 252); color: rgb(0, 0, 0);\">Legalizarea consulara se aplica actelor care urmeaza sa fie prezentate pe teritoriul unui stat care nu este parte la Conventia de la Haga din 1961 si se aplica stampila pe originalul actului. ARIJ este responsabila de&nbsp;Legalizarea autenticităţii semnăturii judecătorului şi a ştampilei instanţei judecătoreşti pe deciziile judiciare.</span></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "69add462-63b6-412a-891d-6d0633d4d608",
+      "code": "019000264",
+      "title": {
+        "ro": "Menţinerea în vigoare a brevetului de invenţie",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>În BD „Invenții” se verifică expirarea valabilității brevetelor la începutul fiecărei luni și brevetele la care se apropie data expirării valabilității, adică cu 3 luni înainte de expirarea valabilității, se ridică din arhiva AGEPI. Se expediază avizul de expirare a termenului valabilității brevetului cu necesitatea achitării taxei și a cuantumului ei, cu privire la brevetele a căror valabilitate va expira în următoarele 3 luni. În cazul în care se achită taxa de menținere în vigoare, aceasta se introduce în BD „Invenții”, apoi nota de plată se scanează și se anexează la dosarul fizic şi electronic. În cazul în care titularul nu a achitat taxa de menținere în termenul prescris, el mai are o perioadă de grație de 6 luni pentru achitare, dar cu o taxă suplimentară de 50%. În cazul neachitării taxei de menținere în vigoare se adoptă <em>hotărârea de decădere din drepturi</em> și se publică în BOPI, în termen de 2 luni de la data adoptării acestei hotărâri, <em>mențiunea privind decăderea din drepturi cu posibilitatea de restabilire,</em> iar dosarul se depozitează în arhiva Direcției Brevete pentru o perioadă de 12 luni. După această perioadă, dacă titularul nu s-a restabilit în drepturi, se pregătește <em>fișierul pentru publicare în BOPI</em>) precum că titularul a omis termenul de restabilire în drepturi a brevetului, iar dacă achită taxa de restabilire și cea de menținere în vigoare, dosarul brevetului se transmite în Comisia de Contestații. Publicarea în BOPI se efectuează în termen de 2 luni de la expirarea termenului prescris.</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "6de34b24-e092-4408-b887-b14afcb29a6b",
+      "code": "019000277",
+      "title": {
+        "ro": "Menţinerea în vigoare a brevetului de invenţie de scurtă durată",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>În BD „Invenții” se verifică expirarea valabilității brevetelor la începutul fiecărei luni și brevetele la care se apropie data expirării valabilității, adică cu 3 luni înainte de expirarea valabilității, se ridică din arhiva AGEPI. Se expediază avizul de expirare a termenului valabilității brevetului cu necesitatea achitării taxei și a cuantumului ei, cu privire la brevetele a căror valabilitate va expira în următoarele 3 luni. În cazul în care se achită taxa de menținere în vigoare, aceasta se introduce în BD „Invenții”, apoi nota de plată se scanează și se anexează la dosarul fizic şi electronic. În cazul în care titularul nu a achitat taxa de menținere în termenul prescris, el mai are o perioadă de grație de 6 luni pentru achitare, dar cu o taxă suplimentară de 50%. În cazul neachitării taxei de menținere în vigoare se adoptă <em>hotărârea de decădere din drepturi</em> și se publică în BOPI, în termen de 2 luni de la data adoptării acestei hotărâri, <em>mențiunea privind decăderea din drepturi cu posibilitatea de restabilire,</em> iar dosarul se depozitează în arhiva Direcției Brevete pentru o perioadă de 12 luni. După această perioadă, dacă titularul nu s-a restabilit în drepturi, se pregătește <em>fișierul pentru publicare în BOPI</em>) precum că titularul a omis termenul de restabilire în drepturi a brevetului, iar dacă achită taxa de restabilire și cea de menținere în vigoare, dosarul brevetului se transmite în Comisia de Contestații. Publicarea în BOPI se efectuează în termen de 2 luni de la expirarea termenului prescris.</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "6861e322-d8bc-4236-9247-80b7f4056f8b",
+      "code": "019000280",
+      "title": {
+        "ro": "Menţinerea în vigoare a brevetului de invenţie de scurtă durată după prelungire",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>În BD „Invenții” se verifică expirarea valabilității brevetelor de invenție de scurtă durată la începutul fiecărei luni și brevetele la care se apropie data expirării valabilității, adică cu 3 luni înainte de expirarea valabilității, se ridică din arhiva AGEPI. Se expediază avizul de expirare a termenului valabilității brevetului și despre necesitatea achitării taxei și a cuantumului ei, cu privire la brevetele a căror valabilitate va expira în următoarele 3 luni. În cazul în care se achită taxa de menținere în vigoare, aceasta se introduce în BD „Invenții”, apoi nota de plată se scanează și se anexează la dosarul fizic şi electronic. În cazul în care titularul nu a achitat taxa de menținere în termenul prescris, el mai are o perioadă de grație de 6 luni pentru achitare, dar cu o taxă suplimentară de 50%. În cazul neachitării taxei de menținere în vigoare se adoptă <em>hotărârea de decădere din drepturi</em> și se publică în BOPI, în termen de 2 luni de la data adoptării acestei hotărâri, <em>mențiunea privind decăderea din drepturi cu posibilitatea de restabilire, </em>iar dosarul se depozitează în arhiva Direcției Brevete pentru o perioadă de 12 luni. După această perioadă, dacă titularul nu s-a restabilit în drepturi, se pregătește <em>fișierul pentru publicare în BOPI</em>) precum că titularul a omis termenul de restabilire în drepturi a brevetului, iar dacă achită taxa de restabilire și cea de menținere în vigoare, dosarul brevetului se transmite în Comisia de Contestații. Publicarea în BOPI se efectuează în termen de 2 luni de la expirarea termenului prescris.</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "84201e2e-9e0b-4013-b11a-4fb1e771081a",
+      "code": "019000293",
+      "title": {
+        "ro": "Menținerea în vigoare a brevetului pentru soi de plantă",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>În cazul în care nu au fost depuse contestaţii împotriva acordării brevetului sau contestaţiile depuse au fost respinse, AGEPI pregăteşte documentul de brevet şi eliberează brevetul persoanei îndreptăţite, cu condiţia plăţii taxelor stabilite, şi publică în BOPI datele despre acesta. Brevetul este eliberat de către AGEPI în temeiul Hotărârii de acordare a brevetului. Data eliberării brevetului este data la care menţiunea de eliberare este publicată în BOPI. Componenţa datelor pentru publicare se stabileşte de AGEPI. Data eliberării brevetului se înscrie în Registrul naţional de brevete.&nbsp;</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "c3491926-db27-4893-9869-8a75ebf7fff0",
+      "code": "019000303",
+      "title": {
+        "ro": "Menţinerea în vigoare a Certificatului complementar de protecție",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>În BD „Invenții” se verifică expirarea valabilității certificatelor la începutul fiecărei luni și certificatele la care se apropie data expirării valabilității, adică cu <u>3 luni</u> înainte de expirarea valabilității, se ridică din arhiva AGEPI .</p><p>Se expediază avizul de expirare a termenului valabilității certificatului cu necesitatea achitării taxei și a cuantumului ei, cu privire la certificatele a căror valabilitate va expira în următoarele 3 luni.</p><p>În cazul în care se achită taxa de menținere în vigoare, aceasta se introduce în BD „Invenții”, apoi nota de plată se scanează și se anexează la dosarul fizic şi electronic. În cazul în care titularul nu a achitat taxa de menținere în termenul prescris, el mai are o perioadă de grație de 6 luni pentru achitare, dar cu o taxă suplimentară de 50%. În cazul neachitării taxei de menținere în vigoare se adoptă <em>hotărârea de decădere din drepturi</em> și se publică în BOPI, în termen de 2 luni de la data adoptării acestei hotărâri, <em>mențiunea privind decăderea din drepturi cu posibilitatea de restabilire</em>, iar dosarul se depozitează în arhiva Direcției Brevete pentru o perioadă de 12 luni. După această perioadă, dacă titularul nu s-a restabilit în drepturi, se pregătește <em>fișierul pentru publicare în BOPI</em>) precum că titularul a omis termenul de restabilire în drepturi a certificatului, iar dacă achită taxa de restabilire și cea de menținere în vigoare, dosarul se transmite în Comisia de Contestații. Publicarea în BOPI se efectuează în termen de 2 luni de la expirarea termenului prescris. Dacă este achitată taxa de menținere în vigoare, aceasta se scanează și se anexează la dosarul fizic şi electronic, apoi se transmite dosarul fizic în arhiva AGEPI.</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "16ab465a-9df9-4e42-a9e0-eb70794d5074",
+      "code": "019000769",
+      "title": {
+        "ro": "Modificarea datelor înscrise în Registrul național al mandatarilor autorizați în proprietatea intelectuală",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">Mandatarul autorizat este obligat să anunţe AGEPI orice modificare a datelor sale personale înscrise în Registrul naţional al mandatarilor autorizaţi în proprietatea intelectuală.&nbsp;<span style=\"color: black;\">Solicitarea de modificare a datelor înscrise în&nbsp;registru&nbsp;se prezintă&nbsp;în formă scrisă.</span></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "7f316954-d015-45e7-aa94-0831adc8acc4",
+      "code": "019000523",
+      "title": {
+        "ro": "Organizarea medierii/arbitrajului",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>\tCererea de mediere/arbitraj se completează şi se depune la AGEPI în scris de către solicitant/reclamant sau reprezentantul acestuia însoțite de actele necesare pentru demararea procedurii, într-un număr de copii corespunzător numărului părţilor aflate în litigiu, plus un exemplar pentru mediator/arbitru, în cazul arbitrajului câte un exemplar și pentru dosarul cauzei. </p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "9726a16e-e235-4953-928b-fe30f4920dee",
+      "code": "019000316",
+      "title": {
+        "ro": "Prelungirea termenului de procedură (pentru o acțiune într-o procedură în fața Agenției de Stat pentru Proprietatea Intelectuală)",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p><span style=\"color: rgb(51, 51, 51);\">Termenele prescrise de Legea nr. 50/2008 sau de Regulamentul nr. 528, precum și Leagea nr. 39/2008 sau de Regulamentul nr. 295 pentru o acţiune într-o procedură în faţa AGEPI referitor la o cerere de brevet sau la un brevet pot fi prelungite printr-o cerere depusă la AGEPI până la expirarea termenului prescris. Perioada de prelungire a termenului nu poate constitui mai mult de 6 luni de la data expirării termenului prescris. Cererea de prelungire a termenului se redactează pe un formular-tip aprobat de AGEPI. Termenul necesar pentru prelungire poate fi indicat de solicitant direct în cererea de prelungire sau pot fi depuse câteva cereri consecutive, cu condiţia ca fiecare cerere ulterioară să fie depusă până la expirarea termenului prelungit prin cererea anterioară.</span></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "8171a377-59c9-4aef-afb4-0327f332f9f8",
+      "code": "019000455",
+      "title": {
+        "ro": "Publicarea desenului/modelului industrial ",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\"><span style=\"color: rgb(51, 51, 51);\">Cererea de înregistrare inclusă în Registrul cererilor de înregistrare a desenelor şi a modelelor industriale se publică în BOPI în cel mult 3 luni de la data de depozit dacă sînt îndeplinite condiţiile prevăzute în art.30–33 şi dacă este plătită&nbsp;taxa de publicare</span>.</p><p><br></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "4771151d-901d-41ac-8392-97eb15c88125",
+      "code": "019000329",
+      "title": {
+        "ro": "Publicarea și eliberarea brevetului de invenție de scurtă durată prelungit ",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p><span style=\"color: rgb(51, 51, 51);\">Hotărârea de prelungire a termenului de valabilitate a brevetului de invenţie de scurtă durată în formă iniţială sau modificată cu textul revendicărilor acceptate se expediază titularului, menţiunea respectivă se publică în BOPI şi se înscrie după publicare în Registrul Naţional de Brevete de Invenţie de scurtă durată. AGEPI, în termen de 2 luni după publicarea menţiunii privind hotărârea conform pct. 397 din Regulament nr. 528 în BOPI şi achitarea taxei stabilite conform Hotărârii Guvernului nr.774 din 13 august 1997, retipăreşte şi expediază titularului o nouă fasciculă de brevet de invenţie de scurtă durată prelungit care va include suplimentar raportul de documentare </span><span style=\"color: rgb(102, 102, 102);\">cu opinie scrisă privind brevetabilitatea</span><span style=\"color: rgb(51, 51, 51);\">.</span></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "f82ea1c5-d29c-4c96-8c36-0927dd908c4c",
+      "code": "019000332",
+      "title": {
+        "ro": "Publicarea traducerii corectate a fasciculului de brevet european validat",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Publicarea traducerii corectate a fascicolului de brevet european validat conform art. 44<sup>3</sup> alin.(3) din Legea nr. 50/2008 se efectuează în termen de 3 luni de la depunerea unei cereri în acest sens, redactată pe un formular-tip aprobat de AGEPI, a traducerii corectate şi achitării taxei stabilite prin publicarea în BOPI a datelor bibliografice referitoare la cererea sau brevetul european validat corectate şi punerea la dispoziţia publicului în format electronic a traducerii corectate</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "14403645-4329-4fd4-a9e3-c4c8e53c07d8",
+      "code": "019000345",
+      "title": {
+        "ro": "Publicarea traducerii fasciculului de brevet european validat",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>Solicitarea de validare în Republica Moldova a cererii de brevet european şi a brevetului european eliberat pe baza unei astfel de cereri se publică de către AGEPI şi se înscrie în Registrul naţional de cereri de brevet de invenţie în termen de 3 luni de la data informării de către Oficiul European de Brevete (în continuare – OEB) privind achitarea taxei stabilite pentru validare, dar nu înainte de expirarea unui termen de 18 luni de la data depunerii cererii de brevet european sau, dacă o prioritate a fost revendicată, de la data celei mai vechi priorităţi.</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "cfb3167a-7cfa-4c17-acf5-741ebe81d336",
+      "code": "019000358",
+      "title": {
+        "ro": "Publicarea traducerii fasciculului de brevet european validat, modificat în urma procedurii de opoziţie sau de limitare la Oficiul European de Brevete",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>AGEPI publică traducerea în limba de stat a fasciculului de brevet european validat, modificat în urma procedurii de opoziţie sau limitare la OEB, depusă în conformitate cu art.44<sup>2</sup> alin.(7) din Legea nr. 50/2008, în termen de 3 luni de la data depunerii la AGEPI a unei cereri în acest sens, redactate pe un formular-tip aprobat de AGEPI, a traducerii revendicărilor modificate şi achitării taxei stabilite de publicare şi înscrie modificările brevetului european validat în Registrul naţional de brevete de invenţie la compartimentul „Brevete europene validate”.</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "bf4d0772-7f8a-4ba0-8fde-bd7bc8d21cbf",
+      "code": "019000361",
+      "title": {
+        "ro": "Publicarea traducerii revendicărilor din cererea de brevet european în procedura de validare",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>În conformitate cu prevederile art. 44<sup>1 </sup>alin.(3) din Legea nr. 50/2008, în scopul conferirii protecţiei provizorii unei cereri de brevet european publicate, AGEPI face publică traducerea în limba de stat a revendicărilor din cererea de brevet european în termen de 3 luni de la data prezentării de către solicitant a unei cereri în acest sens, redactate pe un formular-tip aprobat de AGEPI, a traducerii revendicărilor şi a dovezii de achitare a taxei de publicare stabilite. Publicarea menţionată în prezentul punct cuprinde publicarea în BOPI a datelor bibliografice referitoare la cererea de brevet european şi punerea la dispoziţia publicului, pe hârtie şi în format electronic, a traducerii în limba de stat a revendicărilor din cererea de brevet European.</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "f18ca90d-895d-470a-8f58-553575d34f8d",
+      "code": "019000374",
+      "title": {
+        "ro": "Publicarea versiunii corectate a traducerii revendicărilor din cererea de brevet european în procedura de validare",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Publicarea traducerii corectate a revendicărilor unei cereri de brevet european publicate sau a fasciculului de brevet european validat conform art. 44<sup>3</sup> alin.(3) din Legea nr. 50/2008 se efectuează în termen de 3 luni de la depunerea unei cereri în acest sens, redactată pe un formular-tip aprobat de AGEPI, a traducerii corectate şi achitării taxei stabilite prin publicarea în BOPI a datelor bibliografice referitoare la cererea sau brevetul european validat corectate şi punerea la dispoziţia publicului în format electronic a traducerii corectate.</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "468f4157-99a0-420b-a58c-3f23816881b7",
+      "code": "019000772",
+      "title": {
+        "ro": "Radierea informației privind înregistrarea contractului",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\"><span style=\"color: black;\">Radierea informaţiei privind înregistrarea contractului de licenţă, gaj şi franchising (în cazul contractelor al căror termen de valabilitate nu a expirat) se realizează&nbsp;la solicitarea părţii contractante interesate, prin depunerea la AGEPI a unei declaraţii în formă scrisă, semnată de ambele părţi contractante&nbsp;sau la solicitarea terţului, care a dobîndit obiectul gajului.</span></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "8fea7f80-9fb9-4624-938c-d3f4dd651e78",
+      "code": "019000028",
+      "title": {
+        "ro": "Reatestarea evaluatorilor în domeniul proprietății intelectuale",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>Reatestarea evaluatorilor obiectelor de proprietate intelectuală se efectuează la expirarea certificatului de calificare a solicitantului, de către Comisia de atestare și disciplină a evaluatorilor obiectelor de proprietate intelectuală (în continuare Comisie), care se instituie prin ordinul directorului general în componență de 5 persoane (președinte, vicepreședinte, doi membri și secretar al Comisiei –specialiști în domeniul proprietății intelectuale și evaluării acesteia), în baza cererii de reatestare depuse de solicitant;&nbsp;</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "ccc20a6b-51c6-49dd-a5da-5eae63eedb22",
+      "code": "019000552",
+      "title": {
+        "ro": "Recepționarea, verificarea, examinarea și transmiterea cererii conform procedurilor de înregistrare internațională, cu excepția invențiilor",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\"><span style=\"color: rgb(0, 32, 96);\">Cererea de înregistrare internaţională se depune la AGEPI de solicitant sau de reprezentantul acestuia. În cadrul acestui serviciu se examinează, verifică documentele cererii internaţionale în vederea respectării condiţiilor de formă și se expediază la Biroul Internaţional al OMPI.</span></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "0b036b27-e2da-461b-aae5-8ad10563841e",
+      "code": "019000387",
+      "title": {
+        "ro": "Recepționarea, verificarea, examinarea și transmiterea unei cereri internaționale conform prevederilor articolului 14 al Tratatului de cooperare în domeniul brevetelor (P.C.T.)",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\"><span style=\"color: rgb(51, 51, 51);\">Pentru înregistrarea cererilor internaţionale în vederea brevetării invenţiilor în alte state, în conformitate cu prevederile PCT, AGEPI acţionează în calitate de oficiu receptor. Cererea internaţională se redactează de solicitant, cu respectarea condiţiilor prevăzute de Tratatul PCT şi Regulamentul PCT şi se depune la AGEPI în una din limbile: engleză, franceză, germană, rusă. Cererea internaţională poate fi depusă: a) pe un formular-tip elaborat de Biroul Internaţional al OMPI; b) în formă de imprimat computerizat ale cărui format şi conţinut corespund formularului-tip PCT; c) în format PCT-EASY, fiind însoțită de un suport PCT-EASY. Cererea internaţională se depune la AGEPI în 3 exemplare care permit multiplicarea directă, iar primul exemplar care se transmite la Biroul Internaţional OMPI trebuie să fie suficient de calitativ încât să permită multiplicarea într-un număr nelimitat de copii. Depunerea cererii internaţionale este însoţită de achitarea la AGEPI a taxei internaţionale de depunere, taxei de documentare şi taxei de transmitere în termen de 1 lună de la depunerea cererii internaţionale, stabilite conform Hotărârii Guvernului nr.774 din 13 august 1997. AGEPI atribuie cererii internaţionale care îndeplineşte condiţiile art. 11 alin. (1) din PCT număr de depozit internaţional. Acest număr şi data depozitului internaţional se înscriu în formularul cererii. Se efectuează examinarea formală și preliminară. AGEPI, ca oficiu receptor, trimite cererea internaţională la Biroul Internaţional OMPI şi la Administraţia de Documentare Internaţională nu mai târziu de luna a 12-a de la data depunerii cererii internaţionale sau nu mai târziu de 15 zile până la expirarea termenului de 13 luni de la data priorităţii.</span></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "225fe6c3-27d8-4310-866c-c2bc216ec2ad",
+      "code": "019000785",
+      "title": { "ro": "Rectificarea unei erori", "ru": "", "en": "" },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\"><span style=\"color: black;\">Cererea de rectificare a unor erori se prezintă&nbsp;pe un formular-tip, aprobat de AGEPI.</span></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "2be7c40c-4aee-4729-b913-b13f196a1cfe",
+      "code": "019000604",
+      "title": {
+        "ro": "Reînnoirea valabilității certificatului de înregistrare a desenului/modelului industrial ",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">\tCererea de reînnoire a înregistrării desenului/modelului industrial<span style=\"color: black;\"> </span>(în continuare – cerere) <span style=\"color: black;\">se completează și se depune la AGEPI într-un exemplar&nbsp;de către titular sau de reprezentantul acestuia.</span> În cazul îndeplinirii condiţiilor legale pentru reînnoirea desenului/modelului industrial, AGEPI va adopta hotărârea de reînnoire a înregistrării desenului/modelului industrial şi va elibera pe numele titularului certificatul de înregistrare a desenului/modelului industrial reînnoit, cu acelaşi număr de înregistrare a desenului/modelului industrial, precedat de inscripţia R sau, după caz, 2R, 3R etc., în funcţie de numărul de ordine al termenului reînnoit.&nbsp;</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "34971b4e-4d24-4268-abd2-e09bac651233",
+      "code": "019000549",
+      "title": {
+        "ro": "Reînnoirea valabilității certificatului de înregistrare a mărcii",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p><span style=\"color: rgb(0, 32, 96);\">Cererea de reînnoire a înregistrării mărcii (în continuare – cerere)&nbsp;se completează și se depune la AGEPI într-un exemplar&nbsp;de către titular sau de reprezentantul acestuia. În cazul îndeplinirii &nbsp;condiţiile legale pentru reînnoirea mărcii, AGEPI va adopta decizia de reînnoire a înregistrării mărcii şi va elibera pe numele titularului, sau reprezentantul acestuia certificatul de înregistrare a mărcii reînnoite, cu acelaşi număr de înregistrare a mărcii, precedat de inscripţia R sau, după caz, 2R, 3R etc., în funcţie de numărul de ordine al termenului reînnoit.</span></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "cd9beaf6-67ab-4a4b-b99a-873c4a313c7b",
+      "code": "019000390",
+      "title": { "ro": "Repunerea în termenul omis", "ru": "", "en": "" },
+      "description": {
+        "ro": "<p><span style=\"color: rgb(51, 51, 51);\">În cazul în care solicitantul nu a respectat un termen prescris pentru o procedură în faţa AGEPI </span><span style=\"color: rgb(102, 102, 102);\">în conformitate cu Legea nr. 50/2008 sau Regulamentul nr. 528, precum şi cu Legea nr. 39/2008 sau Regulamentul nr. 295</span><span style=\"color: rgb(51, 51, 51);\">, el poate solicita repunerea în termenul omis şi continuarea procedurii referitor la cererea de brevet. Solicitarea se face în scris, în termen de până la 6 luni de la data expirării termenului prescris. Acţiunea omisă trebuie realizată în acest termen-limită. Solicitarea se va considera ca fiind depusă numai după plata taxei de repunere în termenul omis. Cererea de repunere în termenul omis se redactează pe un formular-tip aprobat de AGEPI. </span><span style=\"color: rgb(102, 102, 102);\">Solicitantul sau titularul trebuie să depună cererea de repunere în termenul omis,&nbsp;nu mai tîrziu de 6 luni de la data expirării lui.&nbsp;</span></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "79af9bc8-f68f-46c1-8cba-bb932a75d2bf",
+      "code": "019000798",
+      "title": {
+        "ro": "Restabilirea/repunerea în drepturi",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\"><span style=\"color: black;\">Cererea de restabilire/repunere în drepturi se depune pe un formular-tip, întocmit şi aprobat de AGEPI, de către solicitant, titular sau orice altă parte la o procedură în faţa AGEPI, care, în pofida luării tuturor măsurilor de bună-credinţă impuse de împrejurări, nu a reuşit să respecte un termen faţă de AGEPI, în cazul în care omiterea termenului are drept consecinţă pierderea unui drept sau a unui mijloc de recurs.</span></p><p class=\"ql-align-justify\"><br></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "a1883941-51d7-4c90-b475-e60ec8cd26db",
+      "code": "019000400",
+      "title": {
+        "ro": "Retragerea cererii de înregistrare/brevetare a obiectului de proprietate intelectuală, retragerea opoziției, retragerea contestației depuse împotriva deciziei examinării, renunțarea la titlul de protecție a obiectului de proprietate intelectuală",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p><span style=\"color: rgb(51, 51, 51);\">Solicitantul are dreptul să retragă cererea de brevet oricând până la data adoptării unei hotărâri referitor la această cerere. În cazul în care există mai mulţi solicitanţi, cererea de brevet se retrage numai cu acordul fiecăruia dintre aceştia. În cazul în care solicitant este altul decât inventatorul/amelioratorul, el are obligaţia con­co­mitent cu depu­nerea solicitării scri­se la AGEPI, să comunice in­ven­tatorului/amelioratorului intenţia sa de a re­nun­ţa la cerere. În acest caz, in­ven­tatorul/amelioratorul, în termen de 2 luni de la da­ta la care solicitantul i-a comunicat intenţia sa de a renunţa la cerere, are dreptul preferenţial de a solicita continuarea procedurilor referitor la cerere în calitate de solicitant. Retragerea cererii de brevet se efectuează la cererea solicitantului cu condiţia plăţii taxei stabilite conform Hotărîrii Guvernului nr. 774 din 13 august 1997 sau prin inacţiunea acestuia în cazurile prevăzute de Legea nr. 50/2008 şi de Regulamentul </span><span style=\"color: rgb(102, 102, 102);\">nr. 528 precum şi de Legea nr. 39/2008 şi de Regulamentul nr. 295</span><span style=\"color: rgb(51, 51, 51);\">. Cererea de brevet retrasă nu comportă efecte juridice, acţiunile ulterioare ale solicitantului nu pot fi întemeiate pe această cerere (la depunerea cererii următoare nu poate fi invocată prioritatea din data depunerii cererii retrase sau a materialelor suplimentare ale acesteia). Cererea, retrasă până la publicare, nu se include în stadiul anterior. Cererea de retragere nu poate fi revocată. </span></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "1b4bdba7-2957-4de1-884a-9ac78673fa5c",
+      "code": "019000413",
+      "title": {
+        "ro": "Revendicarea priorității convenționale sau de expoziție într-o cerere de înregistrare/brevetare a obiectului de proprietate industrială, inclusiv într-o cerere internațională",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p><span style=\"color: rgb(102, 102, 102);\">În conformitate cu art. 39 şi 40 din Legea nr. 50/2008,</span><span style=\"color: rgb(51, 51, 51);\">o persoană care a depus, conform prevederilor legale, o cerere de brevet de invenţie, de model de utilitate, de certificat de utilitate sau de certificat de autor în sau pentru un stat parte la Convenţia de la Paris sau membru al Organizaţiei Mondiale a Comerţului ori succesorul său în drepturi beneficiază, în scopul depunerii unei cereri de brevet pentru aceeaşi invenţie, de un drept de prioritate pe o perioadă de 12 luni de la data de depozit a primei cereri; ziua depozitului nu este cuprinsă în termen. Solicitantul care vrea să beneficieze de prioritatea unei cereri anterioare trebuie să depună o declaraţie de revendicare a priorităţii, o copie a cererii anterioare şi, după caz, o traducere a acesteia în limba moldovenească, precum şi să achite taxa stabilită pentru fiecare prioritate revendicată. Pentru o cerere de brevet se pot revendica priorităţi multiple, chiar dacă ele provin din state diferite. Se pot revendica, după caz, priorităţi multiple pentru aceeaşi revendicare de brevet. Dacă sunt revendicate priorităţi multiple, termenul de prioritate se calculează de la data celei mai vechi priorităţi. În cazul în care se revendică una sau mai multe priorităţi pentru o cerere de brevet, dreptul de prioritate va acoperi doar elementele cererii de brevet care sunt cuprinse în cererea sau în cererile a căror prioritate a fost revendicată. În cazul în care anumite elemente ale invenţiei pentru care se revendică prioritatea nu sunt cuprinse în revendicările formulate în cererea anterioară, prioritatea poate fi recunoscută cu condiţia ca documentele cererii anterioare să dezvăluie clar aceste elemente. Prioritatea revendicată într-o cerere de brevet ca urmare a expunerii invenţiei, conform art. 9 alin.(1) lit.b) </span><span style=\"color: rgb(102, 102, 102);\">din Legea nr. 50/2008</span><span style=\"color: rgb(51, 51, 51);\">, la o expoziţie organizată într-un stat parte la Convenţia de la Paris sau membru al Organizaţiei Mondiale a Comerţului poate fi recunoscută de la data prezentării invenţiei la expoziţie. Prevederile date se aplică numai în cazul în care cererea de brevet a fost depusă în termen de 6 luni de la data expunerii invenţiei la expoziţie. Termenul de 6 luni nu va prelungi termenul de prioritate prevăzut la art. 39 alin.(1) </span><span style=\"color: rgb(102, 102, 102);\">din Legea nr. 50/2008</span><span style=\"color: rgb(51, 51, 51);\">.&nbsp;</span></p><p><span style=\"color: rgb(51, 51, 51);\"><span class=\"ql-cursor\">﻿</span>În conformitate cu art. 37 şi 38 din Legea nr. 39/2008, orice persoană sau succesorul în drepturi al acesteia care a depus, conform prevederilor legale, o cerere de brevet pentru soi de plantă într-un stat membru al UPOV sau într-un stat membru al Organizaţiei Mondiale a Comerţului beneficiază, în scopul depunerii unei cereri de brevet pentru acelaşi soi, de un drept de prioritate pe o perioadă de 12 luni de la data de depozit a cererii anterioare; ziua depozitului nu este cuprinsă în termen. Solicitantul care intenţionează să beneficieze de prioritatea unei cereri anterioare trebuie să depună o solicitare de revendicare a priorităţii, o copie a cererii anterioare şi, după caz, o traducere a acesteia în limba de stat.</span><span style=\"color: rgb(102, 102, 102);\"> Prioritatea revendicată într-o cerere de brevet în urma căreia </span><span style=\"color: rgb(51, 51, 51);\">materialul soiului a fost pus la dispoziţie în vederea prezentării soiului de către ameliorator în cadrul unei expoziţii oficial recunoscute conform Convenţiei privind expoziţiile internaţionale, nu aduce atingere noutăţii soiului, conform art. 10 alin. (2) lit. d) din Legea nr. 39/2008.</span></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "9f462735-5259-4287-85b1-26e3e4adb930",
+      "code": "019000426",
+      "title": {
+        "ro": "Revendicarea priorității unei cereri depuse la Agenția de Stat pentru Proprietatea Intelectuală, corectarea sau suplimentarea unei revendicări a priorității",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p><span style=\"color: rgb(102, 102, 102);\">În conformitate cu art. 39 şi 40 din Legea nr. 50/2008, o</span><span style=\"color: rgb(51, 51, 51);\"> persoană care a depus, conform prevederilor legale, o cerere de brevet de invenţie, de model de utilitate, de certificat de utilitate sau de certificat de autor în sau pentru un stat parte la Convenţia de la Paris sau membru al Organizaţiei Mondiale a Comerţului ori succesorul său în drepturi beneficiază, în scopul depunerii unei cereri de brevet pentru aceeaşi invenţie, de un drept de prioritate pe o perioadă de 12 luni de la data de depozit a primei cereri; ziua depozitului nu este cuprinsă în termen. Solicitantul sau succesorul în drepturi al acestuia are dreptul să revendice într-o cerere ulterioară o prioritate a unei cereri anterioare depuse la AGEPI pentru aceeaşi invenţie dacă revendicarea priorităţii se face în termen de 12 luni de la data de depozit a cererii anterioare (prioritate internă). În acest caz, cererea anterioară se consideră retrasă. În cazul în care anumite elemente ale invenţiei pentru care se revendică prioritatea nu sunt cuprinse în revendicările formulate în cererea anterioară, prioritatea poate fi recunoscută cu condiţia ca documentele cererii anterioare să dezvăluie clar aceste elemente.&nbsp;</span></p><p><span class=\"ql-cursor\">﻿</span>În conformitate cu art. 37 şi 38 din Legea nr. 39/2008, orice persoană sau succesorul în drepturi al acesteia care a depus, conform prevederilor legale, o cerere de brevet pentru soi de plantă într-un stat membru al UPOV sau într-un stat membru al Organizaţiei Mondiale a Comerţului beneficiază, în scopul depunerii unei cereri de brevet pentru acelaşi soi, de un drept de prioritate pe o perioadă de 12 luni de la data de depozit a cererii anterioare; ziua depozitului nu este cuprinsă în termen. Solicitantul care intenţionează să beneficieze de prioritatea unei cereri anterioare trebuie să depună o solicitare de revendicare a priorităţii, o copie a cererii anterioare şi, după caz, o traducere a acesteia în limba de stat.</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "be716f00-06ba-4f46-8c61-a5d186e9e958",
+      "code": "019000536",
+      "title": {
+        "ro": "Substituirea mărcii naționale cu o înregistrare internațională",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">\t<span style=\"color: rgb(0, 32, 96);\">Cererea de substituire a unei înregistrări naționale cu o înregistrare internațională se completează și se depune la AGEPI. După recepţionarea cererii de substituire&nbsp;se verifica dacă:</span></p><p class=\"ql-align-justify\">\t<span style=\"color: rgb(0, 32, 96);\">1) înregistrarea internaţională şi marca naţională care face obiectul substituirii se referă la acelaşi semn;</span></p><p class=\"ql-align-justify\">\t<span style=\"color: rgb(0, 32, 96);\">2) marca naţională a fost înregistrată anterior desemnării Republicii Moldova prin înregistrarea internaţională;</span></p><p class=\"ql-align-justify\">\t<span style=\"color: rgb(0, 32, 96);\">3) toate produsele şi serviciile enumerate în înregistrarea naţională sînt prezente şi în înregistrarea internaţională în privinţa Republicii Moldova;</span></p><p class=\"ql-align-justify\">\t<span style=\"color: rgb(0, 32, 96);\">4) marca naţională şi marca internaţională sînt&nbsp;înregistrate pe numele aceluiaşi titular;</span></p><p class=\"ql-align-justify\">\t<span style=\"color: rgb(0, 32, 96);\">5) înregistrarea internaţională a obţinut protecţie pe teritoriul Republicii Moldova;</span></p><p class=\"ql-align-justify\">\t<span style=\"color: rgb(0, 32, 96);\">6) taxa a fost achitată.</span></p><p class=\"ql-align-justify\">\t<span style=\"color: rgb(0, 32, 96);\">În cazul în care cererea de substituire satisface toate condiţiile sus-menţionate, AGEPI va înscrie în Registrul Naţional al Mărcilor menţiunea privind substituirea şi acest fapt va fi publicat în BOPI,&nbsp;şi va fi notificat Biroului Internaţional.</span></p><p><br></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "ea7225be-5c9d-462a-b7bd-30626e1bac46",
+      "code": "019000439",
+      "title": {
+        "ro": "Tipărirea și eliberarea unui nou fascicul al titlului de protecție",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p><span style=\"color: rgb(51, 51, 51);\">În cazul în care titularul renunţă la brevet, inventatorul</span><span style=\"color: rgb(102, 102, 102);\">/amelioratorul</span><span style=\"color: rgb(51, 51, 51);\"> are dreptul preferenţial de a depune o cerere pentru obţinerea acestui brevet pe numele său, cu condiţia achitării taxei pentru înscrierea modificării corespunzătoare în Registrul Naţional de Brevete de Invenţie/soi de plată şi taxei de tipărire și eliberare a unui nou fascicul&nbsp;&nbsp;de brevet, stabilite conform Hotărârii Guvernului nr.774 din 13 august 1997. În cazul în care titularul renunţă la brevet, iar inventatorul</span><span style=\"color: rgb(102, 102, 102);\">/amelioratorul</span><span style=\"color: rgb(51, 51, 51);\"> este de acord să obţină acest brevet pe numele său, la AGEPI se depune o cerere redactată pe un formular-tip în care este exprimată dorinţa inventatorului de a obţine acest brevet pe numele său, semnată de inventator. Totodată în cazul în care un brevet de invenție a fost modificat ca rezultat al opoziție, AGEPI va publica, după plata taxei stabilite, un nou fascicul de brevet de invenție conţinând, în forma modificată, descrierea, revendicările şi, după caz, desenele. Pe lângă aceasta la cererea titularului de brevet de invenție, depusă la AGEPI şi supusă plăţii taxei stabilite, brevetul de invenție poate face obiectul unei limitări, cu condiţia ca acesta, în forma modificată, să respecte cerinţele de protecţie. Limitarea se face prin modificarea descrierii, revendicărilor sau desenelor. În cazul când brevetul de invenție este modificat prin limitare, AGEPI publică, după plata taxei stabilite, un nou fascicul de brevet de invenție conţinând, în formă modificată, descrierea, revendicările şi, după caz, desenele.</span></p><p><span class=\"ql-cursor\">﻿</span>În cazul în care se modifică denumirea soiului, AGEPI eliberează, la solicitare şi cu condiţia achitării taxei stabilite, un fascicul de brevet conținând&nbsp;modificările introduse.</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    }
+  ]
+}

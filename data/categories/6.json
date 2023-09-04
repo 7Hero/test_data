@@ -1,0 +1,1047 @@
+{
+  "category": {
+    "title": { "ro": "Mediu și zonele rurale", "ru": null, "en": null },
+    "description": {
+      "ro": "Un set de servicii sau evenimente de viață legate de inundații, reciclare, stingerea incendiilor și intervenții pentru ajutorul persoanelor în stare de urgență, cercetări geologice, folosirea raţională şi protecţia subsolului.",
+      "ru": null,
+      "en": null
+    }
+  },
+  "subcategories": [],
+  "publicServices": [
+    {
+      "id": "d979cb42-9ecd-4c66-a066-5d67f373af8a",
+      "code": "011000033",
+      "title": {
+        "ro": " Acord pentru introducerea și/sau aclimatizarea, în scopuri științifice și economice, a obiectelor regnului vegetal în flora sălbatică a Republicii Moldova",
+        "ru": "",
+        "en": " "
+      },
+      "description": {
+        "ro": "<p><em style=\"color: rgb(59, 59, 59);\"> Acord pentru introducerea și/sau aclimatizarea, în scopuri științifice și economice, a obiectelor regnului vegetal în flora sălbatică a Republicii Moldova</em></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "32bce235-5a63-4716-b781-7fa75f25391d",
+      "code": "011000062",
+      "title": {
+        "ro": " Autorizație de mediu privind gestionarea deșeurilor",
+        "ru": "",
+        "en": ""
+      },
+      "description": { "ro": "", "ru": "", "en": "" },
+      "eService": true
+    },
+    {
+      "id": "5b32e2e2-7047-4040-a0fe-26b7f19d99e6",
+      "code": "011000075",
+      "title": {
+        "ro": " Aviz de mediu la eliberarea autorizației de schimbare a destinației construcțiilor și amenajărilor",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>&nbsp;Aviz de mediu la eliberarea autorizației de schimbare a destinației construcțiilor și amenajărilor</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "b861945f-34e4-4430-98a5-918fe0424a22",
+      "code": "011000444",
+      "title": {
+        "ro": " Aviz de mediu pentru coordonarea schemei de amplasare a imobilului, terenului și a rețelelor edilitare la elaborarea certificatului de urbanism pentru proiectare",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>&nbsp;Aviz de mediu pentru coordonarea schemei de amplasare a imobilului, terenului și a rețelelor edilitare la elaborarea certificatului de urbanism pentru proiectare</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "d9d28bf5-f0ce-493b-a9c1-abcf45f5c277",
+      "code": "011000431",
+      "title": {
+        "ro": "Acord de mediu (în cadrul procedurii de evaluare a impactului asupra mediului)",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Act permisiv eliberat în rezultatul examinării Documentației privind evaluarea impactului asupra mediului al activităților planificate, care stabilește condițiile și măsurile pentru prevenirea și reducerea impactului negativ asupra mediului de la proiectele publice sau private ori genul de activitate planificată, care constă în construcţia de obiecte noi, extinderea, reconstrucţia, modernizarea, reprofilarea, planificarea unor genuri noi de activitate, dobîndirea sau utilizarea resurselor naturale, influenţa asupra teritoriului sau landşaftului neatins sau puţin modificat de activitatea omului, precum şi alte acţiuni a căror efectuare sau al căror rezultat final poate avea impact semnificativ asupra mediului.</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "b77b734e-0aca-45b6-93ac-a336c970592a",
+      "code": "011000457",
+      "title": {
+        "ro": "Acord pentru exportul animalelor sălbatice ",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p><strong style=\"color: rgb(102, 102, 102);\">Act ce acordă deținătorului permisiunea pentru a exporta obiecte ale regnului animal, părților și produselor acestora colectate din fauna sălbatică, în stare vie, proaspătă sau semiprelucrată.</strong></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "472be433-2edf-4488-ad23-29e2ee763c54",
+      "code": "011000509",
+      "title": {
+        "ro": "Acord pentru exportul de plante\n",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p><strong style=\"color: rgb(102, 102, 102);\">Act ce acordă deținătorului permisiunea pentru a exporta obiecte ale regnului vegetal, părților și produselor acestora colectate din flora sălbatică, în stare vie, proaspătă sau semiprelucrată.</strong></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "b0aca376-2743-460e-843c-99e49548249c",
+      "code": "011000460",
+      "title": {
+        "ro": "Acord pentru folosința obiectelor regnului vegetal în scopuri culturale, educaționale, turistice, de ameliorare a sănătății, recreative, estetice și sportive",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Acord pentru folosința obiectelor regnului vegetal în scopuri culturale, educaționale, turistice, de ameliorare a sănătății, recreative, estetice și sportive</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "6e8d45e3-3310-4ee9-b58a-af00958ca59f",
+      "code": "011000473",
+      "title": {
+        "ro": "Acord pentru folosința obiectelor regnului vegetal proprietate publică în scopuri științifice, cu sau fără extragerea obiectelor regnului vegetal și a părților acestora din mediul lor de creștere",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>Acord pentru folosința obiectelor regnului vegetal proprietate publică în scopuri științifice, cu sau fără extragerea obiectelor regnului vegetal și a părților acestora din mediul lor de creștere</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "dc8d85c6-2bc9-4c6e-b755-f853347e45b2",
+      "code": "011000486",
+      "title": {
+        "ro": "Acord pentru importul animalelor și/sau plantelor sălbatice ",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p><strong style=\"color: rgb(102, 102, 102);\">Act ce acordă deținătorului permisiunea pentru a efectua activități de import cu specii de plante și animale sălbatice în stare vie.</strong></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "db28ea0a-ee4a-4268-90d5-f472dec7528b",
+      "code": "011000499",
+      "title": {
+        "ro": "Acord pentru strămutarea, aclimatizarea și încrucișarea animalelor",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p><em style=\"color: rgb(59, 59, 59);\">Acord pentru strămutarea, aclimatizarea și încrucișarea animalelor</em></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "b4ff5dc0-39cb-4288-942e-70f19848d7ee",
+      "code": "011000758",
+      "title": {
+        "ro": "Act de confirmare a perimetrului minier",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p><span style=\"color: rgb(102, 102, 102);\">Obținerea actului de confirmare&nbsp;a perimetrului minier pentru extragerea substanțelor minerale utile, a apelor subterane sau pentru construcția și exploatarea construcțiilor subterane nelegate de extragerea substanțelor minerale utile. </span><strong style=\"color: rgb(102, 102, 102);\">﻿Act permisiv, care confirmă dreptul de folosință asupra sectorului de subsol atribuit pentru: – extragerea substanțelor minerale utile; – extragerea apelor subterane; – construcția și exploatarea construcțiilor subterane nelegate de extragerea substanțelor minerale utile; – organizarea obiectivelor geologice protejate;</strong></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "8391b19e-1931-4ec2-b90c-2b7835a30270",
+      "code": "011000512",
+      "title": {
+        "ro": "Act permisiv care oferă posibilitatea persoanelor fizice și juridice să colecteze obiecte ale regnului vegetal (plantele spontane, inclusiv medicinale naturale) și a părților acestora",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p><strong style=\"color: rgb(102, 102, 102);\">Act permisiv care oferă posibilitatea persoanelor fizice și juridice să colecteze obiecte ale regnului vegetal (plantele spontane, inclusiv medicinale naturale) și a părților acestora</strong></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "939f24a6-d90e-4611-b920-36b093b5f030",
+      "code": "011000305",
+      "title": {
+        "ro": "Actul de confirmare a perimetrului geologic pentru explorarea subsolului",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p><strong style=\"color: rgb(102, 102, 102);\">Act permisiv, care confirmă dreptul titularului de folosință asupra sectorului de subsol atribuit pentru cercetare geologică.</strong></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "89e5c044-903a-4d04-8115-f90c331939d2",
+      "code": "011000525",
+      "title": {
+        "ro": "Autorizația de emisie a poluanților în atmosferă de la surse fixe",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p><strong style=\"color: rgb(102, 102, 102);\">Act permisiv eliberat de Agenția de Mediu persoanelor fizice și juridice, care direct sau indirect, prin activitatea lor afectează calitatea aerului atmosferic prin care se admit emisiile de poluanți în atmosferă și în care se stabilesc normativele ELA (emisiile limitat admisibile) de poluanți pentru sursele fixe de poluare a atmosferei, precum și alte cerințe și condiții pe care trebuie să le respecte titularul autorizației în vederea asigurării protecției aerului atmosferic</strong></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "9f439ed4-98be-40a9-aca3-d076fcf01980",
+      "code": "011000538",
+      "title": {
+        "ro": "Autorizația pentru importul, exportul sau reexportul substanțelor care distrug stratul de ozon, al produselor și al echipamentului care conțin asemenea substanțe",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p><strong style=\"color: rgb(102, 102, 102);\">Act permisiv eliberat de Agenția de Mediu, care oferă posibilitatea importului, exportului sau reexportului substanțelor care distrug stratul de ozon (hidroclorofluorocarburil halogenate), al produselor și al echipamentului care conțin asemenea substanțe (frigidere, congelatoare, generatoare de gheaţă, instalaţii de răcire, climatizoare, pompe termice etc.).</strong></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "7e25c4d0-fec0-4044-bffa-48d90426eacc",
+      "code": "011000541",
+      "title": {
+        "ro": "Autorizație de folosință specială a apei",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>Este documentul care atestă dreptul de folosință a apelor pentru următoarele activități: a) captarea apei din sursele de apă de suprafaţă şi din cele subterane pentru alimentarea cu apă destinată consumului uman; b) captarea şi folosinţa apei din sursele de apă de suprafaţă şi din cele subterane în scopuri tehnice şi industriale, inclusiv la prelucrarea produselor alimentare şi în agroindustrie; c) captarea şi folosinţa apei din diferite surse pentru irigare; d) folosinţa apei în acvacultură şi piscicultură; e) deversarea apelor uzate; f) utilizarea apei pentru generarea de energie hidro-electrică; g) exploatarea de pontoane, debarcadere şi de alte structuri hidraulice pe terenul fondului de apă; h) dezvoltarea şi exploatarea comercială a plajelor şi a zonelor de agrement.</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "720676a8-a4e5-458c-ba29-095e3529e41d",
+      "code": "011000554",
+      "title": {
+        "ro": "Autorizație de pescuit de control",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>Autorizație de pescuit de control</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "c6250c05-e717-4afd-b071-908926f0e23c",
+      "code": "011000567",
+      "title": {
+        "ro": "Autorizație pentru cazurile excepționale de vânătoare în scopuri științifice, cultural-educative și estetice în termenele și locurile interzise pentru vânătoare sau a animalelor a căror dobândire este limitată, precum și întreținerea acestora în captivitate pentru scopurile menționate",
+        "ru": "",
+        "en": ""
+      },
+      "description": { "ro": "", "ru": "", "en": "" },
+      "eService": true
+    },
+    {
+      "id": "9c38f672-59ea-444e-81b4-b60cf7014368",
+      "code": "011000570",
+      "title": {
+        "ro": "Autorizație pentru dobândirea animalelor care nu constituie obiecte ale vânatului și pescuitului (melci, broaște, șopârle, șerpi)",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<h3><strong> Autorizaţie pentru dobândirea animalelor care nu constituie obiecte ale vânatului şi pescuitului (melci, broaşte, șopârle, şerpi)</strong></h3>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "f4d958c6-706c-4f05-87fd-5ce74377ffb8",
+      "code": "011000583",
+      "title": {
+        "ro": "Autorizație pentru folosința specială a animalelor sau a plantelor incluse în Cartea Roșie a Republicii Moldova în scopuri științifice, de selecție, inclusiv de reproducere, răspândire, cultivare/creștere, aclimatizare a fiecărui reprezentant în parte, în scopuri culturale (circ, expoziții zoologice, acvarii etc.), precum și în caz de epizootii",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p><em style=\"color: rgb(59, 59, 59);\">Autorizație pentru folosința specială a animalelor sau a plantelor incluse în Cartea Roșie a Republicii Moldova în scopuri științifice, de selecție, inclusiv de reproducere, răspândire, cultivare/creștere, aclimatizare a fiecărui reprezentant în parte, în scopuri culturale (circ, expoziții zoologice, acvarii etc.), precum și în caz de epizootii</em></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "e2d6466e-468b-47ba-a145-1c79adade639",
+      "code": "011000596",
+      "title": {
+        "ro": "Autorizație pentru pescuitul în scopuri științifice ",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Autorizație pentru pescuitul în scopuri științifice&nbsp;</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "8ad74eec-35a4-4c07-8bff-99f43698a898",
+      "code": "011000606",
+      "title": {
+        "ro": "Autorizație pentru pescuitul reproducătorilor",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Autorizație pentru pescuitul reproducătorilor</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "3bee2707-32ad-4aa9-be6c-8a65196c5839",
+      "code": "011000619",
+      "title": {
+        "ro": "Autorizație pentru tăieri în fondul forestier și în vegetația forestieră din afara fondulrilor forestiere",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p><strong style=\"color: rgb(102, 102, 102);\">Act permisiv care confirmă autorizarea următoarelor tipuri de tăieri: a) de regenerare, de reconstrucţie ecologică, de conservare, de îngrijire, de conducere şi de igienă în fondul forestier de stat; b) pentru alte tipuri de tăieri, cum ar fi: de igienă rase, de igienizare (curăţarea de rupturi şi doborîturi), de reconstrucţie a arboretelor tinere de valoare scăzută, de îngrijire a arboretelor surse de seminţe, de întreţinere şi reconstrucţie a plantajelor, tăieri sub liniile de comunicaţii şi reţelele electrice; c) efectuate pe terenurile din fondul forestier care nu sînt gestionate de organele silvice de stat; d) efectuate în spaţiile verzi ale localităţilor urbane şi rurale; e) efectuate în perdelele forestiere din zonele de protecţie a apelor rîurilor şi a bazinelor de apă; f) efectuate în perdelele de protecţie amplasate pe terenuri cu destinaţie agricolă, în perdelele forestiere de protecţie şi în plantaţiile de arbori şi arbuşti situate de-a lungul căilor de comunicaţii (limitrofe drumurilor şi căilor ferate); g) de arbori vătămaţi în urma calamităţilor naturale, avariilor sau în cazul lichidării focarelor active de boli şi vătămători în fondul forestier şi în vegetaţia forestieră din afara fondului forestier; h) de arbori vătămaţi în urma calamităţilor naturale sau în urma lichidării focarelor active de boli şi vătămători în pădurile incluse în fondul ariilor naturale protejate de stat.</strong></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "f27583fa-b7eb-465d-9c67-ae69916db1ca",
+      "code": "011000020",
+      "title": { "ro": "Autorizație pentru vânătoare", "ru": null, "en": null },
+      "description": {
+        "ro": "Obținerea autorizației pentru vânătoare",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "60fb3c04-113f-4bfa-9e36-006b227b7c58",
+      "code": "011000059",
+      "title": {
+        "ro": "Aviz al expertizei ecologice de stat",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p><br></p><p><strong style=\"color: rgb(102, 102, 102);\">Act eliberat de Agenţia de Mediu ce constată corespunderea documentaţiei de proiect cu prevederile legislaţiei de mediu şi cuprinde măsurile pentru protecţia mediului care necesită să fie respectate în procesul realizării proiectului.</strong></p><p><br></p><p><br></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "edc03f1a-37f8-4bd4-b17a-4645f0b16dc0",
+      "code": "011000101",
+      "title": {
+        "ro": "Aviz al organului supravegherii de stat a măsurilor contra incendiilor la certificatul de urbanism pentru proiectare",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>La eliberarea certificatului de urbanism pentru proiectare, emitentul va anexa avizul acordat de către organul supravegherii de stat a măsurilor contra incendiilor&nbsp;</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "36effbaa-291f-414d-b28f-ebe7ec0386da",
+      "code": "011000114",
+      "title": {
+        "ro": "Aviz al organului supravegherii de stat a măsurilor contra incendiilor la schema de amplasare a imobilului/terenului și a rețelelor edilitare pentru obținerea certificatului de urbanism pentru proiectare",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>La eliberarea certificatului de urbanism pentru proiectare, emitentul va anexa avizul acordat de către organul supravegherii de stat a măsurilor contra incendiilor.&nbsp;</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "2b14850c-f083-450a-8b1b-9f70b5c61981",
+      "code": "011000088",
+      "title": {
+        "ro": "Aviz al organului supravegherii de stat a măsurilor contra incendiilor și protecției civile la schema de amplasare a imobilului și a rețelelor edilitare pentru schimbarea destinației terenului  ",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>\tDeţinătorii de terenuri interesaţi de schimbarea categoriei de destinaţie a terenurilor prezintă un demers instituțiilor competente la care obligatoriu anexează schema de amplasare a imobilului şi a reţelelor edilitare, avizată de către organele supravegherii de stat în domeniul securității la incendiu (art. 27, lit. d din Hotărîrea Guvernului nr. 1170 din 25.10.2016 pentru aprobarea Regulamentului cu privire la modul de transmitere, schimbare a destinaţiei şi schimb de terenuri).</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "b4fce1a2-9e98-4ad4-bd0a-840b9cc15a5c",
+      "code": "011000091",
+      "title": {
+        "ro": "Aviz al organului supravegherii de stat a măsurilor contra incendiilor și protecției civile pentru emiterea autorizației de mediu pentru folosința specială a apei",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p><em>Utilizatorii, care folosesc apa în condițiile ce nu nu cad sub incidenţa art. 22 din Legea nr. 272 din 23.12.2011 apelor, obligatoriu vor obține autorizaţie de mediu pentru folosinţa specială a apei – document eliberat de instituţia subordonată organului central al administraţiei publice în domeniul mediului.</em></p><p><em>Autorizaţia de mediu pentru folosinţa specială a apei conform anexei nr. 1 din Legea nr. 160/2011 privind reglementarea prin autorizare a activității de întreprinzător se coordonează obligatoriu cu organul supravegherii de stat în domeniul protecției civile (Agenția pentru Supravegherea Tehnică) prin intermediul platformei electronice </em><strong><em>e-permits</em></strong><em>.</em></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "470b3e45-8b4a-4227-8a3d-adda45ce06b3",
+      "code": "011000127",
+      "title": {
+        "ro": "Aviz de apărare împotriva incendiilor și de stingere a incendiilor la desfășurarea unor genuri de activitate",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>\t<strong><em>Sistemul de apărare împotriva incendiilor reprezintă ansamblul de activităţi specifice juridice, organizatorice, economice, sociale, tehnico-ştiinţifice şi de informare publică, planificate, organizate şi realizate în scopul prevenirii şi reducerii riscurilor de producere a incendiilor, precum şi al asigurării unei intervenţii operative pentru evacuarea şi salvarea persoanelor, stingerea incendiilor, protejarea bunurilor şi a mediului împotriva efectelor acestora, şi include: - emiterea avizelor pentru unele genuri de activitate; (Art. 1 Legea nr. 267-XIII din 09.11.1994 privind apărarea împotriva incendiilor).</em></strong></p><p>\t<strong><em>Potrivit articolul 14 din Legea 231 din 23.09.2010 cu privire la comerţul interior* activitatea de comerț este condiționată de depunerea notificării în comerț de către persoana înregistrată în condițiile legii. Activitatea de comerț începe din data emiterii înștiințării de recepționare de către autoritatea administrației publice locale, prin intermediul resursei informaționale în domeniul comerțului iar potrivit pct (a) al aceluiași articol în cazurile prevăzute de lege, inițierea și desfășurarea activității de comerț pot fi condiționate de obținerea actelor permisive corespunzătoare, în acest context art. 16 obligă autoritatea administraţiei publice locale să înștiințeze organul supravegherii de stat a măsurilor contra incendiilor din raza teritorială despre notificarea recepționată și să transmită informația ce se conține în aceasta.</em></strong></p><p><br></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "653c81e5-08a2-40d5-bd24-958d2e7b72af",
+      "code": "011000321",
+      "title": {
+        "ro": "Aviz de conformitate a proiectelor de lucru cu reglementările tehnice şi actele normative în vigoare",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "Obținerea avizului de conformitate a proiectelor de lucru cu reglementările tehnice şi actele normative în vigoare",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "caa1a6fb-e264-4d10-b8bb-cd715b8c0d38",
+      "code": "011000622",
+      "title": {
+        "ro": "Aviz de coordonare a Programului de realizare a evaluării impactului asupra mediului al activității planificate",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p><em style=\"color: rgb(59, 59, 59);\">Aviz de coordonare a Programului de realizare a evaluării impactului asupra mediului al activității planificate</em></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "ce3d8b2d-ab8e-44f4-814a-1b6c446f8c45",
+      "code": "011000635",
+      "title": {
+        "ro": "Aviz de mediu la coordonarea actului de selectare a terenului la schimbarea destinației terenului",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Aviz de mediu la coordonarea actului de selectare a terenului la schimbarea destinației terenului</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "f495e354-a48a-4f46-b4a4-390bb98926f8",
+      "code": "011000347",
+      "title": {
+        "ro": "Aviz privind existența sau lipsa substanțelor minerale utile pe teritoriul preconizat pentru construcții",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "Obținerea avizului privind existența sau lipsa substanțelor minerale utile pe teritoriul preconizat pentru construcții",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "61de3197-d568-47d8-b3bd-3ab0470468ba",
+      "code": "011000350",
+      "title": {
+        "ro": "Aviz privind protecția apelor subterane la amplasarea în zona III de protecție sanitară a prizelor de apă subterană a obiectelor care pot provoca pericol de contaminare chimică a apelor subterane",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>Obținerea a<span style=\"color: rgb(0, 0, 0);\">vizului privind protecția apelor subterane la amplasarea în zona III de protecție sanitară a prizelor de apă subterană a obiectelor care pot provoca pericol de contaminare chimică a apelor subterane</span></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "eb37856e-0d0f-47f7-b14f-04c2911fb064",
+      "code": "011000648",
+      "title": {
+        "ro": "Certificat de atribuire a cotei de pescuit comercial",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>Certificat de atribuire a cotei de pescuit comercial</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "be64f1b7-10c5-43a1-917a-e70ba189b55c",
+      "code": "011000651",
+      "title": {
+        "ro": "Certificat de înregistrare a colecțiilor de plante și animale din flora și fauna sălbatică",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>Certificat de înregistrare a colecțiilor de plante și animale din flora și fauna sălbatică</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "75532c89-96c1-4f07-b238-83f3c0e8ea47",
+      "code": "011000376",
+      "title": {
+        "ro": "Coordonarea documentației tehnice privind forarea sondelor arteziene",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "Coordonarea forării sondelor arteziene",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "5f69addc-3188-4904-b2d9-48756b120cca",
+      "code": "011000389",
+      "title": {
+        "ro": "Coordonarea documentației tehnice privind lichidarea sondelor arteziene",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p><span style=\"color: rgb(0, 0, 0);\">Coordonarea documentației tehnice privind lichidarea sondelor arteziene</span></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "43789b37-01dd-4281-8c79-f158cd51e8b6",
+      "code": "011000334",
+      "title": {
+        "ro": "Coordonarea normativelor pierderilor de substanţe minerale la extragere",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "Coordonarea normativelor pierderilor de substanţe minerale la extragere",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "949e590d-3951-437e-bb0b-a0be223cf9ee",
+      "code": "011000392",
+      "title": {
+        "ro": "Coordonarea proiectării sondelor arteziene",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "Coordonarea proiectării sondelor arteziene",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "bfc87f2f-a944-43fb-9b29-74e2e200bf2f",
+      "code": "011000130",
+      "title": {
+        "ro": "Coordonarea, din punctul de vedere al securităţii industriale, a planurilor anuale de desfăşurare a lucrărilor miniere",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>\t<em>La inițierea activității și asigurarea îndeplinirii prevederilor Art.39 (lit. d)&nbsp;Cod nr.3 „Codul subsolului” din 02.02.2009, Art.10, Art.18&nbsp;a Legii nr.116 din 18.05.2012&nbsp;„Privind securitatea industrială a obiectelor industriale periculoase”, H.G. nr.1088 (pct.9, lit.c) din 18.12.2017 „Cu privire la organizarea și funcționarea Agenției pentru Supravegherea Tehnică”,&nbsp;în scopul prevenirii posibilelor avarii și incidente, se elaborează procedura de examinare și coordonare a planurilor anuale de desfășurare a lucrărilor de extracție minieră (din punct de vedere a securității lucrărilor).</em>\t</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "303b0510-3244-441b-8337-3354068ff60e",
+      "code": "011000664",
+      "title": {
+        "ro": "Decizie pentru efectuarea evaluării prealabile a impactului asupra mediului al activităților planificate",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>Decizie pentru efectuarea evaluării prealabile a impactului asupra mediului al activităților planificate</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "ec138ce3-dabe-4951-bd7c-2f8f26bb11cf",
+      "code": "011000677",
+      "title": {
+        "ro": "Decizie pentru importul, exportul, strămutarea, întreținerea în captivitate, reproducerea, aclimatizarea și încrucișarea animalelor în scopuri economice și de cercetări științifice",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Decizie pentru importul, exportul, strămutarea, întreținerea în captivitate, reproducerea, aclimatizarea și încrucișarea animalelor în scopuri economice și de cercetări științifice</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "4200415c-56a4-4531-9524-92b89ccb3a26",
+      "code": "011000680",
+      "title": {
+        "ro": "Decizie pentru introducerea de specii alohtone, intervențiile asupra speciilor invazive, precum și reintroducerea speciilor indigene",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>Decizie pentru introducerea de specii alohtone, intervențiile asupra speciilor invazive, precum și reintroducerea speciilor indigene</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "d98ad3ab-0290-4dbd-8759-99388c39d307",
+      "code": "011000143",
+      "title": {
+        "ro": "Declarație privind starea de apărare împotriva incendiilor",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p><em>Declaraţia privind starea de apărare împotriva incendiilor&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</em></p><p><em>(1) Declaraţia privind starea de apărare împotriva incendiilor reprezintă actul de recunoaştere şi de confirmare a respectării prevederilor normelor şi regulilor de apărare împotriva incendiilor la obiectiv.&nbsp;&nbsp;&nbsp;&nbsp;</em></p><p><em>(2) Declaraţia este o formă tipizată, elaborată de către Inspectoratul General pentru Situații de Urgență şi are caracter public.&nbsp;&nbsp;&nbsp;&nbsp;</em></p><p><em>(3) Întocmirea declaraţiei privind starea de apărare împotriva incendiilor este obligatorie pentru obiectivele din grupul întîi şi doi.</em></p><p><em>(4) Declaraţia privind starea de apărare împotriva incendiilor se completează de către agenţii economici pentru o perioadă de un an calendaristic şi se transmite către organele supravegherii de stat a măsurilor contra incendiilor, avînd aplicată ştampila şi semnătura conducătorului.</em></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "b696023d-25b0-46f3-8835-8cbad4583a20",
+      "code": "011000156",
+      "title": {
+        "ro": "Demers de executare a lucrărilor de dinamitare sau a lucrărilor cu materiale explozive",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "Efectuarea demersului de executare a lucrărilor de dinamitare sau a lucrărilor cu materiale explosive",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "eb372ce1-fd38-4170-9fca-a71807f32cc8",
+      "code": "011000046",
+      "title": {
+        "ro": "Dovada privind lipsa impactului negativ al deșeurilor asupra calității apelor subterane",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>Obținerea <span style=\"color: rgb(0, 0, 0);\">dovezii privind lipsa impactului negativ al deșeurilor asupra calității apelor subterane</span></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "86c963d2-a777-4ddd-a160-623f4c2d3a0b",
+      "code": "011000761",
+      "title": {
+        "ro": "Eliberarea  informațiilor din  Fondul de stat de informații privind subsolul",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>\tEliberarea informațiilor <span style=\"color: rgb(51, 51, 51);\">privind structura geologică a teritoriilor şi a raioanelor Republicii Moldova,&nbsp;resursele de materie primă prognozată, calitatea şi cantitatea rezervelor, condiţiile tehnico-economice şi exploatarea zăcămintelor, precum şi date privind sectoarele subsolului, folosite în alte scopuri decît cele ce ţin de extragerea substanţelor minerale utile.</span></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "5ca97e54-884a-4f7a-8da6-f82220c8ce10",
+      "code": "011000282",
+      "title": {
+        "ro": "Furnizarea materialelor topogeodezice şi cartografice din Fondul Naţional de Date Geospaţiale",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Materiale din Fondul National de Date Geospaţiale pot fi tilizate în scopuri politice, economice, ştiinţifice şi social-culturale. Utilizarea materialelor și a datelor Fondului se efectuează gratuit, cu excepția cheltuielilor de imprimare și de copiere, conform regulamentului Fondului.</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "92ae9e0e-03c8-4d73-bd3a-ce9e36fae680",
+      "code": "011000402",
+      "title": {
+        "ro": "Înregistrarea de stat a lucrărilor de cercetare geologică a subsolului",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "Înregistrarea de stat a lucrărilor de cercetare geologică a subsolului",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "b146cda7-50f0-4cfa-9c7c-736824dfaeb6",
+      "code": "011000169",
+      "title": {
+        "ro": "Înregistrarea obiectelor industriale periculoase în Registrul de stat al obiectelor industriale periculoase și a declarației privind securitatea industrială",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>În conformitate cu prevederile art.5 alin.(2) al Legii nr.116 din 18.05.2012 privind securitatea industrială a obiectelor industriale periculoase, obiectele industriale periculoase sânt supuse înregistrării de stat de către Agenția pentru Supraveghere Tehnică, care se realizează urmare notificării obligatorii de către agentul economic referitor la deținerea obiectului industrial periculos.&nbsp;</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "d73ebd59-1557-4e2e-85a4-c1bcecbe4c93",
+      "code": "011000172",
+      "title": {
+        "ro": "Înregistrarea procesului-verbal de cercetare tehnică a cauzelor avariei",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Cercetarea tehnică a cauzelor avariei se efectuează de către o comisie specială, formată şi condusă prin ordin de reprezentantul organului de control şi supraveghere tehnică de stat nu mai târziu de 24 ore de la anunțarea avariei.</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "54469e6f-af7f-4572-aaae-e4161ea754e3",
+      "code": "011000693",
+      "title": {
+        "ro": "Notificare pentru transportarea transfrontalieră a deșeurilor",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Notificare pentru transportarea transfrontalieră a deșeurilor</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "b7da258c-9d8b-45b3-a18c-94fc74aacfa9",
+      "code": "011000185",
+      "title": {
+        "ro": "Notificare privind desfășurarea activităților agenților economici care acordă servicii din domeniul apărării împotriva incendiilor",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>Sistemul de apărare împotriva incendiilor reprezintă ansamblul de activităţi specifice juridice, organizatorice, economice, sociale, tehnico-ştiinţifice şi de informare publică, planificate, organizate şi realizate în scopul prevenirii şi reducerii riscurilor de producere a incendiilor, precum şi al asigurării unei intervenţii operative pentru evacuarea şi salvarea persoanelor, stingerea incendiilor, protejarea bunurilor şi a mediului împotriva efectelor acestora, şi include:</p><p>&nbsp;- emiterea avizelor pentru unele genuri de activitate;&nbsp;</p><p><br></p><p>(Art. 1 Legea nr. 267-XIII din 09.11.1994 privind apărarea împotriva incendiilor)</p><p>Hotărîrea Guvernului nr. 960 din 08-08-2016 cu privire la aprobarea Nomenclatorului obiectivelor publice cu pericol de incendiu,&nbsp;explozie-incendiu şi al lucrărilor, serviciilor în domeniul apărării împotriva incendiilor pentru care este obligatorie obţinerea avizului de apărare împotriva incendiilor şi de stingere a incendiilor la desfăşurarea unor genuri de activitate:</p><p><br></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "d341c2a9-252a-49f2-904d-641a31da3426",
+      "code": "011000198",
+      "title": {
+        "ro": "Notificare privind desfășurarea activităților de expertiză în domeniul securității industriale",
+        "ru": null,
+        "en": null
+      },
+      "description": { "ro": null, "ru": null, "en": null },
+      "eService": false
+    },
+    {
+      "id": "4156ddb2-76d4-4f02-b0ab-30bf6a21a7d3",
+      "code": "011000208",
+      "title": {
+        "ro": "Notificare privind inițierea activității de montare și/sau reglare, asistență tehnică a sistemelor automate de semnalizare și de stingere a incendiilor, precum și de protecție a clădirilor împotriva fumului și de înștiințare în caz de incendiu.",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>Sistemul de apărare împotriva incendiilor reprezintă ansamblul de activităţi specifice juridice, organizatorice, economice, sociale, tehnico-ştiinţifice şi de informare publică, planificate, organizate şi realizate în scopul prevenirii şi reducerii riscurilor de producere a incendiilor, precum şi al asigurării unei intervenţii operative pentru evacuarea şi salvarea persoanelor, stingerea incendiilor, protejarea bunurilor şi a mediului împotriva efectelor acestora, şi include:</p><p> - emiterea avizelor pentru unele genuri de activitate; </p><p>(Art. 1 Legea nr. 267-XIII din 09.11.1994 privind apărarea împotriva incendiilor)</p><p>Hotărîrea Guvernului nr. 960 din 08-08-2016 cu privire la aprobarea Nomenclatorului obiectivelor publice cu pericol de incendiu, explozie-incendiu şi al lucrărilor, serviciilor în domeniul apărării împotriva incendiilor pentru care este obligatorie obţinerea avizului de apărare împotriva incendiilor şi de stingere a incendiilor la desfăşurarea unor genuri de activitate:</p><p><br></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "e8e289a3-1096-41f8-9100-8ed70267444f",
+      "code": "011000211",
+      "title": {
+        "ro": "Notificare privind punerea în funcțiune a spațiilor de producere, asamblare, depozitare și comercializare a articolelor pirotehnice",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Sistemul de apărare împotriva incendiilor reprezintă ansamblul de activităţi specifice juridice, organizatorice, economice, sociale, tehnico-ştiinţifice şi de informare publică, planificate, organizate şi realizate în scopul prevenirii şi reducerii riscurilor de producere a incendiilor, precum şi al asigurării unei intervenţii operative pentru evacuarea şi salvarea persoanelor, stingerea incendiilor, protejarea bunurilor şi a mediului împotriva efectelor acestora, şi include:</p><p><em><u>&nbsp;- emiterea avizelor pentru unele genuri de activitate;&nbsp;</u></em></p><p>(Art. 1 Legea nr. 267-XIII din 09.11.1994 privind apărarea împotriva incendiilor)</p><p>Se supun licenţierii următoarele genuri de activitate: producerea, asamblarea, importul, exportul, reexportul, depozitarea, comercializarea articolelor pirotehnice şi/sau prestarea serviciului „Spectacole pirotehnice şi focuri de artificii cu articole pirotehnice de destinaţie profesională. Licenţa pentru desfăşurarea activităţilor enumerate se eliberează persoanei fizice sau juridice care îndeplineşte următoarele condiţii:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p><p class=\"ql-indent-1\"><em>a) deţine spaţii destinate proiectării, experimentării, producerii, asamblării, depozitării sau, după caz, destinate comercializării articolelor pirotehnice, controlate cu întocmirea procesului-verbal de control de rigoare de către organu supravegherii de stat a măsurilor contra incendiilor.</em></p><p>(Articolul 19 din Legea nr. 143 din 17.07.2014 privind regimul articolelor pirotehnice.)</p><p><br></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "48c9e60a-e153-4030-a5a1-3dea3c6ee80e",
+      "code": "011000716",
+      "title": {
+        "ro": "Permis de pescuit sportiv, amator și de agrement",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Permis de pescuit sportiv, amator și de agrement</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "37753e01-5a8f-4a07-9c31-50fd1fcb6776",
+      "code": "011000729",
+      "title": {
+        "ro": "Permis pentru fotografierea, filmarea video sau cinematografică a animalelor în perioada de reproducere (de la 1 martie până la 31 iunie) în apropierea cuiburilor, vizuinilor, bârlogurilor etc., precum și în locurile de hibernare",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Permis pentru fotografierea, filmarea video sau cinematografică a animalelor în perioada de reproducere (de la 1 martie până la 31 iunie) în apropierea cuiburilor, vizuinilor, bârlogurilor etc., precum și în locurile de hibernare</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "25fdb285-3467-4873-a2b9-b6f7c3586fd9",
+      "code": "011000732",
+      "title": {
+        "ro": "Permis pentru prinderea păsărilor și aflarea lângă cuib în scopul inelării",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>Permis pentru prinderea păsărilor și aflarea lângă cuib în scopul inelării</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "813b7e39-aa3b-41c2-a84e-d96670ea09e9",
+      "code": "011000745",
+      "title": {
+        "ro": "Permis pentru reproducerea în captivitate a speciilor de animale de interes vânătoresc în gospodăria cinegetică complexă",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>Permis pentru reproducerea în captivitate a speciilor de animale de interes vânătoresc în gospodăria cinegetică complexă</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "de3e7487-9908-4e98-b9ca-e435f8d52c4f",
+      "code": "011000703",
+      "title": {
+        "ro": "Permis/certificat CITES (Convenția privind comerțul internațional cu specii de faună și floră sălbatică pe cale de dispariție)",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Act permisiv eliberat pentru importul, exportul, reexportul și tranzitul obiectelor regnului vegetal și animal, părților și produselor acestora, reglementate de Convenția privind comerțul internațional cu speciile sălbatice de faună și floră pe cale de dispariție (CITES).</p><p><br></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "010ce346-5ed9-4b01-a34d-c6b4c56cb9a4",
+      "code": "011000224",
+      "title": {
+        "ro": "Proces-verbal de control în care se atestă lipsa sau existența abaterilor de la cerințele normelor și regulilor de apărare împotriva incendiilor la inițierea  unei activități economice, construcția și/sau reconstrucția obiectivelor",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>     Sistemul de apărare împotriva incendiilor reprezintă ansamblul de activităţi specifice juridice, organizatorice, economice, sociale, tehnico-ştiinţifice şi de informare publică, planificate, organizate şi realizate în scopul prevenirii şi reducerii riscurilor de producere a incendiilor, precum şi al asigurării unei intervenţii operative pentru evacuarea şi salvarea persoanelor, stingerea incendiilor, protejarea bunurilor şi a mediului împotriva efectelor acestora, şi include:</p><p>&nbsp;<em><u>- emiterea avizelor pentru unele genuri de activitate;</u></em></p><p> (Art. 1 Legea nr. 267-XIII din 09.11.1994 privind apărarea împotriva incendiilor)</p><p>     Potrivit articolul 14 din Legea 231 din 23.09.2010 cu privire la comerţul interior* activitatea de comerț este condiționată de depunerea notificării în comerț de către persoana înregistrată în condițiile legii. Activitatea de comerț începe din data emiterii înștiințării de recepționare de către autoritatea administrației publice locale, prin intermediul resursei informaționale în domeniul comerțului iar potrivit pct (a) al aceluiași articol în cazurile prevăzute de lege, inițierea și desfășurarea activității de comerț pot fi condiționate de obținerea actelor permisive corespunzătoare, în acest context art. 16 obligă autoritatea administraţiei publice locale să înștiințeze organul supravegherii de stat a măsurilor contra incendiilor din raza teritorială despre notificarea recepționată și să transmită informația ce se conține în aceasta.</p><p><br></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "a8cee41f-9153-4b0b-ade8-5ad857e4979b",
+      "code": "011000237",
+      "title": {
+        "ro": "Proces-verbal de control în domeniul apărării împotriva incendiilor – pentru obținerea licenței pentru producerea, asamblarea, importul, exportul, reexportul, depozitarea, comercializarea articolelor pirotehnice și/sau prestarea serviciului „spectacole pirotehnice și focuri de artificii” cu articole pirotehnice de divertisment de destinație profesională",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>Sistemul de apărare împotriva incendiilor reprezintă ansamblul de activităţi specifice juridice, organizatorice, economice, sociale, tehnico-ştiinţifice şi de informare publică, planificate, organizate şi realizate în scopul prevenirii şi reducerii riscurilor de producere a incendiilor, precum şi al asigurării unei intervenţii operative pentru evacuarea şi salvarea persoanelor, stingerea incendiilor, protejarea bunurilor şi a mediului împotriva efectelor acestora, şi include:</p><p><em><u> - emiterea avizelor pentru unele genuri de activitate; </u></em></p><p>(Art. 1 Legea nr. 267-XIII din 09.11.1994 privind apărarea împotriva incendiilor)</p><p>Se supun licenţierii următoarele genuri de activitate: producerea, asamblarea, importul, exportul, reexportul, depozitarea, comercializarea articolelor pirotehnice şi/sau prestarea serviciului „Spectacole pirotehnice şi focuri de artificii cu articole pirotehnice de destinaţie profesională. Licenţa pentru desfăşurarea activităţilor enumerate se eliberează persoanei fizice sau juridice care îndeplineşte următoarele condiţii:        </p><p>a) deţine spaţii destinate proiectării, experimentării, producerii, asamblării, depozitării sau, după caz, destinate comercializării articolelor pirotehnice, controlate cu întocmirea procesului-verbal de control de rigoare de către organul supravegherii de stat a măsurilor contra incendiilor.</p><p>(Articolul 19 din Legea nr. 143 din 17.07.2014 privind regimul articolelor pirotehnice.)</p><p><br></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "a4ead439-9ff4-4d5e-b48a-f86db6b0ce02",
+      "code": "011000415",
+      "title": {
+        "ro": "Raportarea de către beneficiarul subsolului despre mişcarea rezervelor și folosirea subsolului în scopuri nelegate de extragerea substanţelor minerale utile",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "Raportarea de către beneficiarul subsolului despre mişcarea rezervelor și folosirea subsolului în scopuri nelegate de extragerea substanţelor minerale utile",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "dfe5cde3-d265-4969-a11f-8870444d4a69",
+      "code": "011000428",
+      "title": {
+        "ro": "Raportarea informației geologice  Fondului de stat de informaţii privind subsolul",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "Raportarea informației geologice Fondului de stat de informaţii privind subsolul",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "796b77f1-e0c9-4f22-a879-da4ae8aa60a7",
+      "code": "011000253",
+      "title": {
+        "ro": "Stabilirea admisibilității prestării serviciului de spectacol pirotehnic și focuri de artificii",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>La inițierea activității de prestare a serviciilor de spectacole pirotehnice, agentul economic va obține procesul verbal de control emis de către organul supravegherii de stat a măsurilor contra incendiilor</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "72c352de-3dbf-4374-8008-0d24e9f879e6",
+      "code": "011000017",
+      "title": {
+        "ro": "Subvenții pentru dezvoltarea agriculturii și mediului rural",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p><span style=\"color: rgb(50, 50, 50);\">Gestionarea resurselor financiare destinate pentru susținearea producătorilor agricoli (persoane fizice, persoane juridice) care desfășoară activitate agricolă pe teritoriul Republicii Moldova, conform prevederilor Regulamentului de subvenționare, aprobat anual de către Guvernul RM.</span></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    }
+  ]
+}

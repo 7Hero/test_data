@@ -1,0 +1,717 @@
+{
+  "category": {
+    "title": { "ro": "Sănătate", "ru": null, "en": null },
+    "description": {
+      "ro": "Un set de servicii sau evenimente de viață legate de asigurarea serviciilor de sănătatea pentru toate persoanele fizice care se află pe teritoriul Republicii Moldova și a serviciilor aferente activității entităților (publice și private) care își desfășoară activitatea în domeniul sănătății",
+      "ru": null,
+      "en": null
+    }
+  },
+  "subcategories": [],
+  "publicServices": [
+    {
+      "id": "f7384fe3-433d-469f-91b3-6159258680ee",
+      "code": "018000098",
+      "title": {
+        "ro": "Acordarea/suspendarea statutului de persoană asigurată în sistemul asigurării obligatorii de asistenţă medicală",
+        "ru": "Предоставление/приостановление статуса застрахованного лица в системе обязательного медицинского страхования",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>În cadrul sistemului asigurării obligatorii de asistență medicală se definesc următoarele categorii de persoane asigurate:</p><p>&nbsp;a) <a href=\"https://servicii.staging.egov.md/ro/service/ID192\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>persoană asigurată angajată</strong></a> – persoană fizică angajată prin contract individual de muncă, conform Codului Muncii, indiferent de termenul de angajare şi forma de retribuire a muncii, pentru care sunt achitate primele de asigurare obligatorie de asistenţă medicală în cotă procentuală la salariu şi alte recompense; salariați ai rezidenților parcurilor pentru tehnologia informaţiei pentru care sunt achitate primele de AOAM în baza sumelor repartizate din încasările impozitului unic; conducători auto ce efectuează transport rutier de persoane în regim de taxi pentru care sunt achitate lunar primele de AOAM în mărime de 1/12 din prima AOAM în sumă fixă;</p><p>&nbsp;b) <a href=\"https://servicii.staging.egov.md/ro/service/CNAM04\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>persoane asigurate de Guvern</strong></a> – persoane fizice neangajate, încadrate în una din categoriile indicate la art.4 alin. (4) din Legea cu privire la asigurarea obligatorie de asistență medicală, pentru care Guvernul are calitatea de asigurat și primele de AOAM pentru aceste categorii sunt achitate din bugetul de stat (cu excepţia persoanelor obligate prin lege să se asigure în mod individual);</p><p>&nbsp;c) <a href=\"http://www.cnam.md/?page=41\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>persoane asigurate în mod individual</strong></a> – persoane fizice neangajate care fac parte din categoriile de plătitori ai primei de AOAM în sumă fixă prevăzute în anexa nr.2 la Legea cu privire la mărimea, modul şi termenele de achitare a primelor de asigurare obligatorie de asistenţă medicală și care au achitat prima de AOAM în sumă fixă;</p><p>Statutul de asigurat conferă persoanei dreptul de a beneficia din contul fondurilor AOAM de serviciile medicale incluse în Programul unic al asigurării obligatorii de asistență medicală, accesate în conformitate cu prevederile Normelor metodologice de aplicare a Programului unic.</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "774ecceb-c0b0-4817-9e07-1a0881588ea7",
+      "code": "018000166",
+      "title": {
+        "ro": "Atestarea și legitimarea donatorului voluntar permanent de sânge",
+        "ru": "Аттестация и узаконивание постоянного добровольного донора крови",
+        "en": "Certification and identification of the permanent voluntary blood donor"
+      },
+      "description": {
+        "ro": "Atestarea și legitimarea donatorului voluntar permanent de sânge",
+        "ru": "<p>Аттестация и узаконивание постоянного добровольного донора крови</p>",
+        "en": "<p>Certification and identification of the permanent voluntary blood donor</p>"
+      },
+      "eService": false
+    },
+    {
+      "id": "81f73e52-4421-49f0-a996-829f909a2d9b",
+      "code": "018000072",
+      "title": {
+        "ro": "Autorizarea instituţiilor medico-sanitare, băncilor de ţesuturi şi/sau celule, care desfăşoară activităţi de prelevare, transport şi livrare de ţesuturi sau celule.",
+        "ru": "",
+        "en": ""
+      },
+      "description": { "ro": "", "ru": "", "en": "" },
+      "eService": false
+    },
+    {
+      "id": "27b6e335-59a0-4561-a7c8-863bde761681",
+      "code": "018000085",
+      "title": {
+        "ro": "Autorizarea persoanelor juridice care desfășoară activități de prelevare, transport și livrare de țesuturi sau celule",
+        "ru": "",
+        "en": ""
+      },
+      "description": { "ro": "", "ru": "", "en": "" },
+      "eService": false
+    },
+    {
+      "id": "cef759a8-28e8-45e3-9943-f9e48303cdb3",
+      "code": "018000315",
+      "title": {
+        "ro": "Autorizarea produselor medicamentoase de uz uman",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p><span style=\"color: rgb(0, 0, 0);\">Autorizarea produselor medicamentoase de uz uman</span></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "726d74f4-c233-42cd-b079-9b2be12a4288",
+      "code": "018000179",
+      "title": {
+        "ro": "Autorizație de activitate pentru utilizarea obiectivelor și încăperilor destinate activităților legate de circulația substanțelor stupefiante, psihotrope și a precursorilor",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p><span style=\"color: rgb(0, 0, 0);\">Obținerea autorizației de activitate pentru utilizarea obiectivelor și încăperilor destinate activităților legate de circulația substanțelor stupefiante, psihotrope și a precursorilor</span></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "dabb1956-e614-4dd3-9121-a1a5a609ffca",
+      "code": "018000195",
+      "title": {
+        "ro": "Autorizaţie de import/export al substanţelor stupefiante, psihotrope şi al precursorilor",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "Obținerea autorizaţiei de import/export al substanţelor stupefiante, psihotrope şi al precursorilor",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "0864186d-b88c-4e9b-afe2-1cb54693469c",
+      "code": "018000205",
+      "title": {
+        "ro": "Autorizație pentru efectuarea testărilor clinice pentru medicamente",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p><span style=\"color: rgb(0, 0, 0);\">Obținerea autorizației pentru efectuarea testărilor clinice pentru medicamente</span></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "d2578118-ba4d-4721-928c-4155760ee5c3",
+      "code": "018000218",
+      "title": {
+        "ro": "Autorizaţie pentru fabricarea medicamentelor",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p><strong style=\"color: rgb(102, 102, 102);\">Permisiunea pentru fabricația medicamentelor /substanțelor medicamentoase, ținându-se cont de condițiile indicate de solicitant în cerere</strong></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "327c4cf0-63fc-4059-b325-a03d388c7b64",
+      "code": "018000182",
+      "title": {
+        "ro": "Autorizație pentru importul medicamentelor înregistrate și/sau neînregistrate, cu scopul înregistrării",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Obținerea autorizaţiei pentru importul medicamentelor înregistrate și/sau neînregistrate, cu scopul înregistrării</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "4010d3f4-a9fd-45db-b094-de8053954923",
+      "code": "018000331",
+      "title": {
+        "ro": "Autorizație sanitară de funcționare a obiectivelor",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Autorizarea sanitară de funcționare a obiectivelor este procedura prin care ANSP confirmă prin act permisiv corespunderea uneia sau mai multor activități desfășurate de agentul economic cu legislația sanitară.</p><p>Modul de solicitare, acordare și retragere a autorizației sanitare de funcționare este reglementat de Legea nr. 10/2009 privind supravegherea de stat a sănătății publice,&nbsp;&nbsp;Legea nr. 160/2011 privind reglementarea prin autorizare a activității de întreprinzător.&nbsp;</p><p>Autorizarea sanitară de funcționare se efectuează în baza principiului ghișeului unic.</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "d350f617-fea4-47df-acc8-e38de402f97f",
+      "code": "018000467",
+      "title": { "ro": "Aviz sanitar la proiect", "ru": "", "en": "" },
+      "description": {
+        "ro": "<p><span style=\"color: rgb(102, 102, 102);\">Act prin care se confirmă corespunderea sau necorespunderea proiectului de construcţie/reconstrucţie legislației sanitare.</span></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "08793de0-b4ea-46f4-b804-9011b41db10e",
+      "code": "018000470",
+      "title": {
+        "ro": "Aviz sanitar pentru echipamente, instalații și utilaj",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p><span style=\"color: rgb(102, 102, 102);\">Act prin care se confirmă că producerea, importul și desfacerea echipamentelor sunt conforme legislației sanitare.</span></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "cb71fc77-f099-4af7-a2c1-ada284263f2c",
+      "code": "018000344",
+      "title": {
+        "ro": "Aviz sanitar pentru produse cu impact asupra sănătății\n",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p><span style=\"color: rgb(102, 102, 102);\">Act prin care se confirmă corespunderea sau necorespunderea serviciilor sau produselor conform legislației sanitare.</span></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "2a122f1b-8801-40ec-8439-3c076f2d199d",
+      "code": "018000454",
+      "title": {
+        "ro": "Aviz sanitar privind atribuirea terenului pentru construcție/reconstrucţie",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p><span style=\"color: rgb(102, 102, 102);\">Act prin care se confirmă corespunderea sau necorespunderea serviciilor sau produselor conform legislației sanitare.</span></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "417495e4-ee4d-4196-8886-aa95b33e3e14",
+      "code": "018000438",
+      "title": {
+        "ro": "Avizarea sanitară asupra menţiunilor de sănătate",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p><strong style=\"color: black;\"><em>Menţiune de sănătate –</em></strong><span style=\"color: black;\"> orice menţiune sau reprezentare în orice formă de cuvinte, declarații, imagini, logouri care declară, sugerează sau implică faptul că există o relaţie între o categorie de produse alimentare, un produs alimentar sau unul din componenţii săi şi sănătate.</span></p><p><strong><em>Serviciul reprezintă </em></strong>asigurarea evaluării ştiinţifice a cererii şi a informațiilor depuse de către solicitant în vederea obținerii avizului sanitar pentru mențiunile de sănătate în conformitate cu prevederile <strong><em>HG 196/2011</em></strong> pentru aprobarea Regulamentului sanitar privind mențiunile nutriționale și de sănătate înscrise pe produsele alimentare.&nbsp;&nbsp;</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "38aec4c9-4a3b-486f-ba73-3c4bee7f58fe",
+      "code": "018000221",
+      "title": {
+        "ro": "Avizarea şi înregistrarea preţurilor de producător la medicamente",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Avizarea şi înregistrarea preţurilor de producător la medicamente</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "cce8239e-bc31-413d-9120-fbb6f2f9f2b1",
+      "code": "018000030",
+      "title": {
+        "ro": "Bilet de tratament balneosanatorial pentru veterani",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Eliberarea unui document bănesc care acordă veteranilor dreptul la tratament balneosanatorial.</p><p>Persoană cu dizabilităţi de pe urma războiului.</p><p>Veteran de război.Veteran al muncii.</p><p>Veteranii serviciului militar.</p><p>Veteranii organelor afacerilor interne, ai Centrului Naţional Anticorupţie, ai organelor securităţii statului şi ai sistemului administraţiei penitenciare.</p><p>Soţia participantului la cel de-al Doilea Război Mondial sau la acţiuni de luptă în timp de pace, din rândurile militarilor căzuți la datorie. </p><p>Soţia persoanei cu dizabilităţi de pe urma războiului decedate care se aflau în relaţii de căsătorie cu aceste persoane la data decesului lor.</p><p>Copilul persoanei participante la acţiunile de luptă în timp de pace din rândurile militarilor căzuși la datorie, precum şi copilul persoanei cu dizabilităţi de pe urma războiului decedate, până la atingerea vârstei de 18 ani sau după atingerea acestei vârste, dacă sunt înmatriculaţi la studii cu formă de învăţământ cu frecvenţă, până la terminarea studiilor, însă cel mult până la atingerea vârstei de 23 de ani.&nbsp;</p><p><span style=\"color: black;\">Pentru a solicita serviciul la CTAS din raza de domiciliu puteți face o programare prealabilă la linkul:</span><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: black;\"> </a><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\">https://servicii.gov.md/programare</a></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "d137b10f-a585-4f58-a855-e2bf391e56fe",
+      "code": "018000056",
+      "title": {
+        "ro": "Bilet de tratament balneosanatorial persoanelor asigurate",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Eliberarea, prin intermediul angajatorului, a unui document bănesc care acordă persoanelor asigurate dreptul la tratament balneosanatorial. Persoană fizică asigurată, încadrată în câmpul muncii de bază.</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "97125265-1610-4e00-b0a0-5c1e13b94f80",
+      "code": "018000043",
+      "title": {
+        "ro": "Bilet de tratament în instituţiile balneosanatoriale persoanelor care au avut de suferit de pe urma catastrofei de la C.A.E. Cernobîl şi unor categorii de persoane",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Eliberarea unui document bănesc care acordă dreptul la tratament balneosanatorial persoanelor care au avut de suferit de pe urma catastrofei de la C.A.E. Cernobîl şi unor categorii de persoane.</p><p>Persoana care a avut de suferit de pe urma catastrofei de la Cernobîl şi colaboratorilor subdiviziunilor de risc deosebit, care s-a îmbolnăvit de boală actinică sau a devenit persoană cu dizabilităte şi copiii lor până la atingerea vârstei de 18 ani.</p><p class=\"ql-align-justify\"><span style=\"color: black;\">Pentru a solicita serviciul la CTAS din raza de domiciliu puteți face o programare prealabilă la linkul:</span><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: black;\"> </a><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\">https://servicii.gov.md/programare</a></p><p><br></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "7c6096cd-37e2-4df7-a1db-33daf486b6fb",
+      "code": "018000234",
+      "title": {
+        "ro": "Certificat de bună practică de distribuție a medicamentelor (GDP)",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>Obținerea c<span style=\"color: rgb(0, 0, 0);\">ertificatului de bună practică de distribuție a medicamentelor (GDP)</span></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "4f25eef5-1c72-4788-962f-91bf3d5c1e1a",
+      "code": "018000373",
+      "title": {
+        "ro": "Certificat de bună practică de fabricație (GMP) a medicamentelor de uz veterinar",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Document, emis de Agenția Națională pentru Siguranța Alimentelor care confirmă corespunderea producătorului Regulilor de bună practică de fabricație, eliberat în rezultatul inspectării de către Agenția Națională pentru Siguranța Alimentelor, în conformitate cu recomandările Organizației Mondiale a Sănătății Animalelor (OIE);</p><p>Documentul nu este un act permisiv în sensul Legii nr.160/2011.&nbsp;</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "70c7d15a-cf8a-4d1e-b9df-998123deea50",
+      "code": "018000247",
+      "title": {
+        "ro": "Certificat de bună practică de fabricație a medicamentelor de uz uman (GMP)",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>Obținerea certificatului <span style=\"color: rgb(0, 0, 0);\">de bună practică de fabricație a medicamentelor de uz uman (GMP)</span></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "502cb826-74ca-4e5a-823a-723ff6fe96a2",
+      "code": "018000250",
+      "title": {
+        "ro": "Certificat de calitate al medicamentului",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "Obținerea certificatului de calitate al medicamentului",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "dc60b0e9-3f27-4dd5-b7e8-023a95183fe4",
+      "code": "018000357",
+      "title": { "ro": "Certificat de dezinfecție", "ru": "", "en": "" },
+      "description": {
+        "ro": "<p><span style=\"color: rgb(0, 0, 0);\">Certificat de dezinfecție</span></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "4577a366-7bcc-4ea1-be39-2d6a09e18183",
+      "code": "018000412",
+      "title": {
+        "ro": "Certificat de înregistrare a medicamentului",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p><strong style=\"color: rgb(102, 102, 102);\">Certificatul reprezintă permisiunea pentru înregistrarea medicamentului la Agenţia Medicamentului şi Dispozitivelor Medicale după omologarea acestuia.</strong></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "7eaee839-67a5-4c01-b58a-fb76f8f5a61a",
+      "code": "018000069",
+      "title": {
+        "ro": "Certificat privind beneficierea/nebeneficierea de bilete de tratament balneosanatorial prin intermediul casei teritoriale de asigurări sociale",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Act oficial eliberat pentru confirmarea beneficierii/nebeneficierii de bilete de tratament balneosanatorial prin intermediul CTAS eliberate persoanelor fizice la solicitare.</p><p class=\"ql-align-justify\"><span style=\"color: black;\">Pentru a solicita serviciul la CTAS din raza de domiciliu puteți face o programare prealabilă la linkul:</span><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: black;\"> </a><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\">https://servicii.gov.md/programare</a></p><p><br></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "8b99c5eb-b31d-4095-9db3-f53c355069b6",
+      "code": "018000386",
+      "title": {
+        "ro": "Certificatul de calitate a semințelor/buletinul de analiză a semințelor pentru uz intern",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">Certificat de calitate a semințelor – se eliberează pentru comercializarea pe teritoriul republicii a semințelor de culturi agricole și presupune determinarea tuturor indicilor de calitate ai semințelor (puritate, germinare, umiditate, masa 1000 boabe).</p><p class=\"ql-align-justify\">Buletinul de analiză a semințelor - se eliberează pentru necesități proprii de utilizare a semințelor și presupune determinarea unui indice de calitate a semințelor, la solicitare.</p><p><br></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "660bf62f-9a78-48cb-8826-b716ea75628f",
+      "code": "018000027",
+      "title": {
+        "ro": "Compensaţie anuală bănească în mărimea costului mediu al biletului",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Acordarea unui drept bănesc în mărimea costului mediu al unui bilet beneficiarului în cazul în care nu este posibilă procurarea şi acordarea biletului conform instituţiei balneosanatoriale recomandate sau există contraindicaţii medicale privind tratamentul balneosanatorial, începând cu trimestru doi al anului în curs.</p><p>Persoană fizică care a avut de suferit de pe urma catastrofei de la Cernobîl şi colaboratorilor subdiviziunilor de risc deosebit, care s-a îmbolnăvit de boală actinică sau a devenit persoană cu dizabilităte şi copiii lor până la atingerea vârstei de 18 ani.</p><p><span style=\"color: black;\">Pentru a solicita serviciul la CTAS din raza de domiciliu puteți face o programare prealabilă la linkul:</span><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: black;\"> </a><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\">https://servicii.gov.md/programare</a></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "81df8ad2-8d7a-43bc-820c-39339b997de5",
+      "code": "018000014",
+      "title": {
+        "ro": "Compensaţie bănească în locul biletelor de tratament sanatorial gratuit persoanelor cu dizabilități de pe urma războiului",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Acordarea unui drept bănesc în locul biletelor de tratament gratuit invalizilor de război după expirarea a doi ani calendaristici (01 ianuarie - 31 decembrie) de la data apariţiei dreptului respectiv.</p><p>Militarii, inclusiv cei trecuţi în rezervă (în retragere), care şi-au îndeplinit serviciul militar (inclusiv fiii regimentului sau elevii marinari) ori s-au aflat temporar în subunităţile, unităţile militare, statele majore şi instituţiile militare ce făceau parte din armata activă, partizanii, muncitorii şi funcţionarii care au devenit persoane cu dizabilități în urma rănirii, contuziei, schilodirii sau a unei afecţiuni contractate în timpul celui de-al doilea război mondial în zonele în care s-au desfăşurat acţiunile de luptă, în sectoarele din apropierea frontului, ale căilor ferate, drumurilor auto, la construirea aliniamentelor de apărare, bazelor maritime militare, aerodromurilor.</p><p>Persoanele din corpul de comandă şi soldaţii din organele afacerilor interne, din Centrul Naţional Anticorupţie, din sistemul administraţiei penitenciare şi din organele securităţii naţionale care au devenit persoane cu dizabilități în urma rănirii, contuziei, schilodirii sau a unei afecţiuni contractate în timpul exercitării atribuţiilor de serviciu în zonele în care sau desfăşurat acţiuni de luptă.</p><p>Persoanele care au devenit persoane cu dizabilități în urma rănirii, contuziei, schilodirii fiind antrenate de organele puterii locale la colectarea muniţiilor şi a tehnicii militare, la deminarea teritoriului şi a obiectelor în anii celui de-al doilea război mondial şi în perioada de după acţiunile de luptă pentru apărarea integrităţii teritoriale şi independenţei Republicii Moldova.</p><p>Militarii care au participat la acţiunile de luptă şi persoanele care au deservit contingente militare active aflate în alte state şi care au devenit persoane cu dizabilități în urma rănirii, contuziei, schilodirii sau a unei afecţiuni contractate în timpul acţiunilor de luptă.</p><p>Persoanele participante la acţiunile de luptă pentru apărarea integrităţii teritoriale şi independenţei Republicii Moldova, care au devenit persoane cu dizabilități în urma rănirii, contuziei, schilodirii sau a unei afecţiuni contractate în timpul acţiunilor de luptă.</p><p class=\"ql-align-justify\"><span style=\"color: black;\">Pentru a solicita serviciul la CTAS din raza de domiciliu puteți face o programare prealabilă la linkul:</span><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: black;\"> </a><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\">https://servicii.gov.md/programare</a></p><p><br></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "1f34c68e-086e-427c-91ff-e0f2fd79de9f",
+      "code": "018000328",
+      "title": {
+        "ro": "Controlul de stat al calității medicamentului",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>Medicamentele fabricate în Republica Moldova, cât şi cele de import autorizate de către Agenția Medicamentului și Dispozitivelor Medicale, medicamentele recepţionate în calitate de ajutor umanitar și materia primă utilizată la prepararea medicamentelor în farmacii sunt supuse în mod obligatoriu controlului de stat al calităţii de către Agenţia Medicamentului și Dispozitivelor Medicale.Controlul de stat al calităţii medicamentelor se efectuează în conformitate cu prevederile farmacopeilor în vigoare, sau în corespundere cu cerinţele Documentelor Analitico-Normative (DAN), aprobate conform prevederilor legale.&nbsp;&nbsp;&nbsp;</p><p><br></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "ca62de50-0a6a-4bb9-8b71-dfeb3ba4079b",
+      "code": "018000108",
+      "title": {
+        "ro": "Eliberarea adeverinței ce confirmă statutul persoanei în cadrul sistemului asigurării obligatorii de asistenţă medicală",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "Obținerea adeverinței ce confirmă statutul persoanei în cadrul sistemului asigurării obligatorii de asistenţă medicală",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "23de8844-e6ae-4f75-818c-1bc10cc6a12e",
+      "code": "018000399",
+      "title": {
+        "ro": "Evaluarea și acreditarea instituțiilor medico-sanitare și farmaceutice",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Evaluarea și acreditarea instituțiilor medico-sanitare și farmaceutice. <span style=\"color: rgb(102, 102, 102);\">Certificatul de acreditare permite solicitantului să practice activitatea de întreprinzător în conformitate cu cerințele standardelor de evaluare și acreditare din domeniul profesat.</span></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "c9984493-fe6c-443d-9cc4-bb98199de156",
+      "code": "018000263",
+      "title": {
+        "ro": "Înregistrarea dispozitivelor medicale în Registrul oficial",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "Înregistrarea dispozitivelor medicale în Registrul oficial",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "4310eaeb-38b5-4473-9de5-882a194c9da0",
+      "code": "018000111",
+      "title": {
+        "ro": "Înregistrarea persoanei la medicul de familie din instituția medico-sanitară ce prestează asistență medicală primară în cadrul asigurării obligatorii de asistență medicală",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p><span style=\"color: rgb(51, 51, 51);\">Pentru a beneficia de asistenţă medicală primară achitată din fondurile de asigurare obligatorie de asistenţă medicală, fiecare cetăţean trebuie să se înregistreze la medicul de familie în instituţia medicală primară.</span></p><p><span style=\"color: rgb(51, 51, 51);\">Schimbarea medicului de familie şi a instituţiei medicale primare poate fi efectuată pe tot parcursul anului, peste șase luni de la ultima schimbare/înregistrare, cu excepţia cazurilor când persoana îşi stabileşte locul de trai în altă localitate, inclusiv în alt sector al mun. Chişinău.</span></p><p><span style=\"color: rgb(51, 51, 51);\">Puteţi alege o singură instituţie medicală primară, preferabil cea mai apropiată de locul de trai.</span></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "17613ec6-d35a-4bcf-bed2-62dfc938d0dd",
+      "code": "018000425",
+      "title": {
+        "ro": "Înregistrarea produselor alimentare noi",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Efectuarea expertizei de evaluare a corespunderii produsului alimentar nou prevederilor din Regulamentul sanitar <strong>privind produsele alimentare noi,</strong> aprobat prin Hotărîrea Guvernului nr.925/2009 și elaborarea raportului de evaluare în termen de 70 de zile de la primirea cererii, în conformitate cu recomandările referitoare la aspectele ştiinţifice, aprobate de Ministerul Sănătăţii cu concluzia dacă produsul alimentar poate fi aprobat ca produs alimentar nou în vederea introducerii pe piaţă sau dacă urmează a fi emis ordinul de respingere.</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "53d2e9c0-e506-4280-8f80-c97c5105a0a9",
+      "code": "018000409",
+      "title": {
+        "ro": "Înregistrarea produselor biocide ",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p><strong style=\"color: rgb(102, 102, 102);\">Act administrativ prin care produsul biocid este înregistrat pentru plasare pe piaţă pe teritoriul Republicii Moldova de către Ministerul Sănătăţii, în urma unei cereri formulate de un solicitant. </strong></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "d6a134e5-9872-491f-a7d8-f82d73c13cb7",
+      "code": "018000441",
+      "title": {
+        "ro": "Înregistrarea suplimentelor alimentare",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>  <strong style=\"color: black;\"><em>Nutrimente şi/sau suplimente alimentare – </em></strong><span style=\"color: black;\">substanţe nutritive, cum ar fi proteinele, lipidele, glucidele, vitaminele, elementele minerale, aminoacizii esenţiali şi/sau preparatele produse sub formă de tablete, capsule, drajeuri, pulberi sau lichide, care au în componenţa lor macro- şi micronutrimente şi/sau alte substanţe comestibile şi sînt consumate în cantităţi definite, suplimentar la raţia alimentară obişnuită. Nutrimentele şi/sau suplimentele alimentare nu se consideră medicamente.</span></p><p><strong style=\"color: black;\"><em>Serviciul reprezintă </em></strong><span style=\"color: black;\">evaluarea dosarului depus de solicitant în temeiul Legii nr. 306/2018 privind siguranța alimentelor și a HG 538/2009 cu privire la aprobarea Regulamentului sanitar privind suplimentele alimentare și prezentarea la Ministerul Sănătății a unui raport de evaluare cu recomandări privind înregistrarea suplimentului alimentar sau privind respingerea argumentată a cererii. Ulterior, Ministerul Sănătății emite un ordin de înregistrare a produsului, specificînd condițiile de introducere pe piață a acestuia, sau un ordin de refuz al înregistrării în vederea introducerii pe piață și informează în acest sens solicitantul.</span></p><p>  </p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "6a38c774-da29-47e9-838f-ae0dcf4bda53",
+      "code": "018000124",
+      "title": {
+        "ro": "Înregistrarea unităților și persoanelor fizice, altele decât cele înregistrate de către organul înregistrării de stat, mediatorilor, notarilor, avocaților, executorilor judecătorești, experților judiciari care activează în cadrul unui birou de expertiză judiciară, interpreților și traducătorilor, administratorilor autorizați",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">În cazul unităților și al persoanelor fizice, altele decît cele înregistrate de către organul înregistrării de stat, al mediatorilor, al notarilor, al avocaților, al executorilor judecătorești și al experților judiciari care activează în cadrul unui birou de expertiză judiciară, al interpreților și traducătorilor, al administratorilor autorizați, acestea au obligația să se înregistreze ca plătitor de prime de asigurare obligatorie de asistență medicală la agenția teritorială a Companiei Naționale de Asigurări în Medicină în termen de o lună de la data eliberării deciziei de înregistrare, a atestatului de mediator, a licenței de notar, de avocat, de executor judecătoresc sau de expert judiciar care activează în cadrul unui birou de expertiză judiciară, a autorizației pentru activitatea de interpret și/sau traducător, administrator autorizat.</p><p><br></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "21fc9e60-f69e-49f1-b15d-5275fd683c05",
+      "code": "015000312",
+      "title": {
+        "ro": "Legitimație de participant la lichidarea consecințelor catastrofei de la C.A.E. Cernobîl",
+        "ru": "Удостоверение участника ликвидации последствий катастрофы Чернобольской АЭС",
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Obținerea legitimației de participant la lichidarea consecinţelor catastrofei de la C.A.E. Cernobîl</p>",
+        "ru": "<p>Получение удостоверения участника ликвидации последствий катастрофы Чернобольской АЭС</p>",
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "2ea6f61b-0ac5-45af-9da6-59fb13f641cb",
+      "code": "015000309",
+      "title": {
+        "ro": "Legitimație de veteran al serviciului militar",
+        "ru": "Удостоверение ветерана войнской службы",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p><span style=\"color: black;\">Perfectarea și eliberarea legitimației de veteran al serviciului militar</span></p>",
+        "ru": "<p><span style=\"background-color: rgb(245, 245, 245); color: rgb(0, 0, 0);\">Оформление и выдача удостоверения ветерана военной службы</span></p>",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "38387ba2-7164-462c-adab-7d7e0f6fbc68",
+      "code": "018000276",
+      "title": {
+        "ro": "Licență pentru desfășurarea activității farmaceutice",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Obținerea licenței pentru activitățile farmaceutice, inclusiv cu folosirea preparatelor stupefiante, psihotrope și/sau precursori, desfășurată de întreprinderile și/sau instituţiile farmaceutice</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "e360a1e1-9ce8-4cb5-a441-19bcfd9ba3cf",
+      "code": "018000289",
+      "title": {
+        "ro": "Modificarea certificatului de inregistrare a medicamentului",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Obținerea certificatului modificat de inregistrare a medicamentului</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "2a037339-f4d7-4451-9689-559f085390d5",
+      "code": "018000292",
+      "title": {
+        "ro": "Modificarea postautorizare a produselor medicamentoase de uz uman",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p><span style=\"color: rgb(0, 0, 0);\">Modificarea postautorizare a produselor medicamentoase de uz uman</span></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "24d06f74-b4e4-479a-b215-b9ac5bd197ea",
+      "code": "018000302",
+      "title": {
+        "ro": "Notificarea privind introducerea pe piață a dispozitivelor medicale\n",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Notificarea privind introducerea pe piață a dispozitivelor medicale</p><p><br></p><p>Pentru depunerea cererii se efectuează programarea online accesând linkul:  <a href=\"https://prog.amdm.gov.md/login\" rel=\"noopener noreferrer\" target=\"_blank\">https://prog.amdm.gov.md/login</a></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "c6bfcfe9-4007-4897-a194-d136e37f93f5",
+      "code": "018000137",
+      "title": {
+        "ro": "Raportarea informației de evidență nominală a persoanelor neangajate asigurate de Guvern",
+        "ru": "\n",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>Obligaţia de prezentare a Listei de evidență nominală a persoanelor neangajate, asigurate de Guvern, conform art. 10 alin. (2) lit. d) al Legii cu privire la asigurarea obligatorie de asistenţă medicală, nr.1585-XIII din 27 februarie 1998, o au instituţiile Republicii Moldova responsabile de ţinerea evidenţei nominale a persoanelor neangajate asigurate de Guvern, indicată la art.4 alin.(9) al aceleiași legi (în continuare – Instituții abilitate). 3. Categoriile de persoane asigurate de Guvern sunt stabilite la art. 4, alin 4) din Legea cu privire la asigurarea obligatorie de asistenţă medicală nr.1585-XIII din 27 februarie 1998 cu modificările şi completările ulterioare.  <span style=\"color: rgb(51, 51, 51);\">Canalul electronic de raportare „Declaraţie electronică” oferă instituţiilor obligate să țină evidența categoriilor de persoane asigurate de Guvern posibilitatea de a prezenta online listele de evidenţă nominală a persoanelor asigurate din contul statului (Formularul 2-04/l).</span></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "264cf874-0a52-4541-a7d6-3522321bca54",
+      "code": "018000140",
+      "title": {
+        "ro": "Raportarea informației privind inițierea/încetarea raporturilor de muncă",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>IRM19 - Informație pentru stabilirea drepturilor sociale și medicale aferente raporturilor de muncă <span style=\"color: rgb(66, 66, 66);\">este necesară în scopul&nbsp;acordării statutului de persoană asigurată în sistemul de asigurare obligatorie de asistenţă medicală,</span></p><p><span style=\"color: rgb(33, 37, 41);\">Informaţia nominalizată se prezintă de către angajator în termen de pînă la 10 zile lucrătoare de la data angajării sau modificării/încetării raporturilor de muncă, emiterii ordinului de acordare a concediului de îngrijire a copilului sau concediului paternal. Termenul de prezentare a informaţiei nominalizate (Forma IRM19) se determină începând cu ziua următoare după data indicată în ordin.</span></p><p><span style=\"color: rgb(31, 31, 29);\">Informația pentru persoanele ce nu dețin IDNP se prezintă suplimentar, agențiilor teritoriale și reprezentaților CNAM pe suport de hârtie.</span></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "f4f389eb-e075-4fb9-a941-a433fe2b80ef",
+      "code": "018000153",
+      "title": {
+        "ro": "Restituirea primelor de asigurare obligatorie de asistență medicală achitate în plus sau eronat la fondurile asigurării obligatorii de asistență medicală",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>Plăţile administrate de CNAM (cu excepţia codurilor ECO 122100, 143322 și 143325 care se administrează de către SFS), achitate incorect sau în plus se vor trece de la un tip de plată la altul sau se vor restitui la conturile plătitorilor, în baza cererilor contribuabililor depuse la CNAM</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    }
+  ]
+}

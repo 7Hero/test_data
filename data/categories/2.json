@@ -1,0 +1,182 @@
+{
+  "category": {
+    "title": { "ro": "publicEventTitle", "ru": null, "en": null },
+    "description": { "ro": null, "ru": null, "en": null }
+  },
+  "publicServices": [
+    {
+      "id": "7c6906ef-cb36-400d-acf8-74b8f7cc133a",
+      "code": "C9",
+      "title": {
+        "ro": "Căsătoria. Divorțul. Schimbarea stării civile",
+        "ru": null,
+        "en": null
+      },
+      "description": { "ro": null, "ru": null, "en": null },
+      "iconClass": "ps-icon-event-marriage"
+    },
+    {
+      "id": "a8aa2484-fe18-4370-a74c-8712f8d16545",
+      "code": "C11",
+      "title": { "ro": "Construirea unei case", "ru": null, "en": null },
+      "description": {
+        "ro": "<p><strong>Cerințe specifice pentru construirea unei case</strong></p><p>\t<span style=\"color: black;\">Pentru construirea unei case va fi nevoie să parcurgeți următorii pași:</span></p>",
+        "ru": null,
+        "en": null
+      },
+      "iconClass": "ps-icon-event-building"
+    },
+    {
+      "id": "5880232d-8206-4b4e-a233-5f845640c136",
+      "code": "C16",
+      "title": {
+        "ro": "Deces, pierderea întreținătorului, moștenire",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Decesul unei persoane reprezintă un fapt juridic în urma căruia apar o serie de drepturi și obligații, supravegheate și garantate de autoritățile publice, legate de succesiunea patrimoniului persoanei decedate și de asistența socială a persoanelor care au rămas fără întreținător.</p><p>în eventualitatea survenirii decesului sau pierderii întreținătorului, membrii familiei sau rudele persoanei decedate cu reședința în Republica Moldova au obligația de a declara decesul, dar și posibilitatea de a beneficia de drepturile asigurate de stat.</p><p>în cazul în care condițiile de mai sus vi se aplică, trebuie să întreprindeți o serie de acțiuni și să depuneți o serie de documente, după cum urmează:</p><ul><li><a href=\"#section-1\" rel=\"noopener noreferrer\">înregistrarea actului de deces cu eliberarea certificatului</a>;</li><li><a href=\"#section-2\" rel=\"noopener noreferrer\">radierea din evidentă a cetățeanului Republicii Moldova</a>;</li><li><a href=\"#section-3\" rel=\"noopener noreferrer\">asigurarea serviciilor funerare</a>;</li><li><a href=\"#section-4\" rel=\"noopener noreferrer\">efectuarea procedurilor legate de moștenire</a>;</li><li><a href=\"#section-5\" rel=\"noopener noreferrer\">obținerea ajutorului de deces</a>;</li><li><a href=\"#section-6\" rel=\"noopener noreferrer\">obținerea de drepturi bănești din fondul de asigurări sociale</a>.</li></ul>",
+        "ru": null,
+        "en": null
+      },
+      "iconClass": "ps-icon-event-death"
+    },
+    {
+      "id": "25d8a87d-a430-4f4e-9fa0-270d4311ebcb",
+      "code": "C7",
+      "title": {
+        "ro": "Declararea și plata impozitelor/taxelor de către cetățean",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Persoanele fizice, rezidenții Republicii Moldova pot fi subiecți de plată a următoarelor tipuri de impozite și taxe, după caz:</p> <ul> <li><a href=\"#section-1\">impozitul pe venit</a>;</li> <li><a href=\"#section-1\">impozitul pe avere</a>;</li> <li><a href=\"#section-1\">taxa pe valoare adăugată</a>;</li> <li><a href=\"#section-1\">accize</a>;</li> <li><a href=\"#section-1\">impozit pe bunuri imobiliare</a>;</li> <li><a href=\"#section-1\">taxe rutiere</a>;</li> <li><a href=\"#section-1\">taxe locale</a>.</li> </ul>",
+        "ru": null,
+        "en": null
+      },
+      "iconClass": "ps-icon-event-taxes"
+    },
+    {
+      "id": "643a5d80-eadc-482e-80a0-80427ab3902f",
+      "code": "B2",
+      "title": { "ro": "Desfășurarea afacerii", "ru": null, "en": null },
+      "description": {
+        "ro": "<p><span style=\"color: black;\">Informarea plătitorilor de contribuții cu privire la înregistrarea în calitate de contribuabil, modul de raportare, obligațiile de plată la bugetul public național, precum și oportunitățile oferite conform reglementărilor stabilite în domeniul desfășurării afacerilor</span>.&nbsp;&nbsp;</p><p><br></p>",
+        "ru": null,
+        "en": null
+      },
+      "iconClass": "ps-icon-event-business-2"
+    },
+    {
+      "id": "d00d476d-5237-4483-9e5b-a747ebd2687f",
+      "code": "C17",
+      "title": {
+        "ro": "Dizabilitate, pierderea capacității de muncă",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\"><span style=\"color: black;\">Garantarea unui venit sub formă de pensii, alocații, indemnizații și compensații persoanelor încadrate în grad de dizabilitate și celor care și-au pierdut total sau parțial capacitatea de muncă.</span></p><p><br></p>",
+        "ru": "",
+        "en": ""
+      },
+      "iconClass": "ps-icon-event-disability"
+    },
+    {
+      "id": "c36097cf-a687-41d1-b74b-4c634e1950ca",
+      "code": "C14",
+      "title": {
+        "ro": "Imigrare și obținerea cetățeniei Republicii Moldova",
+        "ru": null,
+        "en": null
+      },
+      "description": { "ro": null, "ru": null, "en": null },
+      "iconClass": "ps-icon-event-flag"
+    },
+    {
+      "id": "904c9d7b-4e9a-42f3-b650-708bb3f66a92",
+      "code": "B3",
+      "title": { "ro": "Închiderea unei afaceri", "ru": null, "en": null },
+      "description": {
+        "ro": "<p><strong>Cerințe specifice închiderii unei afaceri</strong></p><p>În capacitatea de întreprinzător aveți dreptul să încetați activitatea antreprenorială și să lichidați, benevol, afacerea dumneavoastră.</p><p>Procedura lichidării benevole a unei afaceri (cunoscută ca dizolvare), variază în funcție de statutul entității, precum și forma organizatorică-juridică a acesteia.</p><ul><li>Pentru a lichida benevol (prin dizolvare) o entitate cu statut de persoană juridică, trebuie să întreprindeți o serie de măsuri:</li><li class=\"ql-indent-1\">inițierea procedurii dizolvării;</li><li class=\"ql-indent-1\">informarea creditorilor și soluționarea cererilor lor;</li><li class=\"ql-indent-1\">prezentarea tuturor dărilor de seamă fiscale, achitarea tuturor obligațiilor fiscale față de bugetul public național și efectuarea controlului fiscal, după caz;</li><li class=\"ql-indent-1\">radierea entității.</li></ul><p><br></p>",
+        "ru": null,
+        "en": null
+      },
+      "iconClass": "ps-icon-event-business-3"
+    },
+    {
+      "id": "33a3129c-a9e5-4a0b-ba27-ae652027eccc",
+      "code": "C4",
+      "title": {
+        "ro": "Îndemnizații, ajutoare și alte prestații sociale",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\"><span style=\"color: black;\">Garantarea unui venit sub formă de pensii, alocații și compensații anumitor categorii de persoane în legătură cu apariția unui risc social, inclusiv asigurarea întremării sănătății prin tratament balneosanatorial.</span></p><p class=\"ql-align-justify\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>",
+        "ru": null,
+        "en": null
+      },
+      "iconClass": "ps-icon-event-help"
+    },
+    {
+      "id": "40f115d6-bb7d-4ef4-8908-a1b2592f1a84",
+      "code": "B1",
+      "title": { "ro": "Inițierea unei afaceri", "ru": null, "en": null },
+      "description": {
+        "ro": "<p>În calitate de fondator, puteți iniția o afacere proprie prin constituirea uneia din următoarele tipuri de entități:</p><ul><li>entitate cu statut de persoană juridică;</li><li>entitate cu statut de persoană fizică.</li></ul><p>Pentru a constitui o entitate, trebuie să parcurgeți următorii pași:</p><ul><li>înregistrarea afacerii;</li><li>deschiderea contului bancar/de plăți;</li><li>luarea la evidență la organele de stat.</li></ul>",
+        "ru": null,
+        "en": null
+      },
+      "iconClass": "ps-icon-event-business-1"
+    },
+    {
+      "id": "f481dc31-ff3c-469a-8ea6-383f6b646656",
+      "code": "C6",
+      "title": {
+        "ro": "Măsurile de ocupare a forței de muncă și asigurarea de șomaj",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">Lista subdiviziunilor teritoriale pentru ocuparea forței de muncă, adresele și datele de contract ale acestora le puteți găsi accesând linkul: <a href=\"https://www.anofm.md/ro/subdiviziuni\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.anofm.md/ro/subdiviziuni</a>&nbsp;</p><p class=\"ql-align-justify\">Măsurile de ocupare a forței de muncă includ:&nbsp;</p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 176, 240);\">1. Măsuri de promovare a ocupării forței de muncă:</strong><strong> </strong></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 176, 240);\">1.1. Servicii de ocupare a forței de muncă</strong></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 176, 240);\">1.2. Măsuri active de ocupare a forței de muncă</strong><strong>&nbsp;</strong></p><p class=\"ql-align-justify\"><strong style=\"color: rgb(0, 176, 240);\">2. Programe de facilitare a ocupării forței de muncă</strong><strong>&nbsp;</strong></p><p><strong style=\"color: rgb(0, 176, 240);\">3. Asigurarea de șomaj</strong></p>",
+        "ru": "",
+        "en": ""
+      },
+      "iconClass": "ps-icon-event-unemployment"
+    },
+    {
+      "id": "7c9ca55b-ceeb-46e8-871f-65096245c4e7",
+      "code": "C2",
+      "title": {
+        "ro": "Obținerea actelor de identitate (buletin, pașaport)",
+        "ru": null,
+        "en": null
+      },
+      "description": { "ro": null, "ru": null, "en": null },
+      "iconClass": "ps-icon-event-passport"
+    },
+    {
+      "id": "904bd0c8-3fdb-42cc-837c-ebe8e4bc5bce",
+      "code": "C10",
+      "title": {
+        "ro": "Procurarea/închirierea unei locuințe",
+        "ru": null,
+        "en": null
+      },
+      "description": { "ro": null, "ru": null, "en": null },
+      "iconClass": "ps-icon-event-house"
+    },
+    {
+      "id": "73a38920-f0c3-44c9-a86e-3df475c2b806",
+      "code": "C1",
+      "title": { "ro": "Sarcina, nașterea unui copil", "ru": "", "en": "" },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\"><span style=\"color: black;\">Susținerea financiară a familiilor cu copii domiciliate pe teritoriul Republicii Moldova în legătură cu sarcina, nașterea, creșterea și îngrijirea copilului. </span></p><p class=\"ql-align-justify\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>",
+        "ru": "",
+        "en": ""
+      },
+      "iconClass": "ps-icon-child"
+    }
+  ]
+}

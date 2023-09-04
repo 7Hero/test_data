@@ -1,0 +1,1058 @@
+{
+  "category": {
+    "title": { "ro": "Beneficii", "ru": null, "en": null },
+    "description": {
+      "ro": "Un set de servicii sau evenimente de viață legate de oferirea și/sau plata beneficiilor/alocațiilor/indemnizațiilor sociale. Plăți aferente sistemului de asigurări sociale de stat",
+      "ru": null,
+      "en": null
+    }
+  },
+  "subcategories": [],
+  "publicServices": [
+    {
+      "id": "4363a7b0-c3a5-4d94-8f07-98dd90b8667c",
+      "code": "001000661",
+      "title": {
+        "ro": "Acordarea ajutorului de șomaj",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">Stabilirea dreptului la ajutor de șomaj</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "eb26dc82-b52a-48b6-b730-d8b2ecc1e0ef",
+      "code": "017000013",
+      "title": {
+        "ro": "Acordarea dreptului de aflare",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\"><strong>Drept de aflare</strong> - d<span style=\"color: black;\">rept conferit prin excepție străinului, în condițiile prezentei legi, prin care i se permite aflarea temporară pe teritoriul Republicii Moldova, fără deținerea permisului de ședere, pe un termen cumulativ mai mare de 90 de zile calendaristice, dar care nu depășește un an calendaristic.</span></p><p class=\"ql-align-justify\">Serviciul se prestează la solicitarea persoanelor fizice, are un termen fixat de prestare indiferent de motivul selectat și 6 motive:</p><p class=\"ql-align-justify\">-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>dreptul de aflare temporară al vânzătorilor profesionişti;</strong></p><p class=\"ql-align-justify\">-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>dreptul de aflare temporară al prestatorilor de servicii contractuale;</strong></p><p class=\"ql-align-justify\">-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>dreptul de aflare temporară a profesioniştilor independenţi;</strong></p><p class=\"ql-align-justify\">-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>dreptul de aflare temporară a lucrătorilor sezonieri în munci agricole;</strong></p><p class=\"ql-align-justify\">-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>dreptul de aflare temporară a lucrătorilor frontalieri;</strong></p><p class=\"ql-align-justify\">-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>dreptul de aflare temporară a specialistului în domeniul IT.</strong></p><p><br></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "26d565ef-4e37-4419-b591-50292d48fce6",
+      "code": "017000071",
+      "title": {
+        "ro": "Acordarea dreptului de ședere provizorie/permanentă",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\"><strong style=\"color: black;\"><em>Drept de şedere</em></strong><span style=\"color: black;\">&nbsp;– drept de a-şi stabili reşedinţa sau domiciliul pe teritoriul Republicii Moldova, acordat străinului, în condiţiile prezentei legi, de către autoritatea competentă pentru străini.</span></p><p><strong style=\"color: black;\"><em>Decizie de acordare a dreptului de ședere provizorie sau permanentă</em></strong><em style=\"color: black;\">&nbsp;</em><span style=\"color: black;\">– act oficial emis de autoritatea competentă pentru străini, în condițiile prezentei legi, care confirmă dreptul de ședere provizorie sau permanentă pe teritoriul Republicii Moldova.</span></p><p>Străinul poate solicita acordarea dreptului de şedere provizorie în Republica Moldova în baza unei vize de lungă şedere în scopul pentru care a fost eliberată, cu excepţia cazurilor:</p><p>-\tpentru asociaţii sau acţionarii persoanelor juridice cu investiţii străine înregistrate în Republica Moldova;</p><p>-\tpentru victimele traficului de fiinţe umane;</p><p>-\tpentru victimele violenţei în familie;</p><p>-\tpentru lucrătorii migranți</p><p>Dreptul de şedere provizorie poate fi acordat:</p><p>a) pentru imigrare la muncă;</p><p>b) pentru studii;</p><p>c) pentru reîntregirea familiei;</p><p>d) pentru activităţi umanitare, de voluntariat sau religioase;</p><p>e) pentru tratament medical de lungă durată, balneosanatorial şi de recuperare;</p><p>e1) pentru protecţia victimelor traficului de fiinţe umane;</p><p>e2) pentru protecţia victimei violenţei în familie;</p><p>f) pentru alte scopuri, în care activitatea străinului nu contravine legislaţiei Republicii Moldova sau prezenţa lui pe teritoriul Republicii Moldova este necesară în interes public sau de securitate naţională;</p><p>f1) pentru activităţi în domeniul tehnologiei informaţiei;</p><p>g) investitorilor străini;</p><p>h) persoanelor cu funcţii de conducere;</p><p>i) specialiştilor;</p><p>j) stagiarilor absolvenţi de studii superioare.</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "7031a800-294a-4040-95d0-3c78caad5bcb",
+      "code": "017000152",
+      "title": {
+        "ro": "Acordarea tolerării rămânerii pe teritoriul Republicii Moldova",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>Tolerarea rămânerii pe teritoriul Republicii Moldova reprezintă permisiunea acordată de autoritatea competentă pentru străini de a rămâne pe teritoriul țării străinilor care nu au drept de ședere și care, din motive obiective, nu pot părăsi teritoriul Republicii Moldova. Tolerarea nu se acordă străinilor declarați persoane indezirabile sau împotriva cărora s-a dispus măsura expulzării.&nbsp;</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "eaa6c4c0-fe68-4eae-8cff-89641ddbecb6",
+      "code": "001000454",
+      "title": {
+        "ro": "Ajutor de deces acordat beneficiarilor instituţiilor de forţă",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p><span style=\"color: black;\">Acordarea </span>ajutorului de deces beneficiarilor instituţiilor de forţă.<span style=\"color: black;\">Se acordă persoanei care dovedește că a suportat cheltuielile ocazionale în caz de deces a pensionarului, persoanei asigurate din rândurile militarilor, persoanelor din corpul de comandă și din trupele organelor afacerilor interne în cuantumul echivalent cu cel stabilit anual prin legea bugetului asigurărilor sociale de stat.</span></p><p><span style=\"color: rgb(0, 0, 0);\">Pentru a solicita serviciul la CTAS din raza de domiciliu puteți face o programare prealabilă la linkul:</span><a href=\" https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(0, 0, 0);\"> </a><a href=\" https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\">https://servicii.gov.md/programare</a></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "6c70fd2a-a246-4121-8c7d-e239b52debb5",
+      "code": "001000441",
+      "title": {
+        "ro": "Ajutor de deces în baza prevederilor acordurilor internaționale",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Acordarea unui drept bănesc persoanei care a suportat cheltuielile în caz de deces a beneficiarului de pensie în baza acordurilor internaționale.</p><p>Persoanele îndreptățite care prezintă actul de înregistrare a decesului, eliberat de organul abilitat.</p><p>Lista Acordurilor bilaterale la care Republica Moldova este parte, poate fi vizualizată la linkul: <a href=\"https://cnas.gov.md/slidepageview.php?l=ro&amp;idc=519&amp;t=/Relatii-internationale/Acorduri-bilaterale\" rel=\"noopener noreferrer\" target=\"_blank\">https://cnas.gov.md/slidepageview.php?l=ro&amp;idc=519&amp;t=/Relatii-internationale/Acorduri-bilaterale</a></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "869df65b-98ed-4a97-a555-b325b3cd1c4b",
+      "code": "001000344",
+      "title": {
+        "ro": "Alocație lunară de stat pentru protecția socială suplimentară a unor categorii de populație",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">Alocaţie lunară de stat unor categorii de populaţie din rândul beneficiarilor de pensii sau de alocaţii sociale de stat, stabilite conform legislaţiei naţionale, şi familiilor lor.</p><p class=\"ql-align-justify\">Au dreptul la alocaţie lunară:</p><p class=\"ql-align-justify\">1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;persoanele cu dizabilităţi de pe urma războiului, ofiţerilor de informaţii şi securitate, persoanelor din corpul de comandă şi din trupele organelor afacerilor interne şi din&nbsp;sistemul administraţiei penitenciare, a căror&nbsp;dizabilitate&nbsp;este cauzată de rănire, contuzionare sau schilodire în perioada celui de-al doilea război mondial, precum şi în timpul îndeplinirii altor îndatoriri de serviciu militar sau special, ori este cauzată de afecţiuni legate de aflarea pe front, în detaşamente şi formaţiuni de partizani, în organizaţii şi grupe ilegale în perioada celui de-al doilea război mondial;</p><p class=\"ql-align-justify\">2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;invalizii din rândul militarilor, ofiţerilor de informaţii şi securitate, persoanele din corpul de comandă şi din trupele organelor afacerilor interne şi din&nbsp;sistemul administraţiei penitenciare, a căror invaliditate este cauzată de rănire, contuzionare sau schilodire la lichidarea consecinţelor avariei de la C.A.E. Cernobîl, în perioada participării la acţiunile de luptă pe teritoriul altor state, în timpul acţiunilor de luptă pentru apărarea integrităţii teritoriale şi independenţei Republicii Moldova ori este cauzată de afecţiuni legate de participarea la lichidarea consecinţelor avariei de la C.A.E. Cernobîl, inclusiv persoanele care&nbsp;au fost încadrate în grad de dizabilitate&nbsp;în urma participării la lichidarea consecinţelor avariei, fiind trimise în deplasări de serviciu de către ministere, departamente, întreprinderi şi organizaţii, sau la acţiunile de luptă în timp de pace, precum şi persoanelor care s-au îmbolnăvit de boală actinică sau&nbsp;au fost încadrate în grad de dizabilitate&nbsp;în urma experienţelor nucleare, avariilor cu radiaţie ionizată şi a consecinţelor lor la obiectivele atomice civile sau militare în timpul îndeplinirii serviciului militar sau special, persoanelor, inapte de muncă, care au venit în anul 1986 din zona de înstrăinare şi au dobândit cetăţenia Republicii Moldova;</p><p class=\"ql-align-justify\">3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;participanţii la cel de-al doilea război mondial în rândul militarilor care şi-au satisfăcut serviciul militar în componenţa armatei de operaţii, detaşamentelor şi formaţiunilor de partizani, din&nbsp;rândul membrilor organizaţiilor şi grupelor ilegale, foştilor deţinuţi in lagărele de concentrare fasciste şi în ghetouri în alte locuri de detenţie forţată, create de Germania fascistă şi de aliaţii acesteia în perioada celui de-al doilea război mondial, văduvelor Eroilor Uniunii Sovietice persoanelor care au lucrat ca angajaţi civili în armata de operaţii în anii celui de-al doilea război mondial persoanelor care s-au aflat în oraşul Leningrad (Sankt Petersburg) în perioada blocadei (8 septembrie 1941 - 27 ianuarie 1944), persoanelor antrenate de organele puterii locale la strângerea munițiilor și a tehnicii militare, la deminarea teritoriului și a obiectelor în anii celui de-al doilea război mondial;</p><p class=\"ql-align-justify\">4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;soţilor supravieţuitori ai participanţilor la cel de-al doilea război mondial sau la acţiuni de luptă în timp de pace, căzuţi la datorie, sau ai participanţilor la lichidarea consecinţelor avariei de la C.A.E. Cernobîl decedaţi, sau ai&nbsp;persoanelor cu dizabilităţi de pe urma războiului decedate;</p><p class=\"ql-align-justify\">5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;copiilor participanților la ce-al doilea război mondial sau la acţiuni de luptă în timp de pace, căzuţi la datorie, sau ai&nbsp;persoanelor cu dizabilităţi de pe urma războiului decedate&nbsp;copiilor participanţilor la lichidarea consecinţelor avariei de la C.A.E. Cernobîl, decedaţi, până la atingerea vârstei de 18 ani sau după această vârstă, dacă îşi continuă studiile în instituţiile de învăţământ la cursurile de zi până la terminarea studiilor, însă cel mult până la atingerea vârstei de 23 de ani;</p><p class=\"ql-align-justify\">6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;unul dintre&nbsp;părinţii participanţilor&nbsp;&nbsp;la acţiunile de luptă în timp de pace sau la acţiunile de luptă pentru apărarea integrităţii teritoriale şi independenţei Republicii Moldova căzuţi la ai militarilor căzuţi la datorie sau decedaţi în timpul îndeplinirii obligaţiilor serviciului militar în termen în rândurile Armatei Sovietice sau ale Armatei Naţionale sau ai participanţilor la lichidarea consecinţelor avariei de la C.A.E. Cernobîl, decedaţi;</p><p class=\"ql-align-justify\">7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;persoanele decorate cu ordine şi medalii pentru muncă asiduă şi serviciu militar impecabil în spatele frontului în anii celui de-al doilea război mondial;</p><p class=\"ql-align-justify\">8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;persoanele participante la acţiunile de luptă din Afghanistan, precum şi la acţiunile de luptă de pe teritoriile altor state, din rândul militarilor şi angajaţilor civili ai Armatei Sovietice, Flotei Maritime Militare, ai organelor securităţii de stat, colaboratorilor organelor afacerilor interne ale fostei U.R.S.S.; lucrătorilor din aceste categorii care au fost trimişi de organele puterii de stat ale fostei U.R.S.S. în alte state şi care au participat la acţiuni de luptă pe teritoriul acestora;</p><p class=\"ql-align-justify\">9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;militarii aflaţi în serviciul activ, rezerviştilor chemaţi la concentrare, voluntarilor şi colaboratorilor organelor afacerilor interne, ai organelor securităţii de stat şi ai&nbsp;sistemul administraţiei penitenciare, incluşi în efectivul unităţilor militare şi al structurilor speciale aflate pe poziţiile de luptă, precum şi militarilor, colaboratorilor organelor afacerilor interne, ai organelor securităţii de stat şi ai&nbsp;sistemului administraţiei penitenciare&nbsp;şi persoanelor civile delegate în aceste unităţi pentru îndeplinirea unor misiuni speciale în scop de asigurare a eficienţei acţiunilor de luptă pentru apărarea integrităţii teritoriale şi a independenţei Republicii Moldova;</p><p class=\"ql-align-justify\">10.&nbsp;victimele reabilitate ale represiunilor politice din perioada anilor 1917–1990.</p><p><span style=\"color: rgb(0, 0, 0);\">Pentru a solicita serviciul la CTAS din raza de domiciliu puteți face o programare prealabilă la linkul:</span><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(0, 0, 0); background-color: rgb(255, 255, 255);\"> </a><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">https://servicii.gov.md/programare</a><span style=\"color: black;\"> </span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">Serviciul poate fi&nbsp;prestat în bază de procură, inclusiv prin reprezentare de împuternicire în baza semnăturii electronice, consemnată în Registrul împuternicirilor de reprezentare în baza semnăturii electronice (MPower).</span></p><p class=\"ql-align-justify\"><br></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "a2a84275-2c93-4cc2-bc07-02e070d9ca01",
+      "code": "001000030",
+      "title": {
+        "ro": "Alocație lunară de stat privind protecţia socială suplimentară a unor beneficiari de pensii, stabilite în sistemul public de asigurări sociale",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p><span style=\"color: rgb(13, 13, 13);\">Drept bănesc acordat unor categorii de populaţie din rândul beneficiarilor de pensii sau de alocaţii sociale de stat, și unor categorii de populație din unele localități din stânga Nistrului. </span>Beneficiarii de pensie sau alocație socială, și unele categorii de populație din unele localități din stânga Nistrului, care nu beneficiază de pensii stabilite de administrația de la Tiraspol.</p><p><span style=\"color: black;\">Pentru a solicita serviciul la CTAS din raza de domiciliu puteți face o programare prealabilă la linkul:</span><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: black;\"> </a><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\">https://servicii.gov.md/programare</a></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "ad3b40a4-5980-4769-95ca-64babc03c17c",
+      "code": "001000027",
+      "title": {
+        "ro": "Alocaţie lunară nominală de stat pentru persoanele cu merite deosebite faţă de stat",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">Acordarea unui drept bănesc beneficiarilor de pensii sau alocații sociale de stat decorați cu distincții de stat.</p><p class=\"ql-align-justify\">Cetăţenii Republicii Moldova, care s-au învrednicit de titluri onorifice și cei decorați cu medalii, cruci și ordine, precum și veteranii de război prevăzuţi la art.7 şi 8 Legii nr.190/2003 cu privire la veterani, decoraţi cu distincţii de stat în temeiul Legii nr.1123/1992 cu privire la distincţiile de stat ale Republicii Moldova sau decoraţi cu distincţii de stat ale fostei U.R.S.S. echivalate cu distincţiile de stat ale Republicii Moldova prin Hotărârea Parlamentului nr.533/1995 cu privire la drepturile cetăţenilor Republicii Moldova decoraţi cu distincţii de stat ale fostei U.R.S.S., indiferent de faptul dacă sunt sau nu sunt beneficiari de pensie sau de alocaţie socială de stat şi dacă au sau nu au domiciliu în Republica Moldova.</p><p class=\"ql-align-justify\"><span style=\"color: black;\">Pentru a solicita serviciul la CTAS din raza de domiciliu puteți face o programare prealabilă la linkul:</span><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: black;\"> </a><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\">https://servicii.gov.md/programare</a></p><p class=\"ql-align-justify\"><span style=\"color: black;\">Serviciul poate fi prestat în bază de procură, inclusiv prin reprezentare de împuternicire în baza semnăturii electronice, consemnată în Registrul împuternicirilor de reprezentare în baza semnăturii electronice (MPower).</span></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "0748c6a7-1600-4edd-a665-861121575ce8",
+      "code": "001000360",
+      "title": {
+        "ro": "Alocaţie lunară pentru îngrijire, însoţire şi supraveghere persoanelor cu dizabilități severe imobilizate la pat, care au avut de suferit de pe urma catastrofei de la C.A.E. Cernobîl",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>Sumă de bani achitată lunar persoanelor cu dizabilități severe imobilizate la pat, care au avut de suferit de pe urma catastrofei de la C.A.E. Cernobîl.Persoană încadrată în grad sever de dizabilitate ca urmare a participării la lichidarea consecințelor avariei de la C.A.E. Cernobîl, imobilizată la pat sau care s-a îmbolnăvit de boală actinică sau au devenit&nbsp;persoane cu dizabilităţi&nbsp;în urma experienţelor nucleare, avariilor cu radiaţie ionizantă şi a consecinţelor lor la obiectivele atomice civile sau militare.</p><p><span style=\"color: rgb(0, 0, 0);\">Pentru a solicita serviciul la CTAS din raza de domiciliu puteți face o programare prealabilă la linkul:</span><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(0, 0, 0); background-color: rgb(255, 255, 255);\"> </a><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">https://servicii.gov.md/programare</a><span style=\"color: black;\"> </span></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "b67fb32c-5f70-447d-b42d-e3a964cc1730",
+      "code": "001000331",
+      "title": {
+        "ro": "Alocaţie lunară pentru merite deosebite faţă de stat ",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Sumă lunară de bani acordată soţiei/soţului, cetăţeni ai Republicii Moldova, a/al persoanei decorate post-mortem cu \"Ordinul Republicii\" sau ordinul \"Ştefan cel Mare\" sau mamei/tatălui, cetăţeni ai Republicii Moldova, a/al persoanei decorate post-mortem cu \"Ordinul Republicii\" sau ordinul \"Ştefan cel Mare\".Alocaţia pentru merite deosebite se stabileşte şi se plăteşte soţiei ori soţului, după caz, iar în lipsa acestora – unuia dintre părinţii, cetăţenii Republicii Moldova beneficiari/nebeneficiari de pensii stabilite conform legislaţiei naţionale, şi beneficiarii de alocaţii sociale de stat, stabilite conform Legii nr.499/1999 privind alocaţiile sociale de stat pentru unele categorii de cetăţeni, <span style=\"color: rgb(51, 51, 51);\">indiferent de faptul dacă au sau nu au domiciliu în Republica Moldova. În cazul părinţilor aflaţi în divorţ, cuantumul stabilit se împarte, la cerere, între ei în părţi egale. </span></p><p><span style=\"color: black;\">Pentru a solicita serviciul la CTAS din raza de domiciliu puteți face o programare prealabilă la linkul:</span><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: black;\"> </a><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\">https://servicii.gov.md/programare</a></p><p><span style=\"color: black;\">Serviciul poate fi prestat în bază de procură, inclusiv prin reprezentare de împuternicire în baza semnăturii electronice, consemnată în Registrul împuternicirilor de reprezentare în baza semnăturii electronice (MPower).</span></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "e08aa2b0-09b2-4933-b578-e2f4cb8e2e28",
+      "code": "001000328",
+      "title": {
+        "ro": "Alocaţie socială de stat pentru copii în cazul pierderii întreţinătorului",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Sumă de bani achitată lunar copiilor în cazul pierderii întreţinătorului dacă persoana decedată nu îndeplinea condiţiile pentru obţinerea dreptului la pensie de asigurări sociale.Membru al familiei care a pierdut întreţinătorul, care nu se află la întreţinerea deplină a statului, întreţinătorul decedat nu confirmă stagiul necesar pentru stabilirea pensiei de asigurări sociale.</p><p><span style=\"color: black;\">Pentru a solicita serviciul la CTAS din raza de domiciliu puteți face o programare prealabilă la linkul:</span><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: black;\"> </a><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\">https://servicii.gov.md/programare</a></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "ee7c110d-8fca-40e4-85b6-f9d861b0db1a",
+      "code": "001000357",
+      "title": {
+        "ro": "Alocaţie socială de stat pentru îngrijire, însoţire şi supraveghere",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>Sumă de bani achitată lunar persoanelor care îngrijesc, însoţesc şi supraveghează la domiciliu un copil cu dizabilităţi în vârstă de până la 18 ani, o persoană cu dizabilităţi severe din copilărie sau o persoană cu dizabilităţi severe nevăzătoare.Încadrarea în grad de dizabilitate, nu se află la întreţinerea deplină a statului şi nu este beneficiar a serviciului de asistenţă personală.</p><p><span style=\"color: rgb(0, 0, 0);\">Pentru a solicita serviciul la CTAS din raza de domiciliu puteți face o programare prealabilă la linkul:</span><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(0, 0, 0); background-color: rgb(255, 255, 255);\"> </a><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">https://servicii.gov.md/programare</a><span style=\"color: black;\"> </span></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "6d72c362-392d-408f-a3a8-f84158acbe84",
+      "code": "001000315",
+      "title": {
+        "ro": "Alocaţie socială de stat pentru persoanele cu dizabilităţi, persoanelor cu dizabilităţi din copilărie şi copii cu dizabilităţi în vârstă de până la 18 ani",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>Sumă de bani achitată lunar persoanelor cu dizabilităţi, persoanelor cu dizabilităţi din copilărie şi copii cu dizabilităţi în vârstă de până la 18 ani domiciliaţi pe teritoriul Republicii Moldova, care nu îndeplinesc condiţiile pentru stabilirea pensiei de dizabilitate.Încadrarea în grad de dizabilitate, nu confirmă stagiul necesar pentru stabilirea pensiei de asigurări sociale, nu se află la întreţinerea deplină a statului.&nbsp;</p><p><span style=\"color: black;\">Pentru a solicita serviciul la CTAS din raza de domiciliu puteți face o programare prealabilă la linkul:</span><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: black;\"> </a><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\">https://servicii.gov.md/programare</a></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "67f005ea-5396-4386-9cfa-11b33e0d8247",
+      "code": "001000302",
+      "title": {
+        "ro": "Alocaţie socială de stat pentru persoanele vârstnice",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Sumă de bani achitată lunar persoanelor care nu îndeplinesc condiţiile pentru acordarea pensiei pentru limita de vârstă.</p><p>Împlinirea vârstei de pensionare prevăzute de cadrul normativ în vigoare şi nu se află la întreţinerea deplină a statului, nu confirmă stagiul necesar pentru stabilirea pensiei de asigurări sociale.</p><p><span style=\"color: black;\">Pentru a solicita serviciul la CTAS din raza de domiciliu puteți face o programare prealabilă la linkul:</span><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: black;\"> </a><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\">https://servicii.gov.md/programare</a></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "2ae1553f-8769-4f71-babc-c449da625490",
+      "code": "017000110",
+      "title": {
+        "ro": "Autorizarea emigrării străinilor cu domiciliul permanent în Republica Moldova",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\"><strong style=\"color: rgb(51, 51, 51);\"><em>Autorizarea emigrării&nbsp;</em>–</strong><span style=\"color: rgb(51, 51, 51);\"> permisiune oficială a autorităţilor Republicii Moldova privind plecarea pentru stabilirea cu domiciliul în străinătate.</span></p><p><br></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "dc3daf21-0103-4a38-837a-895e22e0bbd4",
+      "code": "017000068",
+      "title": {
+        "ro": "Aviz pentru reîntregirea familiei",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\"><strong style=\"color: black;\"><em>Aviz pentru reîntregirea familiei</em></strong><span style=\"color: black;\">&nbsp;– act eliberat de autoritatea competentă pentru străini la solicitarea cetățenilor Republicii Moldova domiciliați în Republica Moldova sau a străinilor având drept de şedere în Republica Moldova în condițiile prezentei legi şi care constituie una din condiţiile de obținere a unei vize de lungă şedere în scop de reîntregire a familiei solicitantului de aviz;</span></p><p class=\"ql-align-justify\">Serviciul include 2 motive: cetățean RM cu străin sau străin cu străin. Serviciul se prestează doar la solicitarea persoanelor fizice <span style=\"color: black;\">în termen de 10 zile lucrătoare de la data depunerii cererii </span>indiferent de motivul selectat pentru:</p><p>- soţ ori soţie;</p><p>- partener – străinul necăsătorit care convieţuiește cu cetăţeanul Republicii Moldova necăsătorit și împreună cu care are cel puţin un copil;</p><p>- copiii minori, rezultați din căsătorie ori din afara căsătoriei, precum şi pentru cei adoptaţi de ambii soţi sau numai de unul dintre ei, pentru copiii încredinţaţi ambilor soţi ori numai unuia dintre ei prin decizia unei autorităţi competente din statul de origine, cu condiţia ca aceşti copii să fie în mod efectiv în grija oricăruia dintre soţi;</p><p>- copiii majori ai cetăţeanului Republicii Moldova sau ai soţului ori soţiei acestuia în cazul în care aceştia nu se pot întreţine singuri din motive medicale;&nbsp;</p><p>- părinții aflați la întreținerea cetățeanului Republicii Moldova sau a soțului ori soției acestuia;&nbsp;</p><p class=\"ql-align-justify\">- persoanele asupra cărora este instituită tutela sau curatela.</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "cce8239e-bc31-413d-9120-fbb6f2f9f2b1",
+      "code": "018000030",
+      "title": {
+        "ro": "Bilet de tratament balneosanatorial pentru veterani",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Eliberarea unui document bănesc care acordă veteranilor dreptul la tratament balneosanatorial.</p><p>Persoană cu dizabilităţi de pe urma războiului.</p><p>Veteran de război.Veteran al muncii.</p><p>Veteranii serviciului militar.</p><p>Veteranii organelor afacerilor interne, ai Centrului Naţional Anticorupţie, ai organelor securităţii statului şi ai sistemului administraţiei penitenciare.</p><p>Soţia participantului la cel de-al Doilea Război Mondial sau la acţiuni de luptă în timp de pace, din rândurile militarilor căzuți la datorie. </p><p>Soţia persoanei cu dizabilităţi de pe urma războiului decedate care se aflau în relaţii de căsătorie cu aceste persoane la data decesului lor.</p><p>Copilul persoanei participante la acţiunile de luptă în timp de pace din rândurile militarilor căzuși la datorie, precum şi copilul persoanei cu dizabilităţi de pe urma războiului decedate, până la atingerea vârstei de 18 ani sau după atingerea acestei vârste, dacă sunt înmatriculaţi la studii cu formă de învăţământ cu frecvenţă, până la terminarea studiilor, însă cel mult până la atingerea vârstei de 23 de ani.&nbsp;</p><p><span style=\"color: black;\">Pentru a solicita serviciul la CTAS din raza de domiciliu puteți face o programare prealabilă la linkul:</span><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: black;\"> </a><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\">https://servicii.gov.md/programare</a></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "d137b10f-a585-4f58-a855-e2bf391e56fe",
+      "code": "018000056",
+      "title": {
+        "ro": "Bilet de tratament balneosanatorial persoanelor asigurate",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Eliberarea, prin intermediul angajatorului, a unui document bănesc care acordă persoanelor asigurate dreptul la tratament balneosanatorial. Persoană fizică asigurată, încadrată în câmpul muncii de bază.</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "97125265-1610-4e00-b0a0-5c1e13b94f80",
+      "code": "018000043",
+      "title": {
+        "ro": "Bilet de tratament în instituţiile balneosanatoriale persoanelor care au avut de suferit de pe urma catastrofei de la C.A.E. Cernobîl şi unor categorii de persoane",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Eliberarea unui document bănesc care acordă dreptul la tratament balneosanatorial persoanelor care au avut de suferit de pe urma catastrofei de la C.A.E. Cernobîl şi unor categorii de persoane.</p><p>Persoana care a avut de suferit de pe urma catastrofei de la Cernobîl şi colaboratorilor subdiviziunilor de risc deosebit, care s-a îmbolnăvit de boală actinică sau a devenit persoană cu dizabilităte şi copiii lor până la atingerea vârstei de 18 ani.</p><p class=\"ql-align-justify\"><span style=\"color: black;\">Pentru a solicita serviciul la CTAS din raza de domiciliu puteți face o programare prealabilă la linkul:</span><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: black;\"> </a><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\">https://servicii.gov.md/programare</a></p><p><br></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "a3b8a18f-e6fd-4f13-907a-3effffcd2941",
+      "code": "001000629",
+      "title": {
+        "ro": "Buletin de identitate pentru beneficiarii de protecție internațională și apatrizi.",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Obținerea buletinului de identitate pentru beneficiarii de protecție internațională și apatrizi.</p><p>Beneficiarilor de protecţie internaţională se eliberează: a) buletin de identitate pentru refugiaţi (RI/RR) - persoanelor cărora li s-a acordat statut de refugiat, inclusiv copiilor acestora; b) buletin de identitate pentru beneficiarii de protecţie umanitară (IH) – persoanelor cărora li s-a acordat protecţie umanitară, inclusiv copiilor acestora.</p><p>Apatridului se eliberează: buletin de identitate pentru apatrizi (CC/RC) – apatridului căruia i s-a acordat dreptul de şedere permanentă sau i s-a recunoscut statutul de apatrid.</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "fcee5b78-c6c3-4bfb-92b4-e2bbe0b111e7",
+      "code": "017000097",
+      "title": {
+        "ro": "Certificat de confirmare a statutului de apatrid al solicitantului",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\"><strong>Apatrid</strong> - persoană care nu este considerată cetăţean al nici unui stat, conform legislaţiei acestora.</p><p><strong>Statutul de apatrid</strong> se recunoaşte, persoanei care nu este considerată cetăţean al nici unui stat, conform legislaţiei acestora.</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "7eaee839-67a5-4c01-b58a-fb76f8f5a61a",
+      "code": "018000069",
+      "title": {
+        "ro": "Certificat privind beneficierea/nebeneficierea de bilete de tratament balneosanatorial prin intermediul casei teritoriale de asigurări sociale",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Act oficial eliberat pentru confirmarea beneficierii/nebeneficierii de bilete de tratament balneosanatorial prin intermediul CTAS eliberate persoanelor fizice la solicitare.</p><p class=\"ql-align-justify\"><span style=\"color: black;\">Pentru a solicita serviciul la CTAS din raza de domiciliu puteți face o programare prealabilă la linkul:</span><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: black;\"> </a><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\">https://servicii.gov.md/programare</a></p><p><br></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "660bf62f-9a78-48cb-8826-b716ea75628f",
+      "code": "018000027",
+      "title": {
+        "ro": "Compensaţie anuală bănească în mărimea costului mediu al biletului",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Acordarea unui drept bănesc în mărimea costului mediu al unui bilet beneficiarului în cazul în care nu este posibilă procurarea şi acordarea biletului conform instituţiei balneosanatoriale recomandate sau există contraindicaţii medicale privind tratamentul balneosanatorial, începând cu trimestru doi al anului în curs.</p><p>Persoană fizică care a avut de suferit de pe urma catastrofei de la Cernobîl şi colaboratorilor subdiviziunilor de risc deosebit, care s-a îmbolnăvit de boală actinică sau a devenit persoană cu dizabilităte şi copiii lor până la atingerea vârstei de 18 ani.</p><p><span style=\"color: black;\">Pentru a solicita serviciul la CTAS din raza de domiciliu puteți face o programare prealabilă la linkul:</span><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: black;\"> </a><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\">https://servicii.gov.md/programare</a></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "81df8ad2-8d7a-43bc-820c-39339b997de5",
+      "code": "018000014",
+      "title": {
+        "ro": "Compensaţie bănească în locul biletelor de tratament sanatorial gratuit persoanelor cu dizabilități de pe urma războiului",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Acordarea unui drept bănesc în locul biletelor de tratament gratuit invalizilor de război după expirarea a doi ani calendaristici (01 ianuarie - 31 decembrie) de la data apariţiei dreptului respectiv.</p><p>Militarii, inclusiv cei trecuţi în rezervă (în retragere), care şi-au îndeplinit serviciul militar (inclusiv fiii regimentului sau elevii marinari) ori s-au aflat temporar în subunităţile, unităţile militare, statele majore şi instituţiile militare ce făceau parte din armata activă, partizanii, muncitorii şi funcţionarii care au devenit persoane cu dizabilități în urma rănirii, contuziei, schilodirii sau a unei afecţiuni contractate în timpul celui de-al doilea război mondial în zonele în care s-au desfăşurat acţiunile de luptă, în sectoarele din apropierea frontului, ale căilor ferate, drumurilor auto, la construirea aliniamentelor de apărare, bazelor maritime militare, aerodromurilor.</p><p>Persoanele din corpul de comandă şi soldaţii din organele afacerilor interne, din Centrul Naţional Anticorupţie, din sistemul administraţiei penitenciare şi din organele securităţii naţionale care au devenit persoane cu dizabilități în urma rănirii, contuziei, schilodirii sau a unei afecţiuni contractate în timpul exercitării atribuţiilor de serviciu în zonele în care sau desfăşurat acţiuni de luptă.</p><p>Persoanele care au devenit persoane cu dizabilități în urma rănirii, contuziei, schilodirii fiind antrenate de organele puterii locale la colectarea muniţiilor şi a tehnicii militare, la deminarea teritoriului şi a obiectelor în anii celui de-al doilea război mondial şi în perioada de după acţiunile de luptă pentru apărarea integrităţii teritoriale şi independenţei Republicii Moldova.</p><p>Militarii care au participat la acţiunile de luptă şi persoanele care au deservit contingente militare active aflate în alte state şi care au devenit persoane cu dizabilități în urma rănirii, contuziei, schilodirii sau a unei afecţiuni contractate în timpul acţiunilor de luptă.</p><p>Persoanele participante la acţiunile de luptă pentru apărarea integrităţii teritoriale şi independenţei Republicii Moldova, care au devenit persoane cu dizabilități în urma rănirii, contuziei, schilodirii sau a unei afecţiuni contractate în timpul acţiunilor de luptă.</p><p class=\"ql-align-justify\"><span style=\"color: black;\">Pentru a solicita serviciul la CTAS din raza de domiciliu puteți face o programare prealabilă la linkul:</span><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: black;\"> </a><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\">https://servicii.gov.md/programare</a></p><p><br></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "6963c714-4414-44af-a847-fd5ca34e9171",
+      "code": "001000425",
+      "title": {
+        "ro": "Compensaţie bănească lunară în schimbul asigurării cu produse alimentare şi suplimente alimentare ",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Acordarea unui ajutor material lunar în schimbul asigurării cu produse alimentare şi suplimente alimentare persoanelor participante la lichidarea consecinţelor catastrofei de la Cernobîl şi la experienţele nucleare, avariilor cu radiaţie ionizantă şi a consecinţelor lor la obiective atomice civile sau militare.</p><p>Persoanele participante la lichidarea consecinţelor catastrofei de la Cernobîl, persoanele cu dizabilităţi a căror dizabilitate e în legătură cauzală cu catastrofa de la Cernobîl, precum şi colaboratorii subdiviziunilor de risc deosebit, care au devenit persoane cu dizabilităţi.</p><p class=\"ql-align-justify\"><span style=\"color: black;\">Pentru a solicita serviciul la CTAS din raza de domiciliu puteți face o programare prealabilă la linkul:</span><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: black;\"> </a><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\">https://servicii.gov.md/programare</a></p><p><br></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "dca3eadf-048c-4c19-ae70-ad82a61e2078",
+      "code": "001000687",
+      "title": {
+        "ro": "Corectarea plăților administrate de CNAS achitate incorect sau în plus la bugetul asigurărilor sociale de stat ",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">Corectarea în baza cererii depuse de către plătitorul de contribuții la bugetul asigurărilor sociale de stat a sumelor plătite în plus sau incorect</p><p class=\"ql-align-justify\">&nbsp;</p><p class=\"ql-align-justify\">Plătitorii beneficiază de corectarea plăților la bugetul asigurărilor sociale de stat în situațiile de:</p><p class=\"ql-align-justify\">1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Trecere a sumelor plătite în plus sau incorect de la un tip de plată la altul;</p><p class=\"ql-align-justify\">2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Trecere a plăților de la un cod fiscal la altul;</p><p class=\"ql-align-justify\">Trecere a soldurilor de la un cod fiscal la alt cod fiscal.</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "52823c8e-d6b4-4b4f-8cbf-11758e6ecd84",
+      "code": "017000149",
+      "title": {
+        "ro": "Document de identitate temporar de solicitant de azil",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p><span style=\"color: rgb(0, 0, 0);\">Document de identitate temporar de solicitant de azil</span></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "6f85b444-99eb-4d48-bcce-e5168902c102",
+      "code": "001000593",
+      "title": {
+        "ro": "Documentarea cu acte de identitate pentru străini",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\"><strong>Act de identitate</strong> - atestă identitatea si statutul juridic al străinului, dreptul de ședere al titularului în Republica Moldova, precum si durata si scopul pentru care s-a acordat acest drept, și care este valabil doar pe teritoriul Republicii Moldova. <span style=\"color: rgb(50, 50, 50);\">Asigură </span>dreptul de ședere legală a străinilor</p><p class=\"ql-align-justify\">Serviciul se prestează exclusiv la cererea persoanelor fizice, și reprezintă tarife, taxe și modele de cereri diferite în funcția de categorie și termen.</p><p class=\"ql-align-justify\">&nbsp;</p><p class=\"ql-align-justify\"><strong style=\"color: black;\">Permisul de ședere provizorie (IR)-</strong><span style=\"color: black;\"> Act de identitate oficial, eliberat de autoritatea competentă pentru străini în conformitate cu prevederile legii, care atestă identitatea si statutul juridic al străinului, dreptul de ședere al titularului în Republica Moldova, precum si durata si scopul pentru care s-a acordat acest drept, și care este valabil doar pe teritoriul Republicii Moldova.</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">Permisul de ședere provizorie se eliberează străinului, căruia i s-a acordat sau i s-a prelungit dreptul de ședere provizorie, pe perioada de valabilitate a dreptului de ședere în Republica Moldova a titularului, dar care nu poate depăși termenul de valabilitate a pașaportului cetățeanului străin sau documentului de călătorie valabil, emis de statul, unde persoana își are stabilit domiciliul.</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">Pentru obținerea permisului de ședere provizorie în legătură cu expirarea termenului de valabilitate, străinul este obligat sa se adreseze la Ghișeul unic de documentare a străinilor din cadrul Inspectoratului General pentru Migrație al Ministe</span><span style=\"color: rgb(51, 51, 51);\">rului </span><span style=\"color: black;\">Afacerilor Interne cu cel puțin 30 de zile până la producerea acestei situații.</span></p><p class=\"ql-align-justify\"><strong>Permisul de ședere permanentă (CR)&nbsp;-</strong><span style=\"color: rgb(51, 51, 51);\"> </span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">&nbsp;</span></p><p><strong>Permis de ședere provizorie pentru apatrizi (IC)- </strong>asigură dreptul de ședere legală a apatrizilor și evidența acestora pe teritoriul Republicii Moldova.</p><p><strong>&nbsp;</strong></p><p class=\"ql-align-justify\"><strong>Buletin de identitate pentru apatrizi (CC) - </strong><span style=\"color: black;\">Buletin de identitate pentru apatrizi</span><strong> </strong><span style=\"background-color: yellow; color: red;\"> </span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">Buletinul de identitate pentru apatrizi se eliberează pe termen de valabilitate:</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">a) de la naştere pînă la 10 ani;</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">b) de la 10 pînă la 16 ani;</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">c) de la 16 pînă la 25 ani;</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">d) de la 25 pînă la 45 ani;</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">e) de la 45 - pe viaţă.</span></p><p class=\"ql-align-justify\"><strong style=\"color: black;\">Buletin de identitate pentru (RI/RR)</strong><span style=\"color: black;\"> – persoanelor cărora li s-a recunoscut statut de refugiat, inclusiv copiilor acestora. Buletinul de identitate pentru refugiați se eliberează pe 5 ani;&nbsp;</span></p><p class=\"ql-align-justify\"><strong style=\"color: black;\">Buletin de identitate pentru beneficiarii de umanitară (IH)</strong></p><p><strong>Document de călătorie pentru apatrizi (PC)-&nbsp;</strong><span style=\"background-color: yellow; color: red;\"> </span></p><p class=\"ql-align-justify\"><strong style=\"color: black;\">Documentul de călătorie (PT) </strong></p><p class=\"ql-align-justify\"><strong style=\"color: black;\">Documentul de călătorie (PH)</strong></p><p class=\"ql-align-justify\"><strong>Actele de identitate ale beneficiarilor de protecție internațională</strong> se eliberează de IGM în baza deciziei de acordare a protecției internaționale, în conformitate cu legislația în vigoare.</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "ccca370b-7d81-443b-adac-4c1a07085197",
+      "code": "001000645",
+      "title": {
+        "ro": "Documente de călătorie pentru beneficiarii de protecție internațională și apatrizilor",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Obținerea documentelor de călătorie pentru beneficiarii de protecție internațională și apatrizilor</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "ad31a72e-8002-47c3-8689-eae9d23ad63f",
+      "code": "001000548",
+      "title": {
+        "ro": "Eliberarea documentelor ce confirmă dreptul de proprietate asupra imobilului ca rezultat al desfacerii benevole a tranzacţiei sau a declarării ei nule pe baza deciziei judecătoreşti",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Eliberarea documentelor ce confirmă dreptul de proprietate asupra imobilului ca rezultat al desfacerii benevole a tranzacţiei sau a declarării ei nule pe baza deciziei judecătoreşti;</p><p>Efectuarea mențiunilor/înscrierilor în registrul actelor notariale și pe acte</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "339e2540-a45b-4563-9c56-eadcd2fd24e4",
+      "code": "001000674",
+      "title": {
+        "ro": "Eşalonarea stingerii datoriilor majorărilor de întărziere (penalităţilor) faţă de bugetul asigurărilor sociale de stat",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">Eşalonarea stingerii datoriilor majorărilor de întărziere (penalităților) faţă de bugetului asigurărilor sociale de stat conform Graficului achitării majorărilor de întârziere stabilit în Acordul de eşalonare a stingerii datoriilor majorărilor de întârziere (penalităților) faţă de bugetul asigurărilor sociale de stat</p><p class=\"ql-align-justify\"> </p><p class=\"ql-align-justify\">Plătitorii beneficiază de eşalonarea stingerii datoriilor majorărilor de întârziere (penalităţilor) pe parcursul anului bugetar în curs, plătitorii trebuie sa îndeplinească cumulativ următoarele condiţii: </p><p class=\"ql-align-justify\">a) declaraţiile privind calcularea şi utilizarea contribuţiilor de asigurări sociale de stat obligatorii depuse pentru toate perioadele prevăzute de legislaţia în vigoare; </p><p class=\"ql-align-justify\">b) lipsa datoriilor la plata contribuţiilor de asigurări sociale de stat obligatorii şi la amenzi; </p><p>c) virarea în termen şi integral a sumei obligațiilor curente la bugetul asigurărilor sociale de stat.</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "a4f9f5dc-aef3-4850-8fc7-9e13c98aafa8",
+      "code": "001000551",
+      "title": {
+        "ro": "Extras și/sau fotocopii din registrul actelor notariale",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "Obținerea extrasului și/sau fotocopii din registrul actelor notariale",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "5d02a5fe-13ab-429d-819c-692bf5dd70d9",
+      "code": "001000409",
+      "title": {
+        "ro": "Indemnizația în cazul decesului unuia dintre soți",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>Drept bănesc acordat soțului supraviețuitor.</p><p>Indemnizația în cazul decesului unuia dintre soți se acordă soțului supraviețuitor la întrunirea următoarelor condiții:</p><p>1) la data decesului, soțul decedat beneficia de pensie pentru limită de vârstă mai puțin de 5 ani după stabilirea pensiei;</p><p>2) soțul supraviețuitor, indiferent de vârstă, a avut cel puțin 15 ani de căsătorie cu persoana decedată;</p><p>3) indemnizația în cazul decesului unuia dintre soți a fost solicitată în termen de 3 ani de la data decesului.Indemnizația în cazul decesului unuia dintre soți se acordă indiferent dacă soțul supraviețuitor este sau nu beneficiar de pensii în sistemul public de pensii.</p><p><span style=\"color: rgb(0, 0, 0);\">Pentru a solicita serviciul la CTAS din raza de domiciliu puteți face o programare prealabilă la linkul:</span><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(0, 0, 0); background-color: rgb(255, 255, 255);\"> </a><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">https://servicii.gov.md/programare</a><span style=\"color: black;\"> </span></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "0ed6fb02-89f9-4b4e-8736-3e090d19209f",
+      "code": "001000564",
+      "title": {
+        "ro": "Indemnizația viageră antrenorilor sportivilor de performanță. ",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\"><span style=\"color: black;\"> Antrenorii cetățeni și rezidenți ai Republicii Moldova care au pregătit sportivi medaliați la probele individuale sau pe echipe la Jocurile Olimpice sau la Jocurile Paralimpice, la campionatele mondiale ori la campionatele europene de seniori la probe olimpice sau paralimpice (inclusiv cei care au activat în calitate de antrenori ai echipelor sportive din fosta URSS) au dreptul la o indemnizație viageră dacă întrunesc cumulativ următoarele condiții:</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">a) au împlinit vârsta legală de pensionare;</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">b) au un stagiu de activitate de cel puțin 20 de ani în calitate de antrenor;</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">c) au pregătit sportivi în ultima perioadă de minimum 4 ani, în calitate de antrenor la probele individuale sau pe echipe, obținând cu aceștia medalii la Jocurile Olimpice sau la Jocurile Paralimpice, la campionatele mondiale sau la campionatele europene.</span></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "c06bb3a8-8658-4e13-aa84-1c4503c6d7b3",
+      "code": "001000577",
+      "title": {
+        "ro": "Indemnizația viageră sportivilor de performanță. ",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\"><span style=\"color: black;\">Sportivii cetățeni și rezidenți ai Republicii Moldova care au obținut pentru Republica Moldova una sau mai multe medalii de aur, de argint sau de bronz la probele individuale sau pe echipe la Jocurile Olimpice sau la Jocurile Paralimpice, la campionatele mondiale sau la campionatele europene de seniori, la probe olimpice sau paralimpice (inclusiv cei care au participat în calitate de membri ai echipelor sportive ale fostei URSS) au dreptul, la cerere și cu confirmarea autorității centrale de specialitate, la o indemnizație lunară viageră dacă întrunesc cumulativ următoarele condiții:</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">a) au împlinit vârsta de 35 de ani;</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">b) au fost membri ai loturilor naționale timp de cel puțin 8 ani.</span></p><p><br></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "d4d24442-9dde-4e86-a5bf-2f47017c41d6",
+      "code": "001000373",
+      "title": {
+        "ro": "Indemnizaţie pentru incapacitate temporară de muncă ",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">Acordarea unui drept bănesc persoanei asigurate și <span style=\"color: black;\">şomerilor care </span>beneficiază de ajutor de şomaj, în cazul pierderii temporare a capacității de muncă în legătură cu boala.</p><p class=\"ql-align-justify\">Persoană asigurată se află în concediu medical la toate unităţile în care desfăşoară activităţi şi pierde venitul asigurat pentru întreaga perioadă a concediului medical.</p><p class=\"ql-align-justify\">Confirmă stagiul de cotizare total de cel puţin 3 ani sau de cel puţin 9 luni realizate în ultimele 24 luni anterioare survenirii riscului asigurat.</p><p class=\"ql-align-justify\">Indemnizaţia pentru incapacitate temporară de muncă cauzată de tuberculoză, de SIDA sau de o maladie oncologică se stabileşte indiferent de durata stagiului de cotizare.</p><p class=\"ql-align-justify\">Șomerii beneficiază de dreptul la indemnizaţie&nbsp;pentru incapacitate temporară de muncă dacă confirmă stagiul de cotizare necesar, cu condiţia suspendării pentru perioada concediului medical a plăţii ajutorului de şomaj.</p><p class=\"ql-align-justify\">Statutul certificatului de concediu medical poate fi verificat prin: <a href=\"https://servicii.gov.md/medicine\" rel=\"noopener noreferrer\" target=\"_blank\">https://servicii.gov.md/medicine</a></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "3cc755c9-d390-4829-80fe-ebe9c1735e76",
+      "code": "001000386",
+      "title": {
+        "ro": "Indemnizație pentru incapacitate temporară de muncă și de maternitate acordată în baza prevederilor acordurilor internaționale în domeniul securității sociale la care Republica Moldova este parte",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Acordarea unui drept bănesc persoanei asigurate și şomerilor iar în caz de indemnizatie de maternitate soţiilor aflate la întreţinerea soţului asigurat în cazul pierderii temporare a capacității de muncă în legătură cu boala/maternitatea.</p><p>Persoanele care au activat legal pe teritoriul unuia dintre statele contractante parte la acordul în domeniul securității sociale, la care Republica Moldova este parte.</p><p>Conform prevederilor legale ale Republicii Moldova beneficiază de indemnizație de maternitate:</p><p>- persoanele asigurate care au un stagiu total de cotizare de cel puţin 3 ani;</p><p>- asiguraţii care au un stagiu total de cotizare de până la 3 ani beneficiază de dreptul la prestaţii de asigurări sociale dacă confirmă un stagiu de cotizare de cel puţin 9 luni în ultimele 24 de luni premergătoare datei producerii riscului asigurat sau datei naşterii copilului în cazul riscului asigurat creşterea copilului;</p><p>- femeile asigurate au dreptul la indemnizaţie de maternitate indiferent de durata stagiului de cotizare;</p><p>- soţia aflată la întreţinerea soţului asigurat beneficiază de dreptul la indemnizaţie de maternitate în cazul în care soţul confirmă un stagiu de cotizare. În cazul înregistrării căsătoriei după producerea riscului asigurat (concediul de maternitate), dreptul la indemnizaţie se stabileşte pentru perioada de la data înregistrării căsătoriei până la data expirării concediului de maternitate;</p><p>- persoanele care au beneficiat sau beneficiază de prestaţii de asigurări sociale pe teritoriul altui stat nu pot beneficia, în condiţiile prezentei legi, de indemnizaţie pentru acelaşi risc asigurat şi pentru aceeaşi perioadă.</p><p>Dreptul la indemnizaţie pentru incapacitate temporară de muncă se confirmă prin certificat de concediu medical, întocmit în modul aprobat de Guvern.</p><p>Lista Acordurilor bilaterale la care Republica Moldova este parte, poate fi vizualizată la linkul: <a href=\"https://cnas.gov.md/slidepageview.php?l=ro&amp;idc=519&amp;t=/Relatii-internationale/Acorduri-bilaterale\" rel=\"noopener noreferrer\" target=\"_blank\">https://cnas.gov.md/slidepageview.php?l=ro&amp;idc=519&amp;t=/Relatii-internationale/Acorduri-bilaterale</a></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "82fa4660-08d1-4f0d-b67e-35530addc548",
+      "code": "001000399",
+      "title": {
+        "ro": "Indemnizație unică de deces beneficiarilor instituţiilor de forţă",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\"><span style=\"color: black;\">Acordarea indemnizației unice de deces beneficiarilor instituţiilor de forţă.</span></p><p><span style=\"color: black;\">Dreptul la indemnizația unică îl au: soția – indiferent de vârstă și capacitatea de muncă; copiii care nu au atins vârsta de 18 ani sau cei care au depășit această vârstă dacă au devenit invalizi până la împlinirea vârstei de 18 ani, sau cei care la data decesului întreținătorului erau elevi ai școlilor tehnico – profesionale, liceelor, colegiilor sau studenții în instituțiile de învățământ superior și nu au atins vârsta de 23 ani.</span></p><p class=\"ql-align-justify\">Familiilor pensionarilor decedați din rândul militarilor care au îndeplinit serviciul prin contract, ale persoanelor din corpul de comandă și din trupele organelor afacerilor interne, corpului de ofițeri și subofițeri al Poliției de Frontieră, colaboratorilor Centrului Național Anticorupție și a sistemului penitenciar, eliberate din serviciul conform altor condiții decât (limită vârstă sau din cauza bolii), li se acordă o indemnizație unică în mărimea unei pensii pentru fiecare membru ai familiei inapt pentru muncă.</p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">Pentru a solicita serviciul la CTAS din raza de domiciliu puteți face o programare prealabilă la linkul:</span><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(0, 0, 0); background-color: rgb(255, 255, 255);\"> </a><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">https://servicii.gov.md/programare</a><span style=\"color: black;\"> </span></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "3ac09bef-ceea-48ff-9346-579c86c50b1d",
+      "code": "001000412",
+      "title": {
+        "ro": "Indemnizație urmașilor personalului medical decedat ca urmare a desfășurării activității medicale în lupta cu COVID-19",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Drept bănesc acordat urmașilor personalului medical decedat, survenit ca urmare a infectării în cadrul desfășurării nemijlocite a activității medicale în lupta cu COVID-19.</p><p>Dreptul la indemnizație se acordă:</p><p>1) soțului supraviețuitor, pentru o perioadă de 5 ani de la data decesului întreținătorului;</p><p>2) copiilor până la vârsta de 18 ani sau, dacă își continuă studiile în instituții de învățământ de zi (secundar, mediu de specialitate și superior), până la terminarea acestora, fără a depăși vârsta de 23 de ani;</p><p>3) unuia dintre părinți, în cazul în care nu sunt urmași specificați la subpct.&nbsp;1) și 2).</p><p>În cazul în care persoana care solicită indemnizație îndeplinește condițiile pentru obținerea dreptului la pensie de urmaș sau la indemnizație în cazul decesului unuia dintre soți în condițiile Legii nr. 156/2019 cu privire la acordarea indemnizației în cazul decesului unuia dintre soți, aceasta poate opta pentru o singură prestație.</p><p><span style=\"color: rgb(0, 0, 0);\">Pentru a solicita serviciul la CTAS din raza de domiciliu puteți face o programare prealabilă la linkul:</span><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(0, 0, 0); background-color: rgb(255, 255, 255);\"> </a><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">https://servicii.gov.md/programare</a><span style=\"color: black;\"> </span></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "e7713ed9-009b-46bd-8290-0258bd8b8c70",
+      "code": "017000039",
+      "title": {
+        "ro": "Invitație pentru cetățenii străini",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">Invitația este un document oficial eliberat la cererea persoanei fizice cu domiciliu permanent sau temporar în Republica Moldova sau demersul persoanei juridice, care constituie una din condițiile de obținere a vizei de intrare în Republica Moldova.</p><p>Este un document de strictă evidență, unic pe întreg teritoriul Republicii Moldova şi este valabilă 90 de zile de la data perfectării, înscrierile fiind lizibile şi fără corectări.</p><p class=\"ql-align-justify\">Solicitările privind eliberarea invitațiilor se prezentă la Ghișeele de documentare a străinilor din cadrul Inspectoratului General pentru Migrație</p><p class=\"ql-align-justify\">Invitația este eliberată în scop de:</p><p class=\"ql-align-justify\">-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Misiune; -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Turism; -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"color: black;\">vizită;</span>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;afaceri;-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;transport; -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;activități sportive;-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;activități independente; -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;prestarea serviciilor contractuale; -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tratament medical de scurtă durată; -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;activități culturale, științifice, umanitare, religioase și sau alte activități ce nu contravin legislației Republicii Moldova – în condițiile justificării prezenței în RM; -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;desfășurare activității de întreprinzător<u>: </u>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;angajare la muncă; -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;studii; -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"color: black;\">reîntregirea familiei; </span>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;activități umanitare sau religioase; -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;activități diplomatice și de serviciu; -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tratament medical de lungă durată; -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"color: black;\">activități în domeniul tehnologiei informației; </span>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"color: black;\">transferul temporar al personalului în cadrul aceleași persoane juridice</span></p><p><span style=\"color: black;\">activități de stagiu.</span></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "3c42183d-c0e4-40e9-b606-9b01a1dce84e",
+      "code": "017000136",
+      "title": {
+        "ro": "Înregistrarea și\\sau radierea din evidență la domiciliu sau la reședința temporară",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\"><strong>Înregistrarea și/sau radierea din evidenţă la domiciliu sau la reşedinţa&nbsp;temporară</strong></p><p class=\"ql-align-justify\"><span style=\"color: black;\">Evidenţa la domiciliu sau la reşedinţă este parte componentă a sistemului unic integru de înregistrare şi actualizare a datelor în cadrul Registrului de stat al populaţiei.</span></p><p class=\"ql-align-justify\">Înregistrarea persoanelor la domiciliu sau&nbsp;reşedinţă are drept scop evidenţa locuitorilor Republicii Moldova şi nu stabileşte drepturile acestora asupra spaţiului locativ.</p><p><span style=\"color: black;\">Evidenţa locuitorilor se ţine prin înregistrarea la domiciliu şi/sau la reşedinţa&nbsp;temporară&nbsp;în&nbsp;locuințele proprietate publică sau proprietate privată, reglementate&nbsp;de Legea nr. 75/2015 cu privire la locuințe, sau în alte încăperi&nbsp;locuibile.</span></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "edc67e64-a18a-47f4-ae75-c54f5040dcc3",
+      "code": "001000658",
+      "title": {
+        "ro": "Luarea si scoaterea din evidenta a străinilor care intră în Republica Moldova prin Transnistria",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Luarea si scoaterea din evidenta a străinilor care intră în RM prin Transnistria.  </p><p><strong><em>Evide<span class=\"ql-cursor\">﻿</span>nţa străinilor</em>–</strong> luarea la evidenţă şi scoaterea de la evidenţă a străinilor prin introducerea informaţiei despre ei în Sistemul informaţional integrat automatizat în domeniul migraţiei şi azilului (SIIAMA);</p><p>&nbsp;</p><p>Cerințele față de străin pentru a fi luat în evidență. </p><p class=\"ql-align-justify\">1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Documentul de călătorie cu care a intrat în Republica Moldova cu mențiunile Serviciului de Stat de Grăniceri din Ucraina;</p><p class=\"ql-align-justify\">2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dovada că străinul a intrat în R.M, în termen de 72 de ore;</p><p>În cazul dacă actul de călătorie nu conține mențiunile Serviciului de Stat de Grăniceri din Ucraina și străinul nu poate oferi alte probe în acest sens, se solicită declarația pe propria răspundere.</p><p>  </p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "e9348b28-ea12-44a0-90e5-5be8bbe426c8",
+      "code": "001000072",
+      "title": {
+        "ro": "Pensie anticipată pentru carieră lungă",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Acordarea unui drept bănesc, proporţional contribuţiilor de asigurări sociale, până la&nbsp;împlinirea vârstei de pensionare, cu condiţia realizării unui stagiu de cotizare, prevăzut de lege.Dreptul la pensie anticipată pentru carieră lungă se acordă persoanelor care au realizat un stagiu contributiv de cotizare mai mare cu 5 ani pentru bărbați și cu 3 ani pentru femei, decât cel prevăzut în art. 42 alin. 1 din Legea nr. 156/1998.</p><p><strong>Stagiul complet de cotizare</strong></p><p><strong>Bărbaţi – 39 ani</strong></p><p><strong>Femei</strong></p><p>01.01.2022&nbsp;- 35 ani 06 luni</p><p>01.07.2022 - 36 ani</p><p>01.07.2023 -&nbsp;36 ani 06 luni</p><p>01.07.2024 – 37 ani</p><p><span style=\"color: rgb(0, 0, 0);\">Pentru a solicita serviciul la CTAS din raza de domiciliu puteți face o programare prealabilă la linkul:</span><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(0, 0, 0); background-color: rgb(255, 255, 255);\"> </a><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">https://servicii.gov.md/programare</a></p><p>Serviciul poate fi prestat în bază de procură, inclusiv prin reprezentare de împuternicire în baza semnăturii electronice, consemnată în Registrul împuternicirilor de reprezentare în baza semnăturii electronice (MPower).</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "4b09d9b4-f37c-4b77-9f0c-3ba2348accee",
+      "code": "001000108",
+      "title": { "ro": "Pensie de dizabilitate", "ru": null, "en": null },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">Asiguratul încadrat într-un grad de dizabilitate accentuată sau medie, cauzată de o afecțiune generală beneficiază de o pensie de dizabilitate dacă îndeplineşte condiţiile stagiului de cotizare.</p><p class=\"ql-align-justify\">Pensia de dizabilitate cauzată de un accident de muncă sau boală profesională se stabileşte indiferent de durata stagiului de cotizare.</p><p>Excepţie: Asiguratul încadrat într-un grad de dizabilitate severă, cauzată de o afecțiune generală, beneficiază de o pensie de dizabilitate în raport cu stagiul de cotizare efectiv realizat, dar a cărui durată este de cel puțin 2 ani.</p><p>Încadrarea în grad de dizabilitate, ca urmare a unei afecţiuni generale, a unui accident de muncă sau a unei boli profesionale, la confirmarea stagiului de cotizare stabilit de lege.</p><p class=\"ql-align-justify\"><span style=\"color: black;\">Pentru a solicita serviciul la CTAS din raza de domiciliu puteți face o programare prealabilă la linkul:</span><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: black;\"> </a><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\">https://servicii.gov.md/programare</a></p><p><span style=\"color: black;\">Serviciul poate fi prestat în bază de procură, inclusiv prin reprezentare de împuternicire în baza semnăturii electronice, consemnată în Registrul împuternicirilor de reprezentare în baza semnăturii electronice (MPower).</span></p><p><br></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "1c0e5237-43d5-4e67-92f3-3dddb90a9f9d",
+      "code": "001000250",
+      "title": {
+        "ro": "Pensie de dizabilitate acordată în baza prevederilor acordurilor internaționale",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Acordarea unui drept bănesc persoanei asigurate încadrată într-un grad de dizabilitate severă, accentuată sau medie, ca urmare a unei afecţiuni generale, a unui accident de muncă sau a unei boli profesionale, la confirmarea stagiului de cotizare prevăzut de legislație care a activat legal pe teritoriul unuia dintre statele contractante parte la acordul în domeniul securității sociale, la care Republica Moldova este parte.</p><p>Persoana asigurată încadrată într-un grad de dizabilitate accentuată sau medie, ca urmare a unei afecţiuni generale, beneficiază de o pensie de dizabilitate dacă confirmă stagiul de cotizare, în raport cu vârsta la data constatării dizabilităţii și, a activat legal pe teritoriul unuia dintre statele contractante parte la acordul în domeniul securității sociale, la care Republica Moldova este parte.</p><p>Conform prevederilor legale ale Republicii Moldova:</p><p>până la 23 ani – 2 ani;</p><p>23-29 de ani – 4 ani;</p><p>29-33 de ani – 7 ani;</p><p>33-37 de ani – 10 ani;</p><p>37-41 de ani – 13 ani;</p><p>peste 41 de ani – 15 ani.</p><p>Persoana asigurată încadrată într-un grad de dizabilitate severă, cauzată de o afecțiune generală, beneficiază de o pensie de dizabilitate în raport cu stagiul de cotizare efectiv realizat, dar a cărui durată este de cel puțin 2 ani.</p><p>Persoana asigurată încadrată într-un grad de dizabilitate cauzată de un accident de muncă sau boală profesională beneficiază de o pensie de dizabilitate indiferent de durata stagiului de cotizare.&nbsp;</p><p>Serviciul poate fi prestat în bază de procură. </p><p>Lista Acordurilor bilaterale la care Republica Moldova este parte, poate fi vizualizată la linkul: <a href=\"https://cnas.gov.md/slidepageview.php?l=ro&amp;idc=519&amp;t=/Relatii-internationale/Acorduri-bilaterale\" rel=\"noopener noreferrer\" target=\"_blank\">https://cnas.gov.md/slidepageview.php?l=ro&amp;idc=519&amp;t=/Relatii-internationale/Acorduri-bilaterale</a></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "572fb535-2326-4c72-b7e5-cdbb7b94ca9c",
+      "code": "001000221",
+      "title": {
+        "ro": "Pensie de dizabilitate cetăţenilor care au participat la lichidarea urmărilor avariei de la C.A.E Cernobîl",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Acordarea pensiei cetăţenilor încadraţi în grad de dizabilitate ca urmare a participării la lichidarea urmărilor avariei la C.A.E. Cernobâl, în mărimea recuperării daunei reale, indiferent de vechimea în muncă.Persoanele cu dizabilităţi survenite ca urmare a lichidării consecinţelor avariei de la C.A.E. Cernobîl.</p><p><span style=\"color: black;\">Pentru a solicita serviciul la CTAS din raza de domiciliu puteți face o programare prealabilă la linkul:</span><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: black;\"> </a><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\">https://servicii.gov.md/programare</a></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "8c6e2661-067f-4476-9d7f-cd1fe3f896cf",
+      "code": "001000195",
+      "title": {
+        "ro": "Pensie de dizabilitate militarilor în termen",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p><span style=\"color: black;\">Acordarea dreptului bănesc militarilor în termen,&nbsp;care au devenit persoane cu dizabilităţi li se stabilesc pensii de dizabilitate, dacă dizabilitatea a survenit în timpul satisfacerii serviciului, dacă a fost cauzată de o rănire, contuzie, schilodire sau afecţiune contractată în perioada îndeplinirii serviciului.</span></p><p><span style=\"color: black;\">Militar în termen, dacă dizabilitatea a survenit în timpul satisfacerii serviciului, cauzată de o rănire, contuzie, schilodire sau afecţiune contractată în perioada îndeplinirii serviciului.</span></p><p><span style=\"color: rgb(0, 0, 0);\">Pentru a solicita serviciul la CTAS din raza de domiciliu puteți face o programare prealabilă la linkul:</span><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(0, 0, 0); background-color: rgb(255, 255, 255);\"> </a><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">https://servicii.gov.md/programare</a><span style=\"color: black;\"> </span></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "e0c7c020-d9de-4232-b05e-f9b23fc79e29",
+      "code": "001000182",
+      "title": {
+        "ro": "Pensie de dizabilitate militarilor şi persoanelor din corpul de comandă și trupele organelor afacerilor interne",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p><span style=\"color: black;\">Acordarea dreptului bănesc cuvenit militarilor, care îndeplinesc serviciu prin contract, persoanelor din corpul de comandă și din trupele organelor afacerilor interne eliberate din serviciu, care au acumulat vechimea în muncă necesară, conform legii.</span></p><p>Militarilor, persoanelor din corpul de comandă şi din trupele organelor afacerilor interne, precum şi funcţionarilor publici cu statut special din sistemul administraţiei penitenciare, şi din cadrul Inspectoratului General de Carabinieri care au devenit persoane cu dizabilităţi li se stabilesc pensii de dizabilitate, dacă dizabilitatea a survenit în timpul îndeplinirii serviciului sau cel mult după trei luni de la eliberare din serviciu, sau după expirarea acestui termen, dacă a fost cauzată de o rănire, contuzie, schilodire sau afecţiune contractată în perioada îndeplinirii serviciului.</p><p><span style=\"color: black;\">Pentru a solicita serviciul la CTAS din raza de domiciliu puteți face o programare prealabilă la linkul:</span><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: black;\"> </a><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\">https://servicii.gov.md/programare</a></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "d3f30101-7ef6-43f8-a79f-e3c4ad5ed7b1",
+      "code": "001000111",
+      "title": { "ro": "Pensie de urmaș", "ru": null, "en": null },
+      "description": {
+        "ro": "<p><span style=\"color: black;\">Acordarea unui drept bănesc urmaşilor ca urmare a pierderii întreţinătorului.Pensia de urmaş se&nbsp;stabileşte&nbsp;pe&nbsp;perioada&nbsp;îndeplinirii următoarelor condiţii: </span>- copiilor, până la vârsta de 18 ani sau, dacă îşi continuă studiile în instituţii de învăţământ de zi (secundar, mediu de specialitate şi superior), până la terminarea acestora, fără a depăşi vârsta de 23&nbsp;de ani;- soţului supravieţuitor dacă, la momentul decesului întreţinătorului sau pe parcursul a 5 ani după deces, a împlinit vârsta de pensionare sau a fost încadrat în&nbsp;grad de dizabilitate sever sau accentuat, a avut cel puţin 15 ani de căsătorie cu persoana decedată şi nu s-a recăsătorit;- soţului supravieţuitor sau tutorelui (curatorului) care are în&nbsp;îngrijire copii sub vârsta de 3 ani ai întreţinătorului decedat, pe perioadele de neîncadrare&nbsp;în muncă sau de aflare în concediu pentru îngrijirea copilului până la vârsta de 3 ani.</p><p><span style=\"color: black;\">Pentru a solicita serviciul la CTAS din raza de domiciliu puteți face o programare prealabilă la linkul:</span><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: black;\"> </a><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\">https://servicii.gov.md/programare</a></p><p><span style=\"color: black;\">Serviciul poate fi prestat în bază de procură, inclusiv prin reprezentare de împuternicire în baza semnăturii electronice, consemnată în Registrul împuternicirilor de reprezentare în baza semnăturii electronice (MPower).</span></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "40d0bd3a-7aa0-439c-99f7-29f8ff691dc9",
+      "code": "001000263",
+      "title": {
+        "ro": "Pensie de urmaş în baza prevederilor acordurilor internaţionale",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Acordarea unui drept bănesc urmaşilor ca urmare a decesului întreţinătorului, dacă persoana decedată beneficia de pensie pentru limită de vârstă sau de pensie de dizabilitate ori îndeplinea condiţiile pentru obţinerea unei pensii de dizabilitate în baza prevederilor acordurilor internaţionale.</p><p>Persoanele care au activat legal pe teritoriul unuia dintre statele contractante parte la acordul în domeniul securității sociale, la care Republica Moldova este parte.</p><p>Conform prevederilor legale ale Republicii Moldova:</p><p>Pensia de urmaş se stabileşte pe perioada îndeplinirii următoarelor condiţii:</p><p>- copiilor, până la vârsta de 18 ani sau, dacă îşi continuă studiile în instituţii de învăţământ de zi (secundar, mediu de specialitate şi superior), până la terminarea acestora, fără a depăşi vârsta de 23 de ani;</p><p>- soţului supravieţuitor dacă, la momentul decesului întreţinătorului sau pe parcursul a 5 ani după deces, a împlinit vârsta de pensionare sau a fost încadrat în grad de dizabilitate sever sau accentuat, a avut cel puţin 15 ani de căsătorie cu persoana decedată şi nu s-a recăsătorit;</p><p>- soţului supravieţuitor sau tutorelui (curatorului) care are în îngrijire copii sub vârsta de 3 ani ai întreţinătorului decedat, pe perioadele de neîncadrare în muncă sau de aflare în concediu pentru îngrijirea copilului până la vârsta de 3 ani.</p><p>Serviciul poate fi prestat în bază de procură.</p><p>Lista Acordurilor bilaterale la care Republica Moldova este parte, poate fi vizualizată la linkul: <a href=\"https://cnas.gov.md/slidepageview.php?l=ro&amp;idc=519&amp;t=/Relatii-internationale/Acorduri-bilaterale\" rel=\"noopener noreferrer\" target=\"_blank\">https://cnas.gov.md/slidepageview.php?l=ro&amp;idc=519&amp;t=/Relatii-internationale/Acorduri-bilaterale</a></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "d4ff3e7b-28af-4c28-96eb-4e46e5e998f5",
+      "code": "001000234",
+      "title": {
+        "ro": "Pensie în cazul pierderii întreţinătorului membrilor familiilor persoanelor care au decedat în urma schilodirii sau îmbolnăvirii provocate de avaria de la C.A.E Cernobîl",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">Acordarea pensiei membrilor familiilor persoanelor decedate în urma schilodirii sau îmbolnăvirii provocate de participarea la lichidarea urmărilor avariei la C.A.E. Cernobîl, în mărimea recuperării daunei reale, indiferent de vechimea în muncă.</p><p class=\"ql-align-justify\"><br></p><p>Membrii familiilor persoanelor care au decedat în urma schilodirii sau îmbolnăvirii provocate de avaria de la C.A.E. Cernobâl beneficiază de pensii, indiferent de vechimea în muncă a întreţinătorului:</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- copiilor&nbsp;- până la vârsta de 18 ani ( dacă continuă studiile până la 23 ani)</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- soţului supravieţuitor (dacă pe parcursul a 5 ani după deces, a împlinit vârsta de&nbsp;pensionare sau a fost încadrat în gradul de dizabilitate sever sau accentuat, a avut cel puţin 15 ani de căsătorie cu persoana decedată şi nu s-a recăsătorit);</p><p class=\"ql-align-justify\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- soţului supravieţuitor sau tutorelui (curatorului) care are în îngrijire copii sub&nbsp;vârsta de 3 ani ai susţinătorului decedat, pe perioadele de neîncadrare în muncă sau de aflare în concediu pentru îngrijirea copilului până la vârsta de 3 ani.</p><p>&nbsp;Pensia de urmaş se stabileşte de pe perioada cât se confirmă dreptul de la data decesului susţinătorului dacă cererea şi actele necesare au fost depuse în termen de 90 de zile de la această dată.</p><p class=\"ql-align-justify\">În cazurile în care a fost depăşit termenul de depunere a cererii, pensia se acordă de la data prezentării ultimului act necesar.</p><p class=\"ql-align-justify\"><span style=\"color: black;\">Pentru a solicita serviciul la CTAS din raza de domiciliu puteți face o programare prealabilă la linkul:</span><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: black;\"> </a><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\">https://servicii.gov.md/programare</a></p><p class=\"ql-align-justify\"><br></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "c0b52e75-ff6e-4cad-ab4f-1a817235f7bd",
+      "code": "001000205",
+      "title": {
+        "ro": "Pensie în cazul pierderii întreţinătorului militar în termen",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p><span style=\"color: black;\">Acordarea pensiei în cazul pierderii întreţinătorului militar în termen. </span></p><p><strong style=\"color: rgb(32, 33, 36);\">Pensia în cazul pierderii întreţinătorului</strong><span style=\"color: rgb(32, 33, 36);\">&nbsp;se stabileşte pentru întreaga perioadă în care membrul familiei decedatului este considerat inapt pentru muncă, iar membrilor care au atins vîrsta prevăzută în art. 41 alin. (1) din Legea privind&nbsp;</span><strong style=\"color: rgb(32, 33, 36);\">pensiile</strong><span style=\"color: rgb(32, 33, 36);\">&nbsp;de asigurări sociale de stat li se stabileşte&nbsp;</span><strong style=\"color: rgb(32, 33, 36);\">pensie</strong><span style=\"color: rgb(32, 33, 36);\">&nbsp;viageră. </span></p><p><span style=\"color: black;\">Membru a familiei militarului în termen decedat se consideră:</span></p><p><span style=\"color: black;\"> -</span>&nbsp;Copiii inapţi pentru muncă - până la vârsta de 18 ani (dacă continuă studiile până la 23 de ani);</p><p>-&nbsp;&nbsp;Părinţii inapţi pentru muncă şi soţia (soţul), dacă după moartea întreţinătorului aceştia şi-au pierdut sursa de existenţă. </p><p class=\"ql-align-justify\"><span style=\"color: black;\">Pentru a solicita serviciul la CTAS din raza de domiciliu puteți face o programare prealabilă la linkul:</span><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: black;\"> </a><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\">https://servicii.gov.md/programare</a></p><p><br></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "cef44dbe-d8a3-449f-a28f-d7f5752b54c7",
+      "code": "001000179",
+      "title": {
+        "ro": "Pensie în cazul pierderii întreţinătorului militarilor, persoanelor din corpul de comandă și din trupele organelor afacerilor interne",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p><span style=\"color: black;\">Acordarea pensie în cazul pierderii întreținătorului militarilor, persoanelor din corpul de comandă și din trupele organelor afacerilor interne.</span></p><p><span style=\"color: black;\">Acordarea dreptului bănesc cuvenit familiilor militarilor, persoanelor din corpul de comandă și din trupele organelor afacerilor interne, în cazul pierderii întreținătorului, dacă acesta a decedat în timp ce îndeplinea serviciul sau cel mult peste trei luni de la data eliberării din serviciu, sau după expirarea acestui termen dacă decesul a fost cauzat de rănire, contuzionare, schilodire sau de o afecțiune contractată în perioada îndeplinirii serviciului, iar pentru familiile de pensionari din categoria acestor militari, ale persoanelor din corpul de comandă și din trupele organelor afacerilor interne dacă întreținătorul a decedat în perioada în care primea pensie sau cel târziu peste 5 ani de la încetarea plății&nbsp;pensiei.</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">Pentru a solicita serviciul la CTAS din raza de domiciliu puteți face o programare prealabilă la linkul:</span><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: black;\"> </a><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\">https://servicii.gov.md/programare</a></p><p><br></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "bd5e16dd-f920-4707-a39c-e0edf76882a9",
+      "code": "001000124",
+      "title": {
+        "ro": "Pensie pentru funcţionarii publici",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\"><span style=\"color: black;\">Acordarea dreptului bănesc asiguratului cu statut de funcţionar public, care la 01.01.2017, a realizat un stagiu de cotizare total, de 30 ani pentru femei şi 33 ani pentru bărbaţi, cel puţin 15 ani în serviciul public şi a atins vârsta de pensionare stabilită de cadrul normativ.</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">Funcţionarul public care la data de 01.01.2017 a realizat 15 ani în serviciul public, 30 de ani stagiul total pentru femei şi 33 ani pentru bărbaţi au dreptul la pensie începând cu 01.07.2020 la atingerea vârstei de pensionare de 57 de ani pentru femei şi 62 de ani pentru bărbaţi, dacă confirmă – 35 ani stagiu de cotizare pentru bărbaţi şi 30 de ani pentru femei.</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">Pentru a solicita serviciul la CTAS din raza de domiciliu puteți face o programare prealabilă la linkul:</span><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: black;\"> </a><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\">https://servicii.gov.md/programare</a></p><p class=\"ql-align-justify\"><br></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "a6163d61-42ab-4388-8791-fbe6d3a8d482",
+      "code": "001000137",
+      "title": { "ro": "Pensie pentru judecători", "ru": null, "en": null },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">Acordarea pensiei ca judecător.</p><p class=\"ql-align-justify\">Judecătorul care a atins vârsta de pensionare și confirmă vechimea în muncă generală și vechimea în muncă în funcția de judecător are dreptul la pensie pentru vechime în muncă în mărime de 55% din salariul său mediu lunar, care, pentru fiecare an complet de muncă peste vechimea de muncă generală prevăzută la alin. (3), se mărește cu 3%, dar în total nu mai mult de 80% din salariul său mediu lunar.Începând cu 1 iulie 2021, pentru judecători se stabilește vârsta de pensionare de 50 de ani și 6 luni, atât pentru bărbați, cât și pentru femei şi se majorează în fiecare an la 1 iulie până la atingerea vârstei de 63 de ani.</p><p class=\"ql-align-justify\">Începând cu 1 iulie 2021, pentru judecători se stabilește vechimea în muncă generală de cel puţin 20 de ani şi 6 luni și vechimea în muncă în funcția de judecător de cel puțin 13 ani, necesare pentru obținerea dreptului la pensie.</p><p class=\"ql-align-justify\">În fiecare an ulterior, de la 1 iulie vechimea în muncă generală și vechimea în muncă în funcția de judecător se majorează cu 6 luni, până la atingerea vechimii în muncă generale de 34 de ani și a vechimii în muncă în funcția de judecător de 15 ani.</p><p class=\"ql-align-justify\">Pensia pentru vechime în muncă ca judecător se calculează şi se plăteşte doar judecătorilor demisionaţi şi judecătorilor eliberaţi din funcţie în legătură cu atingerea plafonului de vârstă.</p><p class=\"ql-align-justify\">&nbsp;În cazul în care judecătorul demisionat este numit în funcţia de judecător, plata pensiei se suspendă.</p><p class=\"ql-align-justify\"><span style=\"color: black;\">Pentru a solicita serviciul la CTAS din raza de domiciliu puteți face o programare prealabilă la linkul:</span><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: black;\"> </a><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\">https://servicii.gov.md/programare</a></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "9f80bb98-7ce6-41de-93e6-5b980cf430ae",
+      "code": "001000218",
+      "title": {
+        "ro": "Pensie pentru limita de vârstă cetăţenilor care au participat la lichidarea urmărilor avariei de la C.A.E Cernobîl",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Acordarea pensiei pentru limită de vârstă cetăţenilor care au participat la lichidarea urmărilor avariei la C.A.E. Cernobîl.</p><p class=\"ql-align-justify\">-&nbsp;&nbsp;&nbsp;cetăţenii (îndreptaţi temporar sau trimişi în delegaţie), care au participat în anii 1986-1987 la lucrările de lichidare a urmărilor avariei&nbsp;&nbsp;de&nbsp;&nbsp;la C.A.E. Cernobîl&nbsp;&nbsp;în zona de înstrăinare au dreptul la pensie: bărbaţii la atingerea vârstei de 50 ani, având vechimea în&nbsp;&nbsp;muncă de cel puţin 20 ani; femeile, la atingerea&nbsp;&nbsp;vârstei de 45 ani, având vechimea în&nbsp;&nbsp;muncă de cel puţin 15 ani, indiferent de durata lucrului (serviciului) în zona de înstrăinare.</p><p class=\"ql-align-justify\">-&nbsp;&nbsp;&nbsp;cetăţenii&nbsp;&nbsp;(îndreptaţi&nbsp;&nbsp;temporar sau trimişi în&nbsp;&nbsp;delegaţie), care s-au&nbsp;&nbsp;îmbolnăvit de boală profesională, legată de iradierea&nbsp;&nbsp;în&nbsp;&nbsp;timpul participării&nbsp;&nbsp;la lucrările de lichidare a urmărilor avariei de la C.A.E. Cernobîl în zona de înstrăinare au dreptul la pensie: bărbaţii, la atingerea vârstei de 50 ani, având vechimea în muncă de cel&nbsp;&nbsp;puţin&nbsp;&nbsp;20 ani; femeile, la atingerea&nbsp;&nbsp;vârstei de 45 ani, având vechimea în&nbsp;&nbsp;muncă de cel&nbsp;&nbsp;puţin 15 ani.</p><p class=\"ql-align-justify\">-&nbsp;cetăţenii (îndreptaţi temporar sau trimişi în delegaţie), care au participat în anul 1988 la lucrările de lichidare a urmărilor avariei de la C.A.E. Cernobîl în zona de înstrăinare, au dreptul&nbsp;&nbsp;la pensie: bărbaţii, la vârsta de 55 ani, având vechimea în muncă de cel puţin 25 ani; femeile, la atingerea vârstei de 50 ani, având vechimea în&nbsp;&nbsp;muncă de cel puţin 20 ani.&nbsp;</p><p class=\"ql-align-justify\"><span style=\"color: black;\">Pentru a solicita serviciul la CTAS din raza de domiciliu puteți face o programare prealabilă la linkul:</span><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: black;\"> </a><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\">https://servicii.gov.md/programare</a></p><p><br></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "9b1e2405-3902-4854-a7f6-8e256178dc53",
+      "code": "001000098",
+      "title": {
+        "ro": "Pensie pentru limită de vârstă",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Acordarea unui drept bănesc persoanelor care au atins vârsta de pensionare conform cadrului normativ în vigoare.</p><p>Începând cu 1 iulie 2019 vârsta de pensionare pentru bărbaţi constituie 63 ani, iar vârsta de pensionare pentru femei începând cu 01.07.2017 constituie 57 ani 6 luni şi creşte în fiecare an la 1 iulie cu 6 luni până va constitui 63 ani către anul 2028.</p><p>Stagiul complet de cotizare de la 1 iulie 2019 pentru bărbaţi constituie 34 ani, iar pentru femei începând cu 01.07.2017 constituie 30 ani 06 luni, şi creşte în fiecare an cu 6 luni la 1 iulie până va constitui 34 ani către 2024.</p><p>De la 1 iulie 2017, pentru femeile care au născut şi educat până la vârsta de 8 ani cinci şi mai mulţi copii se aplică vârstele standard de pensionare prevăzute pentru femei, diminuate cu 3 ani.</p><p>Începând cu 05.01.2018, pentru persoanele care au realizat stagiul de cotizare în condiţii deosebite de muncă cel puţin 10 ani compleţi, vârsta standard de pensionare&nbsp;se diminuează conform tabelului nr. 2¹ din art. 41 al&nbsp;Legii nr.156/1998 în funcţie de stagiul în condiţii deosebite de muncă realizat.</p><p class=\"ql-align-justify\"><span style=\"color: black;\">Pentru a solicita serviciul la CTAS din raza de domiciliu puteți face o programare prealabilă la linkul:</span><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: black;\"> </a><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\">https://servicii.gov.md/programare</a></p><p><span style=\"color: black;\">Serviciul poate fi prestat în bază de procură, inclusiv prin reprezentare de împuternicire în baza semnăturii electronice, consemnată în Registrul împuternicirilor de reprezentare în baza semnăturii electronice (MPower).</span></p><p><br></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "f25e1fce-2a48-48ed-a19c-b9ce28216b1f",
+      "code": "001000247",
+      "title": {
+        "ro": "Pensie pentru limită de vârstă acordată în baza prevederilor acordurilor internaționale",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Acordarea unui drept bănesc persoanelor care au atins vârsta de pensionare și au realizat stagiul de cotizare prevăzute de legislație și au activat legal pe teritoriul unuia dintre statele contractante parte la acordul în domeniul securității sociale, la care Republica Moldova este parte.</p><p><strong>Vârsta de pensionare</strong>:</p><p>Vârsta de pensionare pentru bărbaţi constituie 63 ani.</p><p>Vârsta de pensionare pentru femei constituie începând cu:</p><p>- 01.07.2021 – 59 ani 6 luni;</p><p>- 01.07.2022 – 60 ani;</p><p>- 01.07.2023 – 60 ani 6 luni;</p><p>- 01.07.2024 – 61 ani;</p><p>- 01.07.2025 – 61 ani 6 luni;</p><p>- 01.07.2026 – 62 ani;</p><p>- 01.07.2027 – 62 ani 6 luni;</p><p>- 01.07.2028 – 63 ani.</p><p>Pentru femeile care au născut şi educat până la vârsta de 8 ani cinci şi mai mulţi copii, vârsta de pensionare se diminuează cu 3 ani de la vârsta standard de pensionare pentru femei, în vigoare la data depunerii cererii pentru stabilirea pensiei.</p><p><strong>Stagiul de cotizare: </strong></p><p>Stagiul minim de cotizare constituie 15 ani.</p><p>Stagiul complet de cotizare pentru bărbaţi constituie 34 ani.</p><p>Stagiul complet de cotizare pentru femei constituie începând cu:</p><p>- 01.07.2021 – 32 ani 6 luni;</p><p>- 01.07.2022 – 33 ani;</p><p>- 01.07.2023 – 33 ani 6 luni;</p><p>- 01.07.2024 – 34 ani.</p><p>Pensia pentru limită de vârstă se reexaminează pentru stagiul de cotizare realizat după stabilirea pensiei, conform legislației.</p><p>Serviciul poate fi prestat în bază de procură. </p><p>Lista Acordurilor bilaterale la care Republica Moldova este parte, poate fi vizualizată la linkul: <a href=\"https://cnas.gov.md/slidepageview.php?l=ro&amp;idc=519&amp;t=/Relatii-internationale/Acorduri-bilaterale\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">https://cnas.gov.md/slidepageview.php?l=ro&amp;idc=519&amp;t=/Relatii-internationale/Acorduri-bilaterale</a></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "3db7a7de-4fc1-401d-82d8-5402f6e3ba31",
+      "code": "001000140",
+      "title": {
+        "ro": "Pensie pentru unele categorii de angajaţi din aviaţia civilă",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">Acordarea dreptului bănesc unor categorii de angajaţi din aviaţia civilă, cu condiţia încetării activităţii în funcţia respectivă.</p><p class=\"ql-align-justify\">Se acordă pensie, cu condiţia încetării activităţii în funcţia respectivă:</p><p class=\"ql-align-justify\">a) membrilor personalului navigant, precum şi însoţitorilor de bord, la împlinirea vârstei de 45 de ani, dacă au realizat în condiţii speciale un stagiu de cotizare de cel puţin 25 de ani bărbaţii şi 20 de ani femeile;</p><p class=\"ql-align-justify\">b) lucrătorilor care efectuează dirijarea traficului aerian şi dispun de adeverinţă de dispecer la împlinirea vârstei de 55 de ani bărbaţii şi 50 de ani femeile, dacă au realizat un stagiu de cotizare în funcţiile respective de cel puţin 12 ani şi 6 luni bărbaţii şi 10 ani femeile şi un stagiu general de cotizare de cel puţin 25 de ani bărbaţii şi 20 de ani femeile;</p><p class=\"ql-align-justify\">c) personalului de ingineri şi tehnicieni la împlinirea vârstei de 55 de ani bărbaţii şi 50 de ani femeile dacă au realizat un stagiu de cotizare în funcţiile respective de cel puţin 20 de ani bărbaţii şi 15 ani femeile şi un stagiu general de cotizare de cel puţin 25 de ani bărbaţii şi 20 de ani femeile.&nbsp;</p><p class=\"ql-align-justify\"><span style=\"color: rgb(0, 0, 0);\">Pentru a solicita serviciul la CTAS din raza de domiciliu puteți face o programare prealabilă la linkul:</span><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(0, 0, 0); background-color: rgb(255, 255, 255);\"> </a><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">https://servicii.gov.md/programare</a><span style=\"color: black;\"> </span></p><p class=\"ql-align-justify\">Serviciul poate fi prestat în bază de procură, inclusiv prin reprezentare de împuternicire în baza semnăturii electronice, consemnată în Registrul împuternicirilor de reprezentare în baza semnăturii electronice (MPower).</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "9850b2cc-8203-4d92-b7d2-0d354dfd85af",
+      "code": "001000153",
+      "title": {
+        "ro": "Pensie pentru unele categorii de angajaţi din domeniul culturii",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Acordarea dreptului bănesc unor categorii de angajaţi din instituţiile de cultură şi artă naţionale de stat şi municipale, cu condiţia încetării activităţii în funcţia respectivă.</p><p>Pensia se stabilește unor categorii de angajaţi din instituţiile de cultură şi artă naţionale de stat şi municipale, în condiţiile încetării activităţii în funcţia respectivă:</p><p>a) artiştilor de balet, artiştilor din ansamblurile profesioniste de dansuri, dacă au realizat un stagiu de cotizare de cel puţin 20 de ani în funcţiile respective, atât bărbaţii, cât şi femeile;</p><p>b) artiştilor de circ, instrumentiştilor suflători (instrumente aerofone), dacă au realizat un stagiu de cotizare de cel puţin 25 de ani în funcţiile respective, atât bărbaţii, cât şi femeile (se iau în considerare şi funcţiile prevăzute la lit. a).</p><p><span style=\"color: rgb(0, 0, 0);\">Pentru a solicita serviciul la CTAS din raza de domiciliu puteți face o programare prealabilă la linkul:</span><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(0, 0, 0); background-color: rgb(255, 255, 255);\"> </a><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">https://servicii.gov.md/programare</a><span style=\"color: black;\"> </span></p><p>Serviciul poate fi prestat în bază de procură, inclusiv prin reprezentare de împuternicire în baza semnăturii electronice, consemnată în Registrul împuternicirilor de reprezentare în baza semnăturii electronice (MPower).</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "b274098a-764b-41e4-9e84-8445235b1a9f",
+      "code": "001000276",
+      "title": {
+        "ro": "Pensie și indemnizație de dizabilitate în urma accidentului de muncă sau a unei boli profesionale acordată în baza prevederilor acordurilor internaționale",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Acordarea unui drept bănesc persoanei încadrată într-un grad de dizabilitate severă, accentuată sau medie, ca urmare a accidentului de muncă sau a unei boli profesionale acordată în baza prevederilor acordurilor internaționale.</p><p>Persoana a activat legal pe teritoriul unuia dintre statele contractante parte la acordul în domeniul securității sociale, la care Republica Moldova este parte beneficiază de pensie și indemnizație de dizabilitate.</p><p>Lista Acordurilor bilaterale la care Republica Moldova este parte, poate fi vizualizată la linkul: <a href=\"https://cnas.gov.md/slidepageview.php?l=ro&amp;idc=519&amp;t=/Relatii-internationale/Acorduri-bilaterale\" rel=\"noopener noreferrer\" target=\"_blank\">https://cnas.gov.md/slidepageview.php?l=ro&amp;idc=519&amp;t=/Relatii-internationale/Acorduri-bilaterale</a></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "62f9570b-40ae-4ec9-8bca-e146e2cedcb0",
+      "code": "001000166",
+      "title": {
+        "ro": "Pensie viageră pentru vechime în muncă militarilor, persoanelor din corpul de comandă și din trupele organelor afacerilor interne",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p><span style=\"color: black;\">Acordarea dreptului bănesc cuvenit militarilor, care îndeplinesc serviciu prin contract, persoanelor din corpul de comandă și din trupele organelor afacerilor interne eliberate din serviciu, care au acumulat vechimea în muncă necesară, conform legii:</span></p><p><span style=\"color: black;\">a) începând cu 1 iulie 2017, se stabilește pensie pentru vechime în muncă militarilor care au îndeplinit serviciul prin contract, persoanele din corpul de comandă și din trupele organelor afacerilor interne, care au o vechime în serviciu de cel puțin 23 de ani și 6 luni. În fiecare an ulterior, vechimea în serviciu se majorează, până la atingerea vechimii în serviciu de 25 ani, conform tabelului menționat în lege.</span></p><p>b) militarii care au satisfăcut serviciu prin contract, persoanelor din corpul de comandă și din trupele organelor afacerilor interne eliberate din serviciu pentru limită de vârstă sau din motive de boală care în ziua eliberării din serviciu au o vechime totală în muncă de 25 de ani calendaristici, din care cel puțin 12 ani și 6 luni în serviciu militar sau în serviciu în organele afacerilor interne;</p><p>c) militarii care au satisfăcut serviciul militar prin contract, persoanele din corpul de comandă și din trupele organelor afacerilor interne eliberate din serviciu din motive de sănătate limitată sau în caz de reorganizare a statelor care în ziua eliberării au atins limita de vârstă în serviciu militar prin contract sau în serviciu în organele afacerilor interne și au o vechime totală în muncă de cel puțin 25 de ani, din care cel puțin 12 ani și 6 luni în serviciu militar sau în serviciu în organele afacerilor interne;</p><p>d) militarii care au satisfăcut serviciul militar prin contract, persoanele din corpul de comandă și din trupele organelor afacerilor interne eliberate din serviciu din alte motive decât expuse la lit. b) și c) din prezentul articol care au o vechime totală în muncă de cel puțin 25 de ani, din care cel puțin 12 ani și 6 luni în serviciu militar sau în serviciu în organele afacerilor interne, la atingerea vârstei de pensionare stabilite de Legea privind pensiile de asigurări sociale de stat.</p><p><span style=\"color: black;\">Pentru a solicita serviciul la CTAS din raza de domiciliu puteți face o programare prealabilă la linkul:</span><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: black;\"> </a><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\">https://servicii.gov.md/programare</a></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "672a171d-4df0-4ea4-a355-1f16b6204029",
+      "code": "001000603",
+      "title": { "ro": "Permise de ședere", "ru": null, "en": null },
+      "description": {
+        "ro": "Obținerea permisului de ședere",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "dc741527-339a-403a-b569-31649ccab81a",
+      "code": "001000438",
+      "title": {
+        "ro": "Plata pentru concediu suplimentar de 14 zile calendaristice cetățenilor care au suferit de pe urma catastrofei de la Cernobîl \n",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Acordarea unui ajutor material pentru concediul suplimentar de 14 zile calendaristice cetățenilor care au suferit de pe urma catastrofei de la C. A. C.A.E.Cernobîl.</p><p>Persoanele participante la lichidarea consecinţelor catastrofei de la Cernobîl, persoanele cu dizabilităţi a căror dizabilitate e în legătură cauzală cu catastrofa de la Cernobîl, precum şi colaboratorii subdiviziunilor de risc deosebit, care s-au îmbolnăvit de boală actinică sau au devenit persoane cu dizabilităţi.</p><p><span style=\"color: black;\">Pentru a solicita serviciul la CTAS din raza de domiciliu puteți face o programare prealabilă la linkul:</span><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: black;\"> </a><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\">https://servicii.gov.md/programare</a></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "8400eaf0-e860-4d95-882d-53d17ec6a29f",
+      "code": "017000107",
+      "title": {
+        "ro": "Prelungirea vizelor pentru străini",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">Prelungirea vizei poate avea loc doar în acelaşi scop pentru care a fost acordată. Prelungirea vizelor se face printr-un consemn aplicat în documentul de trecere a frontierei de stat, indiferent de modul de depunere a cererii de viză pentru intrarea pe teritoriul Republicii Moldova.</p><p>Serviciul prelungire viză/sejur este divizat în mai multe categorii: solicitant care pot fi atât persoane fizice, cât și juridice.</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "36cd6de2-6f6d-42b4-9331-010b230da649",
+      "code": "017000123",
+      "title": {
+        "ro": "Recunoașterea statutului de apatrid",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">  <strong>Apatrid</strong> - persoană care nu este considerată cetăţean al nici unui stat, conform legislaţiei acestora.</p><p class=\"ql-align-justify\"><strong>Statutul de apatrid</strong> se recunoaşte, persoanei care nu este considerată cetăţean al nici unui stat, conform legislaţiei acestora.</p><p class=\"ql-align-justify\">  </p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "f61426ff-d35a-4780-8953-17a2406adc9b",
+      "code": "001000292",
+      "title": {
+        "ro": "Reexaminarea pensiilor de dizabilitate pentru stagiul de cotizare realizat după stabilirea pensiei",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Acordarea unui drept bănesc persoanelor care beneficiază de pensie de dizabilitate&nbsp;pentru perioada de activitate&nbsp;realizată până la acordarea dreptului la pensie și care n-a fost luată în considerare la stabilirea pensiei.</p><p class=\"ql-align-justify\">Reexaminarea drepturilor la pensie se efectuează în cazul:</p><p class=\"ql-align-justify\"><span style=\"color: black;\">a) apariţiei unor circumstanţe noi referitoare la stagiul de cotizare, venitul asigurat, ce au avut loc până la acordarea drepturilor la pensie;</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">b) transferării la altă categorie de pensie;</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">c) persoanelor care continuă să activeze după realizarea dreptului la pensie de dizabilitate;</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">d) modificării/completării art. 5 şi 50 cu prevederi referitoare la circumstanțe ce țin de perioade necontributive și de activități, care au fost realizate până la stabilirea/reexaminarea pensiei.</span></p><p class=\"ql-align-justify\">&nbsp;Reexaminarea pensiilor de dizabilitate, stabilite până la 1 ianuarie 2022, se efectuează, eșalonat, în dependență de data stabilirii pensiei și&nbsp;stagiul de cotizare cumulat după realizarea dreptului la pensie de dizabilitate.</p><p class=\"ql-align-justify\"><strong>Stagiul de cotizare după realizarea dreptului la pensie de dizabilitate.</strong></p><p class=\"ql-align-justify\"><strong>Pensiile stabilite/ reexaminate până la 1 ianuarie 1999:</strong></p><p class=\"ql-align-justify\">2022 (1 ianuarie) – de la 2 ani.</p><p class=\"ql-align-justify\"><strong>Pensiile stabilite după 1 ianuarie 1999 și până la 1 ianuarie 2022:</strong></p><p class=\"ql-align-justify\">2023 (1 ianuarie) – de la 7 ani;</p><p>2024 (1 ianuarie) – de la 2 până la 7 ani.</p><p><span style=\"color: rgb(0, 0, 0);\">Pentru a solicita serviciul la CTAS din raza de domiciliu puteți face o programare prealabilă la linkul:</span><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(0, 0, 0); background-color: rgb(255, 255, 255);\"> </a><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">https://servicii.gov.md/programare</a></p><p><span style=\"color: black;\">Serviciul poate fi prestat în bază de procură.</span></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "78b82929-6f93-4128-920f-91587a0293a9",
+      "code": "001000289",
+      "title": {
+        "ro": "Reexaminarea pensiilor pentru limită de vârstă  pentru stagiul de cotizare realizat după stabilirea pensiei",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>Acordarea unui drept bănesc persoanelor care beneficiază de pensie pentru limită de vârstă pentru perioada de activitate&nbsp;realizată până la acordarea dreptului la pensie și care n-a fost luată în considerare la stabilirea pensiei.</p><p class=\"ql-align-justify\">Reexaminarea drepturilor la pensie se efectuează în cazul:</p><p class=\"ql-align-justify\"><span style=\"color: black;\">a) apariţiei unor circumstanţe noi referitoare la stagiul de cotizare, venitul asigurat, ce au avut loc până la acordarea drepturilor la pensie;</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">b) transferării la altă categorie de pensie;</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">c) persoanelor care continuă să activeze după realizarea dreptului la pensie de vârstă;</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">d) modificării/completării art. 5 şi 50 cu prevederi referitoare la circumstanțe ce țin de perioade necontributive și de activități, care au fost realizate până la stabilirea/reexaminarea pensiei.</span></p><p class=\"ql-align-justify\">Reexaminarea drepturilor la pensie se efectuează şi pentru pensionarii care şi-au realizat dreptul la pensie până la 1 ianuarie 1999, dar numai la prezentarea documentelor ce confirmă stagiul de cotizare.</p><p class=\"ql-align-justify\">Pensionarii care activează sau au activat în câmpul muncii după realizarea/reexaminarea dreptului la pensie pentru limită de vârstă/ pot solicita reexaminarea pensiei nu mai des decât o dată la doi ani, cu condiția că pensia calculată este mai mare decât pensia aflată în plată.</p><p class=\"ql-align-justify\">Reexaminarea pensiilor pentru limită de vârstă, stabilite până la 1 ianuarie 2019, se efectuează în raport cu stagiul de cotizare cumulat după realizarea dreptului la pensie pentru limită de vârstă, conform eșalonării</p><p class=\"ql-align-justify\"><strong style=\"color: black;\">Stagiu de cotizare după realizarea dreptului la pensie pentru limită de vârstă.</strong></p><p class=\"ql-align-justify\"><strong style=\"color: black;\">Pensiile stabilite/ reexaminate până la 1 ianuarie 1999:</strong></p><p class=\"ql-align-justify\">2019 - de la 15 ani;</p><p class=\"ql-align-justify\">2020 (1 ianuarie) - până la 15 ani.</p><p class=\"ql-align-justify\"><strong>Pensiile stabilite după 1 ianuarie 1999 și până la 1 ianuarie 2019:</strong></p><p class=\"ql-align-justify\">2020 (1 iulie) - de la 10 ani;</p><p class=\"ql-align-justify\">2021 (1 ianuarie) – de la 7 până la 10 ani;</p><p class=\"ql-align-justify\">2022 (1 ianuarie) – de la 5 până la 7 ani;</p><p>2023 (1 ianuarie) – de la 2 până la 5 ani.</p><p><span style=\"color: rgb(0, 0, 0);\">Pentru a solicita serviciul la CTAS din raza de domiciliu puteți face o programare prealabilă la linkul:</span><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(0, 0, 0); background-color: rgb(255, 255, 255);\"> </a><a href=\"https://servicii.gov.md/programare\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">https://servicii.gov.md/programare</a></p><p><span style=\"color: black;\">Serviciul poate fi prestat în bază de procură.</span></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "cce66d15-9157-4f02-828a-c1caf072d7b4",
+      "code": "001000085",
+      "title": {
+        "ro": "Restituirea sumelor din bugetul asigurărilor sociale de stat plătitorilor de contribuţii",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>Restituirea la contul bancar al plătitorului de contribuţii la BASS a sumelor din bugetul asigurărilor sociale de stat plătite în plus şi/sau achitate incorect.</p><p>Plătitorii beneficiază de restituirea sumelor din BASS în situaţiile de:</p><p>1. Lichidare, suspendare a activităţii plătitorului; </p><p>2. Înregistrarea în calitate de resident al parcului pentru tehnologia informaţiei;</p><p>3. Scutirea de plata contribuţiilor a persoanelor fizice, care desfăşoară activitate pe cont propriu;</p><p>4. Achitarea incorectă, transferare incorectă de instituţia financiară.&nbsp;</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "294e4457-a44b-41f6-a77e-ca1f2f5c7f1c",
+      "code": "001000470",
+      "title": { "ro": "Suport financiar de stat", "ru": "", "en": "" },
+      "description": {
+        "ro": "<p>Suportul financiar de stat se acordă concomitent cu pensia sau alocația socială de stat beneficiarilor de pensii, stabilite în temeiul Legii 156/1998 privind sistemul public de pensii, suportul financiar de stat acordat până la 01.04.2017 se va achitat în continuare în condițiile legislației.</p><p>Beneficiari de pensii și alocații sociale de stat al căror cuantum nu depășește suma de 1500 lei.</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    }
+  ]
+}

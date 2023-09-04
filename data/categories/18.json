@@ -1,0 +1,103 @@
+{
+  "category": {
+    "title": { "ro": "Societate civilă", "ru": null, "en": null },
+    "description": {
+      "ro": "Un set de servicii sau evenimente de viață legate de desfășurarea activității organizațiilor societății civile (non-guvernamentale) și/sau interacțiunea autorităților publice cu societatea civilă/organizațiile non-guvernamentale",
+      "ru": null,
+      "en": null
+    }
+  },
+  "subcategories": [],
+  "publicServices": [
+    {
+      "id": "4a0d3ffb-9310-4401-bc5b-8e6c630102a0",
+      "code": "015000273",
+      "title": {
+        "ro": "Adeverință de recrut",
+        "ru": "Приписное свидетельство",
+        "en": null
+      },
+      "description": {
+        "ro": "Obținerea adeverinței de recrut",
+        "ru": "<p><span style=\"color: rgb(77, 81, 86);\">Получение&nbsp;</span><span style=\"color: rgb(95, 99, 104);\">приписного свидетельства</span></p>",
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "4683618d-de40-4ba8-9ffd-42d239286208",
+      "code": "016000012",
+      "title": {
+        "ro": "Efectuarea înscrisurilor pe acte",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "Efectuarea înscrisurilor pe acte",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "851c2498-9979-4066-b552-d30034d48517",
+      "code": "016000025",
+      "title": {
+        "ro": "Eliberarea informaţiei sau documentelor cerute de birourile notariale în favoarea clientului",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "Eliberarea informaţiei sau documentelor cerute de birourile notariale în favoarea clientului",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "21fc9e60-f69e-49f1-b15d-5275fd683c05",
+      "code": "015000312",
+      "title": {
+        "ro": "Legitimație de participant la lichidarea consecințelor catastrofei de la C.A.E. Cernobîl",
+        "ru": "Удостоверение участника ликвидации последствий катастрофы Чернобольской АЭС",
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Obținerea legitimației de participant la lichidarea consecinţelor catastrofei de la C.A.E. Cernobîl</p>",
+        "ru": "<p>Получение удостоверения участника ликвидации последствий катастрофы Чернобольской АЭС</p>",
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "2ea6f61b-0ac5-45af-9da6-59fb13f641cb",
+      "code": "015000309",
+      "title": {
+        "ro": "Legitimație de veteran al serviciului militar",
+        "ru": "Удостоверение ветерана войнской службы",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p><span style=\"color: black;\">Perfectarea și eliberarea legitimației de veteran al serviciului militar</span></p>",
+        "ru": "<p><span style=\"background-color: rgb(245, 245, 245); color: rgb(0, 0, 0);\">Оформление и выдача удостоверения ветерана военной службы</span></p>",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "a1a5bf82-6582-4e35-a2bd-54eaa87a97f9",
+      "code": "015000299",
+      "title": {
+        "ro": "Legitimaţie de veteran de război",
+        "ru": "Удостоверение ветерана войны",
+        "en": null
+      },
+      "description": {
+        "ro": "Obținerea legitimației de veteran de război şi de membru al familiei acestuia",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    }
+  ]
+}

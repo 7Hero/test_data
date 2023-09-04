@@ -1,0 +1,176 @@
+{
+  "category": {
+    "title": { "ro": "Educație și instruire", "ru": null, "en": null },
+    "description": {
+      "ro": "Un set de servicii sau evenimente de viață legate de înregistrarea unei instituții de învățământ, împrumuturile pentru studenți, procedura de admitere la studii, învățământ vocațional",
+      "ru": null,
+      "en": null
+    }
+  },
+  "subcategories": [
+    {
+      "id": "d7e9ff6f-e2a9-4147-90d0-014cb0bb1122",
+      "title": { "ro": "Educație primară", "ru": null, "en": null }
+    },
+    {
+      "id": "2f1f27f5-36f3-46ec-bd7a-0cd7ab1e21f1",
+      "title": { "ro": "Educație secundară", "ru": null, "en": null }
+    },
+    {
+      "id": "8d641ae3-c920-47e0-aa07-349fef41a51c",
+      "title": {
+        "ro": "Instruire/învățământ vocațional/ă",
+        "ru": null,
+        "en": null
+      }
+    },
+    {
+      "id": "6956e915-476d-48f0-be94-a3596f225bc2",
+      "title": { "ro": "Studii superioare", "ru": null, "en": null }
+    }
+  ],
+  "publicServices": [
+    {
+      "id": "cb843a44-4353-4845-8ad3-2b4af99e508e",
+      "code": "009000067",
+      "title": {
+        "ro": "Adeverință de absolvire a cursului de instruire pentru mânuirea armei",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "Obținerea adeverinței de absolvire a cursului de instruire pentru mânuirea armei",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "60861f2b-fcc6-41f6-acb0-5b9f0b16326b",
+      "code": "009000070",
+      "title": {
+        "ro": "Autentificarea actelor de studii",
+        "ru": "Легализация документов об образовании",
+        "en": "Authentication of study documents"
+      },
+      "description": {
+        "ro": "<p>Procedura de autentificare a actelor de studii și a documentelor complementare emise de instituțiile de învățământ din Republica Moldova se realizează în conformitate cu prevederile tratatelor internaționale la care Republica Moldova este parte și legislația națională.</p><p>Autentificarea se aplică următoarelor categorii de cetățeni, titulari ai actelor de studii obținute în Republica Moldova, potrivit formatului aprobat de Ministerul Educației și Cercetării:</p><p>1) cetățeni ai Republicii Moldova, precum și categoriilor de persoane care beneficiază, conform legii, de egalitate de tratament cu cetățenii Republicii Moldova în ceea ce privește accesul la educație și formarea profesională;</p><p>2) cetățeni străini care au realizat studii în instituțiile de învățământ din Republica Moldova.</p>",
+        "ru": "<p>Порядок заверения документов об образовании и дополнительных документов, выдаваемых учреждениями образования в Республике Молдова осуществляется в соответствии с положениями международных договоров стороной которого является Республика Молдова, и национальное законодательство.</p><p>Аутентификация распространяется на следующие категории граждан, обладателей документов об образовании, полученных в Республики Молдова, согласно формату, утвержденному Министерством образования и исследований:</p><p>1) граждане Республики Молдова, а также категории лиц, пользующихся, в соответствии с законом, равными правами с гражданами Республики Молдова в отношении доступа ко всем видам образования;</p><p>2) иностранные граждане, обучавшиеся в учебных заведениях Республики Молдова.</p>",
+        "en": "<p>The procedure for authentication of study documents and complementary documents issued by the institutions of education in the Republic of Moldova is carried out in accordance with the provisions of international treaties to which the Republic of Moldova is a party and the national legislation.</p><p>The authentication applies to the following categories of citizens, holders of study documents obtained in Republic of Moldova, according to the format approved by the Ministry of Education and Research:</p><p>1) citizens of the Republic of Moldova, as well as categories of persons who benefit, according to the law, of equal treatment with citizens of the Republic of Moldova in terms of access to education and training professional;</p><p>2) foreign citizens who studied in the educational institutions of the Republic of Moldova.</p>"
+      },
+      "eService": false
+    },
+    {
+      "id": "a87fd44a-2e81-4e4a-86a1-ba46e7fc40ad",
+      "code": "009000122",
+      "title": {
+        "ro": "Avizarea loturilor de carte intrate în țară cu titlu de ajutor umanitar",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">Avizarea loturilor de carte se face la cerere, în situaţiile în care acestea urmează a fi obiectul intrării în țară cu titlu de ajutor umanitar, efectuată de către o persoană juridică și/sau fizică. Ministerul Culturii autorizează introducerea în ţară a literaturii (beletristice, cognitive), altor produse editoriale în baza Legii nr.<a href=\"https://www.legis.md/cautare/getResults?doc_id=132813&amp;lang=ro#\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"text-align: left; background-color: rgb(255, 255, 255);\">1491/2002</a> cu privire la ajutoarele umanitare acordate Republicii Moldova în temeiul <strong style=\"text-align: left;\">Art. 22</strong><sup style=\"text-align: left;\"><strong>1</strong></sup> alin. (2).</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "fe946b79-27a2-471a-81c0-f94efff04cb2",
+      "code": "009000038",
+      "title": {
+        "ro": "Coordonarea programelor de formare profesională a adulților furnizate de prestatorii de servicii educaționale în baza rezultatelor evaluării externe realizate de către Agenția Națională de Asigurare a Calității în Educație și Cercetare (ANACEC) ",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>Programele de formare profesională continuă pe domenii de activitate se elaborează de către prestatorii de formare a adulților și se coordonează cu ministerele de resort și Ministerul Educației și Cercetării în baza deciziei Consiliului de conducere al ANACEC privind rezultatele evaluării externe.</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "a9209c3d-3f02-45f3-84b8-67dc5df4ca76",
+      "code": "009000106",
+      "title": {
+        "ro": "Evaluarea candidaților la funcția de director (etapa II)",
+        "ru": "Тестирование кандидатов на должность директора (II этап)",
+        "en": "Evaluation of candidates for the position of director (stage II)"
+      },
+      "description": { "ro": null, "ru": null, "en": null },
+      "eService": true
+    },
+    {
+      "id": "31a534c8-5941-4a58-8cbb-86bf8c8c8927",
+      "code": "009000148",
+      "title": {
+        "ro": "Evaluarea externă a calității în vederea autorizării de funcționare provizorie şi acreditării programelor de studii şi a instituțiilor de învățământ profesional tehnic, superior şi de formare continuă.",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<h5 class=\"ql-align-justify\"><span class=\"ql-font-serif ql-size-small\" style=\"color: black;\">Evaluarea externă a calității în vederea autorizării de funcționare provizorie și acreditării programelor de studii sau/și a instituțiilor de învățământ este realizată la solicitarea instituțiilor de învățământ, a persoanelor publice sau private interesate în oferirea de programe de studii/servicii educaționale, precum şi la solicitarea Ministerului Educației.</span></h5><h5 class=\"ql-align-justify\"><span class=\"ql-font-serif ql-size-small\" style=\"color: black;\">Orice persoană juridică, publică sau privată interesată în oferirea programelor de studii și serviciilor educaționale se supune obligatoriu procesului de evaluare externă a calității în vederea autorizării de funcționare provizorie, înainte de a începe să activeze.</span></h5><h5 class=\"ql-align-justify\"><span class=\"ql-font-serif ql-size-small\" style=\"color: black;\">Acreditarea programelor de studii se solicită la expirarea autorizării de funcționare provizorie, după prima promoție de absolvenți, iar acreditarea instituțiilor de învățământ se solicită la expirarea autorizării de funcționare provizorie sau a acreditării precedente.</span></h5>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "8aef1cb1-b8af-4078-a3ad-95d508caa6e9",
+      "code": "009000164",
+      "title": {
+        "ro": "Evaluarea externă a instituțiilor de învățământ general și de evaluare a cadrelor de conducere din învățământul general",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\"><span style=\"color: black;\">Procedura de evaluare externă se aplică tuturor instituțiilor, indiferent de modul de organizare și de tipul de proprietate concomitent cu filialele acestora.</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">Evaluarea externă în vederea autorizării de funcționare provizorie constituie condiție obligatorie pentru ca instituția să își înceapă activitatea/ în vederea acreditării, se realizează o singură dată iar evaluarea externă periodică are loc cel puțin o dată la 5 ani.</span></p><p><br></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "e25730d7-a560-4a5b-b372-136da985f50f",
+      "code": "009000151",
+      "title": {
+        "ro": "Evaluarea personalului științifico-didactic",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\"><span style=\"color: black;\">Activitatea de evaluare a personalului științific și științifico-didactic se realizează în baza solicitării (demersului) și dosarului depus de către persoana juridică/ organizația din domeniile cercetării și inovării (în cazul confirmării titlurilor științifice de doctor/doctor habilitat, confirmătii titlurilor științifico-didactice de de profesor/conferențiar universitar și de aprobare a dreptului de a conduce doctorate) și de către persoanele fizice (în cazul recunoașterii și echivalării actelor de înaltă calificare științifică, obținute în străinătate, și a eliberării adeverințelor de autenticitate). </span></p><p class=\"ql-align-justify\">Evaluarea se efectuează de către specialiști de calificare superioară sau egală celei la care pretinde candidatul, cu care nu se află în conflict de interese, recunoscuți de comunitatea științifică pentru competența şi prestigiul profesional, precum şi pentru independența, intransigența, obiectivitatea şi imparțialitatea lor şi care dispun de cercetări științifice valoroase în domeniul de referință. Tipuri de evaluări: evaluarea (expertiza) tezei de doctor habilitat în vederea confirmării titlului de doctor habilitat; evaluarea (expertiza) tezei de doctor în științe în vederea confirmării titlului de doctor; evaluarea (expertiza) dosarului de profesor universitar în vederea confirmării titlului de profesor; evaluarea (expertiza) dosarului de conferențiar universitar în vederea confirmării titlului de conferențiar; recunoașterea și echivalarea actelor de înaltă calificare științifică și științifico-didactică obținute în străinătate.</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "88a3e245-7b4a-4d1b-a570-8622b2eab220",
+      "code": "009000119",
+      "title": {
+        "ro": "Perfectarea actelor de studii pentru absolvenții din raioanele de est ale RM și or. Bender",
+        "ru": "Оформление документов об образовании, выданных учебными заведениями восточных районов Республики Молдова и города Бендеры",
+        "en": "Completion of study documents for graduates from the eastern districts of the Republic of Moldova and Bender"
+      },
+      "description": { "ro": "", "ru": "", "en": "" },
+      "eService": false
+    },
+    {
+      "id": "1cf9c472-d936-46a1-a9d7-970fb33c2652",
+      "code": "009000096",
+      "title": {
+        "ro": "Recunoașterea și echivalarea actelor de studii și a calificărilor obținute în străinătate",
+        "ru": "Признание документов об образовании и квалификации, полученных за границей",
+        "en": "Recognition and equivalence of educational documents and qualifications obtained abroad"
+      },
+      "description": {
+        "ro": "<p>Serviciul public de recunoaștere și echivalare a actelor de studii și a calificărilor obținute în străinătate presupune evaluarea și stabilirea nivelului, domeniului de studii și/sau a calificării profesionale menționate în actul de studii obținut în străinătate și evaluarea curriculumului parcurs până la eliberarea actului de studii, prin compatibilizarea lui cu sistemul național de învățământ, care se poate finaliza cu eliberarea Certificatului de recunoaștere și echivalare, ce conferă titularului dreptul la continuarea studiilor și/sau la accesul pe piața muncii, în conformitate cu cadrul normativ.</p><p>Serviciul public de recunoaștere și echivalare a actelor de studii și a calificărilor obținute în străinătate poate fi solicitat de către:a) titularul actului de studii;b) ruda de gradul I al titularului actului de studii, cu prezentarea actului confirmativ;c) reprezentantul legal al copilului minor;d) altă persoană fizică cu procură notarială;e) reprezentantul instituției de învățământ din Republica Moldova.</p><p>Actele de studii supuse recunoașterii vor fi autentificate cu Apostila de la Haga, în cazul când au fost emise în unul dintre statele părți ale Convenției cu privire la suprimarea cerinței supralegalizării actelor oficiale străine, adoptată la Haga din 5 octombrie 1961, iar în cazul celorlalte state emitente ale actelor de studii - cu legalizare consulară. Scutirea de apostilare sau supralegalizare este permisă doar în cazurile prevăzute de legislația Republicii Moldova.</p><p>Lista statelor şi modul de recunoaștere a actelor oficiale emise de către autoritățile altor state pentru a fi utilizate în Republica Moldova şi a actelor oficiale emise de către autoritățile Republicii Moldova pentru a fi utilizate în străinătate poate fi consultată <a href=\"https://mfa.gov.md/ro/content/lista-statelor-si-modul-de-recunoastere-actelor-oficiale\" rel=\"noopener noreferrer\" target=\"_blank\">aici</a>. Programare on-line în vederea depunerii dosarului se face la această <a href=\"http://ctice.gov.md/inregistrare-autentificare/\" rel=\"noopener noreferrer\" target=\"_blank\">adresă</a>.&nbsp;</p><p>Formulare utile: Cererea poate fi descărcată de pe <a href=\"https://mec.gov.md/ro/content/autentificarea-si-recunoasterea-actelor-de-studii\" rel=\"noopener noreferrer\" target=\"_blank\">pagina web</a> a Ministerului Educației și Cercetării sau se generează în momentul depunerii la sediul CTICE</p><p><br></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    }
+  ]
+}

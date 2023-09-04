@@ -1,0 +1,526 @@
+{
+  "category": {
+    "title": {
+      "ro": "Stare civilă, acte de identitate",
+      "ru": null,
+      "en": null
+    },
+    "description": {
+      "ro": "Un set de servicii sau evenimente de viață legate de  obținerea actelor de stare civilă și actul/acte de identitate, adeverința de recrut",
+      "ru": null,
+      "en": null
+    }
+  },
+  "subcategories": [],
+  "publicServices": [
+    {
+      "id": "2c565779-5a2e-4a4d-a8d9-c1f07cc98224",
+      "code": "015000024",
+      "title": {
+        "ro": "Adeverința ce conține date din  Registrul de stat al populaţiei sau din alte resurse informaționale ale Agenției Servicii Publice (adeverință) ",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">Extras (adeverință) din registru – reprezintă reproducerea unei părţi din Registrul de stat al populaţiei sau din alte resurse informaționale ale Agenției Servicii Publice, pe suport de hârtie, eliberată pe blanchetă tipizată.</p><p>Adeverința ce conţine date din Registrul de stat al populaţiei sau din alte resurse informaționale ale Agenției Servicii Publice (adeverință) se eliberează pe blanchetă tipizată, la solicitarea persoanelor fizice, privind:</p><ul><li class=\"ql-align-justify\">eliberarea actelor de identitate sau lipsa acestora;</li><li class=\"ql-align-justify\">eliberarea actelor de identitate cu date personale anterioare;</li><li class=\"ql-align-justify\">apartenenţa la cetăţenia Republicii Moldova;</li><li class=\"ql-align-justify\">neapartenenţa la cetăţenia Republicii Moldova;</li><li class=\"ql-align-justify\">renunţarea sau retragerea cetăţeniei Republicii Moldova;</li><li class=\"ql-align-justify\">dobândirea cetăţeniei Republicii Moldova;</li><li class=\"ql-align-justify\">înregistrarea la domiciliu și/sau la reşedinţa temporară sau lipsa acesteia;</li><li class=\"ql-align-justify\">persoanele înregistrate la domiciliu și/sau la reşedinţa temporară la o adresă concretă;</li><li class=\"ql-align-justify\">eliberarea autorizaţiei de emigrare;</li><li class=\"ql-align-justify\">componenţa familiei;</li><li class=\"ql-align-justify\">atribuirea numărului de identificare de stat al persoanei fizice (IDNP);</li><li class=\"ql-align-justify\">repatrierea cetăţenilor Republicii Moldova;</li><li>alte informaţii ce se conţin în Registrul de stat al populației.</li></ul><p>Cererea pentru eliberarea adeverințelor se depune personal sau de reprezentantul împuternicit prin procură autentificată de notar sau de alte persoane abilitate prin lege cu astfel de funcție sau prin reprezentantul împuternicit în baza semnăturii electronice şi consemnată în Sistemul informațional automatizat ,,Registrul împuternicirilor de reprezentare în baza semnăturii electronice” (MPower).</p><p>Depunerea cererii de către alte persoane se admite în următoarele situaţii speciale:&nbsp;</p><ol><li>în cazul copilului, inclusiv al celui cu statut de copil rămas fără ocrotire părintească sau cu statut de copil rămas temporar fără ocrotire părintească asupra căruia este instituită tutela sau curatela, în calitate de solicitant acţionează reprezentantul legal al acestuia (unul dintre părinţi, tutorele, curatorul). În noţiunea de copil nu se încadrează minorul care a dobândit capacitatea deplină de exerciţiu până la împlinirea vârstei de 18 ani în condiţiile art.26 alin.(2) şi (3) din Codul civil al Republicii Moldova;</li><li>în cazul copilului ai cărui părinţi sînt minori sau al cărui unic părinte este minor, în calitate de solicitant acţionează reprezentantul legal al părinţilor minori/al unicului părinte minor;</li><li>în cazul copilului separat de părinţi, inclusiv al celui plasat în serviciul de plasament de tip familial, cu excepția serviciului tutelă/curatelă, sau în serviciul de plasament de tip rezidențial, cererea se depune de către autoritatea tutelară teritorială în a cărei rază de competență teritorială este locul aflării sau locul de plasament al copilului, cu prezența obligatorie a acestuia;</li><li>în cazul persoanei supuse măsurii de ocrotire judiciară sub forma tutelei, în calitate de solicitant acţionează reprezentantul legal al acesteia (tutorele), cu&nbsp;prezenţa obligatorie a persoanei reprezentate;</li><li>în cazul persoanei imobilizate, al persoanei aflate la tratament prin constrângere, al persoanei aflate în arest preventiv sau în detenţie, cererea pentru eliberarea adeverinţei poate fi depusă prin reprezentantul împuternicit prin procură autentificată de notar sau de alte persoane abilitate prin lege cu astfel de funcţie ori prin împuternicire de reprezentare în baza semnăturii electronice, consemnată în Registrul împuternicirilor de reprezentare în baza semnăturii electronice.</li></ol><p><br></p><p>Programarea prealabilă pentru solicitarea serviciilor în subdiviziunile teritoriale ale ASP este disponibilă accesând link-ul: <a href=\"https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro\" rel=\"noopener noreferrer\" target=\"_blank\">https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro</a></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "4a0d3ffb-9310-4401-bc5b-8e6c630102a0",
+      "code": "015000273",
+      "title": {
+        "ro": "Adeverință de recrut",
+        "ru": "Приписное свидетельство",
+        "en": null
+      },
+      "description": {
+        "ro": "Obținerea adeverinței de recrut",
+        "ru": "<p><span style=\"color: rgb(77, 81, 86);\">Получение&nbsp;</span><span style=\"color: rgb(95, 99, 104);\">приписного свидетельства</span></p>",
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "c89fd803-d684-46db-9e5d-f0ce6b0e6fc5",
+      "code": "015000286",
+      "title": {
+        "ro": "Adeverinţă privind excluderea din evidenţa militară",
+        "ru": "Свидетельство о снятии с военного учета",
+        "en": null
+      },
+      "description": {
+        "ro": "Obținerea adeverinţei privind excluderea din evidenţa militară",
+        "ru": "<p>Получение cвидетельства о снятии с военного учета</p>",
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "905b2a21-522c-4ac8-9eb5-295f85946bc4",
+      "code": "015000150",
+      "title": {
+        "ro": "Aviz cu privire la anularea, completarea şi/sau rectificarea actului de stare civilă",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">Avizul cu privire la anularea, completarea şi/sau rectificarea actului de stare civilă reflectă faptul operării modificărilor privind numele persoanei, prenumele acestuia, data şi/sau locul naşterii, naţionalitatea, precum şi alte date care au fost modificate în conţinutul actului de stare civilă şi în baza căruia a fost eliberate documente de stare civilă.</p><p class=\"ql-align-justify\">Avizul în cauză se prezintă autorităţii interesate cu certificatul de stare civilă sau extrasul la care se referă avizul dat, fiind valabil pe tot parcursul perioadei de valabilitate a certificatului sau a extrasului respectiv.</p><p class=\"ql-align-justify\">Avizul cu privire la anularea, completarea şi/sau rectificarea actului de stare civilă se eliberează în temeiul cererii solicitantului:</p><ul><li class=\"ql-align-justify\">persoanei fizice: cetăţean al Republicii Moldova, cetăţean străin, apatrid;</li><li class=\"ql-align-justify\">rudelor de gradul I-II (dovada gradului de rudenie se face cu actele de stare civilă sau cu certificatele de stare civilă);</li><li class=\"ql-align-justify\">reprezentantului legal al persoanei limitate în capacitatea de exerciţiu sau cu privire la care a fost instituită măsura de ocrotire judiciară prin hotărârea instanţei judecătoreşti (tutorele sau curatorul);</li><li class=\"ql-align-justify\">reprezentantului împuternicit prin procură autentificată notarial <span style=\"color: rgb(102, 102, 102);\">sau prin împuternicirea de reprezentare electronică acordată prin MPower în baza semnăturii electronice,</span> din numele persoanei fizice, cetăţean al Republicii Moldova.</li></ul>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "12f58205-ba7c-4834-90cd-fa27e74c5267",
+      "code": "015000040",
+      "title": {
+        "ro": "Aviz privind afirmarea/infirmarea schimbării numelui și/sau prenumelui",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Avizul de schimbare/neschimbare a numelui și/sau prenumelui<span style=\"color: black;\"> reprezintă documentul de stare civilă&nbsp;care confirmă sau infirmă schimbarea numelui de familie și/sau prenumelui a persoanei fizice, cetăţean al Republicii Moldova în urma căsătoriei, divorţului sau schimbării numelui de familie și/sau prenumelui şi este destinat utilizării, în special,&nbsp;în străinătate. </span></p><p><strong>Avizul de schimbare/neschimbare a numelui și/sau prenumelui se eliberează în temeiul cererii solicitantului:</strong></p><ul><li>persoanei fizice, cetăţean al Republicii Moldova;</li><li class=\"ql-align-justify\">rudelor de gradul I-II (dovada gradului de rudenie se face cu actele de stare civilă sau cu certificatele de stare civilă);</li><li class=\"ql-align-justify\">reprezentantului legal al persoanei limitate în capacitatea de exerciţiu sau cu privire la care a fost instituită măsura de ocrotire judiciară prin hotărârea instanţei judecătoreşti (tutorele sau curatorul);</li><li class=\"ql-align-justify\">reprezentantului împuternicit prin procură autentificată notarial <span style=\"color: rgb(102, 102, 102);\">sau prin împuternicirea de reprezentare electronică acordată prin MPower în baza semnăturii electronice,</span> din numele persoanei fizice, cetăţean al Republicii Moldova.</li></ul><p class=\"ql-align-justify\">Programarea prealabilă pentru solicitarea serviciilor în subdiviziunile teritoriale ale ASP este disponibilă accesând link-ul: <a href=\"https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro\" rel=\"noopener noreferrer\" target=\"_blank\">https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro</a></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "cf227a84-f56b-4d5c-a234-2e8d19a7be08",
+      "code": "015000163",
+      "title": {
+        "ro": "Buletin de identitate al cetățeanului Republicii Moldova",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p><span style=\"color: black;\">Buletinul de identitate al cetăţeanului Republicii Moldova reprezintă actul de identitate care se eliberează cetățenilor pentru întrebuinţare pe teritoriul republicii sau peste hotarele ei, în conformitate cu acordurile internaționale, pe termen de valabilitate:</span></p><ul><li><span style=\"color: black;\">de la naștere până la 10 ani; </span></li><li><span style=\"color: black;\">de la 10 până la 16 ani; </span></li><li><span style=\"color: black;\">de la 16 până la 25 ani; </span></li><li><span style=\"color: black;\">de la 25 până la 45 ani; </span></li><li><span style=\"color: black;\">de la 45 ani – pe viață.</span></li></ul><p><span style=\"color: black;\">﻿Cetățenii Republicii Moldova cu domiciliul în Republica Moldova sunt obligați să dețină buletin de identitate de la vârsta de 16 ani. </span></p><p><strong style=\"color: black;\">Buletinul de identitate se eliberează în următoarele cazuri:</strong></p><ol><li><span style=\"color: black;\">la prima eliberare: minorilor;persoanelor care au obţinut paşaportul cetăţeanului Republicii Moldova; cetăţenilor Republicii Moldova domiciliaţi în localităţile din stânga Nistrului şi în municipiul Bender; persoanelor cu vârsta peste 18 ani care nu au avut niciodată acte de identitate;</span></li><li>preschimbarea paşaportului de tip sovietic, buletinului de identitate provizoriu sau a actului de identitate provizoriu;</li><li><span style=\"color: black;\">schimbarea, modificarea, rectificarea sau completarea datelor cu caracter personal;</span></li><li><span style=\"color: black;\">constatarea inexactităţilor, neconformităţilor, falsurilor în înscrisurile din documente, furtului de identitate sau a identităţii false;</span></li><li><span style=\"color: black;\">schimbarea domiciliului;</span></li><li><span style=\"color: black;\">în caz de schimbare a denumirii sau a rangului localităţilor, străzilor, de renumerotare a imobilelor sau de rearondare a acestora, de înfiinţare a localităţilor, a străzilor; în caz de modificare, rectificare sau de completare a datelor adresei de domiciliu;</span></li><li><span style=\"color: black;\">în caz de pierdere, furt sau deteriorare;</span></li><li><span style=\"color: black;\">expirarea termenului de valabilitate;</span></li><li><span style=\"color: black;\">dobândirea sau redobândirea cetăţeniei Republicii Moldova;</span></li><li><span style=\"color: black;\">în caz de repatriere;</span></li><li><span style=\"color: black;\">la solicitarea titularului de a-l preschimba.</span></li></ol><p><span style=\"color: black;\">Cererea pentru eliberarea buletinul de identitate al cetățeanului Republicii Moldova se depune de către solicitant, în țară, la orice serviciu eliberare a actelor de identitate (SEAI), iar în străinătate, la misiunile diplomatice sau oficiile consulare (MDOC) ale Republicii Moldova. În lipsa MDOC în statul de reşedinţă al solicitantului, cererea respectivă poate fi depusă la orice MDOC.</span></p><p><strong>Depunerea cererii de către alte persoane se admite în următoarele situații speciale:</strong></p><p>a)\tîn cazul copilului, inclusiv al celui cu statut de copil rămas fără ocrotire părintească sau cu statut de copil rămas temporar fără ocrotire părintească asupra căruia este instituită tutela sau curatela, în calitate de solicitant acționează reprezentantul legal al acestuia (unul dintre părinți, tutorele sau curatorul), cu prezenţa obligatorie a copilului. În noţiunea de copil nu se încadrează persoanele care au dobândit capacitatea deplină de exerciţiu până la împlinirea vârstei de 18 ani în condiţiile art.26 alin.(2) şi (3) din Codul civil al Republicii Moldova;</p><p>b)\tîn cazul copilului ai cărui părinţi (unicul părinte) sunt minori (este minor), în calitate de solicitant acţionează reprezentantul legal al părinţilor minori (unicului părinte minor);</p><p>c)\tîn cazul copilului separat de părinţi, inclusiv al aceluia plasat în serviciul de plasament de tip familial, cu excepția serviciului tutelă/curatelă, sau în serviciul de plasament de tip rezidențial, cererea se depune de către autoritatea tutelară teritorială în a cărei rază de competență teritorială este locul aflării sau de plasament al copilului, cu prezența obligatorie a acestuia;</p><p>d)\tîn cazul persoanei supuse măsurii de ocrotire judiciară sub forma tutelei, în calitate de solicitant acţionează reprezentantul legal al acesteia (tutorele), cu prezenţa obligatorie a persoanei reprezentate;</p><p>e)\tîn cazul persoanei imobilizate, al persoanei aflate la tratament prin constrîngere, al persoanei aflate în arest preventiv sau în detenţie, cererea pentru eliberarea buletinului de identitate poate fi depusă de către reprezentantul împuternicit prin procură autentificată de notar sau de alte persoane abilitate prin lege cu astfel de funcţie, ori prin împuternicire de reprezentare în baza semnăturii electronice, consemnată în Registrul împuternicirilor de reprezentare în baza semnăturii electronice (MPower);</p><p>f)\tîn cazul persoanei care este internată într-o instituţie medicală şi se află în stare gravă (inconştientă, în comă), cererea se depune de către persoana care acţionează în interesul acesteia (membru de familie, ruda), iar în lipsa unei astfel de persoane, actul de identitate se eliberează în urma demersului instituţiei medicale în cauză sau al autorităţii administraţiei publice locale, dacă persoana internată beneficiază de asistenţă socială, ori prin împuternicire de reprezentare în baza semnăturii electronice, consemnată în Registrul împuternicirilor de reprezentare în baza semnăturii electronice (MPower);</p><p>g)\tîn cazul persoanei cu boală mintală sau deficienţe fizice, mintale sau psihologice, aflate la întreţinere în instituţia de tratament sau în instituţia socială, asupra căreia nu este instituită măsura de ocrotire sub nicio formă, actul de identitate se eliberează în urma demersului instituţiei respective.</p><p>Cererea pentru eliberarea buletinului de identitate se respinge în cazul în care solicitantul a prezentat informații frauduloase sau documentele prezentate sunt insuficiente, conțin divergențe, sunt nevalabile ori se constată că nu sunt autentice.</p><p>În cazul în care cererea pentru eliberarea actelor de identitate se respinge în condiţiile prevederilor legale, autoritatea competentă este obligată în termenul prevăzut pentru examinarea cererii să informeze solicitantul în scris sau prin mijloacele electronice de comunicare despre motivele care au stat la baza respingerii cererii.</p><p>Programarea prealabilă pentru solicitarea serviciilor în subdiviziunile teritoriale ale ASP este disponibilă accesând link-ul: <a href=\"https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro\" rel=\"noopener noreferrer\" target=\"_blank\">https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro</a></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "c9f006bf-27ec-496d-936d-318b62b1373f",
+      "code": "015000189",
+      "title": {
+        "ro": "Buletin de identitate electronic al cetățeanului Republicii Moldova",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p><span style=\"color: black;\">Buletinul de identitate electronic este actul de identitate de uz intern, care se eliberează la solicitarea cetățeanului Republicii Moldova cu capacitate deplină de exercițiu. </span>Buletinul de identitate electronic&nbsp;<span style=\"color: black;\">care conţine mijloacele semnăturii electronice şi certificatele cheilor publice, care se introduc în mediul de stocare electronică a datelor.</span></p><p><span style=\"color: black;\">Buletinul de identitate electronic se eliberează pe termen de 10 ani.</span></p><p><span style=\"color: black;\">Certificatele cheilor publice sunt valabile pe un termen de 2 ani, iar la expirarea acestui termen, la cererea titularului buletinului de identitate electronic valabil, se eliberează certificate noi conform tarifului stabilit.&nbsp;</span></p><p><span style=\"color: black;\">Expirarea termenului de valabilitate a certificatelor cheilor publice și/sau defectarea mediului de stocare electronică a datelor nu influențează valabilitatea buletinului de identitate.</span></p><p><span style=\"color: black;\">Beneficiarii de înlesniri la eliberarea buletinului de identitate al cetăţeanului Republicii Moldova care solicită eliberarea buletinului de identitate ce conţine mijloacele semnăturii electronice şi certificatul cheilor publice achită diferenţa de tarif stabilit pentru aceste documente.</span></p><p><strong style=\"color: black;\">Buletinul de identitate electronic se eliberează în următoarele cazuri:</strong></p><ol><li><span style=\"color: black;\">la prima eliberare persoanelor cu vârsta peste 18 ani:care au obţinut paşaportul cetăţeanului Republicii Moldova;cetăţenilor Republicii Moldova domiciliaţi în localităţile din stânga Nistrului şi în municipiul Bender;care nu au avut niciodată acte de identitate;</span></li><li><span style=\"color: black;\">preschimbarea paşaportului de tip sovietic, buletinului de identitate provizoriu sau a actului de identitate provizoriu;</span></li><li><span style=\"color: black;\">schimbarea, modificarea, rectificarea sau completarea datelor cu caracter personal;</span></li><li><span style=\"color: black;\">constatarea inexactităţilor, neconformităţilor, falsurilor în înscrisurile din documente, furtului de identitate sau a identităţii false;</span></li><li><span style=\"color: black;\">schimbarea domiciliului;</span></li><li><span style=\"color: black;\">în caz de schimbare a denumirii sau a rangului localităţilor, străzilor, de renumerotare a imobilelor sau de rearondare a acestora, de înfiinţare a localităţilor, a străzilor; în caz de modificare, rectificare sau de completare a datelor adresei de domiciliu;</span></li><li><span style=\"color: black;\">în caz de pierdere, furt sau deteriorare;</span></li><li><span style=\"color: black;\">expirarea termenului de valabilitate;</span></li><li><span style=\"color: black;\">dobândirea sau redobândirea cetăţeniei Republicii Moldova;</span></li><li><span style=\"color: black;\">în caz de repatriere;</span></li><li><span style=\"color: black;\">la solicitarea titularului de a-l preschimba.</span></li></ol><p>﻿Programarea prealabilă pentru solicitarea serviciilor în subdiviziunile teritoriale ale ASP este disponibilă accesând link-ul: <a href=\"https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro\" rel=\"noopener noreferrer\" target=\"_blank\">https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro</a></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "bf934182-b045-4710-909c-ac5735e310d5",
+      "code": "015000192",
+      "title": {
+        "ro": "Buletin de identitate provizoriu al cetățeanului Republicii Moldova",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\"><span style=\"color: black;\">Buletinul de identitate provizoriu reprezintă actul de identitate care se eliberează cetăţenilor Republicii Moldova, pentru întrebuinţare pe teritoriul ţării, în următoarele cazuri:</span></p><ol><li class=\"ql-align-justify\"><span style=\"color: black;\">persoanei care a depus cerere pentru eliberarea buletinului de identitate şi solicită un document provizoriu - pe perioada de confecţionare a acestuia;</span></li><li class=\"ql-align-justify\"><span style=\"color: black;\">persoanei care nu posedă toate documentele necesare pentru eliberarea buletinului de identitate</span></li><li class=\"ql-align-justify\"><span style=\"color: black;\">persoanei social defavorizate, pentru a beneficia de asistenţă socială, medicală sau juridică;</span></li><li class=\"ql-align-justify\"><span style=\"color: black;\">persoanei care nu posedă act de identitate sau acesta nu este valabil pentru efectuarea acţiunilor ce generează schimbarea sau ridicarea buletinului de identitate;</span></li><li class=\"ql-align-justify\"><span style=\"color: black;\">persoanei reţinute sau aflate în arest preventiv, stabilite fără acte de identitate, la solicitarea autorităților competente;</span></li><li class=\"ql-align-justify\">﻿persoanei care a renunţat de la numărul de identificare de stat;</li><li class=\"ql-align-justify\"><span style=\"color: black;\">persoanei care a emigrat autorizat, la solicitare; </span></li><li class=\"ql-align-justify\"><span style=\"color: black;\">cetățeanului Republicii Moldova cu vârsta peste 18 ani, aflat pe teritoriul Republicii Moldova, care în ziua desfășurării scrutinului electoral nu deține act de identitate valabil necesar pentru efectuarea votării în condițiile legii.</span></li></ol><p><span style=\"color: black;\">Pentru buletinul de identitate provizoriu, termenul de valabilitate se stabileşte de autoritatea emitentă şi nu poate depăşi un an. Pentru persoanele care execută o pedeapsă penală privativă de libertate, buletinul de identitate provizoriu se eliberează pe termenul aflării în detenție, dar nu mai mare de 10 ani și, respectiv, pe un termen de 10 ani.</span></p><p>Programarea prealabilă pentru solicitarea serviciilor în subdiviziunile teritoriale ale ASP este disponibilă accesând link-ul: <a href=\"https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro\" rel=\"noopener noreferrer\" target=\"_blank\">https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro</a></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "77c148a0-277f-4025-a076-b17837aa0f88",
+      "code": "015000121",
+      "title": {
+        "ro": "Certificarea faptelor de stare civilă consemnate în localitățile din stânga Nistrului și municipiul Bender",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p><span style=\"color: black;\">Prin certificarea faptului de stare civilă consemnat în stânga Nistrului şi mun. Bender se înțelege confirmarea producerii și consemnării în stânga Nistrului a unui fapt de stare civilă declarat, prin eliberarea unui document de stare civilă de model unic aprobat (certificat sau extras de pe actul de stare civilă), fiind acordate faptului de stare civilă efecte juridice.Obţinerea documentelor de stare civilă este posibilă doar în condiţiile examinării şi posibilităţii aprecierii circumstanţelor în care s-a produs şi a fost consemnat documentar un fapt de stare civilă: naşterea, căsătoria, divorţul prin acord comun, schimbarea numelui, modificarea unor date personale consemnate, recunoaşterea paternităţii prin acordul comun al părinţilor copilului, decesul. Pot fi supuse certificării următoarele faptele de stare civilă consemnate fără constituirea dosarelor în localitățile din stânga Nistrului și municipiul Bender:nașterea consemnată în termen de 1 an de la producerea faptului şi paternitatea prin acord comun al părinţilor;căsătoria;divorţ prin acord comun;decesul. Pot fi supuse certificării faptele de stare civilă consemnate cu constituirea dosarelor de stare civilă în localitățile din stânga Nistrului și municipiul Bender în următoarele situații:nașterea și decesul care au fost consemnate în procedura similară celei de înregistrare ulterioară; schimbarea numelui şi/sau a prenumelui;modificarea datelor consemnate în localitățile din stânga Nistrului și municipiul Bender;reconstituirea și anularea actelor de stare civilă sau a înscrisurilor cu privire la consemnarea faptelor de stare civilă în localitățile din stânga Nistrului și municipiul Bender.&nbsp;</span>Asigurarea prestării serviciilor de certificare a faptelor de stare civilă produse şi consemnate în localitățile din stânga Nistrului se realizează prin subdiviziunile teritoriale ale Agenţiei Servicii Publice (SSC), special desemnate în acest sens, prin Ordinul Agenției Servicii Publice nr. 440 din 15 iulie 2019:Serviciul Stare Civilă Sănătăuca, cu sediul în satul Sănătăuca;&nbsp;Serviciul Stare Civilă Rezina, încadrat în Centrul multifuncţional Rezina;&nbsp;Serviciul Stare Civilă Dubăsari, cu sediul în satul Coşniţa;&nbsp;Serviciul Stare Civilă Anenii Noi, încadrat în Centrul multifuncţional Anenii Noi;Serviciul Stare Civilă Varnița, cu sediul în satul Varnița;&nbsp;Serviciul Stare Civilă Ștefan Vodă, încadrat în Centrul multifuncţional Ștefan Vodă.Competența teritorială a serviciilor stare civilă este determinată de domicilierea persoanei şi de localitatea în care a fost consemnat faptul de stare civilă vizând o persoană. Toate localităţile din stânga Nistrului şi mun. Bender sunt arondate unei subdiviziunii teritoriale cu competenţe speciale la certificarea faptelor de stare civilă&nbsp;ale ASP, după criteriul situării localităţii în apropierea subdiviziunii ASP.</p><p><br></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "1277044b-3a61-4931-a265-29a83b19dc46",
+      "code": "015000118",
+      "title": {
+        "ro": "Certificat de capacitate matrimonială",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">Certificat de capacitate matrimonială reprezintă documentul de stare civilă care confirmă dreptul cetăţeanului Republicii Moldova de a încheia căsătoria în conformitate cu cadrul normativ al Republicii Moldova (exprimând dovada lipsei impedimentelor la căsătorie). Documentul se eliberează pe baza declarației pe propria răspundere, pe baza datelor din actele de stare civilă şi este destinat utilizării în statele care formează domeniul teritorial al Convenţiei CIEC nr. 20 cu privire la eliberarea certificatului de capacitate matrimonială semnată la Munchen la 5 septembrie 1980: Germania, Belgia, Spania, Grecia, Italia, Luxemburg, Olanda, Portugalia, Elveţia, Turcia, Republica Moldova. Documentul emis în temeiul Convenţiei CIEC nr. 20/1980 nu necesită supralegalizare/apostilare şi nici traducere).&nbsp;</p><p class=\"ql-align-justify\"><strong>Certificat de capacitate matrimonială se eliberează în temeiul cererii solicitantului:</strong></p><ul><li>persoanei fizice, cetăţean al Republicii Moldova;</li><li class=\"ql-align-justify\">rudelor de gradul I-II (dovada gradului de rudenie se face cu actele de stare civilă sau cu certificatele de stare civilă);</li><li class=\"ql-align-justify\">reprezentantului legal al persoanei limitate în capacitatea de exerciţiu sau cu privire la care a fost instituită măsura de ocrotire judiciară prin hotărârea instanţei judecătoreşti (tutorele sau curatorul);</li><li class=\"ql-align-justify\">reprezentantului împuternicit prin procură autentificată notarial&nbsp;sau prin împuternicirea de reprezentare electronică acordată prin MPower în baza semnăturii electronice,&nbsp;din numele persoanei fizice, cetăţean al Republicii Moldova.</li></ul><p class=\"ql-align-justify\"><em>Certificat de capacitate matrimonială este valabil timp de 6 luni de la emitere.</em></p><p class=\"ql-align-justify\"><strong>Atenţie! </strong>Actele emise de către autorităţile statelor care nu sunt parte la Convenţia de la Haga din 5 octombrie 1961 cu privire la suprimarea cerinţei supralegalizării actelor oficiale străine (ex: Iordania, Canada, Kuweit, Liban, Libia, Emiratele Arabe Unite, Siria etc.) destinate utilizării pe teritoriul Republicii Moldova sau care au formulat obiecţii împotriva aderării Republicii Moldova la aceasta (ex: Germania), se supun procedurii de supralegalizare.&nbsp;</p><p class=\"ql-align-justify\"><strong>Pe teritoriul Republicii Moldova produc efecte juridice fără a fi nevoie de supralegalizare/apostilare:</strong></p><ul><li class=\"ql-align-justify\">extrasele multilingve de pe actele de naștere, căsătorie și deces emise în temeiul Convenţiei Comisiei Internaţionale de Stare Civilă nr. 20 din 08.09.1976, Viena, privind eliberarea extraselor multilingve de pe actele de stare civilă de către organele competente ale următoarelor state străine: Bosnia<span style=\"color: black;\"> și Herțegovina Confederația Elvețiană Marele Ducat al Luxemburgului Muntenegru Regatul Belgiei Regatul Spaniei Regatul Țărilor de Jos Republica Bulgaria Republica Capului Verde Republica Croația Republica Turcia Republica Estonia Republica Federală Germania Republica Franceză Republica Italiană Republica Lituania Republica Macedonia Republica Moldova Republica Polonă Republica Portugheză Republica Serbia Republica Slovenia România;</span></li><li class=\"ql-align-justify\">documentele statelor membre ale Comunității Statelor Independente;</li><li class=\"ql-align-justify\">documentele statelor cu care Republica Moldova are încheiate tratate bilaterale, inclusiv prin succesiune: Letonia, Lituania, România, Republica Cehă, Republica Slovacă, Republica Ungaria.&nbsp;</li></ul><p class=\"ql-align-justify\">Programarea prealabilă pentru solicitarea serviciilor în subdiviziunile teritoriale ale ASP este disponibilă accesând link-ul: <a href=\"https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro\" rel=\"noopener noreferrer\" target=\"_blank\">https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro</a></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "9a09e1ca-6898-4fd5-99c4-ef171248e346",
+      "code": "015000105",
+      "title": { "ro": "Certificat explicativ", "ru": null, "en": null },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">Serviciul de eliberare a certificatului explicativ face parte din categoria serviciilor de eliberare a documentelor de stare civilă care au drept scop confirmarea sau infirmarea autenticității unor acte sau documente de stare civilă, precum și întru explicarea modului, condițiilor și altor aspecte legate de înregistrarea actelor și faptelor de stare civilă.</p><p class=\"ql-align-justify\"><strong>Certificatul explicativ (din domeniul stare civilă) se eliberează în temeiul cererii:</strong></p><ul><li class=\"ql-align-justify\">persoanei fizice: cetăţean al Republicii Moldova, cetăţean străin, apatrid;</li><li class=\"ql-align-justify\">rudelor de gradul I-II (dovada gradului de rudenie se face cu actele de stare civilă sau cu certificatele de stare civilă);</li><li class=\"ql-align-justify\">reprezentantului legal al persoanei limitate în capacitatea de exerciţiu sau cu privire la care a fost instituită măsura de ocrotire judiciară prin hotărârea instanţei judecătoreşti (tutorele sau curatorul);</li><li class=\"ql-align-justify\">reprezentantului împuternicit prin procură autentificată notarial <span style=\"color: rgb(102, 102, 102);\">sau prin împuternicirea de reprezentare electronică acordată prin MPower în baza semnăturii electronice,</span> din numele persoanei fizice, cetăţean al Republicii Moldova.</li></ul><p class=\"ql-align-justify\">Programarea prealabilă pentru solicitarea serviciilor în subdiviziunile teritoriale ale ASP este disponibilă accesând link-ul: <a href=\"https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro\" rel=\"noopener noreferrer\" target=\"_blank\">https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro</a></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "cc30320e-7ff2-4a7b-8fdc-af9ab8cad6af",
+      "code": "015000134",
+      "title": {
+        "ro": "Certificat privind starea civilă",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Certificatul de starea civilă este actul oficial eliberat pentru confirmarea stării civile a persoanei, cetăţean al Republicii Moldova (celibatar, divorţat sau văduv), care se eliberează pe un termen de 6 luni de la data eliberării.</p><p>Certificatul de starea civilă se eliberează pentru a fi prezentat autorităților competente de înregistrarea actelor de căsătorie din străinătate în vederea confirmării stării civile a persoanei fizice, cetăţean al Republicii Moldova.</p><p><strong>Certificatul de starea civilă se eliberează în temeiul cererii solicitantului:</strong></p><ul><li>persoanei fizice, cetăţean al Republicii Moldova;</li><li>rudelor de gradul I-II (dovada gradului de rudenie se face cu actele de stare civilă sau cu certificatele de stare civilă);</li><li>reprezentantului legal al persoanei limitate în capacitatea de exerciţiu sau cu privire la care a fost instituită măsura de ocrotire judiciară prin hotărârea instanţei judecătoreşti (tutorele sau curatorul);</li><li class=\"ql-align-justify\">reprezentantului împuternicit prin procură autentificată notarial din numele persoanei fizice, cetăţean al Republicii Moldova.</li></ul><p class=\"ql-align-justify\">Programarea prealabilă pentru solicitarea serviciilor în subdiviziunile teritoriale ale ASP este disponibilă accesând link-ul: <a href=\"https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro\" rel=\"noopener noreferrer\" target=\"_blank\">https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro</a></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "577b331f-368f-4b33-b085-cbe36206361c",
+      "code": "004000017",
+      "title": {
+        "ro": "Certificat/duplicat al certificatului de adopție",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>Certificatul de adopţie</p><p>Duplicatul certificatul de adopţie reprezintă documentul eliberat persoanei fizice în urma confirmării înregistrării actului de adopţie.</p><p>Duplicatul certificatului de adopţie se eliberează pe baza actului de adopţie, în temeiul cererii solicitantului:</p><ul><li>părintelui adoptiv (adoptator);</li><li>titularului actului (persoanei adoptate), cu autorizarea instanţei judecătoreşti privind accesul la informaţiile referitoare la identitatea părinţilor biologici;</li><li>titularului actului, cu acordul în scris al părinţilor adoptivi (adoptatori) sau al autorităţii tutelare teritoriale.</li></ul><p><em>Notă: Începând cu 17.08.2001, data intrării în vigoare a Legii nr. 100-XV din 26 aprilie 2001 privind actele de stare civilă, acte de adopţie nu se întocmesc. Înregistrarea faptului adopţiei are loc în temeiul hotărârii instanţei judecătoreşti privind încuviinţarea adopţiei, prin înscrierea menţiunii respective, după caz, a modificării datelor despre părinţi şi copil în actul de naştere, cu eliberarea unui nou certificat de naştere.</em></p><p>Programarea prealabilă pentru solicitarea serviciilor în subdiviziunile teritoriale ale ASP este disponibilă accesând link-ul: <a href=\"https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro\" rel=\"noopener noreferrer\" target=\"_blank\">https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro</a></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "0866bbbf-f1fc-46fe-83d9-61c846336dd1",
+      "code": "015000338",
+      "title": {
+        "ro": "Certificat/duplicat al certificatului de divorț",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\"><strong>Certificatul de divorț</strong></p><p class=\"ql-align-justify\">Prin certificat de divorț se înțelege documentul eliberat persoanei fizice (cetăţean al Republicii Moldova, cetăţean străin, apatrid) în urma înregistrării actului de divorț sau modificării acestuia.</p><p class=\"ql-align-justify\">Certificatul de divorț se eliberează ca rezultat al operării unor modificări a datelor din actul de divorț care se înscriu în conținutul certificatului de divorț. Pe formularul certificatului de divorț eliberat după modificarea actului de divorț nu se aplică inscripția \"Duplicat\". Certificatul de divorț eliberat după modificarea actului de divorț este însoțit de avizul privind modificarea sau anularea actului de divorț.</p><p class=\"ql-align-justify\"><strong>Duplicatul certificatului de divorț</strong></p><p class=\"ql-align-justify\">Prin duplicatul certificatului de divorț se înțelege certificatul de divorț eliberat repetat în temeiul actului de divorț (în următoarele cazuri: la deteriorarea certificatului; la pierderea certificatului; la solicitarea certificatului de model nou în legătură cu transcrierea acestuia în grafie latină). Duplicatele certificatelor de divorț se eliberează la solicitare şi au aceeaşi valoare juridică ca şi certificatele eliberate la momentul înregistrării actului de divorț.</p><p class=\"ql-align-justify\"><strong>Certificatul/duplicatul certificatului de divorț se eliberează în temeiul cererii solicitantului:</strong></p><ul><li class=\"ql-align-justify\">persoanei fizice: cetăţean al Republicii Moldova, cetăţean străin, apatrid;</li><li class=\"ql-align-justify\">rudelor de gradul I-II (dovada gradului de rudenie se face cu actele de stare civilă sau cu certificatele de stare civilă);</li><li class=\"ql-align-justify\">reprezentantului legal al persoanei limitate în capacitatea de exerciţiu sau cu privire la care a fost instituită măsura de ocrotire judiciară prin hotărârea instanţei judecătoreşti (tutorele sau curatorul);</li><li class=\"ql-align-justify\">reprezentantului împuternicit prin procură autentificată notarial <span style=\"color: rgb(102, 102, 102);\">sau prin împuternicirea de reprezentare electronică acordată prin MPower în baza semnăturii electronice,</span> din numele persoanei fizice, cetăţean al Republicii Moldova.</li></ul><p class=\"ql-align-justify\">Programarea prealabilă pentru solicitarea serviciilor în subdiviziunile teritoriale ale ASP este disponibilă accesând link-ul: <a href=\"https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro\" rel=\"noopener noreferrer\" target=\"_blank\">https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro</a></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "ee03b839-dc55-42f2-b6ca-fcc4041453d4",
+      "code": "015000325",
+      "title": {
+        "ro": "Certificat/duplicat al certificatului de naștere",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\"><strong>Certificatul de naștere</strong></p><p class=\"ql-align-justify\">Prin certificat de naștere se înțelege documentul eliberat persoanei fizice (cetăţean al Republicii Moldova, cetăţean străin, apatrid) în urma înregistrării actului de naștere sau modificării acestuia.</p><p class=\"ql-align-justify\">Certificatul de naștere se eliberează ca rezultat al operării unor modificări a datelor din actul de naștere care se înscriu în conținutul certificatului de naștere. Pe formularul certificatului de naștere eliberat după modificarea actului de naștere nu se aplică inscripția \"Duplicat\". Certificatul de naștere eliberat după modificarea actului de naștere este însoțit de avizul privind modificarea sau anularea actului de naștere.</p><p class=\"ql-align-justify\"><strong>Duplicatul certificatului de naștere</strong></p><p class=\"ql-align-justify\">Prin duplicatul certificatului de naștere se înțelege certificatul de naștere eliberat repetat în temeiul actului de naștere (în următoarele cazuri: la deteriorarea certificatului; la pierderea certificatului; la solicitarea certificatului de model nou în legătură cu transcrierea acestuia în grafie latină). Duplicatele certificatelor de naștere se eliberează la solicitare şi au aceeaşi valoare juridică ca şi certificatele eliberate la momentul înregistrării actului de naștere.</p><p class=\"ql-align-justify\"><strong>Certificatul/duplicatul certificatului de naștere se eliberează în temeiul cererii solicitantului:</strong></p><ul><li class=\"ql-align-justify\">persoanei fizice: cetăţean al Republicii Moldova, cetăţean străin, apatrid;</li><li class=\"ql-align-justify\">rudelor de gradul I-II (dovada gradului de rudenie se face cu actele de stare civilă sau cu certificatele de stare civilă);</li><li class=\"ql-align-justify\">reprezentantului legal al persoanei limitate în capacitatea de exerciţiu sau cu privire la care a fost instituită măsura de ocrotire judiciară prin hotărârea instanţei judecătoreşti (tutorele sau curatorul);</li><li class=\"ql-align-justify\">reprezentantului împuternicit prin procură autentificată notarial <span style=\"color: rgb(102, 102, 102);\">sau prin împuternicirea de reprezentare electronică acordată prin MPower în baza semnăturii electronice,</span> din numele persoanei fizice, cetăţean al Republicii Moldova.</li></ul><p class=\"ql-align-justify\">Programarea prealabilă pentru solicitarea serviciilor în subdiviziunile teritoriale ale ASP este disponibilă accesând link-ul: <a href=\"https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro\" rel=\"noopener noreferrer\" target=\"_blank\">https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro</a></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "514b9004-3c95-4f0d-8c58-aaf59b48b7b7",
+      "code": "004000020",
+      "title": {
+        "ro": "Certificat/duplicat al certificatului de paternitate",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>Duplicatul certificatului de stabilire a paternității reprezintă documentul eliberat persoanei fizice în urma confirmării înregistrării actului de stabilire a paternităţii.</p><p>Duplicatul certificatului de stabilire a paternităţii se eliberează pe baza actului de stabilire a paternităţii, în temeiul cererii solicitantului:</p><ul><li>persoanei fizice: cetăţean al Republicii Moldova, apatridului, cetăţeanului străin cu şedere legală pe teritoriul ţării;&nbsp;</li><li>rudelor de gradul I-II (dovada gradului de rudenie se face cu actele de stare civilă sau cu certificatele de stare civilă);</li><li>reprezentantului legal al persoanei limitate în capacitatea de exerciţiu sau cu privire la care a fost instituită măsura de ocrotire judiciară prin hotărârea instanţei judecătoreşti (tutorele sau curatorul);</li><li>reprezentantului împuternicit prin procură autentificată notarial sau prin împuternicirea de reprezentare electronică acordată prin MPower în baza semnăturii electronice, din numele persoanei fizice, cetăţean al Republicii Moldova.</li></ul><p><em>Notă: Începând cu 17.08.2001, data intrării în vigoare a Legii nr. 100-XV din 26 aprilie 2001 privind actele de stare civilă, acte de stabilire a paternității nu se întocmesc. Înregistrarea faptului recunoașterii paternității copilului are loc prin înscrierea persoanei în calitate de tată în actul de naştere, după caz, modificarea numelui copilului cu eliberarea unui nou certificat de naştere.</em></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "5d3942ff-e9a0-4981-80ff-f017687c704a",
+      "code": "015000341",
+      "title": {
+        "ro": "Certificat/duplicat al certificatului de schimbare a numelui şi/sau prenumelui",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p><strong>Certificatul de schimbare a numelui şi/sau prenumelui</strong></p><p>Prin certificatul de schimbare a numelui şi/sau prenumelui se înţelege documentul eliberat persoanei fizice în urma schimbării numelui şi/sau prenumelui în procedură administrativă, ca rezultat al întocmirii actului de stare civilă respectiv.</p><p>Certificatul de schimbare a numelui şi/sau prenumelui se eliberează pe baza actului de schimbare a numelui şi/sau prenumelui, în temeiul cererii solicitantului:</p><ul><li>persoanei fizice: cetăţean al Republicii Moldova, apatridului, cetăţeanului străin cu şedere legală pe teritoriul ţării;&nbsp;</li><li>rudelor de gradul I-II (dovada gradului de rudenie se face cu actele de stare civilă sau cu certificatele de stare civilă);</li><li>reprezentantului legal al persoanei limitate în capacitatea de exerciţiu sau cu privire la care a fost instituită măsura de ocrotire judiciară prin hotărârea instanţei judecătoreşti (tutorele sau curatorul);</li><li class=\"ql-align-justify\">reprezentantului împuternicit prin procură autentificată notarial sau prin împuternicirea de reprezentare electronică acordată prin MPower în baza semnăturii electronice, din numele persoanei fizice, cetăţean al Republicii Moldova.</li></ul><p class=\"ql-align-justify\">Programarea prealabilă pentru solicitarea serviciilor în subdiviziunile teritoriale ale ASP este disponibilă accesând link-ul: <a href=\"https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro\" rel=\"noopener noreferrer\" target=\"_blank\">https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro</a></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "3f004ecc-00eb-44cf-850b-81f6b8cb795b",
+      "code": "015000228",
+      "title": {
+        "ro": "Examinarea cererii privind schimbarea numelui și/sau prenumelui, și/sau patronimicului, cu eliberarea certificatului respectiv.",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>Numele de familie şi prenumele constituie atributele de baza prin care se identifică persoana concretă şi care se înscriu în mod obligatoriu în actele de stare civilă şi în alte acte oficiale conform legislaţiei naţionale. Schimbarea numelui de familie nu este un drept absolut al persoanei fizice, acesta fiind strict reglementat de prevederile legale. Persoana care a împlinit vârsta de 16 ani are dreptul să-şi schimbe numele de familie şi/sau prenumele. Numele de familie şi/sau prenumele pot fi schimbate numai în baza următoarelor motive temeinice: </p><ul><li>pronunţarea dificilă, dacă acestea sunt formate din expresii indecente, lipsite de eufonie, ridicole, precum şi dacă au fost transformate (schimonosite) prin traducere; </li><li>dorinţa de a avea numele de familie şi/sau prenumele corespunzător naţionalităţii solicitantului; </li><li>solicitarea unui nume de familie simplu în locul numelui de familie dublu; </li><li>dorinţa persoanei de a avea acelaşi nume de familie ca şi numele de familie al soţului sau să alăture la numele de familie al său numele de familie al soţului, în cazul când nu a făcut-o la căsătorie; </li><li>dorinţa de a reveni la numele de familie al său de până la căsătorie în cazul când nu a făcut-o la divorţ; dorinţa de a purta numele de familie al tatălui (mamei) vitreg sau altei persoane, care a participat la educaţia solicitantului; </li><li>alte motive, dacă acestea vor fi recunoscute întemeiate, justificate prin prezentarea unor documente oficiale probatorii.</li></ul>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "be3520bb-ab94-4f5a-934d-2e0affb081ea",
+      "code": "015000406",
+      "title": { "ro": "Extras de pe actul de divorț", "ru": "", "en": "" },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">Prin extrasul de pe actul de divorț se înțelege documentul eliberat în temeiul actului de divorț, care conţine informaţii din conţinutul acestuia, eliberarea căruia este condiţionată, de regulă, de stingerea unor drepturi şi obligaţii ce rezultă din înscrierile din registrele de stare civilă.</p><p class=\"ql-align-justify\">Extrasele de pe actele de divorț reprezintă acte care fac dovada stării civile a persoanei fizice <span style=\"color: rgb(102, 102, 102);\">(cetăţean al Republicii Moldova, cetăţean străin, apatrid)</span>.</p><p class=\"ql-align-justify\"><strong>Extrasele de pe actele de divorț se eliberează, la cerere, în următoarele cazuri:</strong></p><ul><li class=\"ql-align-justify\">identificarea neconcordanţei datelor din actul de stare civilă cu datele ce figurează în actele de identitate ale titularului;</li><li class=\"ql-align-justify\">la cererea instanţelor judecătoreşti, a procuraturii, a organelor de urmărire penală, a autorităţii tutelare, precum şi la cererea altor organe de stare civilă.</li></ul><p class=\"ql-align-justify\"><strong>Extrasul de pe actul de divorț se eliberează în temeiul cererii:</strong></p><ul><li class=\"ql-align-justify\"><span style=\"color: rgb(102, 102, 102);\">persoanei fizice: cetăţean al Republicii Moldova, cetăţean străin, apatrid;</span></li><li class=\"ql-align-justify\">rudelor de gradul I-II (dovada gradului de rudenie se face cu actele de stare civilă sau cu certificatele de stare civilă);</li><li class=\"ql-align-justify\">reprezentantului legal al persoanei limitate în capacitatea de exerciţiu sau cu privire la care a fost instituită măsura de ocrotire judiciară prin hotărârea instanţei judecătoreşti (tutorele sau curatorul);</li><li class=\"ql-align-justify\">reprezentantului împuternicit prin procură autentificată notarial, <span style=\"color: rgb(102, 102, 102);\">sau prin consemnarea împuternicirilor în baza semnăturii electronice (MPower),</span> din numele persoanei fizice, cetăţean al Republicii Moldova.</li></ul><p class=\"ql-align-justify\">Programarea prealabilă pentru solicitarea serviciilor în subdiviziunile teritoriale ale ASP este disponibilă accesând link-ul: <a href=\"https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro\" rel=\"noopener noreferrer\" target=\"_blank\">https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro</a></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "12d818f5-2a6b-4183-9959-fa96a23743f1",
+      "code": "015000383",
+      "title": { "ro": "Extras de pe actul de naștere", "ru": "", "en": "" },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">Prin extrasul de pe actul de naștere se înțelege documentul eliberat în temeiul actului de naștere, care conţine informaţii din conţinutul acestuia, eliberarea căruia este condiţionată, de regulă, de stingerea unor drepturi şi obligaţii ce rezultă din înscrierile din registrele de stare civilă.</p><p class=\"ql-align-justify\">Extrasele de pe actele de naștere reprezintă acte care fac dovada stării civile a persoanei fizice <span style=\"color: rgb(102, 102, 102);\">(cetăţean al Republicii Moldova, cetăţean străin, apatrid)</span>.</p><p class=\"ql-align-justify\"><strong>Extrasele de pe actele de naștere se eliberează, la cerere, în următoarele cazuri:</strong></p><ul><li class=\"ql-align-justify\">necesitatea dovedirii înregistrării naşterii unei persoane decedate;&nbsp;</li><li class=\"ql-align-justify\">necesitatea dovedirii înregistrării naşterii copilului de către părinţii decăzuţi din drepturi părinteşti;&nbsp;</li><li class=\"ql-align-justify\">identificarea neconcordanţei datelor din actul de stare civilă cu datele ce figurează în actele de identitate ale titularului;</li><li class=\"ql-align-justify\">la cererea instanţelor judecătoreşti, a procuraturii, a organelor de urmărire penală, a autorităţii tutelare, precum şi la cererea altor organe de stare civilă.</li></ul><p class=\"ql-align-justify\"><strong>Extrasul de pe actul de naștere se eliberează în temeiul cererii:</strong></p><ul><li class=\"ql-align-justify\"><span style=\"color: rgb(102, 102, 102);\">persoanei fizice: cetăţean al Republicii Moldova, cetăţean străin, apatrid;</span></li><li class=\"ql-align-justify\">rudelor de gradul I-II (dovada gradului de rudenie se face cu actele de stare civilă sau cu certificatele de stare civilă);</li><li class=\"ql-align-justify\">reprezentantului legal al persoanei limitate în capacitatea de exerciţiu sau cu privire la care a fost instituită măsura de ocrotire judiciară prin hotărârea instanţei judecătoreşti (tutorele sau curatorul);</li><li class=\"ql-align-justify\">reprezentantului împuternicit prin procură autentificată notarial, <span style=\"color: rgb(102, 102, 102);\">sau prin consemnarea împuternicirilor în baza semnăturii electronice (MPower),</span> din numele persoanei fizice, cetăţean al Republicii Moldova.</li></ul><p class=\"ql-align-justify\">Programarea prealabilă pentru solicitarea serviciilor în subdiviziunile teritoriale ale ASP este disponibilă accesând link-ul: <a href=\"https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro\" rel=\"noopener noreferrer\" target=\"_blank\">https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro</a></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "426ec08d-2b5e-4aea-96f4-32a605c70a39",
+      "code": "015000419",
+      "title": {
+        "ro": "Extras de pe actul de schimbare a numelui şi/sau prenumelui",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p><strong>Extrasul de pe actul de schimbare a numelui şi/sau prenumelui</strong></p><p>Prin extrasul de pe actul de schimbare a numelui şi/sau prenumelui se înţelege documentul eliberat persoanei fizice în urma schimbării numelui şi/sau prenumelui în procedură administrativă, ca rezultat al întocmirii actului de stare civilă respectiv.</p><p><strong>Extrasele de pe actele de schimbare a numelui şi/sau prenumelui se eliberează, la cerere, în următoarele cazuri:</strong></p><ul><li>necesitatea dovedirii înregistrării schimbării a numelui şi/sau prenumelui;&nbsp;</li><li>identificarea neconcordanţei datelor din actul de stare civilă cu datele ce figurează în actele de identitate ale titularului;</li><li>la cererea instanţelor judecătoreşti, a procuraturii, a organelor de urmărire penală, a autorităţii tutelare, precum şi la cererea altor organe de stare civilă.</li></ul><p><strong>Extrasul de pe actul de schimbare a numelui şi/sau prenumelui </strong><strong style=\"color: rgb(102, 102, 102);\">se eliberează în temeiul cererii solicitantului</strong><strong>:</strong></p><ul><li>persoanei fizice: cetăţean al Republicii Moldova, apatridului, cetăţeanului străin cu şedere legală pe teritoriul ţării;&nbsp;</li><li>rudelor de gradul I-II (dovada gradului de rudenie se face cu actele de stare civilă sau cu certificatele de stare civilă);</li><li>reprezentantului legal al persoanei limitate în capacitatea de exerciţiu sau cu privire la care a fost instituită măsura de ocrotire judiciară prin hotărârea instanţei judecătoreşti (tutorele sau curatorul);</li><li class=\"ql-align-justify\">reprezentantului împuternicit prin procură autentificată notarial sau prin împuternicirea de reprezentare electronică acordată prin MPower în baza semnăturii electronice, din numele persoanei fizice, cetăţean al Republicii Moldova.</li></ul><p class=\"ql-align-justify\">Programarea prealabilă pentru solicitarea serviciilor în subdiviziunile teritoriale ale ASP este disponibilă accesând link-ul: <a href=\"https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro\" rel=\"noopener noreferrer\" target=\"_blank\">https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro</a></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "0af27bb3-6323-4202-86c3-d1d08409acb5",
+      "code": "015000176",
+      "title": {
+        "ro": "Extras din Registrul de stat al populaţiei",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">Extras din registru – reprezintă reproducerea unei părți din resursele informaționale referitoare la cetățenia Republicii Moldova, eliberarea actelor de identitate și evidența populației, pe suport de hârtie, eliberată pe foaia cu antet a subdiviziunii structurale prestatoare de servicii:</p><p class=\"ql-align-justify\"><strong>1. Eliberarea extrasului din Registrul de stat al populaţiei sau din </strong><strong style=\"color: black;\">alte resurse informaționale ale Agenției Servicii Publice</strong><strong> pe suport de hârtie autorităţilor publice şi altor categorii de persoane juridice şi fizice pentru care prestarea serviciilor informaţionale în mod gratuit este expres stabilită prin lege </strong></p><p class=\"ql-align-justify\">Extrasele din Registrul de stat al populaţiei sau din alte resurse informaționale ale Agenției Servicii Publice referitor la cetăţenia Republicii Moldova, eliberarea actelor de identitate şi evidenţa populaţiei. se prezintă gratuit persoanelor juridice şi fizice pentru care prestarea serviciilor informaţionale în mod gratuit este expres stabilită prin lege (executorii judecătoreşti, administratorii autorizaţi) pe foaia cu antet a Agenţiei Servicii Publice sau a subdiviziunii structurale prestatoare de servicii, după caz.</p><p class=\"ql-align-justify\"><strong>2. Eliberarea extrasului din Registrul de stat al populaţiei sau din alte resurse informaționale ale Agenției Servicii Publice&nbsp;referitor la cetăţenia Republicii Moldova, eliberarea actelor de identitate şi evidenţa populaţiei, la solicitarea persoanelor juridice de drept privat şi a persoanelor fizice abilitate prin lege să îndeplinească un serviciu de interes public </strong></p><p class=\"ql-align-justify\">Extrasele din Registrul de stat al populaţiei sau din alte resurse informaţionale ale Agenţiei Servicii Publice referitor la cetăţenia Republicii Moldova, eliberarea actelor de identitate şi evidenţa populaţiei, se eliberează, persoanelor juridice de drept privat (inclusiv notarilor, avocaţilor) şi persoanelor fizice abilitate prin lege să îndeplinească un serviciu de interes public, pe foaia cu antet a Agenţiei Servicii Publice sau a subdiviziunii structurale prestatoare de servicii.</p><p class=\"ql-align-justify\">Programarea prealabilă pentru solicitarea serviciilor în subdiviziunile teritoriale ale ASP este disponibilă accesând link-ul: <a href=\"https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro\" rel=\"noopener noreferrer\" target=\"_blank\">https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro</a></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "ae7caba7-701f-47aa-b473-b41fd862d71c",
+      "code": "015000095",
+      "title": {
+        "ro": "Extras multilingv de pe actul de căsătorie",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">Extrasul multilingv de pe actul de căsătorie (plurilingv) reprezintă documentul de stare civilă, eliberat în temeiul actului de căsătorie, destinat utilizării în străinătate, care nu necesită supralegalizare/apostilare şi traducere, în statele care formează domeniul teritorial al Convenţiei Comisiei Internaţionale de Stare Civilă nr.16 semnată la Viena la 8 septembrie 1976.</p><p class=\"ql-align-justify\">Domeniul teritorial al Convenţiei Comisiei Internaţionale de Stare Civilă nr. 16 privind eliberarea extraselor multilingve de pe actele de stare civilă din 8 septembrie 1976: Republica Moldova, Luxemburg, Slovenia, Belgia, Olanda, Croaţia, Spania, Portugalia, Macedonia, Franţa, Elveţia, Bosnia şi Herţogovina, Italia, Turcia, Serbia, Polonia, Muntenegru, România, Bulgaria, Lituania, Germania,&nbsp;Estonia.</p><p class=\"ql-align-justify\"><strong>Extrasul multilingv de pe actul de căsătorie se eliberează în temeiul cererii solicitantului:</strong></p><ul><li class=\"ql-align-justify\"><span style=\"color: rgb(102, 102, 102);\">persoanei fizice: cetăţean al Republicii Moldova, cetăţean străin, apatrid</span>;</li><li class=\"ql-align-justify\">rudelor de gradul I-II (dovada gradului de rudenie se face cu actele de stare civilă sau cu certificatele de stare civilă);</li><li class=\"ql-align-justify\">reprezentantului legal al persoanei limitate în capacitatea de exerciţiu sau cu privire la care a fost instituită măsura de ocrotire judiciară prin hotărârea instanţei judecătoreşti (tutorele sau curatorul);</li><li>reprezentantului împuternicit prin procură autentificată notarial din numele persoanei fizice, cetăţean al Republicii Moldova.</li></ul><p>Programarea prealabilă pentru solicitarea serviciilor în subdiviziunile teritoriale ale ASP este disponibilă accesând link-ul: <a href=\"https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro\" rel=\"noopener noreferrer\" target=\"_blank\">https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro</a></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "6d00f697-0b2b-49d8-ae55-679d6a033acc",
+      "code": "015000396",
+      "title": {
+        "ro": "Extras multilingv de pe actul de naștere",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">Extrasul multilingv de pe actul de naștere (plurilingv) reprezintă documentul de stare civilă, eliberat în temeiul actului de naștere, destinat utilizării în străinătate, care nu necesită supralegalizare/apostilare şi traducere, în statele care formează domeniul teritorial al Convenţiei Comisiei Internaţionale de Stare Civilă nr.16 semnată la Viena la 8 septembrie 1976.</p><p class=\"ql-align-justify\">Domeniul teritorial al Convenţiei Comisiei Internaţionale de Stare Civilă nr. 16 privind eliberarea extraselor multilingve de pe actele de stare civilă din 8 septembrie 1976: Republica Moldova, Luxemburg, Slovenia, Belgia, Olanda, Croaţia, Spania, Portugalia, Macedonia, Franţa, Elveţia, Bosnia şi Herţogovina, Italia, Turcia, Serbia, Polonia, Muntenegru, România, Bulgaria, Lituania, Germania,&nbsp;Estonia.</p><p class=\"ql-align-justify\"><strong>Extrasul multilingv de pe actul de naștere se eliberează în temeiul cererii solicitantului:</strong></p><ul><li class=\"ql-align-justify\"><span style=\"color: rgb(102, 102, 102);\">persoanei fizice: cetăţean al Republicii Moldova, cetăţean străin, apatrid</span>;</li><li class=\"ql-align-justify\">rudelor de gradul I-II (dovada gradului de rudenie se face cu actele de stare civilă sau cu certificatele de stare civilă);</li><li class=\"ql-align-justify\">reprezentantului legal al persoanei limitate în capacitatea de exerciţiu sau cu privire la care a fost instituită măsura de ocrotire judiciară prin hotărârea instanţei judecătoreşti (tutorele sau curatorul);</li><li>reprezentantului împuternicit prin procură autentificată notarial din numele persoanei fizice, cetăţean al Republicii Moldova.</li></ul><p>Programarea prealabilă pentru solicitarea serviciilor în subdiviziunile teritoriale ale ASP este disponibilă accesând link-ul: <a href=\"https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro\" rel=\"noopener noreferrer\" target=\"_blank\">https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro</a></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "ba09733a-7c64-475e-b6c3-d983c429b026",
+      "code": "015000215",
+      "title": { "ro": "Înregistrare divorț", "ru": "", "en": "" },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\"><span style=\"color: black;\">Cetățenii Republicii Moldova pot depune cererea de înregistrare a divorțului la misiunile diplomatice și oficiile consulare:</span></p><ol><li class=\"ql-align-justify\"><span style=\"color: black;\">Înregistrarea divorțului în temeiul cererii comune a soților, în cazurile în care între aceștea nu există neînțelegeri referitoare la partajul proprietății comune în devălmășire, la întreținerea, educația și domiciliul copiilor minori comuni sau la întreținerea unuia dintre soți.</span></li><li class=\"ql-align-justify\"><span style=\"color: black;\">Înregistrarea divorțului în temeiul cererii unuia dintre soți privind desfacerea căsătoriei și al hotărîrii (sentinței) instanței judecătorești, dacă celălalt soț este supus unei măsuri de ocrotire judiciară, este dispărut ori este condamnat la privațiune de liberatate pe un termen mai mare de 3 ani.</span></li><li class=\"ql-align-justify\"><span style=\"color: black;\">Înregistrarea divorțului în temeiul hotărîrii instanței judecătorești cu privire la desfacerea căsătoriei.</span></li></ol><p><br></p><p><strong>*Pentru a afla mai multe informații despre serviciul solicitat, contactați misiunea diplomatică sau oficiul consul al Republicii Molodva din țara în care vă aflați.</strong></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "9790c389-81ff-4477-8e96-ca8ac54bc0d5",
+      "code": "015000079",
+      "title": {
+        "ro": "Înregistrarea schimbării numelui și/sau a prenumelui",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Numele de familie şi prenumele constituie atributele de baza prin care se identifică persoana concretă şi care se înscriu în mod obligatoriu în actele de stare civilă şi în alte acte oficiale conform legislaţiei naţionale. Schimbarea numelui de familie nu este un drept absolut al persoanei fizice, acesta fiind strict reglementat de prevederile art. 49 şi 50 din Legea nr. 100-XV din 26.04.2001 privind actele de stare civilă şi punctelor 99-127 ale Instrucţiunii cu privire la modul de înregistrare a actelor de stare civilă, aprobată prin Ordinul Departamentului Tehnologii Informaţionale nr. 4 din 21.01.2004 (în continuare Instrucţiune).</p><p>Persoana care a împlinit vârsta de 16 ani are dreptul să-şi schimbe numele de familie şi/sau prenumele,numele de familie şi/sau prenumele pot fi schimbate numai în baza următoarelor motive temeinice:</p><p>a) pronunţarea dificilă, dacă acestea sunt formate din expresii indecente, lipsite de eufonie, ridicole, precum şi dacă au fost transformate (schimonosite) prin traducere;</p><p>b) dorinţa de a avea numele de familie şi/sau prenumele corespunzător naţionalităţii solicitantului;</p><p>c) solicitarea unui nume de familie simplu în locul numelui de familie dublu;</p><p>d) dorinţa persoanei de a avea acelaşi nume de familie ca şi numele de familie al soţului sau să alăture la numele de familie al său numele de familie al soţului, în cazul când nu a făcut-o la căsătorie;</p><p>e) dorinţa de a reveni la numele de familie al său de până la căsătorie în cazul când nu a făcut-o la divorţ;</p><p>f) dorinţa de a purta numele de familie al tatălui (mamei) vitreg sau altei persoane, care a participat la educaţia solicitantului;</p><p>g) alte motive, dacă acestea vor fi recunoscute întemeiate, justificate prin prezentarea unor documente oficiale probatorii.&nbsp;</p><p><strong>Atenţie!</strong> <em>Actul de schimbare a numelui este un act personal și se înregistrează, obligatoriu, în prezența solicitantului în termenul legal de o lună, calculat din ultima zi a termenului de prestare a serviciului. În cazul neprezentării în termenul fixat pentru înregistrarea actului de schimbare, Concluzia de schimbare devine nevalabilă și actul de schimbare nu se întocmește. Iar o eventuală revenire la problema schimbării numelui de familie şi/sau a prenumelui va fi posibilă numai după expirarea termenului de 1 an. Orice imposibilitate motivată de prezentare pentru înregistrarea actului de schimbare trebuie adusă la cunoștința organului de stare civilă, cu documente probatorii, pentru a fi posibilă repunerea în termenul de înregistrare a actului de schimbare a numelui și/sau a prenumelui.</em></p><p><em>Cererea pentru schimbarea numelui şi/sau a prenumelui se depune de către solicitant, în ţară, la serviciul stare civilă după domiciliu, inclusiv din cadrul centrului multifuncțional al Agenţiei Servicii Publice, iar în străinătate, la misiunile diplomatice sau oficiile consulare (MDOC) ale Republicii Moldova. În lipsa MDOC în statul de reşedinţă al solicitantului, cererea respectivă poate fi depusă la orice MDOC.</em></p><p>Programarea prealabilă pentru solicitarea serviciilor în subdiviziunile teritoriale ale ASP este disponibilă accesând link-ul: <a href=\"https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro\" rel=\"noopener noreferrer\" target=\"_blank\">https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro</a></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "05f3d7ad-480d-400a-8486-b1520282d948",
+      "code": "015000082",
+      "title": {
+        "ro": "Înregistrarea ulterioară a actului de stare civilă",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">Serviciul de înregistrare ulterioară a actului de stare civilă se prestează în scopul asigurării înregistrării actelor de naştere şi deces în cazul neînregistrării faptelor respective în termenii prevăzuţi de lege.</p><p class=\"ql-align-justify\">Înregistrarea ulterioară a actelor de stare civilă reprezintă o procedură specială realizată prin constituirea dosarului respectiv şi emiterea de către serviciul stare civilă a unui aviz, care se aprobă de către subdiviziunea desemnată în acest sens din cadrul Agenţiei Servicii Publice.</p><p class=\"ql-align-justify\"><br></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "5f5f3841-6c75-4fcd-8358-4fb04bffbb9d",
+      "code": "015000257",
+      "title": {
+        "ro": "Întocmirea și eliberarea actelor de identitate a marinarului pentru cetățenii Republicii Moldova",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>-Efectuarea formalităților procedurale aferente perfectării actelor de identitate a marinarilor.</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "21fc9e60-f69e-49f1-b15d-5275fd683c05",
+      "code": "015000312",
+      "title": {
+        "ro": "Legitimație de participant la lichidarea consecințelor catastrofei de la C.A.E. Cernobîl",
+        "ru": "Удостоверение участника ликвидации последствий катастрофы Чернобольской АЭС",
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Obținerea legitimației de participant la lichidarea consecinţelor catastrofei de la C.A.E. Cernobîl</p>",
+        "ru": "<p>Получение удостоверения участника ликвидации последствий катастрофы Чернобольской АЭС</p>",
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "2ea6f61b-0ac5-45af-9da6-59fb13f641cb",
+      "code": "015000309",
+      "title": {
+        "ro": "Legitimație de veteran al serviciului militar",
+        "ru": "Удостоверение ветерана войнской службы",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p><span style=\"color: black;\">Perfectarea și eliberarea legitimației de veteran al serviciului militar</span></p>",
+        "ru": "<p><span style=\"background-color: rgb(245, 245, 245); color: rgb(0, 0, 0);\">Оформление и выдача удостоверения ветерана военной службы</span></p>",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "a1a5bf82-6582-4e35-a2bd-54eaa87a97f9",
+      "code": "015000299",
+      "title": {
+        "ro": "Legitimaţie de veteran de război",
+        "ru": "Удостоверение ветерана войны",
+        "en": null
+      },
+      "description": {
+        "ro": "Obținerea legitimației de veteran de război şi de membru al familiei acestuia",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "f2a22e6b-87ea-4e7d-b395-b77b5af794ee",
+      "code": "015000053",
+      "title": {
+        "ro": "Modificarea (rectificarea, completarea sau anularea) actului de stare civilă",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Modificarea (rectificarea, completarea sau anularea) actului de stare civilă reprezintă o procedură de modificare a datelor înscrise în actul de stare civilă sau a statutului acestuia de document anulat în temeiul deciziei serviciului stare civilă la solicitarea titularului acestuia sau persoanei îndreptăţite în cazurile:</p><p>•\tlipsei unor date în actele de stare civilă (numele, prenumele, data şi locul naşterii,&nbsp;datele despre părinţi, etc.);</p><p>•\tinexactităţii datelor înscrise în actul de stare civilă;</p><p>•\tidentificării greşelilor care au fost comise la înregistrarea actelor de stare civilă (omisiuni de date şi cuvinte, denaturări etc.);</p><p>•\tneglijării regulilor stabilite pentru înregistrarea actelor respective;</p><p>•\tschimbării numelui şi/sau a prenumelui copilului minor;</p><p>•\tcompletării rubricii privind tatăl din actul de naştere al copilului, modificării sau omiterii datelor respective, în cazul în care rubrica respectivă a fost completată la indicaţia mamei solitare;</p><p>•\trectificării numelui şi/sau prenumelui în legătură cu schimbarea sexului (în caz de hermafroditism);</p><p>•\tidentificării a două acte de stare civilă ca rezultat al înregistrării aceluiaşi fapt juridic;</p><p>•\tîn alte cazuri prevăzute de legislaţie.</p><p><br></p><p><br></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "58eb8aa3-a7d6-421d-b8ea-46ee90ebeec0",
+      "code": "015000066",
+      "title": {
+        "ro": "Reconstituirea actului de stare civilă",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Reconstituirea actului de stare civilă reprezintă o procedură de restabilire a unui act de stare civilă, dacă acesta a fost:&nbsp;</p><ul><li>înregistrat anterior, dar nu s-a păstrat din cauza pierderii integrale sau parțiale a registrelor de stare civilă;&nbsp;</li><li>înregistrat în străinătate, însă nu este posibilă obținerea certificatului de stare civilă sau extrasului de pe acesta.</li></ul><p>Reconstituirea actelor de stare civilă se efectuează în temeiul:</p><ul><li>deciziei Serviciului stare civilă teritorial (în continuare SSC), în cazul prezentării actelor ce confirmă existența anterioară a actului de stare civilă pierdut;&nbsp;</li><li>hotărârii instanței judecătorești privind constatarea faptului înregistrării actului de stare civilă;&nbsp;</li><li>comunicării organelor competente, în cazul reconstituirii actelor de deces pe numele persoanelor represate, decesul cărora s-a produs în locurile de represiune.</li></ul><p>În cazul insuficienței actelor necesare pentru reconstituirea actului de stare civilă, solicitantului se eliberează un aviz care confirmă imposibilitatea reconstituirii actului în procedură administrativă, solicitantul urmând să se adreseze ulterior în instanța de judecată cu cerere privind constatarea faptului care are valoare juridică (constatarea faptului înregistrării actului de stare civilă).&nbsp;</p><p><br></p><p>Programarea prealabilă pentru solicitarea serviciilor în subdiviziunile teritoriale ale ASP este disponibilă accesând link-ul: <a href=\"https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro\" rel=\"noopener noreferrer\" target=\"_blank\">https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro</a></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "33b57576-879b-4f71-9ef8-b14cc6fc6b49",
+      "code": "015000231",
+      "title": {
+        "ro": "Transcrierea actelor de stare civilă",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\"><span style=\"color: black;\">Transcrierea actelor de stare civilă reprezintă o procedură de recunoaştere a actelor de stare civilă ale cetăţenilor Republicii Moldova, înregistrate de către organele competente din străinătate, prin copierea cu exactitate a informaţiei din cuprinsul acestora în registrele de stare civilă ale Republicii Moldova. Actele de stare civilă ale cetăţenilor Republicii Moldova întocmite de către organele competente ale statelor străine au putere doveditoare pe teritoriul statului nostru numai după transcrierea lor în registrele de stare civilă naţionale. Cetăţenii Republicii Moldova sunt obligaţi să declare transcrierea acestor acte de stare civilă, în termen de 6 luni de la întoarcerea în ţară sau de la primirea din străinătate a certificatului de stare civilă, a copiei sau extrasului de pe actul de stare civilă.</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">Se supun transcrierii, în mod obliagtoriu, actele de stare civilă întocmite după 17 august 2001. Certificatele sau extrasele de pe actele de stare civilă întocmite pînă la această dată se prezintă în organele competente ale Republicii doar legalizate/apostilate (în modul stabilit), traduse şi autentificate notarial. La dorinţa solicitanţilor pot fi supuse procedurii de transcriere şi actele de stare civilă întocmite pînă la 17 august 2001. Tipurile actelor de stare civilă care pot fi transcrise sînt limitate la acelea, obligativitatea înregistrării cărora revine organelor de stare civilă din Republica: actele de naştere; actele de căsătorie; actele de desfacere a căsătoriei; actele de schimbare a numelui şi/sau prenumelui; actele de deces.</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">Transcrierea actelor de stare civilă se face în baza copiei, extrasului de pe actul de stare civilă sau certificatului de stare civilă întocmite în străinătate, legalizate în modul stabilit, în funcție de existenţa acordurilor bilaterale sau multilaterale între state. Actele de stare civilă legalizate necesită a fi traduse în limba română şi autentificate notarial sau consular. </span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">Nu necesită supralegalizare sau apostilare şi sunt recunoscute pe teritoriul Republicii Moldova actele de stare civilă eliberate de organele competente din următoarelor state: membre Comunităţii Statelor Independente, Letonia, Lituania, România, Republica Cehă, Republica Slovacă.</span></p><p class=\"ql-align-justify\">Extrasele multilingve de pe actele de naştere, căsătorie şi deces produc efecte juridice fără a fi supralegalizate, apostilate sau traduse, care sunt emise de organele competente din următoarelor state: Germania, Belgia, Spania, Franţa, Italia, Polonia, Bulgaria, Lituania, Luxemburg, Olanda, Portugalia, Elveţia, Turcia, Muntenegru, Cap Verde, Slovenia, Croaţia, Macedonia, Bosnia şi Herţegovina, Serbia, Austria, Estonia, România. </p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "accb5282-4694-4a9d-a996-031a0e5578d9",
+      "code": "015000037",
+      "title": {
+        "ro": "Transcrierea actului de stare civilă",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">Transcrierea actului de stare civilă reprezintă procedura prin care actele de stare civilă emise în străinătate pe numele cetăţenilor Republicii Moldova sunt înregistrate în registrele actelor de stare civilă naţionale.</p><p class=\"ql-align-justify\">Cetăţeanul Republicii Moldova este obligat să declare transcrierea actului de stare civilă, în termen de 6 luni de la întoarcerea în ţară sau de la primirea din străinătate a certificatului ori a copiei sau a extrasului de pe actul de stare civilă respectiv.</p><p class=\"ql-align-justify\">Transcrierea actelor de stare civilă şi înscrierea menţiunilor primite din străinătate se fac pe baza copiei extrasului de pe actul de stare civilă sau certificatului de stare al ţării respective.</p><p class=\"ql-align-justify\">Documentul&nbsp;emis în străinătate necesită supralegalizare sau apostilare (pentru țările care fac parte la Convenția de la Haga din 1961 cu privire la suprimarea cerinței supra legalizării actelor oficiale străine) şi traducere, dacă nu este stabilit altfel prin tratat/convenţie/acord la care Republica Moldova este parte.</p><p class=\"ql-align-justify\">Pe teritoriul Republicii Moldova produc efecte juridice fără a fi nevoie de supralegalizare/apostilare:</p><p class=\"ql-align-justify\">-&nbsp;extrasele multilingve de pe actele de naștere, căsătorie și deces emise în temeiul Convenţiei Comisiei Internaţionale de Stare Civilă nr. 20 din 08.09.1976, Viena, privind eliberarea extraselor multilingve de pe actele de stare civilă de către organele competente ale următoarelor state străine: Bosnia<span style=\"color: black;\"> și Herțegovina Confederația Elvețiană Marele Ducat al Luxemburgului Muntenegru Regatul Belgiei Regatul Spaniei Regatul Țărilor de Jos Republica Bulgaria Republica Capului Verde Republica Croația Republica Turcia Republica Estonia Republica Federală Germania Republica Franceză Republica Italiană Republica Lituania Republica Macedonia Republica Moldova Republica Polonă Republica Portugheză Republica Serbia Republica Slovenia România</span></p><p class=\"ql-align-justify\">- documentele statelor membre ale Comunității Statelor Independente,</p><p class=\"ql-align-justify\">- documentele statelor cu care Republica Moldova are încheiate tratate bilaterale, inclusiv prin succesiune: Letonia, Lituania, România, Republica Cehă, Republica Slovacă, Republica Ungaria.</p><p class=\"ql-align-justify\">&nbsp;</p><p class=\"ql-align-justify\">Nu se supun procedurii transcrierii acte/documente ce vizează fapte de stare civilă, produse în condiţiile legislaţiei statelor străine şi care se confirmă prin înscrisuri oficiale, eliberate de către autorităţile străine cu caracter religios, notarial, privat (contracte, hotărâri ale instanţelor judecătoreşti/curţilor, etc.).</p><p class=\"ql-align-justify\">Documentele respective se recunosc valabile pe teritoriul Republicii Moldova cu condiţia supralegalizării sau apostilării acestora în modul stabilit, dacă tratatele internaţionale la care Republica Moldova este parte nu prevăd altfel şi se prezintă la organele competente din Republica Moldova pentru a fi luat drept bază la apariţia, modificarea sau încetarea raporturilor civile/familiale, în cazul recunoaşterii faptului căsătoriei potrivit legislaţiei Republicii Moldova.</p><p class=\"ql-align-justify\">În scopul recunoaşterii faptului căsătoriei care nu se supune transcrierii, faptul respectiv se consemnează în conţinutul actului de naştere, în condiţiile în care aceasta a fost încheiată cu respectarea condiţiilor de fond la încheierea căsătoriei prevăzute de art. 11 şi 14 prevăzute de Codul familiei (consimţământul liber exprimat şi neviciat şi vârsta soţilor de 18 ani împliniţi) şi care nu contravin bunelor moravuri şi ordinii publice din Republica Moldova în conformitate cu art. 164 alin. (4) din Codul familiei.</p><p class=\"ql-align-justify\">&nbsp;</p><p class=\"ql-align-justify\">În procesul transcrierii se copiază cu exactitate datele din actul de stare civilă emis în străinătate. În condiţiile în care datele personale ale cetăţenilor Republicii Moldova înscrise în documentele străine contravin datelor din actele de stare civilă aflate în păstrare în fondul arhivistic al registrelor actelor de stare civilă deţinut în cadrul subdiviziunile ASP (în special sub aspectul numelui dobândit prin acte de stare civilă), actele de stare civilă transcrise se supun modificării (a se vedea, Serviciul public „Modificarea actului de stare civilă”).</p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><br></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    }
+  ]
+}

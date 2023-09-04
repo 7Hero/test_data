@@ -1,0 +1,559 @@
+{
+  "category": {
+    "title": { "ro": "Locuință și servicii locale", "ru": null, "en": null },
+    "description": {
+      "ro": "Un set de servicii sau evenimente de viață legate de  înregistrarea proprietății, închirierea și/sau darea în arendă a unei proprietăți, eliberarea permiselor pentru construcții, renovare și reconstrucție",
+      "ru": null,
+      "en": null
+    }
+  },
+  "subcategories": [
+    {
+      "id": "12151cef-d8f4-463a-8664-0120a1bcf866",
+      "title": {
+        "ro": "Permise pentru construcții, renovare și reconstrucție",
+        "ru": null,
+        "en": null
+      }
+    },
+    {
+      "id": "fcfaecdb-9489-45f3-937f-80bed2b5916e",
+      "title": { "ro": "Înregistrarea proprietății", "ru": null, "en": null }
+    },
+    {
+      "id": "60655a12-1b65-4540-93d5-e56abf621167",
+      "title": {
+        "ro": "Servicii de evaluare a unei proprietăți",
+        "ru": null,
+        "en": null
+      }
+    }
+  ],
+  "publicServices": [
+    {
+      "id": "4bbde787-0bac-4eea-a8a9-36c9432c7b9a",
+      "code": "012000380",
+      "title": {
+        "ro": "Acord de desființare a obiectivelor amplasate în zona drumului public și/sau zonele de protecție ale acestuia",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p><span style=\"color: black;\">Desființarea obiectivelor amplasate în zona drumului public și/sau în zonele de protecție ale acestuia se efectuează în baza autorizației de desființare emise cu acordul de desființare al administratorului drumului public.</span></p><p><span style=\"color: black;\">&nbsp;</span></p><p><span style=\"color: black;\">Notă* Condițiile de desființare a obiectivului în zona drumului național, local de interes raional și/sau în zonele de protecție ale acestora se efectuează conform regulamentului prevăzut în anexa nr. 3. la Legea nr. 509/1995 drumurilor </span><a href=\"(https://www.legis.md/cautare/getResults?doc_id=135035&amp;lang=ro)\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: black;\">(</a><a href=\"(https://www.legis.md/cautare/getResults?doc_id=135035&amp;lang=ro)\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.legis.md/cautare/getResults?doc_id=135035&amp;lang=ro)</a></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "182a4f1f-725e-4dee-b20c-7c2ed78d473b",
+      "code": "012000270",
+      "title": {
+        "ro": "Autorizarea instrumentelor muzicale la Introducerea şi scoaterea valorilor culturale",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">Eliberarea certificatului de autorizare a instrumentului muzical se face în baza cererii clientului, în cazul cînd instrumentul urmează a fi scos din ţară temporar sau definitiv (autorizaţie individuală - valabilă 1 an de zile pentru o singură ţară de destinaţie, autorizaţie de grup-valabilă pentru o singură ieşire din ţară).</p><p class=\"ql-align-justify\">Pentru a obţine certificatul de autorizare a instrumentului muzical este necesar avizul Expertului oficial, care este desemnat prin ordinul ministrului. Expertul oficial poate fi contactat în mod individual la următoarele telefoane, după categorii:&nbsp;</p><p class=\"ql-align-justify\"><strong>Instrumente cu corzi:</strong></p><ol><li class=\"ql-align-justify\">Barladean Mihail – tel: (+373) 22 521 102, mob: (+373) 69 948 063, Palatul Naţional “Nicolae Sulac”;</li><li class=\"ql-align-justify\">Peremitin Veaceslav – tel: (+373) 22 792 697, Liceul-internat Republican de Muzică “Ciprian Porumbescu”;</li><li class=\"ql-align-justify\">Talpalaru Pavel – tel: (+373) 22 747 933,&nbsp;(+373) 22 743 704, mob: (+373) 69 122 724, Şcoala de Muzică „Maria Bieşu”;</li></ol><p class=\"ql-align-justify\"><strong>Pian:</strong></p><ol><li class=\"ql-align-justify\">Bivol Valeriu – tel: (+373) 22 225 404, mob: (+373) 79 245 587;</li><li class=\"ql-align-justify\">Bufteac Ion – tel: (+373) 22 551 955, mob: (+373) 69 153 949, I.P. Sala cu Orgă;</li></ol><p class=\"ql-align-justify\"><strong>Instrumente aerofone:</strong></p><ol><li class=\"ql-align-justify\">Silvestru Ion – tel:&nbsp;(+373) 22 981 670, mob: (+373) 69 042 307, Centrul de excelență în Educație Artistică “Ştefan Neaga”;</li></ol>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "f861176c-1a92-4eeb-9530-26eddc950470",
+      "code": "012000377",
+      "title": {
+        "ro": "Autorizație de amplasare a obiectivelor amplasate în zona drumului public și/sau zonele de protecție ale acestuia",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p><span style=\"color: black;\">Amplasarea obiectivelor care nu periclitează siguranţa circulaţiei în zona drumului public şi/sau în zonele de protecţie ale acestuia se efectuează cu respectarea legislaţiei în vigoare, numai în baza autorizaţiei de amplasare a obiectivului în zona drumului public şi/sau în zonele de protecţie a acestuia, eliberată de către administratorul drumului la solicitarea autorității administrației publice locale în cadrul procedurii de eliberare a certificatului de urbanism pentru proiectare și a autorizației de construire conform Legii nr. 163/2010 privind autorizarea executării lucrărilor de construcţie.</span></p><p><span style=\"color: black;\">&nbsp;</span></p><p><span style=\"color: black;\">Notă* Autorizarea amplasării obiectivului în zona drumului național, local de interes raional și/sau în zonele de protecție ale acestora se efectuează conform regulamentului prevăzut în anexa nr. 3. La legea nr. 509/1995 drumurilor </span><a href=\"https://rsspa.live.egov.md/(https://www.legis.md/cautare/getResults?doc_id=135035&amp;lang=ro)\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: black; background-color: rgb(255, 255, 255);\">(</a><a href=\"https://rsspa.live.egov.md/(https://www.legis.md/cautare/getResults?doc_id=135035&amp;lang=ro)\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">https://www.legis.md/cautare/getResults?doc_id=135035&amp;lang=ro)</a></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "33a6d8e8-c5d4-49c8-8069-92bac2882e1c",
+      "code": "012000160",
+      "title": {
+        "ro": "Aviz pentru participare la licitațiile publice în domeniul executării lucrărilor de construcții",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "Obținerea avizului pentru participare la licitațiile publice în domeniul executării lucrărilor de construcții",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "7013943c-9fc3-4801-84b1-19ba19b5f01d",
+      "code": "012000241",
+      "title": {
+        "ro": "Avizarea documentațiilor de proiect privind edificarea, intervenția sau restaurarea monumentelor de for public",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">Serviciul este prestat de către Ministerul Culturii, în baza deciziei Consiliului naţional pentru monumentele de for public (CNMFP).&nbsp;</p><p class=\"ql-align-justify\">&nbsp;</p><p class=\"ql-align-justify\">Serviciul respectiv constă în examinarea și avizarea documentațiilor de proiect cu propuneri de edificare a unor monumente sau intervenții asupra monumentelor de for public (conservare, restaurare, consolidare). Grupul țință Autoritățile Publice Locale.&nbsp;</p><p class=\"ql-align-justify\">&nbsp;</p><p class=\"ql-align-justify\">Consiliul examinează concepția și ținuta artistică a proiectelor monumentelor de for public și proiectul amenajării terenului aferent și, după caz, avizează proiectele conform fazelor de execuție</p><p><br></p><p><br></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "613e611e-dba1-431f-b6d0-bbf77eb3493c",
+      "code": "012000254",
+      "title": {
+        "ro": "Avizarea documentațiilor de proiect privind intervențiile la imobilele cu statut de monument protejat și proiectele de intervenții în zonele construite protejate",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p><span style=\"color: rgb(0, 0, 0);\">Serviciul este prestat de Ministerul Culturii, în baza deciziei Consilului Național al Monumentelor Istorice (CNMI).&nbsp;&nbsp;Serviciul respectiv constă în examinarea și&nbsp;avizarea documentațiilor de proiect cu propuneri de intervenții asupra monumentelor istorice (conservare, restaurare, reabilitare), asupra imobilelor situate în zonele de protecție a monumentelor istorice și în zonele construite protejate (reconstrucție, construcție nouă). </span></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "4aff4961-07bb-4823-9837-2385bf31a88e",
+      "code": "012000238",
+      "title": {
+        "ro": "Certificat de atestare tehnico-profesională a specialiștilor cu activități în construcții",
+        "ru": "Сертификат о профессионально-технической аттестации специалистов в области строительства",
+        "en": null
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">Atestarea tehnico-profesională a specialiştilor cu activităţi în construcţii constituie o componentă a sistemului calităţii în construcţii şi se efectuează cu scopul respectării actelor normative în construcţii şi asigurării următoarelor exigenţe esenţiale:</p><p class=\"ql-align-justify\">A - rezistenţă şi stabilitate;</p><p class=\"ql-align-justify\">B - siguranţă în exploatare;</p><p class=\"ql-align-justify\">C - siguranţă la foc;</p><p class=\"ql-align-justify\">D - igienă, sănătatea oamenilor, refacerea şi protecţia mediului înconjurător;</p><p class=\"ql-align-justify\">E - izolaţie termică, hidrofugă şi economie de energie;</p><p>F - protecţie împotriva zgomotului;</p><p><span style=\"color: rgb(0, 0, 0);\">G - utilizare sustenabilă a resurselor naturale.</span></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "cff9be0e-754f-418c-a31d-a1052bad2452",
+      "code": "012000018",
+      "title": {
+        "ro": "Certificat privind înscrierile în Registrul bunurilor imobile",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Certificatul despre înscrierile în Registrul bunurilor imobile este o informație privind înscrierile la zi ce se conțin în Registrul bunurilor imobile, care cuprinde date oficiale referitor la bunul imobil identificat prin număr cadastral (adresa sau locul amplasării, suprafața, modul de folosință); titularul dreptului de proprietate şi actele în temeiul cărora a fost înregistrat dreptul de proprietate; date referitor la alte drepturi reale înregistrate, notări şi restricții (grevări, interdicții) instituite asupra bunului imobil şi dreptului de proprietate asupra lui. Certificatul fără&nbsp;datele personale: IDNP și domiciliul titularilor, poate fi solicitat de orice persoană.&nbsp;</p><p>Programarea prealabilă pentru solicitarea serviciilor în subdiviziunile teritoriale ale ASP este disponibilă accesând link-ul: <a href=\"https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro\" rel=\"noopener noreferrer\" target=\"_blank\">https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro</a></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "7b14b7f0-bd07-4977-8890-87da13fb850f",
+      "code": "012000021",
+      "title": {
+        "ro": "Certificat privind valoarea bunului imobil",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">Certificatul privind valoarea bunului imobil este o informaţie privind valoarea estimată a unui bun imobil (teren, clădire sau altă construcţie supusă înregistrării în Registrul bunurilor imobile), calculată conform Culegerii indicilor comasaţi ai valorii de inventariere a bunurilor imobiliare pentru calcularea taxei de stat la efectuarea tranzacţiilor gen cumpărare, vânzare, schimb, donaţie, gaj, moştenire, aprobată de către Ministerul Finanţelor la data de 15 iunie 1997. Certificatul se eliberează pentru bunurile imobile care nu au fost supuse evaluării în scopul impozitării conform HG 670/2003 (case de locuit din localitățile rurale, terenuri agricole).</p><p class=\"ql-align-justify\">Cerinţe faţă de solicitanţi: Orice persoană.</p><p class=\"ql-align-justify\">Programarea prealabilă pentru solicitarea serviciilor în subdiviziunile teritoriale ale ASP este disponibilă accesând link-ul: <a href=\"https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro\" rel=\"noopener noreferrer\" target=\"_blank\">https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro</a></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "ed91d283-15ad-45f2-9b39-445a59b8ca9d",
+      "code": "012000034",
+      "title": {
+        "ro": "Conferirea/modificarea adresei obiectelor adresabile",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">Conferirea/ modificarea&nbsp;adresei pentru o clădire sau încăpere izolată nou construite sau nou-formate în procedura formării bunurilor imobile. Adresa atribuită se înscrie în Registrul de stat al unităților administrativ–teritoriale şi al adreselor şi serveşte drept referinţă pentru alte sisteme informaţionale oficiale ce folosesc datele despre adresa bunului imobil.</p><p class=\"ql-align-justify\">Cerinţe faţă de solicitanţi:</p><ul><li class=\"ql-align-justify\">Titularul dreptului de proprietate asupra bunului imobil.</li><li class=\"ql-align-justify\">Executantul lucrării cadastrale, în cadrul lucrărilor efectuate în baza solicitării proprietarului bunului imobil.</li></ul>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "4991bc80-2b7f-43d3-bb5d-ccffa35a736a",
+      "code": "012000173",
+      "title": {
+        "ro": "Declarația din partea solicitantului privind demararea lucrărilor autorizate de construcție/desființare a obiectului",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p><em>La demararea lucrărilor autorizate de construcție/desființare a obiectului, beneficiarul va depune o declarație (conform anexa nr.1) la Agenția pentru Supraveghere Tehnică întru respectarea prevederilor Legii nr. 163 din 09.07.2010 privind autorizarea executării lucrărilor de construcție.</em></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "35436239-455b-4954-b32b-386f963d777a",
+      "code": "012000076",
+      "title": {
+        "ro": "Efectuarea notărilor în Registrul bunurilor imobile",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">Notarea în Registrul bunurilor imobile a drepturilor de creanţă, faptelor juridice şi raporturilor juridice ce au legătură cu bunul imobil înregistrat (ex. contractul de arendă / locaţiune, antecontractul, interdicţia de înstrăinare sau grevarea dreptului înscris, altele prevăzute de lege). </p><p class=\"ql-align-justify\">Cerinţe faţă de solicitanţi: Serviciul poate fi solicitat de titularul dreptului, de&nbsp;persoana îndreptățită potrivit cadrului legal. În cazul notării contractului de locaţiune / arendă, neautentificat notarial, la ghişeul registratorului se vor prezenta ambele părţi ale contractului<span style=\"color: rgb(102, 102, 102);\">.</span></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "ccc21365-7a14-4b86-b991-7c846c92da29",
+      "code": "012000186",
+      "title": {
+        "ro": "Emiterea concluziei pentru procesele-verbale de recepție la terminarea lucrărilor și recepția finală la obiectele finanțate din bugetul de stat sau bugetele locale",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p><span style=\"color: black;\">Serviciul pentru procedura de recepție (</span><span style=\"color: rgb(51, 51, 51);\">certificarea faptului că executantul şi-a îndeplinit obligaţiile în conformitate cu prevederile contractului şi ale documentaţiei de execuţie, asumîndu-şi, totodată, pentru lucrările executate răspunderea prevăzută de lege</span><span style=\"color: black;\">) </span>a obiectivelor și instalațiilor aferente finanțate din <span style=\"color: rgb(51, 51, 51);\">bugetul de stat sau bugetele locale</span><span style=\"color: black;\"> va avea loc în două etape în baza cererilor model (anexa&nbsp;nr. 1, cerere la terminarea lucrărilor și anexa nr. 2, cerere la recepția finală) care vor fi însoțite de cartea tehnică a obiectivului cap. A, (documentația de proiect cu actele permisive) cap. B, (documentația de execuție) cap. C, (documentația de recepție) și cap. D (documentația de exploatare) conform </span>Hotărârii Guvernului nr. 285/1996 cu privire la aprobarea Regulamentului de recepție a construcţiilor şi instalațiilor aferente.</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "228ee3fc-d114-4e71-a1c3-b72046da3d40",
+      "code": "012000102",
+      "title": {
+        "ro": "Extras din capitolul supliment al Registrului bunurilor imobile",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">Extrasul din capitolul supliment al Registrului bunurilor imobile este eliberat în scopul informării asupra cuantumului valorii estimate în scopul impozitării, calculate în conformitate cu prevederile Codului fiscal, Titlul VI. Este disponibil pentru bunurile imobile care au fost supuse evaluării, conform prevederilor Hotărârii Guvernului nr.670/2003 despre aprobarea Programului de măsuri privind implementarea noului sistem de evaluare a bunurilor imobile în scopul impozitării: apartamente şi alte încăperi izolate cu destinaţie locativă; case de locuit din localităţile urbane şi localităţile rurale din componenta mun. Chişinău şi mun. Bălţi; terenuri din întovărăşirile pomicole şi clădirile amplasate pe ele (căsuţe de vacanţă); garaje pentru transport auto individual; bunuri imobile cu destinaţie comercială şi industrială; terenuri cu destinaţie agricolă cu construcţii amplasate pe ele.</p><p class=\"ql-align-justify\">Cerinţe faţă de solicitanţi: Orice persoană.</p><p class=\"ql-align-justify\">Programarea prealabilă pentru solicitarea serviciilor în subdiviziunile teritoriale ale ASP este disponibilă accesând link-ul: <a href=\"https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro\" rel=\"noopener noreferrer\" target=\"_blank\">https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro</a></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "89c7ec3e-69a0-4d32-be69-a2d41bbb57de",
+      "code": "012000128",
+      "title": {
+        "ro": "Extras din Registrul bunurilor imobile",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">Extrasul din Registrul bunurilor imobile este informaţia oficială care confirmă înscrisurile referitoare la bunul imobil, drepturile şi restricţiile înregistrate şi titularii acestora. Extrasul este solicitat în procesul efectuării tranzacţiei sau altor operaţiuni cu un bun imobil.</p><p class=\"ql-align-justify\"><strong>Cerinţe faţă de solicitanţi:</strong> Titularul dreptului de proprietate, persoana în drept de a înstrăina bunul imobil, soțul al cărui drept nu este înregistrat, potențialul moștenitor sau persoana ce acţionează din numele acestora.</p><p class=\"ql-align-justify\">Programarea prealabilă pentru solicitarea serviciilor în subdiviziunile teritoriale ale ASP este disponibilă accesând link-ul: <a href=\"https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro\" rel=\"noopener noreferrer\" target=\"_blank\">https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro</a></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "668f37a9-e75d-4592-b18a-02af79be9823",
+      "code": "012000335",
+      "title": {
+        "ro": "Informație despre bunurile ce aparțin unei persoane fizice/juridice din banca centrală de date, drepturi active",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\"><em>Cerinţe faţă de solicitanţi:</em></p><p class=\"ql-align-justify\">Titularul dreptului de proprietate asupra bunurilor imobile&nbsp;sau reprezentantul împuternicit al acestuia.</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "4689bd10-843e-4be7-8cff-6ee55fa898b2",
+      "code": "012000351",
+      "title": {
+        "ro": "Informație despre bunurile ce aparțin unei persoane fizice/juridice din banca centrală de date, pentru Programul de stat „Prima casă”",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p><em>Cerinţe faţă de solicitanţi:</em>Titularul dreptului de proprietate asupra bunurilor imobile&nbsp;sau reprezentantul împuternicit al acestuia.</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "213d05b4-de85-4eda-894c-e1e70687bab5",
+      "code": "012000348",
+      "title": {
+        "ro": "Informație despre bunurile ce aparțin unei persoane fizice/juridice din banca centrală de date, toate drepturile",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\"><em>Cerinţe faţă de solicitanţi:</em></p><p class=\"ql-align-justify\">Titularul dreptului de proprietate asupra bunurilor imobile&nbsp;sau reprezentantul împuternicit al acestuia.</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "98392931-ac11-4b73-ba99-3d5921a62cec",
+      "code": "012000157",
+      "title": {
+        "ro": "Informație din Planul național de adrese",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>  Informaţia din Planul naţional de adrese conţine datele referitor la adresa conferită obiectelor informaţionale înregistrate în Registrul de stat al unităţilor adminsitrativ-teritoriale. Conține informația alfa-numerică şi grafică a adresei înregsitrate.</p><p>  Cerinţe faţă de solicitanţi: Orice persoană fără a justifica interesul.</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "55156feb-99f4-4f5a-b784-273f1a7a5770",
+      "code": "012000131",
+      "title": {
+        "ro": "Înregistrarea altor drepturi reale precum ipoteca, superficia, uzufructul, uzul, abitaţia, servitutea, dreptul de folosinţă asupra terenului statului sau unităţii administrative-teritoriale, concesiunea, gestiunea economică, etc.",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">Înregistrarea drepturilor reale limitate și altor drepturi supuse înregistrării (precum ipoteca, superficia, uzufructul, uzul, abitaţia, servitutea, dreptul de folosinţă asupra terenului statului sau unităţii administrative-teritoriale, concesiunea, dreptul de administrare, gestiune economică).</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "63e9a997-2f8a-456a-aa56-312000ab31d3",
+      "code": "012000144",
+      "title": {
+        "ro": "Înregistrarea curentă a dreptului de proprietate",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">Înregistrarea dreptului de proprietate asupra unui bun imobil înregistrat în Registrul bunurilor imobile, dobândit în rezultatul unei tranzacţii sau prin moştenire. Cerinţe faţă de solicitanţi: titularul dreptului înregistrat sau persoana împuternicită în modul stabilit.</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "a278d7f7-0da4-4531-bde8-0623f7e34cf4",
+      "code": "012000199",
+      "title": {
+        "ro": "Înregistrarea documentaţiei de proiect pentru lucrările de construcţie-montare, extindere, reconstrucţie, reutilare tehnică, conservare şi lichidare a obiectelor industriale periculoase",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Solicitarea menționată reprezintă o procedură prevăzută de prevederile Legii nr.116 din 18.05.2012 ,,privind securitatea industrială a obiectelor industrial periculoase*” (Legea nr. 116/2012) Art. 18 alin. (9), lit.f),&nbsp;,,Organul de control şi supraveghere tehnică de stat are următoarele atribuţii principale -înregistrarea documentaţiei de proiect pentru lucrările de construcţie-montare, extindere, reconstrucţie, reutilare tehnică, conservare şi lichidare a obiectelor industriale periculoase”.</p><p>Obligativitatea înregistrării DP a OIP de către&nbsp;autoritatea administrativă Agenția pentru Supraveghere Tehnică în calitate de organ de control şi supraveghere tehnică de stat în domeniul securităţii industriale, pînă la inițierea lucrărilor de construcție-montare la potențialul obiect concret, industrial periculos.</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "bd63eb3f-6a0a-4eb2-8452-6727ad9750ad",
+      "code": "012000092",
+      "title": {
+        "ro": "Înregistrarea dreptului de proprietate asupra bunului imobil nou format",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Înregistrarea dreptului de proprietate asupra unui bun imobil care a apărut în rezultatul desfăşurării procedurii de formare prin metoda comasării mai multor bunuri imobile.&nbsp;</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "7fb3b9a0-e664-49fa-9be0-549fad7eff41",
+      "code": "012000089",
+      "title": {
+        "ro": "Înregistrarea primară selectivă a dreptului de proprietate",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Prima înscriere efectuată în Registrul bunurilor imobile referitor la un bun imobil şi dreptul de proprietate asupra lui. Serviciul este solicitat de către titularul dreptului de proprietate, dobândit în procesul de transmitere în proprietate a terenurilor sau altor bunuri imobile, pentru care nu au fost efectuate lucrări de înregistrare primară masivă în cadrul Programului de stat pentru crearea cadastrului (HG 1030/1998) sau pentru a înregistra bunul&nbsp;nou construit sau format în procedură de formare prin separare, divizare.</p><p>Programarea prealabilă pentru solicitarea serviciilor în subdiviziunile teritoriale ale ASP este disponibilă accesând link-ul: <a href=\"https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro\" rel=\"noopener noreferrer\" target=\"_blank\">https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro</a></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "7fc1e6d6-3c4d-4be1-91ca-91476da54250",
+      "code": "012000209",
+      "title": {
+        "ro": "Notificare privind desfășurarea activităților de executare a lucrărilor de construcție, reconstrucție, consolidare, restaurare, reparație a construcțiilor, rețelelor tehnico-edilitare și drumurilor",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>\t<em>La inițierea activității de executare a lucrărilor de construcție, reconstrucție, consolidare, restaurare, reparație a construcțiilor, rețelelor tehnico-edilitare și drumurilor, agentul economic va notifica Agenția pentru Supraveghere Tehnică întru asigurarea actualizării continuă a Registrului controalelor de stat (Legea nr. 131 din 08.06.2012 privind controlul de stat asupra activității de întreprinzător).</em></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "9383082d-a540-43bb-a1cb-ce7354e79433",
+      "code": "012000212",
+      "title": {
+        "ro": "Notificare privind desfășurarea activităților de proiectare și/sau verificare a documentației de proiect a construcțiilor, a rețelelor tehnico-edilitare și a drumurilor",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>\tLa inițierea activității de proiectare și/sau verificare a documentației de proiect a construcțiilor, a rețelelor tehnico-edilitare și a drumurilor, agentul economic va notifica Agenția pentru Supraveghere Tehnică întru asigurarea actualizării continuă a Registrului controalelor de stat (Legea nr. 131 din 08.06.2012 privind controlul de stat asupra activității de întreprinzător).</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "8b37323d-9001-434b-a23f-6712a1e76d28",
+      "code": "012000319",
+      "title": {
+        "ro": "Plan cadastral al încăperii izolate",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>Plan cadastral încăperii izolate se furnizează pe suport de hârtie şi/sau în format electronic.</p><p>Cerinţe faţă de solicitanţi:</p><p>Planul cadastral al terenului poate fi eliberat oricărei persoane interesate.</p><p>Programarea prealabilă pentru solicitarea serviciilor în subdiviziunile teritoriale ale ASP este disponibilă accesând link-ul: <a href=\"https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro\" rel=\"noopener noreferrer\" target=\"_blank\">https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro</a></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "15c06f3f-c6ae-4328-bd32-9036ea1a1985",
+      "code": "012000322",
+      "title": {
+        "ro": "Plan cadastral al locului de parcare",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>Plan cadastral locului de parcare&nbsp;se furnizează pe suport de hârtie şi/sau în format electronic.</p><p><em>Cerinţe faţă de solicitanţi:</em></p><p>Planul cadastral al terenului poate fi eliberat oricărei persoane interesate.</p><p>Programarea prealabilă pentru solicitarea serviciilor în subdiviziunile teritoriale ale ASP este disponibilă accesând link-ul: <a href=\"https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro\" rel=\"noopener noreferrer\" target=\"_blank\">https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro</a></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "f905e02f-95d1-4b95-af0b-34f29b128236",
+      "code": "012000306",
+      "title": {
+        "ro": "Plan cadastral al terenului cu/fără construcție",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>Plan cadastral al terenului cu/fără construcție<span style=\"color: rgb(102, 102, 102);\"> se furnizează pe suport de hârtie şi/sau în format electronic.</span></p><p class=\"ql-align-justify\"><em>Cerinţe faţă de solicitanţi:</em></p><p class=\"ql-align-justify\">Planul cadastral al terenului poate fi eliberat oricărei persoane interesate.</p><p class=\"ql-align-justify\">Programarea prealabilă pentru solicitarea serviciilor în subdiviziunile teritoriale ale ASP este disponibilă accesând link-ul: <a href=\"https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro\" rel=\"noopener noreferrer\" target=\"_blank\">https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro</a></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "79903a5c-cc91-4aa9-a9b4-b1489a668a32",
+      "code": "012000296",
+      "title": {
+        "ro": "Plan cadastral pentru fiecare sector ulterior",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p><strong>Serviciul este acordat exclusiv, în cazul, dacă se solicită cu serviciul de eliberare a </strong><a href=\"https://servicii.gov.md/ro/service/012000063\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Planului cadastral pentru primul sector cadastral</strong></a>.</p><p>Planul cadastral&nbsp;la nivel de sector cadastral este reprezentare grafică a teritoriului, care conţine date despre amplasament, număr cadastral, şi alte date despre bunul imobil. Planul cadastral la nivel de sector cadastral se furnizează pe suport de hârtie şi/sau în format electronic oricărei persoane care se legitimează cu achitarea serviciului. Potrivit art.8, alin.(31) La solicitarea autorităţii publice locale, planul cadastral al localităţii şi informaţia sistematizată referitoare la terenurile şi dreptul de proprietate asupra lor, înregistrate în hotarul unităţii administrativ-teritoriale respective, se furnizează gratuit, în format electronic, o dată în trimestru.</p><p><br></p><p>Programarea prealabilă pentru solicitarea serviciilor în subdiviziunile teritoriale ale ASP este disponibilă accesând link-ul: <a href=\"https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro\" rel=\"noopener noreferrer\" target=\"_blank\">https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro</a></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "eb6b38ef-f9d6-4dad-80c4-94610ecbfa16",
+      "code": "012000063",
+      "title": {
+        "ro": "Plan cadastral pentru primul sector cadastral",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">Planul cadastral&nbsp;la nivel de sector cadastral este reprezentare grafică a teritoriului, care conţine date despre amplasament, număr cadastral, şi alte date despre bunul imobil. Planul cadastral la nivel de sector cadastral se furnizează pe suport de hârtie şi/sau în format electronic oricărei persoane care se legitimează cu achitarea serviciului. Potrivit art.8, alin.(3<sup>1</sup>) La solicitarea autorităţii publice locale, planul cadastral al localităţii şi informaţia sistematizată referitoare la terenurile şi dreptul de proprietate asupra lor, înregistrate în hotarul unităţii administrativ-teritoriale respective, se furnizează gratuit, în format electronic, o dată în trimestru.</p><p class=\"ql-align-justify\">Programarea prealabilă pentru solicitarea serviciilor în subdiviziunile teritoriale ale ASP este disponibilă accesând link-ul: <a href=\"https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro\" rel=\"noopener noreferrer\" target=\"_blank\">https://programare.asp.gov.md/qwebbook/index.jsp?lang=ro</a></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "51fb9b81-7563-49e9-b7bb-2e3f22cb94b9",
+      "code": "012000364",
+      "title": {
+        "ro": "Prescripții tehnice pentru amplasarea obiectivelor în zona drumului public și/sau în zonele de protecție ale acestuia",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p><span style=\"color: black;\">Eliberarea prescripțiilor tehnice privind amplasarea obiectivului în zona drumului public național și/sau în zonele de protecție ale acestuia – document care se obține la faza de proiectare.</span></p><p><span style=\"color: black;\">&nbsp;</span></p><p><span style=\"color: black;\">Notă* prescripțiile tehnice privind amplasarea obiectivului în zona drumului național, local de interes raional și/sau în zonele de protecție ale acestora se efectuează conform regulamentului prevăzut în anexa nr. 3. La legea nr. 509/1995 drumurilor </span><a href=\"https://rsspa.live.egov.md/(https://www.legis.md/cautare/getResults?doc_id=135035&amp;lang=ro)\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: black; background-color: rgb(255, 255, 255);\">(</a><a href=\"https://rsspa.live.egov.md/(https://www.legis.md/cautare/getResults?doc_id=135035&amp;lang=ro)\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\">https://www.legis.md/cautare/getResults?doc_id=135035&amp;lang=ro)</a></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "596a2044-a4e2-4185-bfd0-4795b6611119",
+      "code": "012000050",
+      "title": {
+        "ro": "Recepția lucrărilor cadastrale",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">Recepţiei sunt supuse toate lucrările cadastrale executate de întreprinderi de stat şi cele private. Recepţia lucrărilor cadastrale se efectuează de organul cadastral teritorial şi constă în verificarea materialelor prezentate de executantul lucrării cadastrale. În urma recepţionării lucrării se actualizează baza de date grafică, iar raportul lucrării se transmite/transferă spre păstrare în arhiva ţinută de Agenţia Servicii Publice.</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "23ee7c92-e0ae-48a8-9bfa-d1899d7f577e",
+      "code": "012000225",
+      "title": {
+        "ro": "Solicitare de participare în calitate de membru al comisiei de recepție a blocurilor locative ce depășesc 5 niveluri, finanțate din mijloace financiare proprietate privată",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p><span style=\"color: black;\">Serviciul pentru procedura de recepție (</span><span style=\"color: rgb(51, 51, 51);\">certificarea faptului că executantul şi-a îndeplinit obligaţiile în conformitate cu prevederile contractului şi ale documentaţiei de execuţie, asumîndu-şi, totodată, pentru lucrările executate răspunderea prevăzută de lege</span><span style=\"color: black;\">) </span>a obiectivelor și instalațiilor aferente finanțate din <span style=\"color: rgb(51, 51, 51);\">mijloace financiare proprietate privată</span><span style=\"color: black;\"> va avea loc într-o singură etapă în baza cererii model (anexa&nbsp;nr. 1, cerere cu privire la de legarea reprezentantului după caz reprezentanților) care vor fi însoțite de cartea tehnică a obiectivului cap. A, (documentația de proiect cu actele permisive) cap. B, (documentația de execuție) cap. C, (documentația de recepție) și cap. D (documentația de exploatare) conform cap. III al </span>Hotărârii Guvernului nr. 285/1996 cu privire la aprobarea Regulamentului de recepție a construcţiilor şi instalațiilor aferente.</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "c3914f20-6ea4-4216-b26c-e47c75067934",
+      "code": "012000047",
+      "title": {
+        "ro": "Titlul de autentificare a dreptului deţinătorului de teren",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">Titlul de autentificare a dreptului deţinătorului de teren, este documentul ce confirmă drepturile deţinătorilor de teren eliberat de autorităţile administraţiei publice locale în cazul atribuirii de către acestea a terenurilor proprietate publică a unităţilor administrativ - teritoriale sau de către Agenţia Proprietăţii Publice în cazul atribuirii de către stat a terenurilor proprietate publică a statului.&nbsp;</p><p class=\"ql-align-justify\">Titlul se completează în baza raportului lucrării cadastrale recepţionate în modul stabilit de Agenţia Servicii Publice, care se prezintă pentru semnare administraţiei autorităţii publice responsabilă de eliberarea titlului, pe teritoriul căruia este amplasat bunul imobil.</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    }
+  ]
+}

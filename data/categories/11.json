@@ -1,0 +1,354 @@
+{
+  "category": {
+    "title": {
+      "ro": "Infracțiuni, justiție și aplicarea legii",
+      "ru": null,
+      "en": null
+    },
+    "description": {
+      "ro": "Un set de servicii sau evenimente de viață legate de procesele juridice, instanțele de judecată și beneficierea de servicii publice",
+      "ru": null,
+      "en": null
+    }
+  },
+  "subcategories": [],
+  "publicServices": [
+    {
+      "id": "4c9d9d32-ee6c-4a4e-a19f-7acca07c7d2d",
+      "code": "006000174",
+      "title": { "ro": "Asigurarea probelor", "ru": "", "en": "" },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">Asigurarea probelor are scopul prevenirii dispariției ori imposibilității administrării în viitor a unei probe utile <span style=\"color: rgb(51, 51, 51);\"> </span>pentru dovedirea pretenţiilor şi justificarea obiecţiilor, precum şi a altor circumstanţe importante pentru justa soluţionare a pricinii într-un viitor proces civil, pentru procedura specială, sau în arbitraj, la cererea persoanelor interesate, notarul efectuează asigurarea probelor, înainte de intentarea procesului în instanţa de judecată sau în arbitraj. </p><p class=\"ql-align-justify\">Pentru a afla mai multe informaţii despre serviciul consular, contactaţi misiunea diplomatică sau oficiul consular al Republicii Moldova din ţara în care vă aflaţi.</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "45d2c277-0bb4-4221-93ea-41f953918b33",
+      "code": "006000190",
+      "title": {
+        "ro": "Cazier judiciar privind verificarea persoanelor fizice sau juridice peste hotare (CSI)",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Obținerea cazierului judiciar privind verificarea persoanelor fizice sau juridice peste hotare (CSI)</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "c59a5b61-cb6e-41e8-9631-488573f6268e",
+      "code": "006000022",
+      "title": {
+        "ro": "Cazier judiciar/ detaliat/ contravenţional pentru persoanele fizice și juridice (de pe teritoriul RM)",
+        "ru": "Справка об отсутствии судимости/ детальная справка о судимостях/ справка о правонарушениях для физических и юридических лиц (с территории Республика Молдова)",
+        "en": "Criminal record/ detailed criminal record/ misdemeanor record for individuals and legal entities (from the territory of the Republic of Moldova)"
+      },
+      "description": {
+        "ro": "<p>Acum puteţi depune cererea pentru obţinerea cazierului judiciar, detaliat sau contravenţional şi online, acestea fiind disponibile atât în format digital, cât şi pe suport fizic, care poate fi livrat pe teritoriul Republicii Moldova și peste hotarele țării prin intermediul serviciului MDelivery. Concomitent, puteţi depune şi solicitarea privind apostilarea actelor comandate.</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "3bdfe02e-1885-4c74-95a8-88c3c3ad0501",
+      "code": "006000271",
+      "title": {
+        "ro": "Certificat de deținător de armă care face obiectul declarării pentru persoana fizică",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p><span style=\"color: rgb(102, 102, 102);\">Document, emis în condițiile legii de autoritatea competentă, prin care se dovedește faptul că titularul a îndeplinit procedura legală de înregistrare a armei la autoritatea competentă.</span></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "980ab719-e500-4da3-af48-56cca21157fc",
+      "code": "006000048",
+      "title": {
+        "ro": "Certificat despre unitatea de transport în căutare locală",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "Obținerea certificatului despre unitatea de transport în căutare",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "09c11cf6-a3f5-4d5f-9d9e-8e95764ff35b",
+      "code": "006000051",
+      "title": {
+        "ro": "Certificat despre unitatea de transport în căutare peste hotare (CSI)",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "Obținerea certificatului privind verificarea persoanelor juridice peste hotare",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "b50ee1b2-ec0d-4484-b13a-236bc3b6f0aa",
+      "code": "006000297",
+      "title": {
+        "ro": "Duplicat al certificatului de armă pentru deținere și/sau, după caz, port și folosire a armei neletale, care face obiectul declarării",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>Obținerea <span style=\"color: rgb(0, 0, 0);\">duplicatului certificatului de armă pentru deținere și/sau, după caz, port și folosire a armei neletale, care face obiectul declarării</span></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "7e5f8b12-a96a-4456-8cad-a3f1b2a6c603",
+      "code": "006000307",
+      "title": {
+        "ro": "Duplicat al certificatului de deținere a armei pentru persoana fizică",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>Obținerea <span style=\"color: rgb(0, 0, 0);\">duplicatului certificatului de deținere a armei pentru persoana fizică</span></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "fa4c0248-f2d1-4d30-9715-2baa995e235f",
+      "code": "006000349",
+      "title": {
+        "ro": "Duplicat al permisului de armă declarat pierdut, sustras, deteriorat",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>Obținerea duplicatului permisului de armă declarat pierdut, sustras, deteriorat</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "13b0169a-4ae5-4063-a90a-598554ed3266",
+      "code": "006000310",
+      "title": {
+        "ro": "Duplicat al permisului de armă, în cazul schimbării locului de domiciliu, a posesorului, pentru persoana fizică",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>Obținerea <span style=\"color: rgb(0, 0, 0);\">duplicatului permisului de armă, în cazul schimbării locului de domiciliu, a posesorului, pentru persoana fizică</span></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "14c1e962-8532-4191-86e9-2beb415237bb",
+      "code": "006000336",
+      "title": {
+        "ro": "Duplicat de permis de armă, valabil numai în exercițiul atribuțiilor de serviciu declarat pierdut, sustras, deteriorat",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "Obținerea duplicatului de permis de armă, valabil numai în exercițiul atribuțiilor de serviciu declarat pierdut, sustras, deteriorat",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "9e986333-2072-44e3-8e15-b1151f213d3d",
+      "code": "006000077",
+      "title": {
+        "ro": "Efectuarea examinării balistice a armelor dezactivate ",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Efectuarea examinării balistice a armelor dezactivate&nbsp;</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "57115d58-25ad-4c26-bd12-3708ef20cad8",
+      "code": "006000161",
+      "title": {
+        "ro": "Efectuarea expertizelor extra-judiciare balistice a armelor și munițiilor",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>Efectuarea expertizelor extra-judiciare balistice a armelor și munițiilor</p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "6880f867-9c4a-4bd6-b93d-8f4739cee0a2",
+      "code": "006000132",
+      "title": {
+        "ro": "Efectuarea tragerii experimentale din armele de foc și marcarea armelor",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "Efectuarea tragerii experimentale",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "b3010be1-09ca-455d-b2a7-4f6dd2996880",
+      "code": "006000064",
+      "title": {
+        "ro": "Eliberarea informațiilor din arhiva Ministerului Afacerilor Interne",
+        "ru": "Выдача информации из архива Министерства Внутренних Дел",
+        "en": "Issuing of information from the archive of the Ministry of Internal Affairs"
+      },
+      "description": {
+        "ro": "<p><span style=\"color: rgb(0, 0, 0);\">Eliberarea informațiilor din arhiva Ministerului Afacerilor Interne</span></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "b46066b1-c8eb-4844-a9a2-37f69526b539",
+      "code": "006000187",
+      "title": {
+        "ro": "Înregistrarea dactiloscopică benevolă ",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p><span style=\"color: rgb(51, 51, 51);\">&nbsp;</span>Dactiloscopierea persoanelor - <span style=\"color: rgb(51, 51, 51);\">activitate, desfăşurată de organele abilitate, privind colectarea, evidenţa, păstrarea, clasificarea, sistematizarea şi furnizarea&nbsp;datei dactiloscopice, stabilirea şi confirmarea identităţii persoanelor.</span></p><p><span style=\"color: rgb(51, 51, 51);\">Înregistrarea dactiloscopică se efectuează pentru&nbsp;</span>\t<span style=\"color: rgb(51, 51, 51);\">stabilirea şi confirmarea identităţii&nbsp;a persoanei, în vederea apărării drepturilor,&nbsp;libertăţilor şi intereselor legitime ale persoanelor fizice şi juridice, pentru protejarea intereselor societăţii şi ale statului.</span></p><p class=\"ql-align-justify\">Poate fi efectuată înregistrare dactiloscopică următoarelor categorii de persoane:</p><p class=\"ql-align-justify\">a) cetăţeni ai Republicii Moldova;</p><p class=\"ql-align-justify\">b) străini care locuiesc pe teritoriul Republicii Moldova şi care au sosit în căutare de azil dacă au depus cerere pentru a li se acorda azil politic ori&nbsp;un altfel de azil sau pentru a li se atribui statut de refugiat.</p><p class=\"ql-align-justify\"><span style=\"color: rgb(51, 51, 51);\">Cetăţenii Republicii Moldova, şi străini au dreptul la înregistrare dactiloscopică benevolă.</span></p><h4 class=\"ql-align-center\"><br></h4><h4 class=\"ql-align-justify\"><span style=\"color: rgb(102, 102, 102);\">Procedura de dactiloscopiere este reglementată de:</span></h4><ul><li class=\"ql-align-justify\"><span style=\"color: rgb(102, 102, 102);\">Legea nr. 1549/2002 cu privire la înregistrarea dactiloscopică de stat; </span></li><li class=\"ql-align-justify\">Hotărârea Guvernului&nbsp;Nr.1310 din 31.10.2003 despre aprobarea Regulamentului cu privire la obţinerea, evidenţa, păstrarea, sistematizarea şi utilizarea informaţiei dactiloscopice şi Listei funcţiilor deţinute de persoanele supuse înregistrării dactiloscopice obligatorii.</li></ul><p class=\"ql-align-justify\"><br></p><p><br></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><br></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "7931865c-d15e-4767-958f-d9a39b78bac6",
+      "code": "006000242",
+      "title": {
+        "ro": "Înregistrarea dactiloscopică obligatorie",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p>\tÎ<em style=\"color: rgb(51, 51, 51);\">nregistrare dactiloscopică de stat</em>\t<span style=\"color: rgb(51, 51, 51);\">&nbsp;– activitate, desfăşurată de organele abilitate, privind colectarea, evidenţa, păstrarea, clasificarea, sistematizarea şi furnizarea&nbsp;datei dactiloscopice, stabilirea şi confirmarea identităţii persoanelor.</span></p><p class=\"ql-align-justify\">\tÎnregistrării dactiloscopice obligatorii sînt supuse următoarele categorii de persoane:</p><p class=\"ql-align-justify\">\t1) cetăţenii Republicii Moldova care își fac serviciul în:</p><p class=\"ql-align-justify\">\ta) Ministerul Afacerilor Interne;</p><p class=\"ql-align-justify\">\tb) Ministerul Apărării;</p><p class=\"ql-align-justify\">\tc) Serviciul de Informaţii şi Securitate;</p><p class=\"ql-align-justify\">\td) Serviciul de Protecţie şi Pază de Stat;</p><p class=\"ql-align-justify\">\t<span style=\"color: rgb(38, 38, 38);\">f)&nbsp;Administraţia Naţională a Penitenciarelor;</span></p><p class=\"ql-align-justify\">\tg) Procuratură;</p><p class=\"ql-align-justify\">\th) Centrul Naţional Anticorupţie;</p><p class=\"ql-align-justify\">\ti) Serviciul Vamal;</p><p class=\"ql-align-justify\">\tj) Serviciul Fiscal de Stat;</p><p class=\"ql-align-justify\">\t2) membrii echipajelor aeronavelor de stat şi private din Republica Moldova;</p><p class=\"ql-align-justify\">\t3) conducătorii mijloacelor de transport auto, cu excepția celor care au renunțat la numărul de identificare de stat;</p><p class=\"ql-align-justify\">\t4) cetăţenii Republicii Moldova, şi străinii care, din motive de sănătate ori de vîrstă, sînt&nbsp;incapabili să comunice date privind identitatea lor, dacă aceste date nu pot fi obţinute în o altă modalitate;</p><p class=\"ql-align-justify\">\t5) cetăţenii Republicii Moldova, şi străinii care se află sub urmărire penală, care sînt&nbsp;învinuiţi sau condamnaţi pentru infracţiuni ori supuşi arestului contraventional;</p><p class=\"ql-align-justify\">\t6) străinii sosiţi în Republica Moldova în căutare de azil care au depus cerere pentru a li se acorda azil politic ori un alt fel de azil sau pentru a li se atribui statut de refugiat.</p><p class=\"ql-align-justify\">\t&nbsp;Înregistrării dactiloscopice obligatorii sînt supuse toate cadavrele neidentificate.</p><p><br></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "1fe19984-865a-47d5-a088-559f388d382d",
+      "code": "006000352",
+      "title": { "ro": "Permis de armă provizoriu", "ru": null, "en": null },
+      "description": {
+        "ro": "Obținerea permisului de armă provizoriu",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "943abec4-76c1-4d06-b2a1-b36053ac0899",
+      "code": "006000284",
+      "title": {
+        "ro": "Permis de înstrăinare a armei",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "Obținerea permisului de înstrăinare a armei",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "f9681ed0-c30b-4ea4-aa3e-4a282a2c3cf3",
+      "code": "006000200",
+      "title": {
+        "ro": "Permis de procurare a armei de către persoane fizice",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p><strong style=\"color: rgb(102, 102, 102);\">Document, emis în condițiile legii de autoritatea competentă, prin care se atestă dreptul titularului de a cumpăra și deține armă.</strong></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "0a2cd9d0-6b6f-496e-9799-70b8d8024302",
+      "code": "006000239",
+      "title": {
+        "ro": "Permis de transport al armelor și munițiilor pentru persoană juridică",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p><strong style=\"color: rgb(102, 102, 102);\">Document, emis în condițiile legii de autoritatea competentă, prin care se atestă dreptul titularului de a transporta arme și muniții dintr-un loc de păstrare în altul sau de la o persoană juridică la alta pe teritoriul Republicii Moldova ori dreptul la introducerea în țară și scoaterea din țară, la importul și tranzitul acestora.</strong></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "b19813a6-56ac-419c-a0c3-27389a5d420a",
+      "code": "006000365",
+      "title": {
+        "ro": "Permis de transport al armelor/munițiilor pentru scoaterea temporară din țară pentru persoana fizică",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Obținerea permisului de transport <span style=\"color: rgb(0, 0, 0);\">al armelor/munițiilor pentru scoaterea temporară din țară pentru persoana fizică</span></p><p><strong style=\"color: rgb(102, 102, 102);\"><span class=\"ql-cursor\">﻿</span>Document, emis în condițiile legii de autoritatea competentă, prin care se atestă dreptul titularului de a transporta arme și muniții dintr-un loc de păstrare în altul sau de la o persoană juridică la alta pe teritoriul Republicii Moldova ori dreptul la introducerea în țară și scoaterea din țară, la importul și tranzitul acestora.</strong></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "c453be43-37ed-4a3d-9fee-013db58e960f",
+      "code": "006000226",
+      "title": {
+        "ro": "Vizarea permisului de armă de deținere și, după caz, de port al armei pentru persoana fizică",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p><span style=\"color: rgb(0, 0, 0);\">Vizarea permisului de armă de deținere și, după caz, de port al armei pentru persoana fizică</span></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    }
+  ]
+}

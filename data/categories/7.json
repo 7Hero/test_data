@@ -1,0 +1,556 @@
+{
+  "category": {
+    "title": {
+      "ro": "Conducerea unui automobil și transport",
+      "ru": null,
+      "en": null
+    },
+    "description": {
+      "ro": "Un set de servicii sau evenimente de viață legate de obținerea permisului de conducere, înregistrarea unui automobil, vânzarea unui automobil",
+      "ru": null,
+      "en": null
+    }
+  },
+  "subcategories": [],
+  "publicServices": [
+    {
+      "id": "1130f259-88a2-4e32-83f9-67cd9ac3348a",
+      "code": "008000066",
+      "title": {
+        "ro": "Act de coordonare a traseului de transportare a mărfurilor periculoase",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p><span style=\"color: rgb(102, 102, 102);\">Cererea de solicitare se face cu semnătura electronică în sistemul informaţional „e-Autorizație transport”</span></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "79d85b80-cd1f-4b63-8fff-c0dc83ad964c",
+      "code": "008000257",
+      "title": {
+        "ro": "Adeverinţa ce conţine date din Registrul de stat al conducătorilor de vehicule",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Adeverinţa privind:</p><ul><li>confirmarea deținerii dreptului de a conduce, categoriile permiselor de conducere, precum şi permisele de conducere eliberate;</li><li>confirmarea valabilității şi autenticității permisului de conducere deţinut;</li><li>confirmarea nedeținerii dreptului de a conduce mijloace de transport.</li></ul>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "67183cc8-2fd0-4bf5-b58b-a8368d49d9e8",
+      "code": "008000011",
+      "title": {
+        "ro": "Adeverința ce conține date din Registrul de stat al transporturilor",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">Obținerea unui document oficial (adeverinței) ce conține date din Registrul de stat al transporturilor (RST), privind:</p><ul><li class=\"ql-align-justify\">confirmarea înmatriculării transportului sau radierii lui din Registrul de stat al transporturilor;</li><li class=\"ql-align-justify\">confirmarea posesiei transportului de către persoanele fizice și juridice;</li><li class=\"ql-align-justify\">confirmarea lipsei în Registrul de stat al transporturilor a interdicțiilor asupra transportului;</li><li class=\"ql-align-justify\">confirmarea înregistrării în Registrul de stat al transporturilor a interdicțiilor asupra transportului.</li></ul>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "3f35d67b-14bf-45ea-b25a-1855ea27a920",
+      "code": "008000095",
+      "title": {
+        "ro": "Autorizarea activităţii de cîntărire a vehiculelor rutiere în vederea eliberării certificatului internaţional de cîntărire a vehiculului rutier",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">Se definește modul de autorizare pentru desfășurarea activității de cîntărire a vehiculelor rutiere în vederea eliberării certificatului internaţional de cîntărire a vehiculului rutier, precum şi modul în care se va ține evidența autorizaţiilor eliberate</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "2b6a1513-ecca-4bf6-ac14-38b959da0a37",
+      "code": "008000079",
+      "title": {
+        "ro": "Autorizație de transport rutier  în trafic internațional",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p><span style=\"color: rgb(102, 102, 102);\">Autorizația reprezintă permisiunea operatorului de transport rutier să efectueze transporturi auto internaţionale de mărfuri.</span></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "cb59e7d6-1405-424c-85f0-17657efa7b24",
+      "code": "008000082",
+      "title": {
+        "ro": "Autorizație multilaterală CEMT cu carnet de drum (anuală sau pe termen scurt)",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Obținerea autorizațiilor multilaterale CEMT <span style=\"color: rgb(0, 0, 0);\">cu carnet de drum (anuală sau pe termen scurt)</span></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "0454ecb0-d8f8-4c11-b744-a4385a04b191",
+      "code": "008000147",
+      "title": {
+        "ro": "Autorizaţie pentru activitatea de inspecţie tehnică periodică a vehiculelor rutiere",
+        "ru": null,
+        "en": null
+      },
+      "description": { "ro": null, "ru": null, "en": null },
+      "eService": true
+    },
+    {
+      "id": "3e54ed99-f8de-466c-bbd3-735728708bf9",
+      "code": "008000105",
+      "title": {
+        "ro": "Autorizație pentru servicii ocazionale neliberalizate de transport persoane",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p><span style=\"color: rgb(0, 0, 0);\">Autorizaţie care permite efectuarea transporturilor rutiere neliberalizate de persoane în trafic internațional în conformitate cu prevederile Acordului INTERBUS și cu Rezoluția CEMT 95/3</span></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "f45790d7-123e-4c8d-b0a4-e3130652b270",
+      "code": "008000118",
+      "title": {
+        "ro": "Autorizație pentru transportatorii străini care efectuează rute regulate bilaterale sau tranzit pe teritoriul Republicii Moldova",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p><span style=\"color: black;\">Autorizarea reprezintă permisiunea operatorului de transport rutier să efectueze transport rutier, contra cost, de persoane, prin servicii regulate, pe un anumit traseu, conform graficului de circulație prestabilit și programul de transport rutier, pe perioada sa de valabilitate.</span></p><p>  </p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "1459c7b8-51b9-429e-b00b-22b768f4a4d0",
+      "code": "008000121",
+      "title": {
+        "ro": "Autorizație specială de transport pentru drumurile publice a transporturilor rutiere cu depășirea masei totale, a maselor pe axe și/sau a dimensiunilor maxime admise",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Autorizație specială de transport (AST) reprezintă actul care permite circulația pe drumurilor publice a autovehiculelor a căror masă totală, sarcina pe osie sau ale căror gabarite depășesc limitele admise&nbsp;</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "58a5e2b3-dbe8-4f9e-9cc8-e5c0e83d2b31",
+      "code": "008000134",
+      "title": {
+        "ro": "Autorizații de transport rutier de persoane prin servicii regulate",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p><span style=\"color: black;\">Autorizarea reprezintă permisiunea operatorului de transport rutier să efectueze transport rutier, contra cost, de persoane, prin servicii regulate, pe un anumit traseu, conform graficului de circulație prestabilit și programul de transport rutier, pe perioada sa de valabilitate.</span></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "5f812f60-c6d8-407c-904d-2ea0694af272",
+      "code": "008000176",
+      "title": {
+        "ro": "Avizarea instalării mijloacelor de semnalizare rutieră și altor dispozitive (privind siguranța traficului rutier) și a măsurilor de restricție a circulației",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "Avizarea instalării mijloacelor de semnalizare rutieră și altor dispozitive (privind siguranța traficului rutier) și a măsurilor de restricție a circulației",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "810af20c-d445-47d4-b47b-977416e21a7b",
+      "code": "008000150",
+      "title": {
+        "ro": "Carnet de drum suplimentar care însoțește autorizația CEMT",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p><span style=\"color: rgb(51, 51, 51);\">Operatorul de transport rutier poate solicita un carnet de drum suplimentar numai în momentul în care există dovada completării a cel puțin 50 de pagini ale carnetului eliberat anterior – în cazul autorizaţiilor CEMT anuale, şi, respectiv, 4 file – în cazul autorizaţiilor CEMT pe termen scurt. </span></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "b6f23ea6-4486-49b4-b759-28e391a5f58b",
+      "code": "008000202",
+      "title": {
+        "ro": "Carnetul foii de parcurs (CFP)",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Docum<span class=\"ql-cursor\">﻿</span>ent în care se înscriu numele persoanelor transportate şi care permite operatorilor de transport rutier să efectueze transporturi rutiere de persoane prin servicii ocazionale în trafic internaţional (pentru statele care nu au aderat la Acordul INTERBUS)</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "c89df811-88df-460e-a934-ed3cc410f8fd",
+      "code": "008000260",
+      "title": { "ro": "Carnetul INTERBUS", "ru": null, "en": null },
+      "description": {
+        "ro": "<p><span style=\"color: rgb(0, 0, 0);\">Document în care se înscriu numele persoanelor transportate şi care permite operatorilor de transport rutier să efectueze transporturi rutiere de persoane prin servicii ocazionale în trafic internaţional (pentru statele membre ale Acordului INTERBUS)</span></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "4723c68e-f4ea-484d-8b6f-90ea2a78c8af",
+      "code": "008000215",
+      "title": { "ro": "Cartela tahografică", "ru": null, "en": null },
+      "description": {
+        "ro": "<p>Eliberarea cartelei tahografice</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "392779c2-5553-415d-9cce-63a5e983cee1",
+      "code": "008000286",
+      "title": {
+        "ro": "Certificat CEMT de corespundere a remorcii/semiremorcii cu cerințele de siguranță",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p><span style=\"color: rgb(0, 0, 0);\">Document ce atestă corespunderea remorcii sau a semiremorcii cu cerințele de siguranță specificate în rezoluțiile CEMT</span></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "9df31694-2864-4be5-92e4-33067f73194d",
+      "code": "008000273",
+      "title": {
+        "ro": "Certificat CEMT pentru condițiile controlului tehnic al autovehiculelor și remorcilor",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Obținerea certificatului CEMT pentru condițiile controlului tehnic al autovehiculelor și remorcilor. Certificatele CEMT pentru condițiile controlului tehnic al vehiculelor se eliberează stațiilor de inspecție tehnică periodică acreditate pentru efectuarea inspecției tehnice periodice a vehiculelor rutiere în conformitate cu cerințele actelor normative ale Conferinței Europene a Miniștrilor de Transport (CEMT). Stațiile de inspecție tehnică eliberează certificatele CEMT pentru fiecare vehiculul rutier separat după inspectarea efectuată și cu prezentarea documentelor necesare.</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "e2f25be7-107c-43e0-bfee-b695ac33ee77",
+      "code": "008000309",
+      "title": {
+        "ro": "Certificat de agreare pentru vehiculele care transportă substanţe periculoase (ADR)",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p><span style=\"color: rgb(102, 102, 102);\">Certificat care atestă că vehiculul îndeplinește condițiile cerute de Acordul european referitor la transportul rutier internațional de mărfuri periculoase (ADR).</span></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "af46661a-386e-42b3-a879-77f47d4b52ad",
+      "code": "008000367",
+      "title": {
+        "ro": "Certificat de competență profesională în domeniul transporturilor rutiere și cel conex transporturilor rutiere",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\"><span style=\"color: black;\">Certificatul de competenţă profesională se eliberează de către Agenţie în urma frecventării unor cursuri de calificare iniţială, în cadrul centrelor de instruire, perfecţionare şi atestare profesională&nbsp;acreditate și înregistrate, pentru practicarea activităţii de manager de transport rutier sau pentru practicarea activităţii de conducător auto în transportul rutier contra cost, finalizate cu o examinare sub formă de test-grilă.</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">Certificatul de competență profesională al conducătorului auto poate fi obținut în baza permisului de conducere de categoria (subcategoria) respectivă și a certificatului ce atestă absolvirea cursului privind activitatea în trafic național și/sau internațional. Certificatul de competență profesională pentru activitatea în trafic internațional permite posesorului să activeze și în trafic național.</span></p><p><br></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "99a4dddd-d1c5-47a8-9e04-4965bd47c5fe",
+      "code": "008000189",
+      "title": {
+        "ro": "Coordonarea itinerarelor pentru instruirea șoferilor",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "Coordonarea itinerarelor pentru instruirea șoferilor",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "0ad76d9b-3a9a-48fe-b8a5-471e51feb41c",
+      "code": "008000192",
+      "title": {
+        "ro": "Coordonarea proiectelor şi inspecţia obiectelor de arhitectură mică şi a reclamei amplasate în zona de protecţie a drumurilor",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "Coordonarea proiectelor şi inspecţia obiectelor de arhitectură mică şi a reclamei amplasate în zona de protecţie a drumurilor",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "ed14de93-cf56-4e6b-87ae-cc2f56d6ce0f",
+      "code": "008000037",
+      "title": {
+        "ro": "Coordonarea schemelor de amplasare afişajului electoral pe mijloacele de transport",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Serviciul dat presupune eliberarea avizului/coordonării de amplasare a<span style=\"color: rgb(51, 51, 51);\"> afişajului electoral pe partea exterioară a unităţilor de transport</span></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "751a4123-4878-47b6-ab74-abb1390a29fb",
+      "code": "008000040",
+      "title": {
+        "ro": "Coordonarea schemelor de distribuire a inscripţiei şi reclamei pe mijloacele de transport",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Serviciul prestat constă în coordonarea/avizarea imaginilor publicitare pe/în vehiculele aflate în trafic. Cererea privind prestarea serviciului se depune de către persoana fizică sau delegată al persoanei juridice.&nbsp;</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "2343572b-35ac-496a-afc1-ac65deb4d644",
+      "code": "008000299",
+      "title": {
+        "ro": "Diapazonul numerelor unicate ale rapoartelor de inspecție tehnică periodică",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p><span style=\"color: rgb(51, 51, 51);\">Agenției Naționale Transport Auto i se atribuie funcţiile de autorizare, gestionare, monitorizare şi control a staţiilor de inspecție tehnică periodică, iar în calitate de posesor al Sistemului de management integrat în domeniul transportului rutier, asigură funcțiile de creare, administrare, mentenanță și dezvoltare a subsistemului informațional „Autotest” din cadrul sistemului informațional respectiv.</span></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "0c8cafe6-3532-4bf0-91f1-fe72622748ec",
+      "code": "008000370",
+      "title": {
+        "ro": "Examinarea conducătorului de vehicule",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<p><strong>Examinarea candidaţilor la proba teoretică</strong> pentru obţinerea dreptului de a conduce vehicule se desfăşoară conform prevederilor pct. 16 din <a href=\"https://www.asp.gov.md/sites/default/files/servicii/conducatori-auto/31/311-2/Metologia-de-examinare.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Metodologia desfăşurării examenului pentru obţinerea dreptului de a conduce vehicule şi documentarea cu permis de conducere</a>, după cum urmează:</p><ol><li>La categoriile A, B, H și subcategoriile AM, A1, A2, B1, candidatul completează un chestionar, alcătuit din 24 de itemi. Timpul rezervat este de 30 de minute. Pentru calificativul „Admis” este necesar să răspundă corect la cel puțin 22 de itemi.</li><li>La categoriile BE, C, CE, D, F și subcategoriile C1, C1E, D1, D1E, candidatul completează un chestionar, alcătuit din 30 de itemi. Timpul rezervat este de 38 de minute. Pentru calificativul „Admis” este necesar să răspundă corect la cel puțin 27 de itemi.</li><li>La categoria CE și D, CE și subcategoria D1, subcategoriile C1E și D1, candidatul completează un chestionar, alcătuit din 36 de itemi. Timpul rezervat este de 45 de minute. Pentru calificativul „Admis” este necesar să răspundă corect la cel puțin 32 de itemi.</li></ol><p>Proba teoretică integrează într-un chestionar itemi cu alegere multiplă, varianta răspunsului se selectează de către candidat de pe monitorul locului ocupat în „Clasa de examinare”.</p><p>Rezultatele la proba teoretică cu calificativul „Admis” sau „Respins” sunt generate, în mod automatizat, de complexul computerizat de examinare „Clasa de examinare”, imprimat pe suport de hârtie.</p><p>La proba practică a examenului pentru obţinerea dreptului de a conduce vehicule se admit candidaţii care au obţinut calificativul „Admis” la proba teoretică, cu excepţia persoanelor admise în conformitate cu prevederile pct. 11 din Metodologie.&nbsp;</p><p>&nbsp;</p><p><strong>Examinarea candidaţilor la proba practică</strong>, componentă a examenului pentru obținerea dreptului de a conduce vehicule se desfășoară conform prevederilor pct. 24 din <a href=\"https://www.asp.gov.md/sites/default/files/servicii/conducatori-auto/31/311-2/Metologia-de-examinare.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Metodologia desfăşurării examenului pentru obţinerea dreptului de a conduce vehicule şi documentarea cu permis de conducere</a>, după cum urmează:</p><ol><li>La categoria A și subcategoriile AM, A1, A2 și B1, proba practică se desfășoară pe terenul de instruire/teren special amenajat. Rezultatele examinării sunt înscrise în chestionarul/borderou pe suport de hârtie, pentru fiecare candidat. <em>Chestionarul/borderou cu rezultatele probei practice se semnează de către examinatorul care a exercitat examinarea respectivă, nemijlocit.</em></li><li>La categoriile/subcategoriile B, BE, C1, C1E, C, CE, D1, D1E, D, proba practică se desfășoară pe traseu în condiții reale de trafic. Manevrele speciale vor fi executate, conform indicațiilor examinatorului, în funcție de condițiile reale de trafic. Rezultatele examinării sunt înscrise în chestionarul/borderou pe suport de hârtie, pentru fiecare candidat. <em>Chestionarul/borderou cu rezultatele probei practice se semnează de către examinatorul care a exercitat examinarea respectivă, nemijlocit.</em></li></ol><p>Vehiculele de examinare utilizate la proba practică trebuie să corespundă categoriei/subcategoriei pentru care se solicită obținerea dreptului de a conduce, cu parametrii tehnici constructivi și de dimensiune, conform prevederilor secțiunii a 3-a „Vehiculele de instruire și echipamentul acestora” din anexa la Legea nr. 131/2007 privind siguranța traficului rutier.</p><p>La desfășurarea probei practice a examenului pe traseu în condiții reale de trafic se utilizează vehiculele de examinare ale subdiviziunilor de examinare și/sau ale unităților de formare profesională a conducătorilor de vehicule, dotate cu sistem audio-video, conform cerințelor tehnico-aplicative și modului stabilit de către Agenție.</p><p>La desfășurarea probei practice a examenului pe terenul de instruire la categoria A și subcategoriile AM, A1, A2 și B1 pot fi utilizate și alte vehicule de examinare, cu condiția că acestea sunt incluse în sistemul informațional automatizat „Registrul de stat al transporturilor”, precum și au fost supuse testării tehnice periodice.</p><p>Pentru obținerea dreptului de a conduce vehicule, persoanele cu dizabilităţi, urmează să susțină proba practică cu un vehicul din categoria/subcategoria solicitată, adaptat dizabilităților, iar dreptul de a conduce vehicule și permisul de conducere obținut trebuie să conțină informația codificată despre dreptul acestora de a conduce doar astfel de vehicule, conform prevederilor Hotărârii Guvernului nr.12/2009 pentru aprobarea Normelor privind examinarea medicală a conducătorilor de vehicule și a candidaților pentru obținerea permisului de conducere.</p><p>&nbsp;</p><p>Programarea prealabilă pentru solicitarea serviciilor în subdiviziunile teritoriale ale ASP este disponibilă accesând link-ul:&nbsp;<a href=\"https://programaredl.asp.gov.md/qwebbook/index.jsp?lang=ro\" rel=\"noopener noreferrer\" target=\"_blank\">https://programaredl.asp.gov.md/qwebbook/index.jsp?lang=ro</a></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": true
+    },
+    {
+      "id": "d53654c1-ef52-4f6f-a9d2-586fbe09e4f0",
+      "code": "008000024",
+      "title": {
+        "ro": "Inspecția vehiculelor reutilate, reconstruite, supuse reparației capitale și construite în mod individual, cu formularea concluziei privind corespunderea stării tehnice a acestora cu cerințele securității circulației rutiere",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">Eliberarea avizului/coordonării privind permisiunea reutilării vehiculelor, reconstruite, supuse reparaţiei capitale şi construite în mod individual, cu formularea concluziei privind corespunderea stării tehnice a acestora cu cerinţele securităţii circulaţiei rutiere, se efectuiază la cererea persoanei fizice sau delegată al persoanei juridice.&nbsp;\t</p><p class=\"ql-align-justify\">Coordonarea și actul de examinare tehnică eliberate servesc drept bază pentru efectuarea modificărilor în datele de evidenţă ale vehiculului și perfectarea certificatului de înmatriculare la Secțiile înmatriculare a transportului şi documentare a conducătorilor auto din cadrul Agenției servicii publice.</p><p><br></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "250e7b08-4582-444e-833f-d455c0784f88",
+      "code": "008000228",
+      "title": {
+        "ro": "Înmatricularea autovehiculelor și remorcilor",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Eliberarea certificatului de înmatriculare pentru vehicul (VP, VPN), inclusiv a duplicatului acestuia.</p><p>Eliberarea plăcilor de înmatriculare pentru vehiculul destinat transportului public de călători.&nbsp;</p><p>Eliberarea plăcilor de înmatriculare în schimbul celor pierdute, furate sau deteriorate.</p><p>Eliberarea plăcilor ce conțin indicativul de înmatriculare special, conform standardului moldovean SM 122:2014 ”Vehicule rutiere. Plăci de înmatriculare pentru autovehicule și remorci”.&nbsp;</p><p>Preschimbarea plăcilor de înmatriculare structura cărora nu corespunde standardului moldovean SM 122:2014 ”Vehicule rutiere. Plăci de înmatriculare pentru autovehicule și remorci”, cu plăci de înmatriculare care vor conține alte combinații de litere din lista celor disponibile (cu excepția celor incluse în clasificatorul seriilor rezervate sau a celor care formează un cuvânt sau o combinație din trei litere identice), păstrând combinația de cifre.</p><p>Desfășurarea verificărilor privind înmatricularea vehiculului în caz de pierdere sau deteriorare a documentelor atestatoare de drept ori în baza copiilor documentelor de înmatriculare eliberate de alt stat.</p><p><br></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    },
+    {
+      "id": "37416613-8e68-4844-8d30-f20b64856526",
+      "code": "008000312",
+      "title": {
+        "ro": "Înregistrarea oficială a operatorilor de transport rutier",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<h4>- Prestarea serviciilor de transport rutier contra cost este&nbsp;condiționată de notificare și de înregistrarea prealabilă</h4><h4 class=\"ql-align-justify\">- Înregistrarea oficială&nbsp;oferă titularului dreptul să desfăşoare, fără obţinerea oricărei alte autorizări, următoarele activităţi de transport rutier în trafic naţional:</h4><h4 class=\"ql-align-justify\">a) transport rutier contra cost de mărfuri;</h4><h4 class=\"ql-align-justify\">b) transport rutier contra cost de persoane prin servicii ocazionale;</h4><h4 class=\"ql-align-justify\">c) transport rutier contra cost de persoane în regim de taxi.</h4><h4 class=\"ql-align-justify\">- Înregistrarea oficială&nbsp;oferă titularului dreptul să desfăşoare, fără obţinerea oricărei alte autorizări, dacă tratatele şi acordurile internaţionale bilaterale şi/sau multilaterale nu prevăd altfel, următoarele activităţi de transport rutier în trafic internaţional:</h4><h4 class=\"ql-align-justify\">a) transport rutier contra cost de mărfuri;</h4><h4 class=\"ql-align-justify\">b) transport rutier contra cost de persoane prin servicii ocazionale;</h4><h4 class=\"ql-align-justify\">c) transport rutier contra cost de persoane în regim de taxi;</h4><h4>d) transport de colete.</h4>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "ab1cadce-bfc2-4972-9ac3-e0c0879a3246",
+      "code": "008000338",
+      "title": {
+        "ro": "Notificare simplificată pentru activitatea de transport rutier în cont propriu",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<h5><span class=\"ql-font-serif\">-&nbsp;Sînt supuse&nbsp;regimului de notificare simplificată&nbsp;întreprinderile care desfășoară activitate de transport rutier în cont propriu cu vehicule rutiere care sînt construite şi echipate pentru transportul de persoane pe scaune şi în picioare şi care au mai mult de 9 locuri pe scaune, inclusiv locul conducătorului auto, și cu vehicule rutiere destinate transportului de mărfuri cu masă maximă autorizată ce depășește 3,5 tone.</span></h5><h5 class=\"ql-align-justify\"><span class=\"ql-font-serif\">- Pentru a efectua transport rutier în cont propriu, o întreprindere trebuie să fie înregistrată în modul stabilit în Republica Moldova şi să depună la Agenţie o notificare de efectuare a transportului rutier în cont propriu de forma şi conţinutul&nbsp;aprobate de organul central de specialitate&nbsp;împreună cu următoarele documente:</span></h5><h5 class=\"ql-align-justify\"><span class=\"ql-font-serif\">a) lista vehiculelor rutiere deţinute şi utilizate de întreprindere;</span></h5><h5><span class=\"ql-font-serif\">b) copiile certificatelor de înmatriculare a vehiculelor rutiere.</span></h5>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "cebb7394-2548-4480-b410-fbb1dfa5ff1c",
+      "code": "008000325",
+      "title": {
+        "ro": "Notificarea şi înregistrarea activităţii de autogară",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">Se definește modul de notificare şi înregistrare a activităţii de autogară, precum şi modul în care se va ține evidența notificărilor eliberate.</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "257e2b26-8d32-47ff-b46f-bb8979dc720a",
+      "code": "008000341",
+      "title": {
+        "ro": "Notificarea şi înregistrarea activităţii de autoservice",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">Se definește modul de notificare şi înregistrare a activităţii de autoservice precum şi modul în care se va ține evidența notificărilor eliberate<span style=\"color: black;\">.</span></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "709c86cc-a9ea-4f88-89cc-2de8717ef0ef",
+      "code": "008000354",
+      "title": {
+        "ro": "Notificarea şi înregistrarea activităţii de montare, reparare şi verificare a tahografelor şi a limitatoarelor de viteză",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p>Se definește modul de notificare şi înregistrare a activităţii de montare, reparare şi verificare a tahografelor şi a limitatoarelor de viteză, precum şi modul în care se va ține evidența notificărilor eliberate</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "80d1061b-1a47-43a9-bb15-1f157db702f8",
+      "code": "008000231",
+      "title": { "ro": "Permis de conducere", "ru": null, "en": null },
+      "description": {
+        "ro": "<p>Documentarea primară cu permis de conducere al Republicii Moldova sau deschiderea unei noi categorii se efectuează în baza procesului verbal al comisiei de examinare persoanelor care au susţinut probele teoretică şi practică ale examenului de obţinere a dreptului de a conduce vehicule:</p><ul><li>Preschimbarea şi restabilirea permisului de conducere al Republicii Moldova se efectuează fără susținerea examenului;</li><li>Preschimbarea permiselor de conducere eliberate de către autoritățile din stânga râului Nistru se efectuează fără susţinerea examenului, cu condiţia că solicitantul dispune de acte de identitate aprobate prin Legea  nr. 273/1994, corespunde condiţiilor de vârstă prevăzute de regulamentul aprobat prin HG nr. 181/2022;</li><li>Restabilirea dreptului de a conduce vehicule obţinut iniţial la autoritățile din stânga râului Nistru (inclusiv şi în cazul când permisul de conducere este expirat) se efectuează cu susţinerea examenului, probele teoretică şi practică, conform categoriilor/subcategoriilor pentru care se solicită permis de conducere, în condiţiile prevăzute din <a href=\"https://www.asp.gov.md/sites/default/files/servicii/conducatori-auto/31/311-2/Instructiunea-organziarea-prestarea-serviciilor-de-examinare-si-documentare-cu-permis-de-conducere.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">Instrucţiuni cu privire la organizarea şi prestarea serviciilor de examinare şi documentare cu permis de conducere</a>, cu condiția că solicitantul dispune de acte de identitate aprobate prin Legea nr.273/1994, corespunde condiţiilor de vârstă prevăzute de regulamentul aprobat prin HG nr.181/2022.</li><li>Conversiunea permiselor de conducere, obţinute în alte state se efectuează în baza examenului de obținere a dreptului de a conduce vehicule, cu excepţia titularilor permiselor de conducere eliberate de către autorităţile ţărilor cu care Republica Moldova are încheiate acorduri bilaterale de conversiune a permiselor de conducere, eliberate de părţile contractante.</li></ul><p>Prin excepție de la alineatul precedent, la preschimbarea permiselor de conducere, eliberate de către autorităţile statelor, care recunosc şi exercită conversiunea permiselor de conducere naţionale ale Republicii Moldova, fără susţinerea examenului de obţinere a permisului de conducere, va fi aplicat principiul de reciprocitate.</p><p>Pentru persoanele fizice care, din considerente religioase, au refuzat numărul de identificare de stat, la serviciile de eliberare/preschimbare/restabilire a permisului de conducere, în calitate de document de bază se va elibera permis de conducere provizoriu pe o perioadă de 10 ani, dacă nu sunt alte limitări.</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "ea9f2538-a6f6-4728-81b0-de8d34c095e0",
+      "code": "008000383",
+      "title": {
+        "ro": "Permis de conducere internațional",
+        "ru": "",
+        "en": ""
+      },
+      "description": {
+        "ro": "<ul><li>Titularul permisului de conducere naţional al Republicii Moldova, la solicitare poate fi documentat şi cu permis de conducere internaţional, de modelul aprobat de Guvern (DL 2008, DL 2015, DL 2019), conformat la prevederile Convenţiei asupra circulaţiei rutiere, încheiată la Viena la 08.11.1968, care a fost ratificată de către Republica Moldova prin Hotărârea Parlamentului nr. 131II din 2 martie 1993.</li><li>Permisul de conducere internațional, este valabil la conducerea vehiculelor în trafic internaţional, numai în prezenţa permisului de conducere naţional al Republicii Moldova, deţinut. </li><li>Pot fi documentaţi cu permis de conducere internaţional, titularii permiselor de conducere naţionale ale Republicii Moldova, de modelele care la momentul adresării sunt în vigoare în Republica Moldova, sunt supuse evidenţei în Sistemul informaţional de stat ,,Registrul de stat al conducătorilor de vehicule” şi care dețin statut ,,valabil”.</li><li>Permisul de conducere internațional se eliberează pe un termen de până la 3 (trei) ani, cu condiţia că acest termen să nu depăşească termenul de valabilitate a permisului de conducere naţional deţinut de către solicitant. </li><li>La preschimbarea permisului de conducere naţional al Republicii Moldova, în baza căruia persoana a fost documentată cu permis de conducere internaţional, ultimul îşi pierde valabilitatea şi se anulează.</li></ul><p>Permisul de conducere internațional poate fi livrat la destinație prin intermediul serviciului guvernamental de livrare MDelivery (<a href=\"https://mdelivery.gov.md\" rel=\"noopener noreferrer\" target=\"_blank\">https://mdelivery.gov.md</a>)</p><p><br></p>",
+        "ru": "",
+        "en": ""
+      },
+      "eService": false
+    },
+    {
+      "id": "1cb205c9-f09e-4fb0-ba94-4fd643a58592",
+      "code": "008000053",
+      "title": {
+        "ro": "Permis pentru conducătorii unor categorii speciale de automobile",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p><strong style=\"color: rgb(102, 102, 102);\">Document, emis în condițiile legii de autoritatea competentă, prin care se atestă dreptul titularului de a conduce autovehicule speciale de încasare și comunicație specială.</strong></p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": true
+    },
+    {
+      "id": "e9e1cd67-7a6f-41cf-ba4b-0d6ab8090f46",
+      "code": "008000244",
+      "title": {
+        "ro": "Radierea din evidenţă a vehiculelor",
+        "ru": null,
+        "en": null
+      },
+      "description": {
+        "ro": "<p class=\"ql-align-justify\">Radierea din Registrul de stat al transporturilor se efectuează la cererea proprietarului, în următoarele cazuri:</p><p class=\"ql-align-justify\">a) proprietarul sau mandatarul face dovada dezmembrării, casării sau predării vehiculului la unități specializate;</p><p class=\"ql-align-justify\">b) vehiculul urmează a fi scos definitiv din Republica Moldova.</p><p class=\"ql-align-justify\">Radierea se face pe baza prezentării certificatului de înmatriculare și a plăcilor cu număr de înmatriculare, precum și a documentelor care atestă faptul că a intervenit una din situațiile sus indicate.</p><p class=\"ql-align-justify\">Pentru vehiculele exportate din Republica Moldova, pe lângă certificatele de înmatriculare, se eliberează certificate de înmatriculare provizorii și plăci cu număr de înmatriculare tranzit (cu indicativul „T”).</p><p class=\"ql-align-justify\">La radierea vehiculelor&nbsp;se taie unghiul de sus din partea locului amplasării codului bidimensional al certificatului de înmatriculare.</p>",
+        "ru": null,
+        "en": null
+      },
+      "eService": false
+    }
+  ]
+}
